@@ -37,3 +37,22 @@ The committee **Ben Allen for Senate 2022** serves as a vehicle for collecting c
 *   **Campaign Contributions:** Allen has received financial support from individuals and groups associated with pro-Israel advocacy, such as members of the **American Jewish Committee (AJC)** and local Jewish community leadership.
     *   **Source:** [Transparency USA - Ben Allen for Senate 2022](https://www.transparencyusa.org/ca/candidate/ben-allen)
     *   **Source:** [FollowTheMoney.org - Allen, Ben Campaign Finance Profile](https://www.followthemoney.org/entity-details?eid=23437190)
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate      |   Years | Direct Contributions   | Behested Payments   |
+|----------------|---------|------------------------|---------------------|
+| Sara Aminzadeh |    2021 | $1,500                 | $0                  |
+| Patrick Ahrens |    2023 | $1,000                 | $0                  |

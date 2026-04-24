@@ -36,3 +36,21 @@ Leno’s relationship with Israel is also rooted in his education and religious 
 ### 4. Documented Political Contributions
 Leno is a listed donor to the **Jewish Community Federation and Endowment Fund**, which grants significant capital to organizations in the U.S. and Israel, including those focused on Israel advocacy and security.
 *   **Source:** [Jewish Federation Bay Area: 2023 Annual Report (Donor List)](https://jewishfed.org/sites/default/files/2024-03/JCF_AnnualReport_2023_Final_Small.pdf)
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate      |   Years | Direct Contributions   | Behested Payments   |
+|----------------|---------|------------------------|---------------------|
+| Sara Aminzadeh |    2021 | $1,000                 | $0                  |

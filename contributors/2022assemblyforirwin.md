@@ -30,3 +30,21 @@ Organizations critical of Zionist influence in U.S. politics have documented Irw
     *   [Source: Reverse Canary Mission Profile - Jacqui Irwin](https://reversecanarymission.org/jacqui-irwin/)
 *   **LA Progressive:** Independent reporting has identified Irwin as part of a group of "progressive except for Palestine" (PEP) lawmakers who support liberal domestic policies while maintaining a "blanket approval" of Israeli military and occupation policies.
     *   [Source: LA Progressive - Report on the California Legislative Jewish Caucus](https://www.laprogressive.com/middle-east/ca-legislative-jewish-caucus)
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate      |   Years | Direct Contributions   | Behested Payments   |
+|----------------|---------|------------------------|---------------------|
+| Sara Aminzadeh |    2021 | $4,000                 | $0                  |

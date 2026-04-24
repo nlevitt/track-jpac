@@ -30,9 +30,24 @@ The Fisher family has documented history of supporting political causes and cand
 *   **Political Contribution:** [Mission Local - Wealthy Donors to Mayor Lurie](https://missionlocal.org/2025/02/daniel-lurie-transition-donors/)
 *   **Historical Context:** John Fisher’s academic background includes research into Holocaust survivors, a common theme in Zionist historical advocacy. [John Fisher (businessman) - Wikipedia](https://en.wikipedia.org/wiki/John_Fisher_(businessman))
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate     | Years     | Direct Contributions   | Behested Payments   |
 |---------------|-----------|------------------------|---------------------|
 | Steven Glazer | 2015-2021 | $29,800                | $0                  |
 | Scott Wiener  | 2015-2017 | $17,200                | $0                  |
+| Buffy Wicks   | 2017      | $8,800                 | $0                  |
+| Marc Berman   | 2017      | $5,400                 | $0                  |

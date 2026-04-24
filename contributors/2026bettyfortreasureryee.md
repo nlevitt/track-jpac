@@ -35,3 +35,21 @@ Yee's campaign is supported by the **Democratic Majority for Israel (DMFI) PAC**
 **Sources:**
 *   [DMFI PAC: 2026 Endorsement Slate Announcement](https://dmfipac.org/dmfi-pac-announces-major-2026-endorsement-slate/)
 *   [Transparency USA: Betty Yee for Treasurer 2026 Financial Overview](https://www.transparencyusa.org/ca/candidate/betty-yee)
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate      |   Years | Direct Contributions   | Behested Payments   |
+|----------------|---------|------------------------|---------------------|
+| Sara Aminzadeh |    2021 | $1,000                 | $0                  |

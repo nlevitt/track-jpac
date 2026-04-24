@@ -24,3 +24,21 @@ Petrie-Norris’s relationship with Zionist advocacy is further evidenced by her
 
 *   **Organizational Ties:** She is listed as an endorsed candidate by local pro-Israel Democratic chapters that vet candidates based on their support for a "strong U.S.-Israeli relationship" and opposition to the Boycott, Divestment, Sanctions (BDS) movement.
     *   [Source: Democrats for Israel - Los Angeles (DFI-LA) Endorsements](https://dfi-la.org/endorsed/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate      |   Years | Direct Contributions   | Behested Payments   |
+|----------------|---------|------------------------|---------------------|
+| Sara Aminzadeh |    2021 | $1,000                 | $0                  |

@@ -30,6 +30,19 @@ Helberg’s Zionist advocacy frequently appears in his public-facing roles and m
 *   **Hill and Valley Forum:** Helberg founded this forum to connect Silicon Valley venture capitalists with lawmakers, often highlighting Israel's "innovative technology ecosystem" and its role as a "critical partner." [Source: Apple Podcasts (May 03, 2025)](https://podcasts.apple.com/us/podcast/jacob-helberg-delian-asparouhov-christian-garrett-hill/id1744573887?i=1000654407887)
 *   **Social Media Advocacy:** Helberg uses platforms like X (formerly Twitter) to publish pro-Israel messages, such as praising the Abraham Accords and defending Israel's military actions as essential for Western security. [Source: Israel National News (Dec 23, 2025)](https://www.israelnationalnews.com/news/382417)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate   |   Years | Direct Contributions   | Behested Payments   |

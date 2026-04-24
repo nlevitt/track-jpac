@@ -19,6 +19,19 @@ Kaufman utilizes his professional platform as a senior advisor at Dentons to inf
 *   **Lobbying Background:** Kaufman has a history of representing domestic and foreign interests through various government relations firms, including Dutko Government Relations and McKenna Long & Aldridge, often alongside other prominent pro-Israel lobbyists. [LegiStorm](https://www.legistorm.com/person/bio/155700/Ron_Kaufman.html)
 *   **RNC Leadership:** As a high-ranking member of the Republican National Committee (RNC), Kaufman has influenced the party’s debate policies and platform development, ensuring that pro-Israel stances remain a central component of the GOP's national identity. [Ballotpedia](https://ballotpedia.org/Ron_Kaufman)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate   |   Years | Direct Contributions   | Behested Payments   |

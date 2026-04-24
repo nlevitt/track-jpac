@@ -25,8 +25,22 @@ The Koret Foundation has faced scrutiny for its financial support of organizatio
 ### 4. Financial Status
 As of 2024, the Koret Foundation reported total assets of approximately **$316 million** and annual expenses of **$40.4 million**, representing a significant source of capital for pro-Israel and Zionist-aligned initiatives ([ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/941624987)).
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
-| Candidate   |   Years | Direct Contributions   | Behested Payments   |
-|-------------|---------|------------------------|---------------------|
-| Matt Haney  |    2021 | $2,500                 | $0                  |
+| Candidate         |   Years | Direct Contributions   | Behested Payments   |
+|-------------------|---------|------------------------|---------------------|
+| Matt Haney        |    2021 | $2,500                 | $0                  |
+| Catherine Stefani |    2023 | $1,000                 | $0                  |

@@ -30,3 +30,22 @@ Following the October 7, 2023 attacks, Bauer-Kahan co-signed an "anguished lette
 Bauer-Kahan was a primary proponent of **AB 715**, a bill aimed at combating antisemitism in schools. Critics of the bill, including the California Teachers Association, argued that the legislation could be used to "police" or censor classroom discourse regarding Palestine, Gaza, and Zionism by equating certain criticisms of Israel with antisemitism.
 *   **Source:** [LAist - California’s hardest fight over antisemitism (October 14, 2024)](https://laist.com/news/politics/california-antisemitism-bill-schools-newsom)
 *   **Source:** [CalMatters - The fight over California's controversial antisemitism law (October 14, 2024)](https://calmatters.org/education/k-12-education/2024/10/california-antisemitism-schools-law/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate      |   Years | Direct Contributions   | Behested Payments   |
+|----------------|---------|------------------------|---------------------|
+| Sara Aminzadeh |    2021 | $4,500                 | $0                  |
+| Gail Pellerin  |    2021 | $1,000                 | $0                  |

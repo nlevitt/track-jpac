@@ -31,3 +31,21 @@ In April 2024, Zbur formally requested a federal civil rights investigation into
 
 CAIR-LA condemned Zbur’s response as "one-sided," alleging that he failed to acknowledge violence perpetrated against pro-Palestinian protesters and that his rhetoric "conflates antisemitism with legitimate criticism of the state of Israel."
 * **Critical Documentation:** [CAIR-LA Condemns Assemblymember Zbur's Response to UCLA Violence](https://www.cair.com/press_releases/cair-la-condemns-assemblymember-zburs-response-to-recent-violence-against-ucla-anti-genocide-student-encampment/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate      |   Years | Direct Contributions   | Behested Payments   |
+|----------------|---------|------------------------|---------------------|
+| Sara Aminzadeh |    2021 | $1,000                 | $0                  |

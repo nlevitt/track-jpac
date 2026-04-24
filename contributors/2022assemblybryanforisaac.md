@@ -25,3 +25,21 @@ Bryan’s legislative actions include brokering compromises on bills prioritized
     *   Source: [CounterPunch: CA Lawmakers Back Censorship Disguised as Antisemitism Prevention](https://www.counterpunch.org/2025/09/17/ca-lawmakers-back-censorship-disguised-as-antisemitism-prevention/)
 *   **Delegation to Israel:** In July 2022, Bryan was one of 15 Democratic lawmakers who participated in a legislative trip involving the Los Angeles Jewish Federation, which included discussions on regional security and communal ties.
     *   Source: [CalMatters: Amid new COVID surge, confusing mix of rules](https://calmatters.org/newsletters/whatmatters/2022/07/california-covid-rules-mix/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate      |   Years | Direct Contributions   | Behested Payments   |
+|----------------|---------|------------------------|---------------------|
+| Sara Aminzadeh |    2021 | $2,500                 | $0                  |

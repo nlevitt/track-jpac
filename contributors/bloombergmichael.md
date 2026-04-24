@@ -33,3 +33,20 @@ Bloomberg has used his political platform as Mayor and a presidential candidate 
     *   [The Forward: 4 Jewish Things To Know About Michael Bloomberg](https://forward.com/news/434444/michael-bloomberg-jewish-identity-israel-philanthropy/)
 *   **Genesis Prize:** In 2014, Bloomberg was the first recipient of the **Genesis Prize** (often called the "Jewish Nobel"), awarded in Jerusalem by the Israeli Prime Minister for commitment to Jewish values and the State of Israel.
     *   [eJewishPhilanthropy: Michael Bloomberg Receives Genesis Prize](https://ejewishphilanthropy.com/michael-bloomberg-receives-genesis-prize-honoring-life-achievements-in-public-service-philanthropy-and-entrepreneurship/)
+
+
+
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate   |   Years | Direct Contributions   | Behested Payments   |
+|-------------|---------|------------------------|---------------------|
+| Buffy Wicks |    2017 | $4,400                 | $0                  |

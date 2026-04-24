@@ -28,3 +28,21 @@ Simitian's relationship with Zionist advocacy organizations is reflected in his 
 While the user identifies Simitian as a "political donor," his primary financial relationship to pro-Israel advocacy is as a recipient of campaign support from individuals and PACs aligned with these causes.
 *   **2024 Campaign Finance:** Simitian raised approximately $1.6 million for his 2024 congressional campaign before being eliminated in a tie-recount. His donor base included several figures associated with pro-Israel advocacy and tech-sector PACs.
     *   [SIMITIAN, S JOSEPH - Candidate overview - FEC](https://www.fec.gov/data/candidate/H0CA15171/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate      |   Years | Direct Contributions   | Behested Payments   |
+|----------------|---------|------------------------|---------------------|
+| Sara Aminzadeh |    2021 | $1,000                 | $0                  |

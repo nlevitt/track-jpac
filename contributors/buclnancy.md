@@ -32,3 +32,21 @@ Documentation indicates that Buc’s support for Israel aligns with "liberal Zio
 
 *   **Political Support**: Through JStreetPAC, Buc has funneled financial support to congressional candidates who adhere to the "pro-Israel, pro-peace" platform.
     *   **Source**: [J Street 2022 Financial Statement](https://jstreet.org/wp-content/uploads/2023/05/J-Street-2022-Financial-Statement.pdf)
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate      |   Years | Direct Contributions   | Behested Payments   |
+|----------------|---------|------------------------|---------------------|
+| Sara Aminzadeh |    2021 | $600                   | $0                  |

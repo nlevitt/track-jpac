@@ -43,3 +43,15 @@ Prior to and during his time in the Assembly, Gabriel has held leadership roles 
 *   **Democrats for Israel (DFI):** Gabriel received the "highest level of recommendation" and "strong support" from Democrats for Israel Los Angeles for his leadership on "Pro-Israel and Jewish community issues."
     *   **Source:** [Jesse Gabriel Official Campaign Site: Support Statements](https://www.jessegabriel.com/support-statements-2018)
     *   **Source:** [EJewish Philanthropy: California expands nonprofit security grants](https://ejewishphilanthropy.com/california-announces-significant-expansion-of-its-nonprofit-security-grants-as-pro-and-anti-israel-protesters-clash-outside-l-a-synagogue/)
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate   |   Years | Direct Contributions   | Behested Payments   |
+|-------------|---------|------------------------|---------------------|
+| Marc Berman |    2025 | $11,800                | $0                  |

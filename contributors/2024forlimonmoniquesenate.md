@@ -24,3 +24,21 @@ Immediately following the events of October 7, 2023, Limón issued a public stat
 **5. Funding for Pro-Israel Interest Facilities**  
 During her tenure as a leader in the Senate, the state budget included significant earmarks for security at Jewish private schools and community centers, including a $2.5 million allocation for security infrastructure at Milken Community School, which she supported as part of the broader leadership budget framework.
 *   **Source:** [CalMatters – California lawmakers found money for these pet projects](https://calmatters.org/politics/2025/11/california-budget-earmarks-prop-4/) (Mentions Limón's role as the incoming Senate leader during the allocation of these funds).
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate      |   Years | Direct Contributions   | Behested Payments   |
+|----------------|---------|------------------------|---------------------|
+| Sara Aminzadeh |    2021 | $1,000                 | $0                  |

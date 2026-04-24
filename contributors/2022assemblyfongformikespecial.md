@@ -32,3 +32,22 @@ The committee "Mike Fong for Assembly 2022 Special" was formed to support Fong's
 
 *   **Campaign Finance & Registration:** Fong's 2022 special election committee is a registered entity with the California Secretary of State.
 *   **Source:** [Transparency USA - Mike Fong Candidate Profile](https://www.transparencyusa.org/ca/candidate/mike-fong)
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate      |   Years | Direct Contributions   | Behested Payments   |
+|----------------|---------|------------------------|---------------------|
+| Alex Lee       |    2021 | $4,900                 | $0                  |
+| Sara Aminzadeh |    2021 | $2,500                 | $0                  |

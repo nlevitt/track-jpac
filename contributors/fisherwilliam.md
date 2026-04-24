@@ -24,10 +24,26 @@ Beyond the AJC, Fisher’s broader philanthropic profile includes support for ot
 | **Israel Bonds** | Investor ($1M+ in 2017) | Direct financing of the State of Israel [1.2](https://www.timesofisrael.com/angry-us-donor-wants-to-issue-a-wake-up-call-isnt-planning-to-pull-his-israel-funding/) |
 | **Tel Aviv University** | Scholarship Donor | Support for Israeli higher education [1.4](https://forward.com/fast-forward/376125/jewish-philanthropist-may-suspend-aid-to-israel-over-diaspora-controversies/) |
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate            | Years     | Direct Contributions   | Behested Payments   |
 |----------------------|-----------|------------------------|---------------------|
 | Steven Glazer        | 2013-2021 | $30,610                | $0                  |
 | Scott Wiener         | 2015-2021 | $16,300                | $0                  |
+| Buffy Wicks          | 2017-2019 | $10,800                | $0                  |
 | Christopher Cabaldon | 2007      | $7,200                 | $0                  |
+| Marc Berman          | 2015-2017 | $5,200                 | $0                  |
+| Catherine Stefani    | 2023      | $2,000                 | $0                  |

@@ -23,6 +23,19 @@ Leib frequently addresses the issue of antisemitism and anti-Zionism in public f
 *   **Campus Activism Critiques:** Leib has faced criticism from over 115 UC faculty and student groups for his social media activity, which included "liking" posts that ridiculed the Boycott, Divestment, Sanctions (BDS) movement and referred to Students for Justice in Palestine (SJP) as an "anti-Israel hate group" [[1.8](https://www.latimes.com/california/story/2023-12-12/campus-palestinian-allies-demand-uc-board-chair-resign-citing-one-sided-social-media-actions)].
 *   **Op-Ed Authorship:** Leib has been identified as an author of commentaries addressing Zionism, including a piece in *The Harvard Crimson* titled "Anti-Zionism and Anti-Semitism" (2007), which criticized comparisons of Israel to apartheid South Africa [[1.5](https://www.harvard.edu/president/task-force-on-antisemitism-and-anti-israeli-bias-final-report/)].
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate            | Years     | Direct Contributions   | Behested Payments   |

@@ -45,6 +45,19 @@ The foundation operates in close coordination with established Zionist lobbying 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate    |   Years | Direct Contributions   | Behested Payments   |

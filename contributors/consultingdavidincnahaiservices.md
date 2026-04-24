@@ -39,3 +39,21 @@ Nahai frequently uses his professional platform in the water and energy sectors 
 Nahai has been a key figure in **30 Years After**, an organization dedicated to mobilizing the Iranian Jewish community for political activism. This involvement often focuses on ensuring that the community remains a potent pro-Israel voting and donor bloc in U.S. politics.
 *   **Source:** [Beverly Hills Weekly (September 25, 2008)](https://issuu.com/bhweekly/docs/issue_469)
 *   **Documentation:** Nahai was a featured speaker at a 30 Years After rally titled "The Iranian Jewish Community at Crossroads," which aimed to increase the community's political participation and influence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate      |   Years | Direct Contributions   | Behested Payments   |
+|----------------|---------|------------------------|---------------------|
+| Sara Aminzadeh |    2021 | $500                   | $0                  |

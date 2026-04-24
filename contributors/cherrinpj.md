@@ -29,6 +29,19 @@ Cherrin is documented as a donor and leader within several pro-Israel communal s
 Through his firm, **Cherrin Philanthropy**, Cherrin advises major donors on "legacy outcomes" often involving the support of Zionist institutions and Jewish continuity programs. His network includes "political figures" and "Jewish and interfaith leaders" focused on communal growth.
 *   **Source:** [Cherrin Philanthropy - Official Site](https://cherrinphilanthropy.com/)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate    |   Years | Direct Contributions   | Behested Payments   |

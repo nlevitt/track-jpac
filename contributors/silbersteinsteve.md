@@ -21,3 +21,21 @@ Silberstein's support for Israel-related causes is part of a wider pattern of gi
     *   *Source:* [ProPublica Nonprofit Explorer: Stephen M. Silberstein Foundation](https://projects.propublica.org/nonprofits/organizations/911852739)
 *   **Leadership Roles:** Beyond financial support, Silberstein serves on various advisory boards, including the **UC Berkeley Goldman School of Public Policy**, where he interacts with other high-level political and policy figures.
     *   *Source:* [UC Berkeley Goldman School of Public Policy: Board of Advisors](https://gspp.berkeley.edu/about/leadership-board/board-of-advisors/steve-silberstein)
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate      |   Years | Direct Contributions   | Behested Payments   |
+|----------------|---------|------------------------|---------------------|
+| Sara Aminzadeh |    2021 | $1,000                 | $0                  |

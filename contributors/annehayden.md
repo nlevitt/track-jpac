@@ -34,3 +34,11 @@ In Rochester, New York, Hayden (documented as Anne Hayden McQuay) has funded the
 | **JCF San Diego** | Legacy Society Member | Endowment support for AIPAC, JNF, and StandWithUs |
 | **JFS San Diego** | "Friend of the Family" Donor | Jewish community services and local advocacy |
 | **Jewish Federation of Rochester** | Endowed Chair Benefactor | Cultural celebration of the State of Israel |
+
+
+
+## Supported Candidates
+
+| Candidate     | Years     | Direct Contributions   | Behested Payments   |
+|---------------|-----------|------------------------|---------------------|
+| Gail Pellerin | 2021-2025 | $385                   | $0                  |

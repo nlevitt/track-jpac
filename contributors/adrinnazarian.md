@@ -28,3 +28,21 @@ Nazarian maintains deep ties with pro-Israel advocacy organizations and has been
 ### Distinction from the Nazarian Donor Family
 It is documented that Adrin Nazarian is often confused with the "Nazarian Family" (including Younes, Soraya, David, and Sam Nazarian), a wealthy Iranian-Jewish philanthropic clan that is one of the most prolific donors to Zionist causes and academic centers for Israel studies (such as the UCLA Nazarian Center for Israel Studies). While Adrin Nazarian operates in the same political circles and advocates for similar pro-Israel policies, his contributions are primarily legislative and advocacy-based rather than through large-scale private philanthropy.
 *   *Source: [Jewish Journal - Distinction of Adrin Nazarian](https://jewishjournal.com/culture/lifestyle/128330/video-webcast-assembly-member-nazarian-honors-no-ruz-for-first-time-in-california-legislature/)*
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate      |   Years | Direct Contributions   | Behested Payments   |
+|----------------|---------|------------------------|---------------------|
+| Sara Aminzadeh |    2021 | $2,500                 | $0                  |

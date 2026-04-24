@@ -30,3 +30,22 @@ Kounalakis’s political network includes high-level figures within the pro-Isra
 *   **Institutional Ties:** [SF.gov - Records Request: Public Official Calendars and Affiliations](https://sf.gov/sites/default/files/2023-11/23.10.19%20Mayor%20Breed%20Calendar%20Entries%20%28Sam%20Lauter%29.pdf)
 *   **Relationship with Hillel:** Kounalakis has been praised by organizations such as **Hillel at UCLA** for her "expanded remarks" regarding antisemitism and "anti-Israeli bias" on campus. 
     *   [Source: UCLA Hillel - Thank You UC Regents: Antisemitism Report Update](https://www.uclahillel.org/israel_on_campus)
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate         |   Years | Direct Contributions   | Behested Payments   |
+|-------------------|---------|------------------------|---------------------|
+| Catherine Stefani |    2023 | $1,000                 | $0                  |
+| Sara Aminzadeh    |    2021 | $1,000                 | $0                  |

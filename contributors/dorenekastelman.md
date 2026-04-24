@@ -31,8 +31,24 @@ Kastelman is a documented donor to both localized pro-Israel political groups an
 *   **California Democratic Party (CADEM):** As a member of the Santa Clara County Democratic Central Committee, she co-sponsors resolutions within the state party, including those addressing democracy and religious nationalism.
     *   **Documentation:** [CADEM 2023 Resolution Packet (Page 79)](https://www.cadem.org/wp-content/uploads/2023/05/May-2023-CDP-Resolution-Packet.pdf)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
-| Candidate   |   Years | Direct Contributions   | Behested Payments   |
-|-------------|---------|------------------------|---------------------|
-| Josh Becker |    2025 | $360                   | $0                  |
+| Candidate      | Years     | Direct Contributions   | Behested Payments   |
+|----------------|-----------|------------------------|---------------------|
+| Patrick Ahrens | 2023      | $2,350                 | $0                  |
+| Gail Pellerin  | 2023-2025 | $1,148                 | $0                  |
+| Robert Rivas   | 2023-2025 | $767                   | $0                  |
+| Josh Becker    | 2025      | $360                   | $0                  |

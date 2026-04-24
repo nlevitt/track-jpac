@@ -34,6 +34,19 @@ Resnick’s support extends to prominent Jewish and Zionist communal organizatio
     *   [Source: Jay's Valet - Client Testimonials referencing JNF](https://jaysvalet.com/testimonials/)
     *   [Source: Sony Pictures Classics - Biography of Lynda Resnick mentioning Simon Wiesenthal Center context](https://www.sonyclassics.com/thegreatestmovieeversold/presskit.pdf)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate            |   Years | Direct Contributions   | Behested Payments   |

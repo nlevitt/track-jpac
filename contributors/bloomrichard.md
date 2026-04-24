@@ -28,3 +28,22 @@ Bloom has received financial and political backing from prominent Zionist figure
 *   **Adam Milstein:** Between 2016 and 2022, Bloom received approximately $7,000 in campaign contributions from Adam Milstein, the chairman of the Israeli-American Council (IAC).
 *   **Source:** [Jewish Insider - Robert Garcia and DMFI PAC support](https://jewishinsider.com/2022/06/cristina-garcia-robert-garcia-california-42nd-congressional-district-israel/)
 *   **Source:** [The Intercept via Wikipedia - Richard Bloom and Adam Milstein contributions](https://en.wikipedia.org/wiki/Anti-BDS_laws#California)
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate      |   Years | Direct Contributions   | Behested Payments   |
+|----------------|---------|------------------------|---------------------|
+| Alex Lee       |    2021 | $2,500                 | $0                  |
+| Sara Aminzadeh |    2021 | $1,000                 | $0                  |

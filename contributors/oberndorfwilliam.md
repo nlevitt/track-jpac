@@ -29,6 +29,19 @@ Political observers and media outlets have categorized Oberndorf alongside other
 In addition to his focus on Israel, Oberndorf utilizes his wealth to influence local San Francisco and national politics through "dark money" and Super PACs. He is the founder and primary funder of **Neighbors for a Better San Francisco**, a group that has spent millions on law-and-order causes and the recall of progressive officials, often seen as a strategy to shift the political landscape toward more centrist or right-aligned interests.
 *   **Source:** [Mission Local: How one group quickly became the 800-pound gorilla of SF politics](https://missionlocal.org/2024/04/neighbors-for-a-better-san-francisco-super-pac-donors/)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate     | Years     | Direct Contributions   | Behested Payments   |

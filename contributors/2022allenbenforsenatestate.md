@@ -22,3 +22,21 @@ Senator Allen maintains documented ties with several prominent Zionist and pro-I
 *   **Delegation Leadership:** In 2019, Allen led a [16-member legislative delegation](https://www.jewishjournal.com/commentary/opinion/310575/state-caucus-an-ally-for-the-jewish-community/) to Israel to meet with government officials and promote bilateral ties ([Source](https://www.jewishjournal.com/commentary/opinion/310575/state-caucus-an-ally-for-the-jewish-community/)).
 *   **Post-October 7 Advocacy:** Following the October 7, 2023 attacks, Allen visited [Kibbutz Kfar Aza](https://sd24.senate.ca.gov/news/from-the-capitol-senator-ben-allen-3) and issued statements affirming Israel's "right and responsibility to defend its civilians" ([Source](https://sd24.senate.ca.gov/news/from-the-capitol-senator-ben-allen-3)).
 *   **70th Anniversary Commemoration:** In 2018, Allen introduced resolutions in the Senate [honoring the 70th anniversary](https://jewishcaucus.legislature.ca.gov/news/2018-05-16-senator-allen-honoring-70th-anniversary-state-israel) of the founding of the State of Israel ([Source](https://jewishcaucus.legislature.ca.gov/news/2018-05-16-senator-allen-honoring-70th-anniversary-state-israel)).
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate      |   Years | Direct Contributions   | Behested Payments   |
+|----------------|---------|------------------------|---------------------|
+| Sara Aminzadeh |    2021 | $1,000                 | $0                  |

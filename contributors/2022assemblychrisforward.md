@@ -32,3 +32,22 @@ Ward has received financial contributions from corporate entities that engage in
 
 *   **Political Engagement:** In 2022, Ward received contributions from Verizon's "Political Engagement" fund, a corporate PAC that supports a wide array of pro-establishment candidates.
 *   **Source:** [Verizon 2022 Political Engagement Statement (Annex A, page 7)](https://www.verizon.com/about/sites/default/files/Political-Engagement-Policy-and-Statement-2022.pdf)
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate      |   Years | Direct Contributions   | Behested Payments   |
+|----------------|---------|------------------------|---------------------|
+| Alex Lee       |    2021 | $4,900                 | $0                  |
+| Sara Aminzadeh |    2021 | $3,000                 | $0                  |

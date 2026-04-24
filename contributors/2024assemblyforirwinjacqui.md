@@ -26,3 +26,12 @@ Jacqui Irwin is a Democratic member of the California State Assembly representin
 ## Financial Support
 *   **Pro-Israel Network Support:** While individual donor lists for the 2024 cycle reflect a broad base, her campaign is supported by the political networks of JPAC and Democrats for Israel-Los Angeles, which mobilize resources for candidates who align with their pro-Israel platforms.
     *   [Source: Democrats for Israel Los Angeles 2024 Endorsements](https://www.dfila.org/endorsements)
+
+
+
+
+## Supported Candidates
+
+| Candidate      |   Years | Direct Contributions   | Behested Payments   |
+|----------------|---------|------------------------|---------------------|
+| Patrick Ahrens |    2023 | $1,000                 | $0                  |

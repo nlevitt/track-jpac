@@ -34,3 +34,17 @@ Swig maintains an active role in shaping communal responses to Israeli political
     *   *Source:* [Jerusalem Post - Acceptance Speech Coverage](https://www.jpost.com/diaspora/article-734394)
 *   **Opposition to De-legitimization:** As a leader in the JCRC and Federation, she has participated in crafting and supporting policies that restrict funding for organizations that endorse the BDS movement or otherwise "undermine the legitimacy of Israel."
     *   *Source:* [Forward - SF Federation Funding Guidelines](https://forward.com/israel/128148/debate-over-israel-funding-guidelines-continues-to/)
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate         |   Years | Direct Contributions   | Behested Payments   |
+|-------------------|---------|------------------------|---------------------|
+| Catherine Stefani |    2023 | $1,000                 | $0                  |

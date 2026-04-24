@@ -32,3 +32,21 @@ Tax records for the **Stephen M. Silberstein Foundation** document consistent fi
 #### **4. Familial Connection to Zionist Commentary**
 Abe Silberstein, a freelance commentator on U.S.-Israel relations and regular contributor to *The Forward* and *Haaretz*, is a family member (son) of Steven Silberstein. Abe Silberstein has served as the Associate Director (North America) for **The Abraham Initiatives**, an Israel-based NGO. His work often focuses on the preservation of the U.S.-Israel relationship and critiques of anti-Zionist movements within the American left.
 *   **Source: The Forward Contributor Profile** | [https://forward.com/author/abe-silberstein/](https://forward.com/author/abe-silberstein/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate      |   Years | Direct Contributions   | Behested Payments   |
+|----------------|---------|------------------------|---------------------|
+| Sara Aminzadeh |    2021 | $4,900                 | $0                  |

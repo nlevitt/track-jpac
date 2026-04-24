@@ -37,3 +37,21 @@ Moradzadeh's professional background includes studies at **Ben-Gurion University
 Public records indicate that Moradzadeh has engaged in political giving and philanthropic support for organizations with strong pro-Israel mandates. While many contributions are categorized under general Jewish philanthropy, they often flow to organizations (such as the AJC or United Hatzalah) that engage in direct Zionist advocacy.
 *   **GoFundMe:** Documented as a top donor to the "Support Edo and Shoshi Habib" campaign, which was promoted through Jewish community networks in support of Israeli families.
     *   **Source:** [GoFundMe: Support Edo and Shoshi Habib](https://www.gofundme.com/f/vsknd2-support-edo-and-shoshi-habib)
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate      |   Years | Direct Contributions   | Behested Payments   |
+|----------------|---------|------------------------|---------------------|
+| Sara Aminzadeh |    2021 | $600                   | $0                  |

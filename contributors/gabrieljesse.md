@@ -35,6 +35,19 @@ Gabriel has participated in and led high-level delegations to Israel sponsored b
 Gabriel maintains close institutional ties with the Jewish Public Affairs Committee of California (JPAC) and the Anti-Defamation League (ADL), both of which are prominent in pro-Israel advocacy. He has been endorsed by "Democrats for Israel" and recognized for his "pro-Israel and Jewish community issues" leadership.
 *   **Source:** [Gabriel Endorsements and Support Statements](https://www.jessegabriel.com/support)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate   |   Years | Direct Contributions   | Behested Payments   |

@@ -13,3 +13,11 @@ Searches for the specific name "P. Tracey Rosenthal" in public records yield a l
 Another public figure named Tracey (or Tracy) Rosenthal is an author and the [co-founder of the Los Angeles Tenants Union](https://www.livingrent.org/abolishrent_booklaunch_may192025). This individual's public documentation focuses on [housing activism and rent abolition](https://www.livingrent.org/abolishrent_booklaunch_may192025), with no documented ties to the Jewish Federation of Greater Washington or Zionist advocacy.
 
 ## Conclusion
+
+
+
+## Supported Candidates
+
+| Candidate     |   Years | Direct Contributions   | Behested Payments   |
+|---------------|---------|------------------------|---------------------|
+| Gail Pellerin |    2021 | $400                   | $0                  |

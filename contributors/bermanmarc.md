@@ -23,3 +23,15 @@ Marc Berman is a Democratic member of the California State Assembly, representin
 *   **Jewish Public Affairs Committee (JPAC):** Berman maintains a close relationship with [JPAC California](https://www.jweekly.com/2022/05/19/hundreds-descend-on-sacramento-to-lobby-for-jewish-interests/), the largest single-state Jewish lobbying organization in the U.S., which advocates for pro-Israel policies and state funding for Jewish institutions ([Source](https://www.jweekly.com/2022/05/19/hundreds-descend-on-sacramento-to-lobby-for-jewish-interests/)). 
 *   **Political Contributions:** During his initial 2016 campaign, Berman was one of several candidates to receive a [$3,000 contribution](https://jewishjournal.com/community/213506/jewish-state-legislators-ready-make-impact/) from a public affairs committee affiliated with the Jewish Caucus, established specifically to support "prospective members" who aligned with the caucus's mission ([Source](https://jewishjournal.com/community/213506/jewish-state-legislators-ready-make-impact/)).
 *   **Endorsements:** He is endorsed by the [Jewish Democratic Coalition of the Bay Area (JDCBA)](https://www.jdcsv.com/endorsements), an organization that requires candidates to support "Israel as a Jewish and democratic state" as part of its endorsement criteria ([Source](https://www.jdcsv.com/endorsements)).
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate   | Years     | Direct Contributions   | Behested Payments   |
+|-------------|-----------|------------------------|---------------------|
+| Marc Berman | 2009-2015 | $164,700               | $0                  |

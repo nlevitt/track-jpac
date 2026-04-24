@@ -28,12 +28,27 @@ Fisher is a long-term member and "Legacy" donor of **Congregation Emanu-El** in 
 *   **Cultural Philanthropy and Israel:** Fisher’s philanthropy often intersects with the Koret Foundation’s "Arts and Culture Initiative," which leverages cultural institutions to build broader support for the foundation's pro-Israel and Zionist objectives.
     *   [San Francisco Opera: Koret Foundation Support](https://sfopera.com/about-us/press-room/press-releases/manon-lescaut-figaro-hansel-gretel/)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate            | Years     | Direct Contributions   | Behested Payments   |
 |----------------------|-----------|------------------------|---------------------|
 | Steven Glazer        | 2015-2021 | $29,800                | $0                  |
 | Scott Wiener         | 2015-2019 | $17,800                | $0                  |
+| Marc Berman          | 2017-2021 | $9,900                 | $0                  |
+| Buffy Wicks          | 2017      | $8,800                 | $0                  |
 | Josh Becker          | 2021      | $7,700                 | $0                  |
 | Christopher Cabaldon | 2007      | $7,200                 | $0                  |
 | Dave Cortese         | 2021      | $3,000                 | $0                  |

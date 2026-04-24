@@ -30,6 +30,19 @@ Stewart A. Resnick is an American billionaire businessman, chairman of The Wonde
 *   **Iran Sanctions Lobbying:** Critiques of Resnick's advocacy emphasize the intersection between his pro-Israel political stances and his business interests. By funding organizations like WINEP that lobby for sanctions on Iran, Resnick supports policies that reduce competition from Iranian pistachio producers, thereby benefiting his domestic pistachio monopoly.
     *   **Source:** [Mondoweiss - How Resnick Profits from Iran Sanctions](https://mondoweiss.net/2013/07/oligarch-valley-billionaire-farmers-profit-from-the-iran-sanctions-they-lobbied-for/)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate            |   Years | Direct Contributions   | Behested Payments   |

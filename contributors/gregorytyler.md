@@ -29,3 +29,17 @@ Gregory's political influence is exerted primarily through the organization and 
 
 *   **Targeted Political Interventions:** Gregory has used his platform to publicly rebuke local officials who support ceasefire resolutions or divestment from Israel. He characterized the Oakland City Council's ceasefire vote as contributing to a "decay" in the local political environment and has coordinated with other pro-Israel organizations to oppose candidates with "anti-Israel records."
     *   **Source (Oakland Ceasefire Criticism):** [jewishinsider.com/2024/04/the-grassroots-efforts-to-tackle-anti-israel-activity-as-it-spreads-to-communities/](https://jewishinsider.com/2024/04/the-grassroots-efforts-to-tackle-anti-israel-activity-as-it-spreads-to-communities/)
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate         |   Years | Direct Contributions   | Behested Payments   |
+|-------------------|---------|------------------------|---------------------|
+| Catherine Stefani |    2023 | $500                   | $0                  |

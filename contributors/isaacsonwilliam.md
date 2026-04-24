@@ -28,3 +28,21 @@ Isaacson and his firm partners are regular contributors to political causes that
     *   Source: [UVA Law 2021-22 Annual Report via Issuu](https://issuu.com/uvalaw/docs/annualreport2021-22/100) (See page 100)
 *   **Political Contributions:** Documents indicate that partners at Isaacson’s firms frequently contribute to Democratic candidates and PACs known for their pro-Israel platforms, including the Democratic Majority for Israel (DMFI).
     *   Source: [Punchbowl News (April 2026 Report)](https://punchbowl.news/readback/2026/04/18/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate      |   Years | Direct Contributions   | Behested Payments   |
+|----------------|---------|------------------------|---------------------|
+| Sara Aminzadeh |    2021 | $1,000                 | $0                  |

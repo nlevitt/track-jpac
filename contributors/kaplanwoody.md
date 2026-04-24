@@ -24,3 +24,21 @@ Kaplan's pro-Israel advocacy was part of a broader portfolio of high-value polit
 
 ### Summary of Zionist Advocacy
 Woody Kaplan's relationship to Zionism was defined by his support for the liberal wing of the movement. His contributions were aimed at maintaining Israel’s status as a Jewish democracy through the promotion of a two-state solution, a position central to the J Street advocacy framework. His documented financial support made him a stakeholder in the effort to shift American policy toward a more diplomatic approach to the Israeli-Palestinian conflict.
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate      |   Years | Direct Contributions   | Behested Payments   |
+|----------------|---------|------------------------|---------------------|
+| Sara Aminzadeh |    2021 | $1,000                 | $0                  |

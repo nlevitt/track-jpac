@@ -33,3 +33,12 @@ Ellenberg is currently campaigning for re-election for the Santa Clara County Bo
 *   **Campaign Organization:** Susan Ellenberg for Supervisor 2026 (FPPC # 1479168).
     *   *Source:* [Susan Ellenberg Campaign Site - Donate](https://www.susanellenberg.com/donate)
     *   *Source:* [Ballotpedia - Susan Ellenberg](https://ballotpedia.org/Susan_Ellenberg)
+
+
+
+
+## Supported Candidates
+
+| Candidate      |   Years | Direct Contributions   | Behested Payments   |
+|----------------|---------|------------------------|---------------------|
+| Patrick Ahrens |    2025 | $1,000                 | $0                  |

@@ -1,22 +1,40 @@
 # Aggregate Summary: Zionist Contributions
-Generated on: 2026-04-24 15:14:43
+Generated on: 2026-04-24 15:49:31
 
 ## Candidates with Identified Support
 
 | Candidate                                                                  | Zionist Contributions   | Zionist Behested Payments   |
 |----------------------------------------------------------------------------|-------------------------|-----------------------------|
 | [Scott Wiener](candidates/Scott_Wiener_20260424_141519.md)                 | $289,626                | $30,000                     |
+| [Marc Berman](candidates/Marc_Berman_20260424_153051.md)                   | $284,550                | $0                          |
 | [Steven Glazer](candidates/Steven_Glazer_20260424_142923.md)               | $230,880                | $0                          |
 | [Josh Becker](candidates/Josh_Becker_20260424_144201.md)                   | $105,610                | $50,000                     |
+| [Buffy Wicks](candidates/Buffy_Wicks_20260424_152018.md)                   | $93,350                 | $0                          |
 | [Matt Haney](candidates/Matt_Haney_20260424_135947.md)                     | $54,300                 | $0                          |
+| [Sara Aminzadeh](candidates/Sara_Aminzadeh_20260424_151450.md)             | $53,750                 | $0                          |
+| [Rebecca Bauer-Kahan](candidates/Rebecca_Bauer-Kahan_20260424_152411.md)   | $41,150                 | $0                          |
+| [Patrick Ahrens](candidates/Patrick_Ahrens_20260424_154057.md)             | $40,000                 | $0                          |
 | [Christopher Cabaldon](candidates/Christopher_Cabaldon_20260424_144953.md) | $37,500                 | $0                          |
+| [Robert Rivas](candidates/Robert_Rivas_20260424_154801.md)                 | $36,367                 | $0                          |
 | [Bill Dodd](candidates/Bill_Dodd_20260424_142852.md)                       | $26,900                 | $0                          |
+| [Catherine Stefani](candidates/Catherine_Stefani_20260424_152826.md)       | $24,000                 | $0                          |
+| [Alex Lee](candidates/Alex_Lee_20260424_153430.md)                         | $19,960                 | $0                          |
+| [Gail Pellerin](candidates/Gail_Pellerin_20260424_154456.md)               | $16,732                 | $0                          |
 | [Tim Grayson](candidates/Tim_Grayson_20260424_143731.md)                   | $16,600                 | $0                          |
 | [John Laird](candidates/John_Laird_20260424_145114.md)                     | $15,650                 | $0                          |
 | [Lori Wilson](candidates/Lori_Wilson_20260424_145349.md)                   | $9,000                  | $0                          |
 | [Dave Cortese](candidates/Dave_Cortese_20260424_144959.md)                 | $7,700                  | $0                          |
+| [Mia Bonta](candidates/Mia_Bonta_20260424_152727.md)                       | $6,400                  | $0                          |
 | [Aisha Wahab](candidates/Aisha_Wahab_20260424_143845.md)                   | $4,900                  | $0                          |
+| [Ash Kalra](candidates/Ash_Kalra_20260424_153712.md)                       | $3,500                  | $0                          |
+| [Diane Papan](candidates/Diane_Papan_20260424_153004.md)                   | $1,500                  | $0                          |
 
+## Candidates with Zero Identified Support
+
+| Candidate                                                      | Zionist Contributions   | Zionist Behested Payments   |
+|----------------------------------------------------------------|-------------------------|-----------------------------|
+| [Annette Taddeo](candidates/Annette_Taddeo_20260424_152407.md) | $0                      | $0                          |
+| [Liz Ortega](candidates/Liz_Ortega_20260424_152947.md)         | $0                      | $0                          |
 
 ## Methodology
 
