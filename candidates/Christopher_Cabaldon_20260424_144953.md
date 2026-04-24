@@ -1,8 +1,8 @@
 # Zionist Supporters: Christopher Cabaldon
 
-As of April 2026, Christopher Cabaldon is a candidate for California State Senate District 3. This district covers a significant portion of the North Bay and Sacramento Valley, including all of Napa, Solano, and Yolo counties, along with parts of Sonoma and Contra Costa counties.
+As of April 2026, Christopher Cabaldon is not an incumbent or candidate for an elected office in California; instead, he serves as an appointed member of the California State University (CSU) Board of Trustees, a position he has held since 2021. This role involves statewide oversight of the CSU system.
 
-Analyzed on: 2026-04-24 14:25:14
+Analyzed on: 2026-04-24 14:49:54
 **Total Zionist Contributions:** $37,500
 **Total Zionist Behested Payments:** $0
 

@@ -27,3 +27,16 @@ Fisher’s personal and familial philanthropy includes direct support for Israel
 Fisher is active within the Jewish Community Federation and Endowment Fund of San Francisco, an organization that manages significant donor-advised funds directed toward Israeli causes.
 *   **Grantmaking:** The Federation facilitates grants to various Israeli NGOs and programs aimed at fostering "thriving Jewish communities" and providing aid to Israeli citizens.
     *   Source: [Jewish Federation Bay Area - Annual Report 2023](https://jewishfed.org/sites/default/files/2023-11/2023-Annual-Report-Jewish-Federation-Bay-Area.pdf)
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate   | Years     | Direct Contributions   | Behested Payments   |
+|-------------|-----------|------------------------|---------------------|
+| Tim Grayson | 2015-2025 | $16,600                | $0                  |
+| Lori Wilson | 2021-2025 | $8,500                 | $0                  |

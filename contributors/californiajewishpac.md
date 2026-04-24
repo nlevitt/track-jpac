@@ -27,6 +27,13 @@ The PAC's leadership is closely linked to the broader "organized Jewish communit
 *   **Organizational Membership:** JPAC represents a coalition of more than 30 member organizations, including the **Jewish Federation of Greater Los Angeles**, the **Anti-Defamation League (ADL)**, and **Hadassah**. [Source: Jewish Journal (2019)](https://jewishjournal.com/community/305886/jpac-advocates-for-jewish-causes/)
 *   **Legislative Coordination:** The PAC works in tandem with the **California Legislative Jewish Caucus** to advance a shared agenda regarding Israeli security and antisemitism legislation, such as **AB 715**, which established a statewide antisemitism coordinator. [Source: J Weekly (2025)](https://www.jweekly.com/2024/10/22/csu-faculty-union-conflates-state-jewish-lobby-with-tobacco-and-oil/)
 
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate     | Years     | Direct Contributions   | Behested Payments   |

@@ -32,3 +32,10 @@ Welinsky uses financial contributions to support candidates who align with his a
     *   Source: [The LA Reporter](https://thelareporter.la/state-senate-candidate-took-money-from-donors-with-ties-to-aipac/)
 *   **Advocacy Alignment:** Welinsky has explicitly stated that "at some point I kind of realized that the two issues I cared about were higher education and Israel," and his donor activity reflects this dual focus.
     *   Source: [UCLA Advocate in Action](https://advocacy.ucla.edu/advocate-in-action/howard-welinsky-shows-pride-through-politics/)
+
+
+## Supported Candidates
+
+| Candidate   | Years     | Direct Contributions   | Behested Payments   |
+|-------------|-----------|------------------------|---------------------|
+| John Laird  | 2005-2009 | $5,400                 | $0                  |
