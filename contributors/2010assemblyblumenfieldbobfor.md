@@ -26,3 +26,9 @@ Blumenfield’s political and professional career is marked by long-standing tie
 The 'Bob Blumenfield for Assembly 2010' committee was funded by a range of donors, including family and prominent political figures. 
 
 *   **Independent Expenditures:** In his initial 2008 race, more than $154,000 was raised through [independent expenditures](https://www.latimes.com/archives/la-xpm-2008-may-17-me-blumenfield17-story.html) by his father and Congressman Howard Berman's campaign committee to support his election. These funds established the political foundation for his subsequent re-election in 2010 and his ongoing pro-Israel legislative agenda.
+
+## Supported Candidates
+
+| Candidate   |   Years | Direct Contributions   | Behested Payments   |
+|-------------|---------|------------------------|---------------------|
+| Josh Becker |    2009 | $3,900                 | $0                  |

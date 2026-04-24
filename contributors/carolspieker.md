@@ -26,3 +26,9 @@ Beyond direct political donations, Spieker’s philanthropic footprint includes 
     *   **Source:** [Hoover Institution - Book of Lists (Donor Recognition)](https://www.hoover.org/sites/default/files/uploads/documents/HooverBookofLists.pdf)
 *   **Institute of World Politics (IWP):** The Spiekers have provided "significant funding" to the **Institute of World Politics**, a graduate school that emphasizes "peace through strength" and maintains strong ties to the U.S. intelligence and defense communities, often aligning with pro-Israel strategic interests.
     *   **Source:** [PR Newswire - Several Significant Donations Impact The Institute Of World Politics (April 2019)](https://www.prnewswire.com/news-releases/several-significant-donations-impact-the-institute-of-world-politics-300825287.html)
+
+## Supported Candidates
+
+| Candidate     | Years     | Direct Contributions   | Behested Payments   |
+|---------------|-----------|------------------------|---------------------|
+| Steven Glazer | 2015-2021 | $8,400                 | $0                  |

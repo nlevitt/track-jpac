@@ -31,3 +31,9 @@ Julie Platt (née Beren) is a prominent American political donor and communal le
 *   **Core Policy Agenda:** [JFNA Public Policy on Israel](https://www.jewishfederations.org/public-policy)
 *   **Board Position:** [Jewish Agency Board of Governors](https://www.jewishagency.org/julie-platt/)
 *   **Documented Donor Status:** [FEC & AIPAC Pledges (Forward)](https://forward.com/news/580173/aipac-90-million-fundraising-oct-7/)
+
+## Supported Candidates
+
+| Candidate   |   Years | Direct Contributions   | Behested Payments   |
+|-------------|---------|------------------------|---------------------|
+| Lori Wilson |    2023 | $500                   | $0                  |

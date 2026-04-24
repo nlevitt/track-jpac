@@ -35,3 +35,9 @@ The company's leadership has explicitly aligned the firm's operations with Israe
     *   *Source:* [Medium: Letter from a Concerned Cisconian](https://medium.com/@bridge2humanity/letter-from-a-concerned-cisconian-7d58d9e6f212)
 *   **Zionist Group Engagement:** Cisco leadership regularly meets with and is hosted by Zionist advocacy groups, including **AIPAC** and the **Israeli-American Council**, to discuss technological integration and regional security.
     *   *Source:* [Jewish Insider: The retirement community that was a microcosm of the Florida special election](https://jewishinsider.com/2021/11/kings-point-florida-special-election-primary-dale-holness-sheila-cherfilus-mccormick/)
+
+## Supported Candidates
+
+| Candidate   |   Years | Direct Contributions   | Behested Payments   |
+|-------------|---------|------------------------|---------------------|
+| Josh Becker |    2009 | $3,900                 | $0                  |

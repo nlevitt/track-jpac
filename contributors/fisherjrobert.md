@@ -34,9 +34,13 @@ Fisher is active within the Jewish Community Federation and Endowment Fund of Sa
 
 
 
+
 ## Supported Candidates
 
 | Candidate   | Years     | Direct Contributions   | Behested Payments   |
 |-------------|-----------|------------------------|---------------------|
 | Tim Grayson | 2015-2025 | $16,600                | $0                  |
+| Bill Dodd   | 2013-2017 | $13,600                | $0                  |
 | Lori Wilson | 2021-2025 | $8,500                 | $0                  |
+| Matt Haney  | 2021-2025 | $6,000                 | $0                  |
+| Josh Becker | 2021-2023 | $5,500                 | $0                  |

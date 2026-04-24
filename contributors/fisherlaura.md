@@ -29,3 +29,10 @@ Fisher is a significant contributor to **Congregation Emanu-El** in San Francisc
 The Fisher family has documented history of supporting political causes and candidates that align with pro-Israel lobbying interests. In 2024, Fisher and her husband contributed $100,000 to the transition team of San Francisco Mayor Daniel Lurie, a member of a prominent Jewish philanthropic family with extensive ties to the Koret Foundation.
 *   **Political Contribution:** [Mission Local - Wealthy Donors to Mayor Lurie](https://missionlocal.org/2025/02/daniel-lurie-transition-donors/)
 *   **Historical Context:** John Fisher’s academic background includes research into Holocaust survivors, a common theme in Zionist historical advocacy. [John Fisher (businessman) - Wikipedia](https://en.wikipedia.org/wiki/John_Fisher_(businessman))
+
+## Supported Candidates
+
+| Candidate     | Years     | Direct Contributions   | Behested Payments   |
+|---------------|-----------|------------------------|---------------------|
+| Steven Glazer | 2015-2021 | $29,800                | $0                  |
+| Scott Wiener  | 2015-2017 | $17,200                | $0                  |

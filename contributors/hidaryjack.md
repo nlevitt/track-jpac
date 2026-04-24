@@ -41,3 +41,9 @@ Hidary has been identified as part of a coalition of media and tech billionaires
 #### **Donor Base and Political Funding**
 Hidary’s political fundraising frequently draws from a network of pro-Israel donors within the Syrian-Sephardic community, such as real estate developer Joe Cayre, who are noted for their significant financial contributions to Zionist causes.
 *   **Documentation:** [The Forward: Syrian Jewish Community and Political Fundraising](https://forward.com/news/181102/jack-hidarys-longshot-bid-for-new-york-mayor-divid/)
+
+## Supported Candidates
+
+| Candidate   | Years     | Direct Contributions   | Behested Payments   |
+|-------------|-----------|------------------------|---------------------|
+| Josh Becker | 2009-2019 | $6,050                 | $0                  |

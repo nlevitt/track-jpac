@@ -33,3 +33,9 @@ Lee's role in directing the financial assets of the Federation is documented in 
 
 *   **Financial Oversight:** ProPublica's Nonprofit Explorer confirms Lee's position as "CFIO/Assistant Treasurer" with oversight of total assets exceeding $1.4 billion.
     *   **Source:** [ProPublica Nonprofit Explorer: Jewish Community Federation of SF](https://projects.propublica.org/nonprofits/organizations/941156533)
+
+## Supported Candidates
+
+| Candidate    |   Years | Direct Contributions   | Behested Payments   |
+|--------------|---------|------------------------|---------------------|
+| Scott Wiener |    2015 | $1,000                 | $0                  |

@@ -37,3 +37,9 @@ While identified as a pro-Israel donor, Oberndorf's past financial activity incl
 | **Jewish Federation of the Bay Area** | Donor | Contributor to funds supporting security and humanitarian aid in Israel. |
 | **Neighbors for a Better San Francisco** | President/Director | Funds local candidates and initiatives associated with pro-Israel advocacy. |
 | **Ploughshares Fund** | Major Donor (2015) | Supported the Iran Nuclear Deal (JCPOA). |
+
+## Supported Candidates
+
+| Candidate     | Years     | Direct Contributions   | Behested Payments   |
+|---------------|-----------|------------------------|---------------------|
+| Steven Glazer | 2015-2021 | $9,000                 | $0                  |

@@ -36,3 +36,10 @@ Friedman’s work extends to policy-level advocacy related to Israel and Jewish 
     *   *Sources:* [JWeekly](https://jweekly.com/2024/10/29/teach-jewish-history-in-california-classrooms-and-you-change-the-world/); [The Times of Israel](https://blogs.timesofisrael.com/author/anita-friedman/)
 *   **Israel Museum Fellowship:** In 2025, she was named an Honorary Fellow of the Israel Museum in Jerusalem, a recognition of her long-term "dedication to strengthening Jewish peoplehood and community" in Israel.
     *   *Source:* [JFCS News](https://www.jfcs.org/anita-friedman-named-2025-honorary-fellow-israel-museum-jerusalem/)
+
+## Supported Candidates
+
+| Candidate    | Years     | Direct Contributions   | Behested Payments   |
+|--------------|-----------|------------------------|---------------------|
+| Josh Becker  | 2019-2021 | $9,700                 | $0                  |
+| Scott Wiener | 2015-2023 | $5,000                 | $0                  |

@@ -33,3 +33,9 @@ Goldman manages the **John and Marcia Goldman Foundation**, which held assets ex
 *   **Documentation:**
     *   [ProPublica Nonprofit Explorer - John and Marcia Goldman Foundation 990-PF](https://projects.propublica.org/nonprofits/organizations/943274370)
     *   [Instrumentl - Foundation Grant Summary](https://www.instrumentl.com/990-report/john-marcia-goldman-foundation)
+
+## Supported Candidates
+
+| Candidate    | Years     | Direct Contributions   | Behested Payments   |
+|--------------|-----------|------------------------|---------------------|
+| Scott Wiener | 2015-2019 | $5,700                 | $0                  |

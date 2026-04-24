@@ -34,8 +34,12 @@ The PAC's leadership is closely linked to the broader "organized Jewish communit
 
 
 
+
 ## Supported Candidates
 
 | Candidate     | Years     | Direct Contributions   | Behested Payments   |
 |---------------|-----------|------------------------|---------------------|
+| Matt Haney    | 2021-2023 | $25,700                | $0                  |
+| Josh Becker   | 2019-2025 | $21,600                | $0                  |
+| Scott Wiener  | 2019-2023 | $13,350                | $0                  |
 | Steven Glazer | 2019-2023 | $7,850                 | $0                  |

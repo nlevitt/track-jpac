@@ -28,3 +28,9 @@ Rabois’s influence is often exerted in conjunction with a close-knit group of 
 
 *   **Marriage to Jacob Helberg:** His husband, **Jacob Helberg**, is a senior advisor at Palantir and a significant pro-Israel donor who has also contributed millions to Republican causes specifically due to the "anti-Israel" shift he perceives on the left [[1.15](https://www.forbes.com/sites/davidjeans/2024/07/11/jacob-helberg-donald-trump-silicon-valley-tiktok-ai/)].
 *   **The "PayPal Mafia":** Rabois works closely with other members of the so-called "PayPal Mafia," including **Peter Thiel** and **David Sacks**, to host fundraisers and promote a political agenda that prioritizes Israeli national security and "sovereign technology" [[1.14](https://americanjournalnews.com/gop-senators-candidates-will-attend-fundraiser-hosted-by-donors-who-defended-rape/), [1.15](https://en.wikipedia.org/wiki/David_Sacks)].
+
+## Supported Candidates
+
+| Candidate    |   Years | Direct Contributions   | Behested Payments   |
+|--------------|---------|------------------------|---------------------|
+| Scott Wiener |    2015 | $8,400                 | $0                  |

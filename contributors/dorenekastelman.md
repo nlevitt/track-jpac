@@ -30,3 +30,9 @@ Kastelman is a documented donor to both localized pro-Israel political groups an
     *   **Documentation:** [Hillel of Silicon Valley Annual Report](https://www.hillelsv.org/uploads/2/6/4/2/26425712/hsv_2011_newsletter_final.pdf)
 *   **California Democratic Party (CADEM):** As a member of the Santa Clara County Democratic Central Committee, she co-sponsors resolutions within the state party, including those addressing democracy and religious nationalism.
     *   **Documentation:** [CADEM 2023 Resolution Packet (Page 79)](https://www.cadem.org/wp-content/uploads/2023/05/May-2023-CDP-Resolution-Packet.pdf)
+
+## Supported Candidates
+
+| Candidate   |   Years | Direct Contributions   | Behested Payments   |
+|-------------|---------|------------------------|---------------------|
+| Josh Becker |    2025 | $360                   | $0                  |

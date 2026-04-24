@@ -27,3 +27,9 @@ Beyond the IAC, Conway’s philanthropic profile includes support for educationa
     *   **Source**: [Ron Conway - Wikipedia (Philanthropy and Board Roles)](https://en.wikipedia.org/wiki/Ron_Conway#Philanthropy)
 *   **Institutional Alignment**: Her financial contributions are often synchronized with other "Silicon Valley Super Angels" who maintain high-level relationships with the Israeli government and pro-Israel lobbying groups like AIPAC.
     *   **Source**: [Tech-backed PAC in DCCC Race - Mission Local](https://missionlocal.org/2024/02/tech-money-pac-families-for-a-vibrant-sf-dccc/)
+
+## Supported Candidates
+
+| Candidate    | Years     | Direct Contributions   | Behested Payments   |
+|--------------|-----------|------------------------|---------------------|
+| Scott Wiener | 2015-2019 | $17,800                | $0                  |

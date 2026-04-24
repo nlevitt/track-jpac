@@ -35,3 +35,9 @@ Tax filings for the Charles and Lynn Schusterman Family Foundation demonstrate t
 
 *   **IRS Form 990-PF (2023):** The foundation reported total assets exceeding $2.2 billion and charitable disbursements of over $375 million.
     *   **Source:** [ProPublica Nonprofit Explorer: Charles and Lynn Schusterman Family Foundation 2023 Filing](https://projects.propublica.org/nonprofits/organizations/731312965)
+
+## Supported Candidates
+
+| Candidate     | Years     | Direct Contributions   | Behested Payments   |
+|---------------|-----------|------------------------|---------------------|
+| Steven Glazer | 2013-2015 | $8,200                 | $0                  |

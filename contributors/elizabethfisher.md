@@ -24,3 +24,10 @@ Fisher’s work involves the oversight and direction of substantial philanthropi
 ### 4. Institutional Partnerships
 Through her various roles, Fisher has facilitated partnerships with major pro-Israel lobbying and education groups:
 *   **AIPAC (American Israel Education Foundation):** As part of her affiliation with the Koret Foundation network, she is associated with a funding stream that directs millions of dollars to the **American Israel Education Foundation (AIEF)**, the charitable arm of **AIPAC** ([Grantmakers.io - Koret Foundation Profile](https://www.grantmakers.io/profiles/v0/941624987-koret-foundation/)).
+
+## Supported Candidates
+
+| Candidate     | Years     | Direct Contributions   | Behested Payments   |
+|---------------|-----------|------------------------|---------------------|
+| Steven Glazer | 2013-2021 | $22,210                | $0                  |
+| Scott Wiener  | 2015-2023 | $14,300                | $0                  |

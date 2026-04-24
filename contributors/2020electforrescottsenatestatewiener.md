@@ -26,3 +26,9 @@ While Wiener has recently pledged to reject funding from the American Israel Pub
 In January 2026, Senator Wiener faced a significant rupture in his relationship with the Zionist advocacy community after he publicly accused the Israeli government of committing "genocide" in Gaza. 
 *   **Backlash and Resignation:** This statement led to his resignation as co-chair of the CLJC and formal condemnation from groups like the **American Jewish Committee (AJC)** and the **Jewish Journal**, who described his turn as lacking "moral clarity" [Source: [Jewish Insider](https://jewishinsider.com/2026/01/scott-wiener-israel-genocide-backlash-jewish-groups/)]. 
 *   **Political Context:** Despite this shift, Wiener continues to maintain his support for the "U.S.-Israel relationship" and the existence of Israel as a Jewish state [Source: [Jewish Journal](https://jewishjournal.com/community/373976/state-senator-scott-wiener-to-step-down-as-jewish-caucus-co-chair/)].
+
+## Supported Candidates
+
+| Candidate    |   Years | Direct Contributions   | Behested Payments   |
+|--------------|---------|------------------------|---------------------|
+| Scott Wiener |    2021 | $114,326               | $0                  |

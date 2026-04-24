@@ -1,5 +1,5 @@
 # Aggregate Summary: Zionist Contributions
-Generated on: 2026-04-24 15:04:05
+Generated on: 2026-04-24 15:14:43
 
 ## Candidates with Identified Support
 

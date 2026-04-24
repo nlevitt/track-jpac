@@ -34,3 +34,9 @@ Since late 2023, Sandberg’s advocacy has focused on documenting Israeli victim
 ### 5. Family Legacy and Institutional Ties
 Sandberg’s Zionist involvement is rooted in a family history of activism. Her parents were involved in the movement for Soviet Jewry, and her great-aunt, Frieda Sandberg Lewis, served as the national president of Hadassah, the Women’s Zionist Organization of America, in the 1980s.
 *   **Source:** [Hadassah Magazine](https://www.hadassahmagazine.org/2023/12/17/sheryl-sandbergs-inherited-jewish-activism/)
+
+## Supported Candidates
+
+| Candidate   |   Years | Direct Contributions   | Behested Payments   |
+|-------------|---------|------------------------|---------------------|
+| Josh Becker |    2009 | $3,900                 | $0                  |

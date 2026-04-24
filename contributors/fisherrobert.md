@@ -32,3 +32,11 @@ As a principal shareholder and former chairman of **Gap Inc.**, Fisher has overs
 *   **Sources:**
     *   [Wikipedia: Gap Inc. - International Presence in Israel](https://en.wikipedia.org/wiki/Gap_Inc.#International_presence)
     *   [Jewish Telegraphic Agency: At least 139 of the Forbes 400 are Jewish - Robert Fisher](https://www.jta.org/2009/10/05/united-states/at-least-139-of-the-forbes-400-are-jewish)
+
+## Supported Candidates
+
+| Candidate            | Years     | Direct Contributions   | Behested Payments   |
+|----------------------|-----------|------------------------|---------------------|
+| Steven Glazer        | 2013-2021 | $29,410                | $0                  |
+| Scott Wiener         | 2015-2023 | $24,500                | $0                  |
+| Christopher Cabaldon | 2007      | $7,200                 | $0                  |

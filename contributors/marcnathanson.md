@@ -28,3 +28,9 @@ As Chairman of the Broadcasting Board of Governors (BBG) from 1995 to 2002, Nath
 7. [ZBT Digital Deltan: Marc Nathanson - Ben Gurion Award Recipient](https://zbtdigitaldeltan.com/2019/08/29/moving-mountains-at-the-2019-international-convention/)
 8. [House.gov: Statement of Marc Nathanson on Public Diplomacy and Israel](https://www.congress.gov/107/chrg/CHRG-107hhrg76031/CHRG-107hhrg76031.pdf)
 9. [The Eden Magazine: ADL Leadership and Marc Nathanson Participation](https://theedenmagazine.com/index.php/2025/03/01/beverly-hills-womens-club/)
+
+## Supported Candidates
+
+| Candidate   | Years     | Direct Contributions   | Behested Payments   |
+|-------------|-----------|------------------------|---------------------|
+| John Laird  | 2001-2005 | $3,750                 | $0                  |

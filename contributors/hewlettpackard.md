@@ -38,3 +38,10 @@ The company’s documented role in Israel’s security apparatus has led to wide
 
 *   **Church Divestment:** Major denominations, including the Presbyterian Church USA, the United Church of Christ, and the Evangelical Lutheran Church in America, have voted to divest from HP-branded companies due to their role in the occupation ([BDS Movement](https://bdsmovement.net/news/following-major-success-our-boycotthp-campaign-we-call-escalation); [AFSC Investigate](https://investigate.afsc.org/company/hp-inc)).
 *   **Student Resolutions:** Student governments at the University of California (Berkeley and Los Angeles) passed resolutions calling for divestment from HP, specifically citing its provision of biometric systems used at checkpoints ([AFSC Investigate](https://investigate.afsc.org/company/hp-inc)).
+
+## Supported Candidates
+
+| Candidate   | Years     | Direct Contributions   | Behested Payments   |
+|-------------|-----------|------------------------|---------------------|
+| Josh Becker | 2009      | $3,900                 | $0                  |
+| John Laird  | 2005-2007 | $3,500                 | $0                  |

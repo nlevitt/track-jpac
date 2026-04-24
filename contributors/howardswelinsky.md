@@ -34,6 +34,7 @@ Welinsky uses financial contributions to support candidates who align with his a
     *   Source: [UCLA Advocate in Action](https://advocacy.ucla.edu/advocate-in-action/howard-welinsky-shows-pride-through-politics/)
 
 
+
 ## Supported Candidates
 
 | Candidate   | Years     | Direct Contributions   | Behested Payments   |

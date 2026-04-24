@@ -44,8 +44,9 @@ The foundation operates in close coordination with established Zionist lobbying 
 
 
 
+
 ## Supported Candidates
 
 | Candidate    |   Years | Direct Contributions   | Behested Payments   |
 |--------------|---------|------------------------|---------------------|
-| Scott Wiener |    2025 | $30,000                | $0                  |
+| Scott Wiener |    2025 | $0                     | $30,000             |

@@ -41,3 +41,9 @@ Wagonfeld and his spouse, Alison Wagonfeld, are documented regular donors to Zio
 *   **Institutional Support:** The Wagonfelds are listed as "Sde Boker Sponsors" and major contributors to Ben-Gurion University of the Negev and Americans for Ben-Gurion University.
     *   **Source:** [Ben-Gurion University Canada President's Report 2025](https://bengurion.ca/wp-content/uploads/2024/06/Presidents-Report-2025.pdf) (Page 27, Listing "Alison & David Wagonfeld" as contributors).
     *   **Source:** [Americans for Ben-Gurion University: Celebrating Medical Science](https://americansforbgu.org/celebrating-the-remarkable-3-pioneering-medical-science/) (Listing Wagonfeld as a sponsor).
+
+## Supported Candidates
+
+| Candidate   | Years     | Direct Contributions   | Behested Payments   |
+|-------------|-----------|------------------------|---------------------|
+| Josh Becker | 2019-2025 | $5,500                 | $0                  |

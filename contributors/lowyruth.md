@@ -16,3 +16,9 @@ Lowy is recorded as a consistent donor to organizations that advocate for Israel
 Lowy’s support extends to educational and communal institutions that promote a Zionist worldview and identification with the Israeli state.
 *   **Camp Ramah:** Lowy has provided financial support to **Camp Ramah**, a network of Jewish camps that integrates Zionist ideology and Hebrew language immersion into its core curriculum to foster long-term identification with Israel among youth. [Source: Jewish Journal - Camp Ramah Philanthropy](https://jewishjournal.com/community/365538/ramah-lights-up-sinai-temple-jnf-usa-global-conference/)
 *   **Holocaust Education and Israel:** As a donor to the **United States Holocaust Memorial Museum (USHMM)**, Lowy supports programs that often link the memory of the Holocaust to the necessity of the State of Israel, a central tenet of modern Zionist advocacy. [Source: USHMM - Donor List 2008-09](https://www.ushmm.org/m/pdfs/20090812-annual-report-2008-2009.pdf)
+
+## Supported Candidates
+
+| Candidate   |   Years | Direct Contributions   | Behested Payments   |
+|-------------|---------|------------------------|---------------------|
+| Matt Haney  |    2021 | $100                   | $0                  |

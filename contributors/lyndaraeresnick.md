@@ -33,3 +33,9 @@ Resnick’s support extends to prominent Jewish and Zionist communal organizatio
 *   **Jewish National Fund (JNF) and Simon Wiesenthal Center:** Resnick is a documented supporter and donor to the JNF and the Simon Wiesenthal Center. Her association with these groups is part of a broader portfolio of Zionist philanthropy aimed at land development in Israel and advocacy against antisemitism.
     *   [Source: Jay's Valet - Client Testimonials referencing JNF](https://jaysvalet.com/testimonials/)
     *   [Source: Sony Pictures Classics - Biography of Lynda Resnick mentioning Simon Wiesenthal Center context](https://www.sonyclassics.com/thegreatestmovieeversold/presskit.pdf)
+
+## Supported Candidates
+
+| Candidate            |   Years | Direct Contributions   | Behested Payments   |
+|----------------------|---------|------------------------|---------------------|
+| Christopher Cabaldon |    2023 | $5,500                 | $0                  |
