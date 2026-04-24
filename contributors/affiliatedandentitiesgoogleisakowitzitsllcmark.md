@@ -47,6 +47,8 @@ Political donations are frequently filed under the name **"Google LLC and Affili
 * [FEC: Itemized Receipts for Mark Isakowitz](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Mark+Isakowitz)
 
 
+
+
 ## Supported Candidates
 
 | Candidate    | Years     | Direct Contributions   | Behested Payments   |

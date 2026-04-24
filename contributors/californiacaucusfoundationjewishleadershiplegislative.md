@@ -35,6 +35,8 @@ The foundation operates in close coordination with established Zionist lobbying 
     *   *Source:* [Digital Democracy: Contributor Profile - California Jewish Legislative Caucus Leadership Foundation](https://digitaldemocracy.calmatters.org/organizations/california-jewish-legislative-caucus-leadership-foundation)
 
 
+
+
 ## Supported Candidates
 
 | Candidate    |   Years | Direct Contributions   | Behested Payments   |

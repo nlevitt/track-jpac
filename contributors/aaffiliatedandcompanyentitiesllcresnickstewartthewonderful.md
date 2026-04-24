@@ -39,6 +39,8 @@ As owners of **The Wonderful Company**, the Resnicks use profits from several gl
 Due to these documented financial ties, these brands have been identified by boycott movements such as the **BDS Coalition** as targets for consumers seeking to avoid supporting Israeli military and institutional expansion.
 *   **Source:** [BDS Coalition: The Wonderful Company/Resnick Foundation Profile](https://bdscoalition.ca/the-wonderful-company-resnick-foundation/)
 
+
+
 ## Supported Candidates
 
 | Candidate            |   Years | Direct Contributions   | Behested Payments   |

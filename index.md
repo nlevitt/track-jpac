@@ -1,13 +1,15 @@
 # Aggregate Summary: Zionist Contributions
-Generated on: 2026-04-24 14:25:14
+Generated on: 2026-04-24 14:37:23
 
 ## Candidates with Identified Support
 
 | Candidate                                                                  | Zionist Contributions   | Zionist Behested Payments   |
 |----------------------------------------------------------------------------|-------------------------|-----------------------------|
 | [Scott Wiener](candidates/Scott_Wiener_20260424_141519.md)                 | $289,626                | $30,000                     |
+| [Steven Glazer](candidates/Steven_Glazer_20260424_142923.md)               | $230,880                | $0                          |
 | [Matt Haney](candidates/Matt_Haney_20260424_135947.md)                     | $54,300                 | $0                          |
 | [Christopher Cabaldon](candidates/Christopher_Cabaldon_20260424_142248.md) | $37,500                 | $0                          |
+| [Bill Dodd](candidates/Bill_Dodd_20260424_142852.md)                       | $26,900                 | $0                          |
 
 
 ## Methodology
