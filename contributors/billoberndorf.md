@@ -51,6 +51,8 @@ While identified as a pro-Israel donor, Oberndorf's past financial activity incl
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate     | Years     | Direct Contributions   | Behested Payments   |

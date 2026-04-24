@@ -42,6 +42,8 @@ In addition to his focus on Israel, Oberndorf utilizes his wealth to influence l
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate     | Years     | Direct Contributions   | Behested Payments   |

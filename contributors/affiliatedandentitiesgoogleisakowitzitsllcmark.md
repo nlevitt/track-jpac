@@ -70,6 +70,8 @@ Political donations are frequently filed under the name **"Google LLC and Affili
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate    | Years     | Direct Contributions   | Behested Payments   |

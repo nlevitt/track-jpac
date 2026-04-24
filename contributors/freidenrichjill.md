@@ -33,6 +33,8 @@ Freidenrich is recognized as a "Key Donor" (contributing $1 million or more) to 
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate   |   Years | Direct Contributions   | Behested Payments   |

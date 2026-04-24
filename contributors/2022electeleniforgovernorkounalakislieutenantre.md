@@ -43,6 +43,8 @@ Kounalakis’s political network includes high-level figures within the pro-Isra
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate         |   Years | Direct Contributions   | Behested Payments   |

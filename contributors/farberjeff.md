@@ -38,6 +38,8 @@ As of 2024, the Koret Foundation reported total assets of approximately **$316 m
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate         |   Years | Direct Contributions   | Behested Payments   |

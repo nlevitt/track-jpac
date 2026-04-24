@@ -50,6 +50,8 @@ Prior to and during his time in the Assembly, Gabriel has held leadership roles 
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate   |   Years | Direct Contributions   | Behested Payments   |

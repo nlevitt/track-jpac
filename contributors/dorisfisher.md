@@ -41,6 +41,8 @@ Fisher is a long-term member and "Legacy" donor of **Congregation Emanu-El** in 
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate            | Years     | Direct Contributions   | Behested Payments   |

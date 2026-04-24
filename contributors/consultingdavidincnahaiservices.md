@@ -52,6 +52,8 @@ Nahai has been a key figure in **30 Years After**, an organization dedicated to 
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate      |   Years | Direct Contributions   | Behested Payments   |

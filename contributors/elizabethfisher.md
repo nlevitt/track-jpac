@@ -38,6 +38,8 @@ Through her various roles, Fisher has facilitated partnerships with major pro-Is
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate     | Years     | Direct Contributions   | Behested Payments   |

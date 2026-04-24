@@ -1,5 +1,5 @@
 # Aggregate Summary: Zionist Contributions
-Generated on: 2026-04-24 15:49:31
+Generated on: 2026-04-24 16:42:48
 
 ## Candidates with Identified Support
 
@@ -29,12 +29,12 @@ Generated on: 2026-04-24 15:49:31
 | [Ash Kalra](candidates/Ash_Kalra_20260424_153712.md)                       | $3,500                  | $0                          |
 | [Diane Papan](candidates/Diane_Papan_20260424_153004.md)                   | $1,500                  | $0                          |
 
-## Candidates with Zero Identified Support
+## Data Unavailable (Not Found on PowerSearch)
 
 | Candidate                                                      | Zionist Contributions   | Zionist Behested Payments   |
 |----------------------------------------------------------------|-------------------------|-----------------------------|
-| [Annette Taddeo](candidates/Annette_Taddeo_20260424_152407.md) | $0                      | $0                          |
-| [Liz Ortega](candidates/Liz_Ortega_20260424_152947.md)         | $0                      | $0                          |
+| [Annette Taddeo](candidates/Annette_Taddeo_20260424_164241.md) | $0                      | $0                          |
+| [Liz Ortega](candidates/Liz_Ortega_20260424_164248.md)         | $0                      | $0                          |
 
 ## Methodology
 

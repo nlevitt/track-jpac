@@ -45,6 +45,8 @@ Documentation indicates that Buc’s support for Israel aligns with "liberal Zio
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate      |   Years | Direct Contributions   | Behested Payments   |

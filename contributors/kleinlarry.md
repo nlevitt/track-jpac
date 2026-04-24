@@ -21,6 +21,8 @@ Following the events of October 7, 2023, Klein has actively coordinated with loc
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate   | Years     | Direct Contributions   | Behested Payments   |

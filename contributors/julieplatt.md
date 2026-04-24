@@ -45,6 +45,8 @@ Julie Platt (née Beren) is a prominent American political donor and communal le
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate   |   Years | Direct Contributions   | Behested Payments   |

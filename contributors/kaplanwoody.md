@@ -37,6 +37,8 @@ Woody Kaplan's relationship to Zionism was defined by his support for the libera
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate      |   Years | Direct Contributions   | Behested Payments   |

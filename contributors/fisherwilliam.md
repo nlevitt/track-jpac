@@ -37,6 +37,8 @@ Beyond the AJC, Fisher’s broader philanthropic profile includes support for ot
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate            | Years     | Direct Contributions   | Behested Payments   |

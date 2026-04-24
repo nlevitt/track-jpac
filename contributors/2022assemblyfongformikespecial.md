@@ -45,6 +45,8 @@ The committee "Mike Fong for Assembly 2022 Special" was formed to support Fong's
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate      |   Years | Direct Contributions   | Behested Payments   |

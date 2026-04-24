@@ -48,6 +48,8 @@ Yee's campaign is supported by the **Democratic Majority for Israel (DMFI) PAC**
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate      |   Years | Direct Contributions   | Behested Payments   |

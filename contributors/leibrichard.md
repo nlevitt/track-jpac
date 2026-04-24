@@ -36,6 +36,8 @@ Leib frequently addresses the issue of antisemitism and anti-Zionism in public f
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate            | Years     | Direct Contributions   | Behested Payments   |

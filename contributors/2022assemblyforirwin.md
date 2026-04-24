@@ -43,6 +43,8 @@ Organizations critical of Zionist influence in U.S. politics have documented Irw
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate      |   Years | Direct Contributions   | Behested Payments   |

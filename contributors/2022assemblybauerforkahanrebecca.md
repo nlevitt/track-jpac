@@ -43,6 +43,8 @@ Bauer-Kahan was a primary proponent of **AB 715**, a bill aimed at combating ant
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate      |   Years | Direct Contributions   | Behested Payments   |

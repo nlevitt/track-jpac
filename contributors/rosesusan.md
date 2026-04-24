@@ -47,6 +47,8 @@ As a leader of Hadassah, Rose has been a vocal proponent of Zionism as a central
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate      |   Years | Direct Contributions   | Behested Payments   |

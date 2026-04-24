@@ -37,6 +37,8 @@ During her tenure as a leader in the Senate, the state budget included significa
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate      |   Years | Direct Contributions   | Behested Payments   |

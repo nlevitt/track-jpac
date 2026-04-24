@@ -40,6 +40,8 @@ In January 2026, Senator Wiener faced a significant rupture in his relationship 
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate    |   Years | Direct Contributions   | Behested Payments   |

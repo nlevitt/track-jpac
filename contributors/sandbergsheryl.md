@@ -54,6 +54,8 @@ Through the Sheryl Sandberg & Dave Goldberg Family Foundation, Sandberg has dire
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate   |   Years | Direct Contributions   | Behested Payments   |

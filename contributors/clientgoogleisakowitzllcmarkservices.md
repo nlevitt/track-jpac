@@ -63,6 +63,8 @@ As a "Responsible Officer" for Google’s government affairs branch, Isakowitz o
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate    | Years     | Direct Contributions   | Behested Payments   |

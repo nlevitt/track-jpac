@@ -47,6 +47,8 @@ The Bloomfields are known for significant contributions to domestic educational 
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate     | Years     | Direct Contributions   | Behested Payments   |

@@ -48,6 +48,8 @@ Welinsky uses financial contributions to support candidates who align with his a
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate   | Years     | Direct Contributions   | Behested Payments   |

@@ -30,6 +30,8 @@ Marc Berman is a Democratic member of the California State Assembly, representin
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate   | Years     | Direct Contributions   | Behested Payments   |

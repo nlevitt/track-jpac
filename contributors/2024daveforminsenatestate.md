@@ -43,6 +43,8 @@ Min’s relationship with Zionist advocacy is defined by his alignment with "lib
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate      |   Years | Direct Contributions   | Behested Payments   |

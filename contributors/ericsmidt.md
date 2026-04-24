@@ -36,6 +36,8 @@ Smidt’s philanthropic work frequently intersects with pro-Israel advocacy thro
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate           |   Years | Direct Contributions   | Behested Payments   |

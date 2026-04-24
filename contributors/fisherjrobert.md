@@ -48,6 +48,8 @@ Fisher is active within the Jewish Community Federation and Endowment Fund of Sa
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate           | Years     | Direct Contributions   | Behested Payments   |

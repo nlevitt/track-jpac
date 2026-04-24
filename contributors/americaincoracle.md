@@ -45,6 +45,8 @@ Oracle America, Inc. operates a Political Action Committee (**Oracle PAC**) that
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate   | Years     | Direct Contributions   | Behested Payments   |

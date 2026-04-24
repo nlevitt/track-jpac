@@ -37,6 +37,8 @@ Petrie-Norris’s relationship with Zionist advocacy is further evidenced by her
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate      |   Years | Direct Contributions   | Behested Payments   |
