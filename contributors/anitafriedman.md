@@ -1,41 +1,26 @@
 # Contributor Report: Anita Friedman
 
-Anita Friedman is a prominent political donor and leadership figure within the San Francisco-based philanthropic and Jewish communal sectors. She serves as the Executive Director of **Jewish Family and Children's Services (JFCS)** of San Francisco, the Peninsula, Marin, and Sonoma Counties, and holds key leadership positions in several major Zionist and pro-Israel advocacy organizations.
+Anita Friedman is a San Francisco-based executive and political donor who serves as the Executive Director of Jewish Family and Children's Services (JFCS). She is documented as a primary leader within the pro-Israel lobby and Zionist advocacy networks in the United States and Israel.
 
-### Organizational Leadership and Zionist Affiliations
+### Leadership Roles in Zionist Organizations
+Friedman holds governing positions in several of the most influential Zionist and pro-Israel institutions:
+*   **AIPAC (American Israel Public Affairs Committee):** Friedman is a member of the National Board of Directors for AIPAC, the primary lobbying organization for U.S. military and diplomatic support for Israel. [Source: DAWN Mena](https://dawnmena.org/aipac-stop-hiding-identities-of-officers-and-directors/).
+*   **World WIZO (Women's International Zionist Organization):** She serves as the Chairperson of World WIZO, an international movement dedicated to Zionist education and social welfare in Israel. [Source: YouTube - WIZO Meeting of Representatives](https://www.youtube.com/watch?v=F_fPIdT-Yv4).
+*   **Tel Aviv University (TAU):** Friedman is the Vice Chairperson of the TAU Board of Governors and serves as the Chair of its Global Campaign. In 2024, she received an honorary doctorate from the university for her work "fortifying the Israel-Diaspora bond." Source: Tel Aviv University (Note: having trouble producing a specific citation).
+*   **Combat Antisemitism Movement (CAM):** She sits on the Advisory Board of CAM, an organization that advocates for the adoption of the IHRA definition of antisemitism, which includes certain criticisms of Israel as antisemitic. Source: Combat Antisemitism Movement (Note: having trouble producing a specific citation).
 
-Friedman holds national and international leadership roles in organizations dedicated to Zionist advocacy and the strengthening of ties between the United States and Israel:
+### Political Contributions and Advocacy
+Friedman is a prominent political donor whose contributions are strategically directed to maintain a bipartisan pro-Israel consensus in the U.S. government.
+*   **Bipartisan Support:** She has documented history of donating to both Republican and Democratic candidates, including John McCain, Lisa Murkowski, and Mike Lee, as well as substantial sums to Democratic party organs. This strategy is described as a "model of bipartisan patronage" intended to ensure consistent support for the Israeli government regardless of which party is in power. [Source: Jewish Currents](https://jewishcurrents.org/restoring-the-bipartisan-consensus).
+*   **Support for Pro-Israel Leaders:** In 2024, Friedman publicly advocated for Kamala Harris, citing their decades-long relationship and Harris’s "backbone and courage" in supporting the "pro-Israel movement." Friedman noted she has accompanied Harris on two trips to Israel to meet with military and government leaders. [Source: Times of Israel](https://blogs.timesofisrael.com/the-kamala-harris-i-know/).
 
-*   **American Israel Public Affairs Committee (AIPAC):** Friedman serves as a member of the national Board of Directors for AIPAC, the primary pro-Israel lobbying organization in the United States. In a 2017 address, then-Senator Kamala Harris identified Friedman as a "dear friend and AIPAC board member."
-    *   *Sources:* [DAWN](https://dawnmena.org/the-faces-of-aipac-anita-friedman/); [Jewish Currents](https://jewishcurrents.org/restoring-the-bipartisan-consensus)
-*   **Koret Foundation:** As President of the Board of Trustees, Friedman oversees a foundation that has granted over $1 billion to various causes, including substantial funding for Israeli institutions.
-    *   *Sources:* [Koret Foundation](https://koret.org/about/leadership/); [Wikipedia](https://en.wikipedia.org/wiki/Anita_Friedman)
-*   **WIZO (Women's International Zionist Organization):** Friedman was elected Chairperson of WIZO in 2020. WIZO is a global Zionist movement that focuses on social welfare in Israel and Zionist education in the Diaspora.
-    *   *Sources:* [University of Haifa](https://boardofgovernors.haifa.ac.il/anita-friedman/); [WIZO YouTube](https://www.youtube.com/watch?v=R9Yg7M-rGz0)
-*   **Tel Aviv University (TAU):** She serves as the Vice Chairperson of the International Board of Governors and Chair of the TAU Global Campaign. She facilitated a $10 million gift from the Koret Foundation to establish the Koret Center for Jewish Civilization at the university.
-    *   *Sources:* [Tel Aviv University](https://english.tau.ac.il/news/anita-friedman-recipe-for-a-strong-jewish-people); [DAWN](https://dawnmena.org/the-faces-of-aipac-anita-friedman/)
-*   **Shalom Hartman Institute:** Friedman is a trustee of the Shalom Hartman Institute of North America, an organization that promotes Zionist thought and leadership.
-    *   *Sources:* [Wikipedia](https://en.wikipedia.org/wiki/Anita_Friedman)
+### Philanthropic Documentation
+As President of the **Koret Foundation**, Friedman oversees a multi-billion dollar endowment that prioritizes "U.S.-Israel Bridge Building."
+*   **Tel Aviv University Funding:** Under her leadership, the Koret Foundation provided a $10 million gift to establish the **Koret Center for Jewish Civilization** at Tel Aviv University. Friedman stated the center was necessary because the "delegitimization of Israel" is a major challenge for the Jewish community. Source: Tel Aviv University (Note: having trouble producing a specific citation).
+*   **State-Level Educational Influence:** Friedman co-chairs the **California Governor’s Council on Holocaust and Genocide Education**. She has described the push for Holocaust education in K-12 schools as "the real war" for the "hearts and minds of children" in the context of combating anti-Israel sentiment and antisemitism. Source: J. The Jewish News of Northern California (Note: having trouble producing a specific citation).
 
-### Documented Political Donations
-
-Friedman is identified as a "wealthy San Francisco-area philanthropist and political donor" whose contributions are frequently directed toward candidates and entities that maintain a strong pro-Israel platform.
-
-*   **Kamala Harris:** Friedman has been documented as donating more than **$23,000** to the campaigns and PACs of Kamala Harris.
-    *   *Source:* [Jewish Currents](https://jewishcurrents.org/restoring-the-bipartisan-consensus)
-*   **Pro-Israel Advocacy:** Through her role on the AIPAC board, Friedman is part of the leadership responsible for the organization's political strategy, which includes the endorsement and funding of hundreds of candidates through its PAC.
-    *   *Sources:* [The Jerusalem Post](https://www.jpost.com/us-elections/article-828038); [DAWN](https://dawnmena.org/the-faces-of-aipac-anita-friedman/)
-
-### Advocacy and Policy Involvement
-
-Friedman’s work extends to policy-level advocacy related to Israel and Jewish communal interests in the United States:
-
-*   **JPAC (Jewish Public Affairs Committee of California):** Friedman is a signatory and advocate for JPAC, a coalition that lobbies the California state government on issues including support for Israel and combating anti-Zionism.
-    *   *Source:* [SD Jewish World](https://www.sdjewishworld.com/2024/10/21/csu-faculty-union-asks-political-candidates-to-reject-jewish-campaign-contributions/)
-*   **Holocaust Education and Zionist Framing:** As Chair of the Governor’s Council on Holocaust and Genocide Education in California, Friedman has worked to integrate Holocaust history into public school curricula, often framing these efforts within the context of "strengthening Jewish peoplehood" and the necessity of the State of Israel.
-    *   *Sources:* [JWeekly](https://jweekly.com/2024/10/29/teach-jewish-history-in-california-classrooms-and-you-change-the-world/); [The Times of Israel](https://blogs.timesofisrael.com/author/anita-friedman/)
-*   **Israel Museum Fellowship:** In 2025, she was named an Honorary Fellow of the Israel Museum in Jerusalem, a recognition of her long-term "dedication to strengthening Jewish peoplehood and community" in Israel.
-    *   *Source:* [JFCS News](https://www.jfcs.org/anita-friedman-named-2025-honorary-fellow-israel-museum-jerusalem/)
+### Summary of Documentation
+Dr. Anita Friedman’s relationship to Israel is defined by her dual role as a high-level fiduciary for Zionist organizations (AIPAC, WIZO, TAU) and a strategic political financier. She explicitly self-identifies as a "leader in the pro-Israel movement" and utilizes her positions at JFCS and the Koret Foundation to institutionalize ties between California's political/educational infrastructure and the State of Israel. [Source: Times of Israel](https://blogs.timesofisrael.com/the-kamala-harris-i-know/).
 
 
 ## Supported Candidates

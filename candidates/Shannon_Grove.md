@@ -2,14 +2,13 @@
 
 **Role:** State Senator, District 12
 
-Shannon Grove is an incumbent Republican member of the California State Senate, representing District 12. Her district encompasses the southern Central Valley and parts of Fresno, Kern, and Tulare Counties.
+Shannon Grove currently serves as a Republican State Senator for District 12 in California, with her term set to conclude on December 7, 2026. She is also a candidate for the California State Board of Equalization, District 1, in the June 2026 primary election.
 
-Analyzed on: 2026-04-25 00:04:20
-**Total Zionist Contributions:** $16,000
+Analyzed on: 2026-04-25 02:27:43
+**Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 
 ### Zionist Direct Contributions
 
-| Contributor                                                                 | Years     | Total Amount   | Relationship to Israel                                                                                                                   |
-|-----------------------------------------------------------------------------|-----------|----------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| [Kevin Mc Carthy for Congress](../contributors/carthycongressforkevinmc.md) | 2011-2013 | $16,000        | As former House Speaker, has consistently advocated strong US-Israel alliance, visited Israel, and supported pro-Israel legislation/aid. |
+No Zionist supporters identified among contributors.
+

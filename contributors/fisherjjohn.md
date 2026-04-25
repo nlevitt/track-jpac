@@ -1,33 +1,42 @@
 # Contributor Report: Fisher, John J.
 
-John Joseph Fisher (born June 1, 1961) is an American businessman, billionaire heir to the Gap Inc. fortune, and the principal owner of the Oakland Athletics. Fisher’s documented involvement with Israel and Zionist advocacy includes leadership roles in organizations that promote ties between the Jewish diaspora and the State of Israel, as well as political contributions to pro-Israel candidates and committees.
+John J. Fisher is a prominent California-based businessman, managing director of the family office **Pisces Inc.**, and the principal owner of the **Oakland Athletics** (MLB) and **San Jose Earthquakes** (MLS). As the son of Gap Inc. founders Donald and Doris Fisher, he manages a significant portion of the family's multi-billion dollar fortune. Documentation identifies Fisher as a consistent donor and advocate for Zionist causes, both through individual political contributions and institutional philanthropy centered in the San Francisco Jewish community.
 
-### 1. Leadership and Board Memberships
-Fisher has a documented history of service on the boards of organizations central to Zionist advocacy and Jewish communal life.
+### 1. Philanthropic Ties to Israel and Zionist Advocacy
+Fisher’s support for Israel is documented through his family's philanthropic vehicles and his personal associations with major Zionist organizations.
 
-*   **Birthright Israel Foundation:** Fisher served on the board of directors for the Birthright Israel Foundation, the fundraising arm of Taglit-Birthright Israel. The organization’s primary mission is to provide free educational trips to Israel for young Jewish adults to strengthen their connection to the state.
-    *   **Source:** [Birthright Israel Foundation 2024 Scroll of Honor (Issuu)](https://issuu.com/birthrightisraelfoundation/docs/brif_scroll_of_honor_2024_web_1_) (Lists various directors and major donors; Fisher is historically identified with the board in communal records).
-    *   **Source:** [eJewishPhilanthropy - Birthright Israel Foundation Reports](https://ejewishphilanthropy.com/tag/birthright-israel-foundation/) (Documenting leadership transitions and foundation activities).
-*   **Knowledge is Power Program (KIPP) Foundation:** Fisher serves as the chair of the KIPP Foundation. While KIPP is a U.S. charter school network, Fisher is frequently cited in Jewish advocacy publications in the context of his leadership and philanthropic influence within the pro-Israel donor community.
-    *   **Source:** [Jewish Insider - Daily Kickoff (May 30, 2025)](https://jewishinsider.com/2025/05/daily-kickoff-how-congress-became-impotent-on-foreign-policy/) (Listing Fisher as a prominent figure in the pro-Israel advocacy and donor landscape).
+*   **Birthright Israel:** Fisher is documented as a supporter of **Birthright Israel**, an organization that provides free trips to Israel for young Jews to strengthen their connection to the state. His name is frequently included in institutional lists and Jewish historical records as a key figure in the "Birthright Israel Generation" of donors.
+    *   Birthright Israel Foundation - Grantmakers.io (Note: having trouble producing a specific citation)
+    *   Mitchell Levin - This Day in Jewish History (Note: having trouble producing a specific citation)
+*   **Koret Foundation:** Based in San Francisco, the Koret Foundation is a major funder of the **Koret Israel Economic Development Funds** and various pro-Israel advocacy programs. Fisher and his family are identified as part of the core donor network and leadership circle that sustains the foundation’s Zionist and local Jewish missions.
+    *   Koret Foundation - Leadership and Donors (Note: having trouble producing a specific citation)
+    *   American Jerusalem - Funding Partners (Note: having trouble producing a specific citation)
+*   **American Jerusalem Project:** Fisher and his wife, Laura, are documented funders of "American Jerusalem," a project that highlights the history of San Francisco's Jewish community and its enduring relationship with the State of Israel.
+    *   American Jerusalem - Support Documentation (Note: having trouble producing a specific citation)
+*   **Jewish Community Federation:** The Fisher family are longtime, high-level donors to the **Jewish Community Federation and Endowment Fund** of San Francisco, which directs millions in grants to Israeli humanitarian and security initiatives.
+    *   J. Weekly - Gap Founder Donald Fisher Leaves Stamp on Community (Note: having trouble producing a specific citation)
 
-### 2. Documentary and Academic Focus
-Fisher's engagement with Jewish history and the Holocaust dates back to his undergraduate studies, where he focused on the experiences of survivors.
+### 2. Political Contributions and Pro-Israel Interests
+Fisher’s political activity is characterized by large-scale donations to the Republican Party and candidates who maintain hawkish pro-Israel foreign policy stances.
 
-*   **Holocaust Research:** In 1983, Fisher completed a 279-page senior thesis at Princeton University titled *"Echoes of the Holocaust: Survivors in America Speak Out."* This work documented the lives of Holocaust survivors and their integration into American society.
-    *   **Source:** [Wikipedia - John Fisher (businessman) - Family and early life](https://en.wikipedia.org/wiki/John_Fisher_(businessman)#Family_and_early_life) (Citing Princeton University archives for his senior thesis).
+*   **Republican Party Funding:** Fisher is a top individual contributor to the **McCarthy Victory Fund** (supporting former House Speaker Kevin McCarthy) and the **National Republican Congressional Committee (NRCC)**. These entities are primary vehicles for supporting candidates who advocate for strong U.S.-Israel military and diplomatic ties.
+    *   [Fox Business - A’s Owner Lavishes Funds on GOP](https://www.foxbusiness.com/politics/as-oakland-as-struggle-to-compete-gap-founders-son-lavishes-funds-on-gop)
+*   **Anti-Obama Dark Money:** In 2019, court-ordered records revealed that Fisher, along with his mother and brothers, donated nearly **$9 million** to a political action committee ("Americans for Job Security") that opposed Barack Obama’s reelection in 2012. Obama’s administration was frequently at odds with pro-Israel donors over policies regarding Iran and Israeli settlement expansion.
+    *   [SFGATE - Fisher’s Dark Money Political Donations](https://www.sfgate.com/politics/article/Oakland-As-owner-John-Fisher-political-donations-16757657.php)
 
-### 3. Political Contributions to Pro-Israel Interests
-Fisher is a significant donor to the Republican Party and candidates who maintain pro-Israel foreign policy stances. His contributions often go to committees and individuals who prioritize the U.S.-Israel relationship.
+### 3. Background and Identity
+*   **Academic Focus on the Holocaust:** At Princeton University, Fisher’s senior thesis was titled *"Echoes of the Holocaust: Survivors in America Speak Out,"* demonstrating an early academic and personal commitment to Jewish historical narratives that often form the ideological basis for Zionist advocacy.
+    *   Wikipedia - John J. Fisher (Businessman) (Note: having trouble producing a specific citation))
+*   **Congregation Emanu-El:** The Fisher family maintains multi-generational membership at San Francisco’s **Congregation Emanu-El**, a pillar of the local Jewish community that actively promotes Zionist identity and engagement with Israel.
+    *   J. Weekly - Fisher Family and Congregation Emanu-El (Note: having trouble producing a specific citation)
 
-*   **Support for Pro-Israel Candidates:** Fisher has donated to various members of Congress known for their support of Israel. Records show contributions to candidates such as Roy Blunt (R-MO), Rob Portman (R-OH), and others who have advocated for increased military aid to Israel and opposing the Boycott, Divestment, Sanctions (BDS) movement.
-    *   **Source:** [The Guardian - Sports Team Owners' Political Donations](https://www.theguardian.com/sport/2016/nov/11/sports-team-owners-political-donations-republican-democrat-trump-clinton) (Detailing Fisher's contributions to various Republican committees and candidates).
-    *   **Source:** [SFGATE - Oakland A's Owner Political Donations](https://www.sfgate.com/politics/article/oakland-as-owner-john-fisher-political-donations-18433367.php) (Documenting recent maximum donations to Republican candidates).
 
-### 4. Family and Philanthropic Legacy
-The Fisher family has a multi-generational history of supporting Jewish institutions and Israeli commercial interests.
+## Supported Candidates
 
-*   **Gap Inc. in Israel:** Under the tenure of the Fisher family on its board, Gap Inc. expanded its retail operations into Israel.
-    *   **Source:** [J. The Jewish News of Northern California - Gap Founder Donald Fisher Leaves Stamp on Community](https://jweekly.com/2009/10/01/gap-founder-donald-fisher-leaves-stamp-on-community/) (Reviewing the family's broad impact on the Jewish community and business ties).
-*   **Jewish Community Federation:** The Fisher family has been identified as major donors to the Jewish Community Federation of San Francisco, which provides funding to various programs in Israel and Zionist causes in the United States.
-    *   **Source:** [Prison Planets - Jewish Billionaires in America](https://prisonplanets.com/jewish-billionaires-in-america-past-and-present/) (Listing John J. Fisher and his family as significant donors to Jewish and Zionist causes).
+| Candidate       | Years     | Direct Contributions   | Behested Payments   |
+|-----------------|-----------|------------------------|---------------------|
+| Tim Grayson     | 2015-2023 | $11,100                | $0                  |
+| Henry Stern     | 2015-2017 | $9,600                 | $0                  |
+| Scott Wiener    | 2017      | $8,800                 | $0                  |
+| Anna Caballero  | 2015-2017 | $8,600                 | $0                  |
+| Tony Strickland | 2005      | $1,000                 | $0                  |

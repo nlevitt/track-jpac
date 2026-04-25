@@ -2,9 +2,9 @@
 
 **Role:** State Senate President pro Tempore, District 21
 
-Monique Limón is the President pro Tempore of the California State Senate, representing District 21. Her district includes all of Santa Barbara County, over 60% of Ventura County, and approximately 20% of San Luis Obispo County.
+Monique Limón is the California State Senate President pro Tempore, having assumed office on November 17, 2025, and represents Senate District 21. She is the first Latina to hold the position of President pro Tempore and is actively involved in shaping the state's budget and legislative priorities.
 
-Analyzed on: 2026-04-24 23:43:04
+Analyzed on: 2026-04-25 02:59:38
 **Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 

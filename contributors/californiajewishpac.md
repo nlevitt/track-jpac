@@ -1,31 +1,31 @@
+As part of the research into California political donors, this report examines the **California Jewish PAC** (often associated with the **Jewish Public Affairs Committee of California** or **JPAC**, recently rebranded as **Jewish California**). The organization serves as a primary vehicle for Jewish community advocacy and political influence in the state, with a documented focus on Zionism and pro-Israel policy.
+
 # Contributor Report: California Jewish PAC
 
-The **California Jewish PAC** is a political committee in California that serves as a financial vehicle for Jewish advocacy groups to support state-level candidates and legislative measures. It is primarily affiliated with the **Jewish Public Affairs Committee of California (JPAC)**, which identifies as the largest single-state coalition of Jewish organizations in the United States. Its documented activities center on strengthening California-Israel relations, opposing the Boycott, Divestment, and Sanctions (BDS) movement, and combating antisemitism through legislative frameworks that include specific definitions of Zionism.
+### 1. Organizational Overview and Rebranding
+The **California Jewish PAC** is a political action committee that operates in coordination with the **Jewish Public Affairs Committee of California (JPAC)**, which identifies as the largest single-state coalition of Jewish organizations in the United States. In February 2026, the advocacy arm (JPAC) announced a rebranding to **Jewish California** to reflect its role as the "unified voice" for the state’s Jewish community in Sacramento [[1.14](https://www.sdjewishworld.com/2026/02/25/jewish-public-affairs-committee-renames-itself-jewish-california/)].
 
-### 1. Mission and Relationship to Israel
-The California Jewish PAC is the political arm associated with the Jewish Public Affairs Committee of California (JPAC). JPAC's stated mission includes "promoting economic and cultural ties between California and Israel" and "countering campaigns to 'delegitimize and demonize' the Jewish state."
+While the 501(c)(4) advocacy arm, Jewish California, publicly states it does not make direct campaign endorsements or contributions [[1.5](https://www.sdjewishworld.com/2025/10/21/csu-faculty-union-asks-political-candidates-to-reject-jewish-campaign-contributions/)], the **California Jewish PAC** (FPIC ID: 1243729) functions as the political financing entity. It receives significant funding from corporate interests and redistributes those funds to state candidates [1.2 (Note: having trouble producing a specific citation), [1.6](https://www.transparencyusa.org/ca/committee/california-jewish-pac-1243729)].
 
-*   **California-Israel Relations:** The organization advocates for increased trade and cooperation between California and Israel, particularly on issues such as water and energy technology. [Source: J Weekly (2017)](https://www.jweekly.com/2017/03/16/strength-in-numbers-jewish-caucus-a-powerful-advocate-in-sacramento/)
-*   **Strengthening Ties:** JPAC specifically states that its mission involves "strengthening ties with Israel" through legislative engagement and building alliances with state lawmakers. [Source: Jewish Journal (2017)](https://jewishjournal.com/community/219213/jewish-lobbying-group-takes-message-sacramento/)
+### 2. Relationship to Israel and Zionist Advocacy
+The organization’s political and legislative agenda is anchored in support for the State of Israel and the promotion of Zionist interests within California's government.
 
-### 2. Zionist Advocacy and Anti-BDS Initiatives
-The PAC and its affiliated groups are documented proponents of "Zionist advocacy," which they define as the support for the State of Israel's right to self-determination and the protection of its international standing.
+*   **Pro-Israel Policy Framework:** The organization’s policy framework includes "promoting economic and cultural ties between California and Israel" and actively countering campaigns intended to "delegitimize and demonize" the Jewish state [1.8 (Note: having trouble producing a specific citation)].
+*   **Opposition to BDS:** A core tenet of their advocacy is the opposition to the Boycott, Divestment, and Sanctions (BDS) movement. They have successfully lobbied gubernatorial and legislative candidates to pledge opposition to BDS and to deepen the state's "partnership with Israel" [1.15 (Note: having trouble producing a specific citation)].
+*   **Zionist Candidate Forums:** The PAC and its advocacy arm host high-profile candidate forums, such as the 2026 Governor Candidate Forum, where participants like Antonio Villaraigosa and Eric Swalwell pledged to "nurture the state's relationship with Israel" and shared their histories of traveling to the region [1.9 (Note: having trouble producing a specific citation)].
+*   **Defining Antisemitism via Israel Support:** The organization was a primary sponsor of **Assembly Bill 715**, which focused on countering antisemitism in schools. The bill’s implementation, as advocated by the PAC, includes monitoring for content that "denies the right of Israel to exist" or compares Israeli policy to Nazism [1.3 (Note: having trouble producing a specific citation)].
 
-*   **Opposition to BDS:** JPAC was a primary supporter of **Assembly Bill 2844** (signed in 2016), which prohibits California from contracting with companies that participate in boycotts of Israel. The group argued that the BDS movement seeks to "damage" the relationship between the state and Israel. [Source: California State Assembly Bill Analysis (2016)](https://pro-israel-ca-legislation.squarespace.com/s/AB2844-4-19-16-Judiciary.pdf)
-*   **Legislative Trips to Israel:** The organization has organized and funded trips to Israel for members of the California Legislature, including the **California Legislative Jewish Caucus**, to educate them on Israeli security and policy issues. [Source: LA Progressive (2024)](https://www.laprogressive.com/racism/ca-legislative-jewish-caucus)
-*   **Educational Advocacy:** The group successfully lobbied to remove mentions of "Palestine" and "BDS" from the California State Ethnic Studies Model Curriculum, arguing that such content was "anti-Israel." [Source: Jewish Currents (2020)](https://jewishcurrents.org/california-compromises-on-ethnic-studies)
+### 3. Financial Activity and Candidate Support
+The California Jewish PAC acts as a conduit for corporate and private donors to support candidates aligned with their pro-Israel and community priorities.
 
-### 3. Financial and Corporate Support
-The California Jewish PAC receives funding from several major U.S. corporations, which list it as a recipient of political contributions in their transparency reports.
+*   **Corporate Contributions:** In the 2024-2025 cycles, the PAC received major contributions from corporations including **AT&T** ($35,000), **Uber** ($20,000), **Salesforce** ($15,000), and **DaVita** ($15,000) 1.2 (Note: having trouble producing a specific citation), 1.12 (Note: having trouble producing a specific citation), [1.14 (Note: having trouble producing a specific citation)].
+*   **Candidate Funding:** The PAC has documented expenditures supporting specific "Zionist" candidates, such as **Assemblymember Jesse Gabriel** (Chair of the California Legislative Jewish Caucus) and **State Senator Ben Allen**, both of whom have received maximum allowable contributions for their respective races [[1.6](https://www.transparencyusa.org/ca/committee/california-jewish-pac-1243729)].
+*   **Fundraising Strength:** As of recent filings, the California Jewish PAC maintained approximately **$404,265 in cash on hand**, positioning it as a significant financial player in California state politics [[1.6](https://www.transparencyusa.org/ca/committee/california-jewish-pac-1243729)].
 
-*   **Corporate Donors:** Contributors include **Verizon** ($5,000 in 2024), **AT&T** ($35,000 in 2024), **Uber** ($20,000 in 2024), and **Pfizer** ($1,000 in 2021). [Sources: [Verizon](https://www.verizon.com/about/sites/default/files/2024-Political-Engagement-Report.pdf), [AT&T](https://about.att.com/ecms/dam/csr/political-engagement/AT&T-Political-Engagement-Report-July-December-2024.pdf), [Uber](https://s23.q4cdn.com/407969754/files/doc_downloads/governance/2024/Uber-2024-US-Political-Engagement-Report.pdf), [Pfizer](https://www.pfizer.com/sites/default/files/investors/corporate_governance/Pfizer_PAC_2021_Annual_Report.pdf)]
-*   **Expenditures:** Data from the 2023-2024 cycle indicates the PAC has maintained over $400,000 in cash on hand, with top payees including the **Jewish Public Affairs Committee of California** and various state legislators such as **Ben Allen** and **Jesse Gabriel**. [Source: Transparency USA](https://www.transparencyusa.org/ca/committee/california-jewish-pac-1234907)
-
-### 4. Leadership and Affiliations
-The PAC's leadership is closely linked to the broader "organized Jewish community" in California, including federations and community relations councils.
-
-*   **Organizational Membership:** JPAC represents a coalition of more than 30 member organizations, including the **Jewish Federation of Greater Los Angeles**, the **Anti-Defamation League (ADL)**, and **Hadassah**. [Source: Jewish Journal (2019)](https://jewishjournal.com/community/305886/jpac-advocates-for-jewish-causes/)
-*   **Legislative Coordination:** The PAC works in tandem with the **California Legislative Jewish Caucus** to advance a shared agenda regarding Israeli security and antisemitism legislation, such as **AB 715**, which established a statewide antisemitism coordinator. [Source: J Weekly (2025)](https://www.jweekly.com/2024/10/22/csu-faculty-union-conflates-state-jewish-lobby-with-tobacco-and-oil/)
+### 4. Controversies and Critical Reception
+The PAC's influence has led to friction with other political entities in California:
+*   **CFA Litmus Test:** In 2025, the **California Faculty Association (CFA)** included the California Jewish PAC in a questionnaire that asked candidates to reject donations from groups the union characterized as "harming working people." The union later apologized for the wording, but the incident highlighted the PAC’s perceived alignment with institutional power and pro-Israel lobbying alongside groups like AIPAC [1.8 (Note: having trouble producing a specific citation), [1.15](https://goldengatexpress.org/114496/news/california-faculty-association-under-fire-for-antisemitism/)].
+*   **Strategic Distancing from AIPAC:** Despite being grouped with the American Israel Public Affairs Committee (AIPAC) by critics, the California Jewish PAC maintains a distinct focus on *state-level* policy rather than federal foreign policy, though both organizations share the core goal of strengthening the U.S.-Israel relationship [1.8 (Note: having trouble producing a specific citation)].
 
 
 ## Supported Candidates
@@ -34,5 +34,6 @@ The PAC's leadership is closely linked to the broader "organized Jewish communit
 |--------------|-----------|------------------------|---------------------|
 | Matt Haney   | 2021-2023 | $25,700                | $0                  |
 | Josh Becker  | 2019-2025 | $21,600                | $0                  |
+| Henry Stern  | 2019-2023 | $13,350                | $0                  |
 | Scott Wiener | 2019-2023 | $13,350                | $0                  |
 | Susan Rubio  | 2021-2025 | $8,400                 | $0                  |

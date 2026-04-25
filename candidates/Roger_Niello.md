@@ -2,20 +2,16 @@
 
 **Role:** State Senator, District 6
 
-Roger Niello is a Republican currently representing California's 6th State Senate District, which encompasses the northern and eastern suburbs of the Sacramento metropolitan area, including portions of Sacramento and Placer counties. He was elected in 2022 and is seeking re-election in 2026.
+Roger Niello is a Republican California State Senator representing District 6, which includes portions of Sacramento and Placer counties. He assumed office in December 2022 and is running for re-election in June 2026.
 
-Analyzed on: 2026-04-25 00:02:36
-**Total Zionist Contributions:** $5,000
-**Total Zionist Behested Payments:** $36,444
-
-### Zionist Behested Payments
-
-| Contributor                                                                   |   Years | Total Amount   | Relationship to Israel                                                                     |
-|-------------------------------------------------------------------------------|---------|----------------|--------------------------------------------------------------------------------------------|
-| [Akin Gump Strauss Hauer & Feld](../contributors/akinfeldgumphauerstrauss.md) |    2011 | $36,444        | Serves as a registered foreign agent and lobbyist for the Government of Israel in the U.S. |
+Analyzed on: 2026-04-25 02:17:08
+**Total Zionist Contributions:** $5,850
+**Total Zionist Behested Payments:** $0
 
 ### Zionist Direct Contributions
 
-| Contributor                                  | Years     | Total Amount   | Relationship to Israel                                               |
-|----------------------------------------------|-----------|----------------|----------------------------------------------------------------------|
-| [EUCA PAC/I-3](../contributors/3eucaipac.md) | 2005-2007 | $5,000         | American Israel Public Affairs Committee; pro-Israel lobbying group. |
+| Contributor                                                                | Years     | Total Amount   | Relationship to Israel                                                                                            |
+|----------------------------------------------------------------------------|-----------|----------------|-------------------------------------------------------------------------------------------------------------------|
+| [EUCA PAC/I-3](../contributors/3eucaipac.md)                               | 2005-2007 | $5,000         | American Israel Public Affairs Committee; pro-Israel lobbying group.                                              |
+| [FISHER, NANCY](../contributors/fishernancy.md)                            | 2007-2009 | $450           | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
+| [HANK FISHER PROPERTIES, INC.](../contributors/fisherhankincproperties.md) | 2003-2007 | $400           | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |

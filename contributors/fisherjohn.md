@@ -1,35 +1,40 @@
-# California Contributor Report: Fisher, John
+# Contributor Report: Fisher, John
 
-This report documents the political and philanthropic activities of **John J. Fisher**, a prominent California-based donor, focusing on his financial and organizational support for Israel and Zionist advocacy.
+John Joseph Fisher is a prominent American businessman, principal owner of the Oakland Athletics (MLB) and the San Jose Earthquakes (MLS), and a high-ranking executive at **Pisces Inc.**, the family office for the founders of Gap Inc. 1.9 (Note: having trouble producing a specific citation), [1.11](https://www.forbes.com/profile/john-fisher/). Fisher has been identified as a significant political donor with a documented history of supporting Zionist organizations and Israeli causes through personal contributions and his family's philanthropic entities.
 
-### **1. Biographical and Professional Context**
-John Joseph Fisher (born June 1, 1961) is the son of **Gap Inc.** founders Donald and Doris F. Fisher. He serves as the President and Executive Vice Chairman of **Pisces Inc.**, the Fisher family’s investment management office, and is a founding partner of Sansome Partners. Fisher is most widely recognized as the majority owner of the **Oakland Athletics** (MLB) and the **San Jose Earthquakes** (MLS).
+### 1. Relationship to Zionist Advocacy and Israel
+Fisher’s support for Zionist advocacy is documented through direct political contributions and his leadership in organizations that promote a "lifelong connection" to Israel among Jewish youth.
 
-*   **Net Worth & Family Office:** Fisher’s net worth is estimated at approximately $3 billion, largely inherited from the Gap Inc. fortune. He manages these assets through Pisces Inc., based in San Francisco ([Forbes](https://www.forbes.com/profile/john-fisher/), Pisces Inc. Profile (Note: having trouble producing a specific citation)).
-*   **Early Academic Focus:** His interest in Jewish history and survival is evidenced by his 1983 Princeton University senior thesis titled *"Echoes of the Holocaust: Survivors in America Speak Out"* (Wikipedia (Note: having trouble producing a specific citation)), Princeton Alumni Weekly (Note: having trouble producing a specific citation)).
+*   **AIPAC Contributions:** Federal Election Commission (FEC) records show that John Fisher, identified by his role at **Pisces Inc.**, made direct financial contributions to the **American Israel Public Affairs Committee (AIPAC) PAC** as recently as 2025 1.13 (Note: having trouble producing a specific citation).
+*   **Birthright Israel Foundation:** Fisher is a documented donor to the **Birthright Israel Foundation**, an organization that funds 10-day immersive trips to Israel for young adults with the stated goal of "strengthening Jewish identity... and connections with Israel" 1.10 (Note: having trouble producing a specific citation), 1.14 (Note: having trouble producing a specific citation). His family foundation, the **Max & Marjorie Fisher Foundation** (associated with his extended family's philanthropic tradition), also provides general operating support for these trips [1.3](https://mmfisher.org/grant-partner/jewish-agency-for-israel-north-american-council/), [1.15](https://mmfisher.org/grant-partner/birthright-israel-foundation/).
+*   **Zionist Identity Programming:** Fisher serves as a Special Advisor to the **Doris & Donald Fisher Fund**, which partners with the **Koret Foundation** to support Jewish and Israeli initiatives at major institutions like UC Berkeley Law 1.3 (Note: having trouble producing a specific citation), 1.5 (Note: having trouble producing a specific citation). Through the Fisher Family Foundation, he supports **Moishe House**, a nonprofit that explicitly requires grant recipients to agree not to "deny Israel's right to exist as a secure, democratic Jewish state" or support the Boycott, Divestment, Sanctions (BDS) movement [1.22](https://jewishcurrents.org/who-owns-american-judaism), 1.18 (Note: having trouble producing a specific citation).
 
-### **2. Documented Support for Israel and Zionist Advocacy**
-Fisher is identified as a significant contributor to organizations that promote Jewish identity and the security of Israel. His support is often channeled through the **Doris & Donald Fisher Fund** and the **Jewish Community Federation of San Francisco**.
+### 2. Philanthropic and Organizational Affiliations
+Fisher’s pro-Israel advocacy is channeled through various San Francisco-based and national foundations where he holds leadership or advisory roles.
 
-*   **Birthright Israel:** Fisher and his family are documented supporters of the **Birthright Israel Foundation**, which provides free trips to Israel for young Jews to strengthen their connection to the state. The Koret Foundation (with which Fisher has close ties) is a $1 million+ "Scroll of Honor" donor to Birthright, and the Fisher family has historically funded the San Francisco Jewish Federation, a primary grantor to Birthright (Issuu - Birthright Scroll of Honor (Note: having trouble producing a specific citation), J Weekly (Note: having trouble producing a specific citation)).
-*   **Koret Foundation:** Fisher is closely associated with the **Koret Foundation**, a San Francisco-based philanthropic organization with a core mission of "strengthening the Bay Area and Israel." Fisher serves on the Board of Overseers for the **Hoover Institution**, where the Koret Foundation is a major benefactor (funding projects like the George P. Shultz Building). Both organizations share a focus on national security and pro-Israel policy advocacy (Hoover Institution 2024 Report (Note: having trouble producing a specific citation), Koret Foundation Mission (Note: having trouble producing a specific citation)).
-*   **San Francisco Jewish Community Federation:** Fisher and his parents have been long-time major contributors to the **Jewish Community Federation and Endowment Fund**. This federation provides significant "impact lending" and grants to Israeli social and security projects (Jewish Federation Bay Area 2023 Report (Note: having trouble producing a specific citation)).
+*   **Koret Foundation:** Fisher and his family's funds maintain a long-standing partnership with the **Koret Foundation**, a major funder of "vibrant Jewish life" and pro-Israel advocacy in the Bay Area 1.3 (Note: having trouble producing a specific citation), 1.11 (Note: having trouble producing a specific citation).
+*   **KIPP Foundation:** Fisher is the **Board Chair** of the KIPP (Knowledge Is Power Program) Foundation. While primarily focused on education, he is frequently highlighted in Jewish philanthropic circles (e.g., *eJewishPhilanthropy*, *Jewish Insider*) as a key leader within the Jewish donor community [1.11](https://www.forbes.com/profile/john-fisher/), 1.22 (Note: having trouble producing a specific citation).
+*   **Pisces Inc.:** As **Executive Vice President** (or Executive Vice Chairman) of Pisces Inc., Fisher manages the wealth used to fund these various Zionist-aligned philanthropic efforts 1.13 (Note: having trouble producing a specific citation), 1.5 (Note: having trouble producing a specific citation).
 
-### **3. Political Contributions and Advocacy**
-Fisher’s political giving reflects a consistent support for conservative candidates and pro-Israel causes, though he occasionally supports moderate Democrats.
+### 3. Political Donations and Lobbying
+Beyond Israel-specific organizations, Fisher is a prolific donor to the Republican Party, contributing millions to candidates and PACs that align with hawkish foreign policy and pro-Israel stances.
 
-*   **Conservative Dark Money:** In 2019, it was revealed that John Fisher, along with his mother and brothers, donated nearly **$9 million** to Americans for Job Security, a dark money group that opposed Barack Obama in the 2012 election ([Truthout](https://truthout.org/articles/trump-cabinet-members-donated-to-anti-obama-dark-money-group/)).
-*   **Pro-Israel Political Support:** Fisher has been recognized in pro-Israel publications like *Jewish Insider* and *eJewishPhilanthropy* for his role as a "leading supporter" of the Jewish community and for his alignment with Zionist advocacy groups (Jewish Insider (Note: having trouble producing a specific citation), eJewishPhilanthropy (Note: having trouble producing a specific citation)).
-*   **Individual Contributions:** Recent FEC filings show maximum contributions to Republican candidates such as **Doug Burgum** and **Mike Carey**, as well as support for the **Republican National Committee** ([SFGATE](https://www.sfgate.com/athletics/article/oakland-as-john-fisher-political-donations-18433364.php)).
-
-### **4. Public Statements on Israel**
-Fisher has publicly expressed his commitment to Israel’s survival, particularly in response to domestic and international criticism of the state.
-
-*   **Defense of Israel’s Legitimacy:** In correspondence published in the *Princeton Alumni Weekly*, Fisher (along with his wife Laura) was cited in the context of advocating against the "destruction of Israel" and emphasizing the "profound and dangerous difference between criticizing a government and condemning an entire people" (Princeton Alumni Weekly, Sept 2025 (Note: having trouble producing a specific citation)).
+*   **GOP and Pro-Israel Lobbying:** In 2019, it was revealed that Fisher and his family donated nearly **$9 million** to a political action committee opposing Barack Obama in 2012, and he has continued to fund GOP leadership funds and the **National Republican Congressional Committee (NRCC)** [1.7](https://www.foxbusiness.com/politics/as-oakland-as-struggle-to-compete-gap-founders-son-lavishes-funds-on-gop), 1.8 (Note: having trouble producing a specific citation).
+*   **Anti-BDS Stance:** Fisher is regularly included in lists of donors who fund efforts to "stand up to the BDS" movement in the United States 1.3 (Note: having trouble producing a specific citation).
 
 
 ## Supported Candidates
 
-| Candidate            |   Years | Direct Contributions   | Behested Payments   |
-|----------------------|---------|------------------------|---------------------|
-| Christopher Cabaldon |    2007 | $7,200                 | $0                  |
+| Candidate                   | Years     | Direct Contributions   | Behested Payments   |
+|-----------------------------|-----------|------------------------|---------------------|
+| Scott Wiener                | 2015-2021 | $10,150                | $0                  |
+| Anna Caballero              | 2017-2023 | $7,400                 | $0                  |
+| Christopher Cabaldon        | 2007      | $7,200                 | $0                  |
+| Tony Strickland             | 2009      | $5,000                 | $0                  |
+| Brian Jones                 | 2021-2023 | $4,500                 | $0                  |
+| Rosilicie Ochoa Bogh        | 2021-2023 | $3,000                 | $0                  |
+| Megan Dahle                 | 2019      | $2,500                 | $0                  |
+| Suzette Martinez Valladares | 2021-2025 | $2,500                 | $0                  |
+| Josh Becker                 | 2021      | $1,500                 | $0                  |
+| Tim Grayson                 | 2021      | $1,500                 | $0                  |
+| Akilah Weber                | 2021      | $1,500                 | $0                  |

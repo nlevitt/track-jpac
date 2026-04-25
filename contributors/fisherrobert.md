@@ -1,41 +1,44 @@
-This report examines the political and philanthropic activities of **Robert J. Fisher** (also known as Bob Fisher) regarding his support for Israel and his affiliation with Zionist advocacy organizations. Fisher is an American businessman and the long-time chairman of **Gap Inc.**
+# Contributor Report: Robert J. Fisher
 
-# Contributor Report: Fisher, Robert
+Robert Joseph "Bob" Fisher is a prominent California-based businessman and philanthropist best known as the former chairman and interim CEO of **Gap Inc.** and the managing director of **Pisces Inc.**, the Fisher family's investment firm. He has been identified as a significant donor to organizations that advocate for Zionism and support Israeli institutions.
 
-### 1. Affiliation with the American Jewish Committee (AJC)
-Fisher is a documented associate and board member of the **American Jewish Committee (AJC)**, a prominent global advocacy organization for Israel and Jewish interests. 
-*   **Affiliation:** Fisher has been identified as serving on the **Board of Governors** of the AJC. His leadership within the organization involves participating in high-level advocacy efforts.
-*   **Advocacy Actions:** In 2021 and 2022, Fisher was among a group of prominent leaders who signed a letter spearheaded by the AJC to defend the European Union’s coordinator on combating antisemitism, an effort directly linked to countering anti-Zionist sentiment in international policy.
-*   **Sources:** 
-    *   [Jewish Insider: Daily Kickoff - Robert J. Fisher turns 67](https://www.jewishinsider.com/2021/08/daily-kickoff-inside-bennetts-dc-meetings-an-interview-with-a-longtime-marine-corps-chaplain/)
-    *   [eJewish Philanthropy: AJC Spearheads Letter - Robert J. Fisher](https://ejewishphilanthropy.com/fewer-donors-more-needs-ensuring-the-future-of-jewish-funding/)
+### 1. Relationship to Zionist Advocacy and Israel
+Fisher’s support for Zionist causes is documented through personal contributions, family foundation grants, and his leadership roles in philanthropic organizations.
 
-### 2. Philanthropic Support for Israeli Institutions
-Fisher and his wife, Elizabeth (Randi) Fisher, have a history of funding infrastructure and social projects within Israel, often through the **Jerusalem Foundation**.
-*   **The J. Robert Fisher Center:** Fisher is the primary benefactor of the **J. Robert Fisher Center** in Jerusalem. Operated by the Micha Institute, the center provides diagnostic and educational services for hearing-impaired children in Israel. The project was established with support from the Jerusalem Foundation, an organization dedicated to the development of Jerusalem as a center for Jewish life.
-*   **Other Contributions:** Fisher has been listed as a "Legacy Donor" and a supporter of various Jewish federations that channel funds toward Israeli social and security interests.
-*   **Sources:**
-    *   [Jerusalem Foundation: J. Robert Fisher Center - Donor Information](https://www.jerusalemfoundation.org/project/j-robert-fisher-center/)
-    *   [Create Your Jewish Legacy: Robert Fisher Legacy Donor](https://www.createyourjewishlegacy.org/donors/arna-and-robert-fisher/)
+*   **Hebrew University of Jerusalem:** Fisher is a benefactor of the Hebrew University of Jerusalem, where he established the **Robert J. Fisher Scholarship Fund**. This fund is part of the university's broader endowment system supported by the American Friends of the Hebrew University to foster Israeli higher education and research.
+    *   [Source: Hebrew University President's Report](https://huji.ac.il/sites/default/files/huji/files/Presidents_Report_2010.pdf)
+*   **Manny’s (San Francisco):** Fisher has been identified as a "Zionist-aligned" donor to Manny’s, a community space in San Francisco that serves as a hub for Democratic organizing and frequently hosts events for Zionist organizations such as the **American Israel Public Affairs Committee (AIPAC)** and the **Jewish Community Relations Council (JCRC)**. Critics have characterized his funding as part of an effort to embed pro-Israel networks into local political structures.
+    *   Source: Reverse Canary Mission - Manny Yekutiel Profile (Note: having trouble producing a specific citation)
+*   **Birthright Israel:** While the "Max M. & Marjorie S. Fisher Foundation" is a primary national funder of Birthright Israel, Robert J. Fisher and the California-based Fisher family (associated with Gap Inc.) have also been documented as supporters of the **Birthright Israel Foundation**, which funds 10-day "heritage" trips to Israel for young Jews to "cement their relationship" to the state.
+    *   Source: eJewish Philanthropy - Your Daily Phil (Note: having trouble producing a specific citation)
+    *   Source: Prison Planets - Jewish Billionaires in America (Note: having trouble producing a specific citation)
+*   **Jewish Community Federation and Endowment Fund:** Fisher’s family (specifically his parents Donald and Doris Fisher) were "strong supporters" and charter funders of the **San Francisco-based Jewish Community Federation and Endowment Fund**, which allocates significant capital to Israeli social programs and Zionist advocacy. Robert J. Fisher has continued this legacy through his own philanthropic activities in the Bay Area.
+    *   [Source: J. Weekly - Gap founder Donald Fisher leaves stamp on community](https://jweekly.com/2009/10/02/gap-founder-donald-fisher-leaves-stamp-on-community/)
 
-### 3. Political Donations and Influence
-Fisher is a significant political contributor whose donations have supported candidates and groups that maintain a pro-Israel foreign policy stance. 
-*   **Domestic Political Influence:** Fisher has contributed millions to political action committees and dark money groups. In 2012, he donated **$1 million** to **Americans for Job Security**, a group that opposed the Obama administration. His family, collectively the "Fisher family," has been identified as one of the largest donors to conservative political organizations that align with pro-Israel lobbying groups.
-*   **Lobbying Ties:** While less publicly confrontational than other donors (such as Isaac Fisher), Robert Fisher’s political spending is frequently directed toward maintaining the bipartisan U.S.-Israel alliance.
-*   **Sources:**
-    *   [Truthout: Fisher Family Biggest Donor to Anti-Obama Group](https://truthout.org/articles/trump-cabinet-members-donated-to-anti-obama-dark-money-group/)
-    *   [Forbes: Billionaires Backing Bipartisan Candidates - Robert Fisher](https://www.forbes.com/profile/robert-fisher/)
+### 2. Koret Foundation Involvement
+Fisher has maintained a close relationship with the **Koret Foundation**, a major San Francisco-based philanthropic organization with a stated mission to support Israel and "bolster the Jewish people." 
 
-### 4. Corporate Alignment and Zionism
-As a principal shareholder and former chairman of **Gap Inc.**, Fisher has overseen a corporate environment where the company’s presence in Israel was maintained through franchise agreements.
-*   **Market Presence:** Gap and its subsidiary, Banana Republic, entered the Israeli market via franchises with Elbit Imaging Ltd. These business ties have occasionally made the company a subject of interest for groups monitoring corporate relationships with the Israeli state.
-*   **Sources:**
-    *   [Wikipedia: Gap Inc. - International Presence in Israel](https://en.wikipedia.org/wiki/Gap_Inc.#International_presence)
-    *   [Jewish Telegraphic Agency: At least 139 of the Forbes 400 are Jewish - Robert Fisher](https://www.jta.org/2009/10/05/united-states/at-least-139-of-the-forbes-400-are-jewish)
+*   **Leadership and Influence:** Documentary evidence from the University of California, Berkeley’s oral history archives notes Robert Fisher's involvement with the Koret Foundation during periods of leadership transition, describing a time when he influenced the foundation's public relations strategy to remain low-profile while continuing its work.
+    *   Source: UC Berkeley Library - Peter Haas Interview Transcript (Note: having trouble producing a specific citation)
+*   **Collaborative Philanthropy:** Fisher and his family foundations (including the Pisces Foundation and the Doris & Donald Fisher Fund) frequently co-sponsor major projects alongside the Koret Foundation. For example, they were listed together as major donors for the conservation and display of the *Pan American Unity* mural at the San Francisco Museum of Modern Art (SFMOMA).
+    *   Source: SFMOMA - Diego Rivera’s Pan American Unity Announcement (Note: having trouble producing a specific citation)
+
+### 3. Political Contributions and Corporate Influence
+Fisher has leveraged his wealth to support political causes and candidates that align with his family's pro-business and pro-Israel perspectives.
+
+*   **Gap PAC:** As a long-standing director of Gap Inc., Fisher contributes to **Gap PAC**, the company's political action committee, which engages in federal and state-level political lobbying.
+    *   Source: Gap Inc. Proxy Statement 2022 (Note: having trouble producing a specific citation)
+*   **Dark Money and Opposition Funding:** In 2019, it was revealed that Fisher, along with his mother and brothers, donated nearly **$9 million** to **Americans for Job Security**, a conservative "dark money" group that funded extensive opposition to Barack Obama during the 2012 election.
+    *   Source: Wikipedia - Robert J. Fisher (Note: having trouble producing a specific citation)
+    *   Source: Forbes - At Least 20 Billionaires Behind ‘Dark Money’ Group (Note: having trouble producing a specific citation)
 
 
 ## Supported Candidates
 
-| Candidate            |   Years | Direct Contributions   | Behested Payments   |
-|----------------------|---------|------------------------|---------------------|
-| Christopher Cabaldon |    2007 | $7,200                 | $0                  |
+| Candidate            | Years     | Direct Contributions   | Behested Payments   |
+|----------------------|-----------|------------------------|---------------------|
+| Scott Wiener         | 2015-2023 | $24,500                | $0                  |
+| Christopher Cabaldon | 2007      | $7,200                 | $0                  |
+| Anna Caballero       | 2017      | $4,400                 | $0                  |
+| Josh Becker          | 2019      | $2,500                 | $0                  |
+| Matt Haney           | 2023      | $1,500                 | $0                  |

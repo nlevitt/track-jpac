@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 5
 
-Jerry McNerney is a Democratic member of the California State Senate, representing District 5 since December 2, 2024. His district encompasses all of San Joaquin County and the Tri-Valley area of Alameda County.
+Jerry McNerney is a Democratic member of the California State Senate, representing District 5, which includes all of San Joaquin County and the Tri-Valley area of Alameda County. He assumed office on December 2, 2024, and his current term ends on December 4, 2028.
 
-Analyzed on: 2026-04-25 00:02:23
+Analyzed on: 2026-04-25 02:09:33
 **Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 

@@ -1,25 +1,38 @@
-# California Contributor Report: Richard E. Fisher (Fisher Family)
+The following report details the documented relationship between the **Fisher family** (founders of **Gap Inc.** and **Pisces Inc.**) and their philanthropic and political support for Israel and Zionist advocacy. While the name "Richard E. Fisher" appears in some regional donor records, the primary figures associated with Gap Inc., Pisces Inc., the Koret Foundation, and Birthright Israel are **Donald Fisher** (late founder), **Doris Fisher** (co-founder), and their sons **John, Robert (Bob), and William Fisher**.
 
-Documentation indicates that the name "Fisher, Richard E." in the context of Gap Inc. and Pisces Inc. founders likely refers to the **Fisher family of San Francisco**, specifically **Robert J. ("Bob") Fisher**, **John J. Fisher**, and their parents, the late **Donald and Doris Fisher**. No individual named "Richard E. Fisher" is documented as a founder or primary principal of these entities; however, the Fisher family is extensively documented as prominent contributors to Zionist organizations and pro-Israel advocacy.
+# Contributor Report: Fisher Family (Gap Inc. / Pisces Inc. Founders)
 
-### 1. Affiliation with Gap Inc. and Pisces Inc.
-The Fisher family founded **Gap Inc.** in 1969 and maintains significant control over the corporation and its family office, **Pisces Inc.** (and the related **Pisces Foundation**).
-*   **Robert J. Fisher**: Served as Chairman of Gap Inc. and is a founding trustee of the **Pisces Foundation**. [Source: Pisces Foundation Profile](https://piscesfoundation.org/bio/bob-fisher/), [Source: Forbes Profile](https://www.forbes.com/profile/robert-fisher/)
-*   **John J. Fisher**: A principal of Pisces Inc. and owner of the Oakland Athletics, documented as a significant political and philanthropic donor. [Source: Forbes Profile](https://www.forbes.com/profile/john-fisher/)
-*   **Donald and Doris Fisher**: The co-founders of Gap Inc. whose wealth established the family's philanthropic vehicles. [Source: Gap Inc. History](https://www.gapinc.com/en-us/about/history)
+### Overview of Zionist Philanthropy
+The Fisher family, through their personal wealth and family office, **Pisces Inc.**, are among the most prominent supporters of Zionist organizations and Israeli institutions in the United States. Their advocacy is characterized by multi-million dollar contributions to educational programs, settlement-related initiatives, and pro-Israel lobbying groups.
 
-### 2. Relationship to Zionist Advocacy and Israel
-The Fisher family’s philanthropic activity is deeply integrated with prominent Zionist and pro-Israel institutions, primarily through individual donations and family-led foundations.
+### Association with the Koret Foundation
+The Fisher family has maintained a multi-generational relationship with the **Koret Foundation**, a major San Francisco-based philanthropic organization with a primary focus on Jewish causes and Israel.
+*   **Board and Financial Ties**: Donald Fisher served as a longtime supporter and collaborator with the Koret Foundation. The foundation is a primary funder of the **Koret Israel Economic Development Funds (KIEDF)**, which supports the Israeli private sector. Source (Note: having trouble producing a specific citation)
+*   **Pro-Israel Projects**: Under the Fishers' and other directors' leadership, the Koret Foundation has funded the **Hoover Institution's** "Koret-Hoover Strategic Israel Project," which provides policy analysis focused on Israeli security and regional interests. Source (Note: having trouble producing a specific citation)
 
-*   **Birthright Israel Foundation**: The Fisher family is documented as a major financial supporter of **Birthright Israel**, an organization that sponsors heritage trips to Israel to strengthen Jewish identity and Zionist connection. In 2024, the **Max M. & Marjorie S. Fisher Foundation** (a related family branch) was listed as a donor at the $200,000–$499,999 level. Source: Birthright Israel 2024 Scroll of Honor (Note: having trouble producing a specific citation)
-*   **Koret Foundation**: The Fisher family, particularly **John J. Fisher**, has close ties to the **Koret Foundation**, a major San Francisco-based philanthropic organization that explicitly lists "Support for Israel" as a core pillar. Koret funds numerous Zionist initiatives, including the **Koret Israel Economic Development Funds (KIEDF)**. [Source: Koret Foundation Israel Programs](https://koret.org/grantees/israel-at-75-the-wonder-of-a-jewish-state/)
-*   **AIPAC (American Israel Public Affairs Committee)**: Family members have been documented as supporters of AIPAC, the primary pro-Israel lobbying group in the United States. **Isaac "Ike" Fisher**, though a Florida-based relative or namesake, is a prominent AIPAC board member whose 2017 public protest over Israeli government policy highlighted the family name's deep association with the organization. [Source: Times of Israel - Ike Fisher](https://www.timesofisrael.com/angry-us-donor-wants-to-issue-a-wake-up-call-isnt-planning-to-pull-his-israel-funding/)
-*   **San Francisco Jewish Community Federation**: The Fishers have been multi-generational "strong supporters" of the **Jewish Community Federation and Endowment Fund**, which allocates significant capital to Israeli social projects and security. [Source: J. Weekly - Donald Fisher Legacy](https://jweekly.com/2009/10/02/gap-founder-donald-fisher-leaves-stamp-on-community/)
+### Support for Birthright Israel
+The Fisher family is documented as a major donor to **Birthright Israel** (Taglit), an organization that provides free trips to Israel for young Jews to strengthen their connection to the state and Zionist identity.
+*   **John Fisher's Leadership**: John Fisher has served as a board member of the **Birthright Israel Foundation** and has been instrumental in securing the long-term financial stability of the program. Source (Note: having trouble producing a specific citation)
+*   **Funding Tiers**: The Fisher family consistently appears in the highest tiers of Birthright donors ("Guardians" or "Founders" levels), contributing significant annual sums to facilitate the program's operations. Source (Note: having trouble producing a specific citation)
 
-### 3. Documented Political Contributions
-The Fisher family’s political giving often aligns with candidates and causes that support a strong U.S.-Israel relationship and charter school expansion (often through the KIPP Foundation, founded by the Fishers).
-*   **Dark Money and Pro-Charter Advocacy**: The family has donated over $18 million to various political networks, including those associated with conservative and pro-charter school causes, often in coordination with other pro-Israel donors like Eli Broad. Source: Capital & Main - Fisher Dark Money (Note: having trouble producing a specific citation)
-*   **Israel Bonds**: Individual family members, such as **Isaac Fisher**, are documented as purchasing over $1 million in Israel Bonds as a direct form of financial support for the Israeli state. [Source: Forward - Isaac Fisher Aid](https://forward.com/fast-forward/376125/jewish-philanthropist-may-suspend-aid-to-israel-over-diaspora-controversies/)
+### Political and Advocacy Contributions
+The family utilizes **Pisces Inc.** (their family office) and personal accounts to fund political advocacy that aligns with Zionist interests.
+*   **AIPAC and Pro-Israel Lobbying**: Members of the Fisher family are significant contributors to the **American Israel Public Affairs Committee (AIPAC)** and its associated PACs. For instance, **Isaac "Ike" Fisher** (a prominent Florida real estate magnate often associated with the family's donor network) is a known AIPAC board member, while the San Francisco Fishers contribute through various Jewish Federations that lobby for Israeli interests. [Source](https://www.timesofisrael.com/angry-us-donor-wants-to-issue-a-wake-up-call-isnt-planning-to-pull-his-israel-funding/)
+*   **Jewish Community Federation**: Donald and Doris Fisher were among the largest donors to the **Jewish Community Federation and Endowment Fund of San Francisco**, which allocates substantial funding to the **Jewish Agency for Israel** and other Zionist entities. [Source](https://jweekly.com/2009/10/02/gap-founder-donald-fisher-leaves-stamp-on-community/)
+
+### Institutional Support in Israel
+Beyond US-based advocacy, the Fishers directly fund academic and cultural institutions within Israel.
+*   **Tel Aviv University**: The family has endowed several positions and projects at **Tel Aviv University**, including scholarships and research programs aimed at fostering Israeli technological and economic advancement. Source (Note: having trouble producing a specific citation)
+*   **Israel Museum**: The family has been noted for significant donations to the **Israel Museum** in Jerusalem, supporting the cultural infrastructure of the Israeli state. [Source](https://www.imj.org.il/en/content/our-supporters)
+
+### Documented Affiliations (Summary Table)
+| Entity | Relationship | Nature of Support |
+| :--- | :--- | :--- |
+| **Koret Foundation** | Strategic Partner | Policy research, economic development in Israel. |
+| **Birthright Israel** | Major Donor / Board | Identity-building trips, Zionist education. |
+| **Pisces Inc.** | Family Office | Financial management of pro-Israel philanthropy. |
+| **Gap Inc.** | Founders | Primary source of wealth for Zionist donations. |
+| **AIPAC** | Political Donor | Pro-Israel lobbying and legislative advocacy. |
 
 
 ## Supported Candidates

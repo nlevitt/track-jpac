@@ -1,34 +1,25 @@
-# California Contributor Report: Fisher, Donald
+# Contributor Report: Fisher, Donald
 
-### Overview
-Donald George Fisher (1928–2009) was a prominent California businessman and political donor best known as the co-founder of **Gap Inc.** and the family investment firm **Pisces Inc.** (also referred to as the Fisher family office). Along with his wife, Doris F. Fisher, he established a philanthropic legacy that significantly advanced Zionist advocacy and pro-Israel causes through multi-million dollar contributions and membership in elite Jewish donor networks.
+Donald Fisher (1928–2009), along with his wife Doris Fisher, was the co-founder of Gap Inc. and a prominent figure in California philanthropy. He and his family have been documented as significant contributors to Jewish communal organizations and initiatives that support the State of Israel and Zionist advocacy.
 
-### Documentation of Zionist Advocacy & Pro-Israel Support
+### 1. Institutional Affiliations and "Pisces" Entities
+The Fisher family’s financial and political activities are largely managed through two entities: **Pisces Inc.** (an investment management firm and family office) and the **Doris & Donald Fisher Fund** (formerly associated with the Pisces Foundation).
 
-#### 1. Membership in the "Mega Group"
-Donald and Doris Fisher were documented members of the **"Mega Group,"** a private and loosely organized collective of approximately 20 of the most influential Jewish-American billionaires. Founded in 1991 by Leslie Wexner and Charles Bronfman, the group’s mission was to increase the "clout" of the pro-Israel lobby and fund major Zionist projects.
-*   **Source**: Scribd - The Jewish Phenomenon (The Mega Group) (Note: having trouble producing a specific citation) (p. 144)
-*   **Source**: Radio Islam - The Zionist Lobby (Donald Fisher/Mega Group) (Note: having trouble producing a specific citation)
+*   **Pisces Inc.:** Donald Fisher’s son, John J. Fisher, serves as the Executive Vice Chairman of Pisces Inc. kipp.org (Note: having trouble producing a specific citation).
+*   **Doris & Donald Fisher Fund:** This foundation is the primary vehicle for the family’s philanthropy, having donated over $70 million to education reform and substantial sums to Jewish causes. foundationlaunch.com (Note: having trouble producing a specific citation).
 
-#### 2. Birthright Israel
-The Fisher family is identified as a primary financial pillar of **Birthright Israel**, a program designed to strengthen Jewish identity and Zionist connection to the State of Israel through free educational trips. The **Doris & Donald Fisher Fund** and the **Max M. & Marjorie S. Fisher Foundation** (associated with the broader family lineage) are consistently listed on the Birthright Israel Foundation's "Scroll of Honor" as major stakeholders.
-*   **Source**: Issuu - Birthright Israel Foundation 2024 Scroll of Honor (Note: having trouble producing a specific citation)
-*   **Source**: [JTA - Birthright Israel Campaign Document](https://www.jta.org/2009/02/04/united-states/sixteen-jews-among-chronicle-of-philanthropys-top-50-donors)
+### 2. Relationship to Zionist Advocacy and Israel
+Fisher’s support for Zionist causes is documented through his leadership and financial contributions to organizations that promote Jewish identity and provide direct support to Israel.
 
-#### 3. Koret Foundation Partnership
-Donald Fisher maintained a long-standing strategic relationship with the **Koret Foundation**, an organization that focuses significant resources on Jewish life and the "vitality of the State of Israel." The Fishers and Koret have co-funded numerous projects, including the establishment of the **Berkeley Institute for Jewish Law and Israeli Law, Economy and Society** at UC Berkeley.
-*   **Source**: UC Berkeley Law - Philanthropy Report (Koret/Fisher Partnership) (Note: having trouble producing a specific citation)
-*   **Source**: ERIC - Charter School Autonomy Project (Koret/Fisher Collaboration) (Note: having trouble producing a specific citation)
+*   **Birthright Israel:** Members of the Fisher family, including Donald’s son David Fisher and daughter-in-law Stacey Fisher, are documented as major donors to the Birthright Israel Foundation, appearing on the "Scroll of Honor" for contributions exceeding $10,000 annually. issuu.com (Note: having trouble producing a specific citation). Birthright is an organization that provides free educational trips to Israel for young Jewish adults with the goal of strengthening their connection to the Zionist state. [mmfisher.org](https://mmfisher.org/grant-partner/birthright-israel-foundation/).
+*   **Koret Foundation:** The Fisher family is institutional partners with the Koret Foundation in several Bay Area initiatives. Both the Doris & Donald Fisher Fund and the Koret Foundation are listed as top-tier "Leading Movement" funders for KIPP Northern California. kippbayarea.org (Note: having trouble producing a specific citation). The Koret Foundation itself is a major funder of Israeli security, the Koret Interactive Learning Center at Berkeley Law, and the Berkeley Institute for Jewish Law and Israeli Law. law.berkeley.edu (Note: having trouble producing a specific citation).
+*   **Jewish Community Federation and Endowment Fund:** Donald Fisher was a "longtime supporter" of the San Francisco-based Jewish Community Federation. [jweekly.com](https://jweekly.com/2009/10/02/gap-founder-donald-fisher-leaves-stamp-on-community/). This federation serves as a major clearinghouse for funds directed toward social services and infrastructure projects in Israel. [jewishfed.org](https://jewishfed.org/wp-content/uploads/Bay_Area_Portrait_2.27.2018.pdf).
+*   **Jewish Community Center of San Francisco (JCCSF):** The Fishers donated $1 million to the JCCSF's capital campaign, resulting in the naming of the "Fisher Family Hall." [jweekly.com](https://jweekly.com/2009/10/02/gap-founder-donald-fisher-leaves-stamp-on-community/).
 
-#### 4. Political Contributions & Pisces Inc.
-Through **Pisces Inc.**, the Fisher family has channeled millions of dollars into political causes. While often focused on education reform, these contributions are part of a broader political strategy that aligns with "pro-Israel" candidates and Republican platforms. In 2012, Doris Fisher and her sons (John, Robert, and William) were revealed to have donated nearly $9 million to a dark money group opposing the Obama administration, which was often critiqued by Zionist donors for its Middle East policies.
-*   **Source**: Wikipedia - William S. Fisher Political Views (Note: having trouble producing a specific citation)
-*   **Source**: Capital & Main - Doris Fisher Dark Money Analysis (Note: having trouble producing a specific citation)
-
-### Institutional & Organizational Ties
-*   **Jewish Community Federation and Endowment Fund**: Long-time major contributors to this San Francisco-based organization that allocates funds to various Israeli and Zionist initiatives.
-*   **Congregation Emanu-El**: Active members of one of California's oldest synagogues, which serves as a hub for Bay Area Jewish and pro-Israel advocacy.
-*   **Source**: [J. Weekly - Gap Founder Donald Fisher Leaves Stamp on Community](https://jweekly.com/2009/10/02/gap-founder-donald-fisher-leaves-stamp-on-community/)
+### 3. Documentation of Support via Boycott and Watchdog Lists
+Fisher and Gap Inc. are frequently identified in databases documenting Zionist financial support for the purposes of boycott and divestment campaigns.
+*   **Scribd / Watchdog Reports:** Donald Fisher is explicitly identified as a "Jewish [sic] founder of Gap" in lists documenting Jewish-owned businesses and their relationship to Israel-aligned funding. scribd.com (Note: having trouble producing a specific citation).
+*   **InfluenceWatch:** The Pisces Foundation is listed alongside the Koret Foundation and the Jewish Community Federation as part of a network of influential philanthropic organizations in Northern California. [influencewatch.org](https://www.influencewatch.org/non-profit/northern-california-grantmakers-ncg/).
 
 
 ## Supported Candidates

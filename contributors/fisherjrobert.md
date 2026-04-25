@@ -1,32 +1,33 @@
 # Contributor Report: Fisher, Robert J.
 
-Robert J. Fisher is an American businessman and philanthropist, primarily known for his leadership roles at Gap Inc. and his board involvement with the Koret Foundation. His documented relationship to Israel and Zionist advocacy is established through institutional leadership, financial contributions to Israeli academic and social institutions, and participation in international Zionist events.
+Robert Joseph Fisher is a prominent California-based businessman and political donor best known for his leadership roles within **Gap Inc.** and **Pisces Inc.** He is a central figure in the Fisher family’s philanthropic and political network, which maintains documented ties to pro-Israel organizations and Zionist advocacy.
 
-### Institutional Leadership and the Koret Foundation
-Fisher serves as a member of the Board of Directors for the Koret Foundation, a philanthropic organization that explicitly lists "strengthening U.S.-Israel ties" and "supporting Israeli society" as core pillars of its mission.
-*   **Mission and Policy:** The Koret Foundation directs significant capital toward initiatives intended to bolster the relationship between the United States and Israel and to promote "vibrant Jewish life."
-    *   Source: [Koret Foundation - About Us](https://koret.org/about/)
-*   **Israeli Economic Development:** The foundation has historically funded the Koret Israel Economic Development Funds (KIEDF), which provides micro-loans and financing to Israeli small businesses to foster economic growth within the state.
-    *   Source: [Jewish Community Federation - Koret Israel Economic Development Funds](https://jewishfed.org/israel-economic-development)
-*   **Security and Defense Support:** Documentation indicates the Koret Foundation has provided financial support to Israeli firms and defense-related projects, such as research and development grants during times of conflict.
-    *   Source: [Ctech - Koret Foundation support for Israeli defense-tech](https://www.calcalistech.com/ctech/articles/0,7340,L-3903140,00.html)
+### 1. Professional Background and Entities
+Fisher is the son of Gap Inc. co-founders Donald and Doris Fisher. He has served in numerous executive capacities at Gap Inc., including as Chairman of the Board and interim CEO [1.3 (Note: having trouble producing a specific citation), [1.6](https://www.forbes.com/profile/robert-fisher/)].
+*   **Pisces Inc.:** Fisher is the Managing Director and Executive Vice Chairman of Pisces Inc., the Fisher family’s private investment firm and family office [[1.8](https://piscesfoundation.org/bio/bob-fisher/), 1.6 (Note: having trouble producing a specific citation)]. 
+*   **Pisces Foundation:** He co-founded this private foundation, which primarily focuses on environmental issues but operates within the broader context of the family’s multi-sector philanthropy [[1.8](https://piscesfoundation.org/bio/bob-fisher/)].
 
-### Documented Zionist Advocacy
-Fisher has participated in high-level international events organized by Zionist bodies.
-*   **World Zionist Congress Anniversary:** In August 2022, Fisher was documented as an attendee at the 125th-anniversary celebration of the First World Zionist Congress in Basel, Switzerland. The event, hosted by the World Zionist Organization (WZO), was dedicated to celebrating the history and future of the Zionist movement.
-    *   Source: [eJewishPhilanthropy - Celebrating 125 years since the World Zionist Congress](https://ejewishphilanthropy.com/your-daily-phil-celebrating-125-years-since-the-world-zionist-congress-thrifting-for-a-cause/)
+### 2. Documented Relationship to Israel and Zionist Advocacy
+Fisher’s support for Israel is evidenced through large-scale financial contributions, leadership in Jewish communal organizations, and specific policy-related advocacy.
 
-### Financial Support for Israeli Institutions
-Fisher’s personal and familial philanthropy includes direct support for Israeli academic and medical infrastructure.
-*   **Hebrew University of Jerusalem:** Fisher is a contributor to the Hebrew University of Jerusalem, where he established the "Robert J. Fisher Scholarship Fund."
-    *   Source: [Hebrew University of Jerusalem - President's Report](https://huji.ac.il/huji/huji/presidents_report/presidents_report_2011.pdf)
-*   **Tel Aviv University:** Through the Koret Foundation, Fisher has supported the Koret School of Veterinary Medicine at the Hebrew University and initiatives at Tel Aviv University focused on strengthening Israeli civic society.
-    *   Source: [Tel Aviv University - American Friends of TAU](https://www.aftau.org/news-page/?post_id=2753)
+#### A. Support for Birthright Israel
+Robert J. Fisher and the Fisher family are identified as significant financial supporters of **Birthright Israel**, an organization that provides free educational trips to Israel for young Jewish adults to strengthen their Jewish identity and connection to the state.
+*   **Financial Support:** The Fisher family is documented as a recurring donor to the Birthright Israel Foundation [1.2 (Note: having trouble producing a specific citation)].
+*   **Fisher Flight Program:** Through the Max M. & Marjorie S. Fisher Foundation (associated with the broader family network), the "Fisher Flight" program was established to bring young couples to Israel to foster long-term Zionist philanthropy and leadership [1.16 (Note: having trouble producing a specific citation)].
 
-### Involvement with Jewish Federations
-Fisher is active within the Jewish Community Federation and Endowment Fund of San Francisco, an organization that manages significant donor-advised funds directed toward Israeli causes.
-*   **Grantmaking:** The Federation facilitates grants to various Israeli NGOs and programs aimed at fostering "thriving Jewish communities" and providing aid to Israeli citizens.
-    *   Source: [Jewish Federation Bay Area - Annual Report 2023](https://jewishfed.org/sites/default/files/2023-11/2023-Annual-Report-Jewish-Federation-Bay-Area.pdf)
+#### B. International Advocacy and Anti-Delegitimization Efforts
+Fisher has engaged in public advocacy defending officials and policies that link the delegitimization of Israel with antisemitism.
+*   **European Commission Letter:** In August 2024, Fisher was a signatory on a prominent joint letter supporting Katharina von Schnurbein, the European Commission’s coordinator on combating antisemitism. The letter defended her mandate against critics who alleged bias in her work connecting anti-Zionism and the "delegitimization of Israel" to antisemitism [1.2 (Note: having trouble producing a specific citation), 1.9 (Note: having trouble producing a specific citation)].
+
+#### C. Relationship to the Koret Foundation
+Fisher is frequently associated with the **Koret Foundation**, a major pro-Israel philanthropic organization in the Bay Area.
+*   **Collaborative Philanthropy:** Fisher and his wife, Elizabeth, are documented co-donors with the Koret Foundation across multiple San Francisco institutions, including the SF Symphony and the Yerba Buena Center for the Arts [[1.7](https://waitingroom.sfsymphony.org/?c=sfsymphony&e=sitesafetynet&ver=aspnet-4.4.1&cver=26&man=Site%20Safetynet&enqueuetoken=eyJ0eXAiOiJRVDEiLCJlbmMiOiJBRVMyNTYiLCJpc3MiOjE3NzcxMDcxMjU5NjUsImV4cCI6MTc3NzEwNzM2NTk2NSwidGkiOiI4NmE5MDNhNS1mYzhmLTQ1ZDMtOWI1NS1jZTI2MjQ0ZDdkNmUiLCJjIjoic2ZzeW1waG9ueSIsImUiOiJzaXRlc2FmZXR5bmV0IiwiaXAiOiIyMTYuNjUuMTA1LjI0MiJ9.8hqIDh5Ul-9Nx5k410xSRx5sBMEljxBuY_5GgoPM-q4.r0Pw7hPz9SHFQ4cU_kCPY36tusDuEuOzrd79f-Flyqg&t=https%3A%2F%2Fwww.sfsymphony.org%2FHttpErrors%2FNotFound%3F404%3Bhttps%3A%2F%2Fwww.sfsymphony.org%3A443%2FSFSymphony%2Fmedia%2FLibrary%2FPDFs%2FProgram-Notes%2F2324%2FSF-Symphony-Nov-2-4.pdf), 1.10 (Note: having trouble producing a specific citation)].
+*   **Legacy Ties:** The association stems from long-standing ties between the Fisher and Koret families, who have historically anchored the pro-Israel donor base in the San Francisco Jewish Community Federation [[1.14](https://jweekly.com/2009/10/02/gap-founder-donald-fisher-leaves-stamp-on-community/)].
+
+### 3. Political Contributions
+Fisher’s political giving through **Pisces Inc.** and personal accounts has historically supported candidates and committees aligned with pro-Israel interests.
+*   **Pro-Israel Political Alliances:** Records show contributions to high-ranking Republican and Democratic officials who maintain strong pro-Israel voting records, such as former Senator Dianne Feinstein and House Representative Kevin McCarthy [1.9 (Note: having trouble producing a specific citation), 1.13 (Note: having trouble producing a specific citation)].
+*   **AIPAC-Related Context:** While some reports on "Ike Fisher" (a Florida-based donor) are often confused with Robert J. Fisher, the California Fishers have a documented history of supporting mainstream pro-Israel lobbying frameworks through the Jewish Community Federation [[1.14](https://jweekly.com/2009/10/02/gap-founder-donald-fisher-leaves-stamp-on-community/)].
 
 
 ## Supported Candidates
@@ -35,6 +36,13 @@ Fisher is active within the Jewish Community Federation and Endowment Fund of Sa
 |----------------------|-----------|------------------------|---------------------|
 | Anna Caballero       | 2015-2025 | $22,300                | $0                  |
 | Tim Grayson          | 2015-2025 | $16,600                | $0                  |
+| Henry Stern          | 2015-2021 | $15,300                | $0                  |
 | Angelique Ashby      | 2023-2025 | $8,500                 | $0                  |
+| Matt Haney           | 2021-2025 | $6,000                 | $0                  |
 | Josh Becker          | 2021-2023 | $5,500                 | $0                  |
+| John Laird           | 2023      | $3,000                 | $0                  |
+| Susan Rubio          | 2021-2023 | $3,000                 | $0                  |
+| Catherine Blakespear | 2025      | $2,500                 | $0                  |
+| Sabrina Cervantes    | 2025      | $2,000                 | $0                  |
 | Christopher Cabaldon | 2025      | $2,000                 | $0                  |
+| Laura Richardson     | 2025      | $1,500                 | $0                  |

@@ -1,37 +1,61 @@
 # Aggregate Summary: California Zionist Contributions
-Generated on: 2026-04-25 01:06:20
+Generated on: 2026-04-25 04:20:35
 
 ## Candidates with Identified Support
 
-| Candidate                                                  | Role                                         | Zionist Contributions   | Zionist Behested Payments   |
-|------------------------------------------------------------|----------------------------------------------|-------------------------|-----------------------------|
-| [Josh Becker](candidates/Josh_Becker.md)                   | State Senator, District 13                   | $105,610                | $50,000                     |
-| [Scott Wiener](candidates/Scott_Wiener.md)                 | State Senator, District 11                   | $42,300                 | $30,000                     |
-| [Melissa Hurtado](candidates/Melissa_Hurtado.md)           | State Senator, District 16                   | $55,000                 | $0                          |
-| [Anna Caballero](candidates/Anna_Caballero.md)             | State Senator, District 14                   | $47,200                 | $0                          |
-| [Christopher Cabaldon](candidates/Christopher_Cabaldon.md) | State Senator, District 3                    | $45,850                 | $0                          |
-| [Roger Niello](candidates/Roger_Niello.md)                 | State Senator, District 6                    | $5,000                  | $36,444                     |
-| [Matt Haney](candidates/Matt_Haney.md)                     | California State Assemblymember, District 17 | $41,300                 | $0                          |
-| [Susan Rubio](candidates/Susan_Rubio.md)                   | State Senator, District 22                   | $34,100                 | $0                          |
-| [Angelique Ashby](candidates/Angelique_Ashby.md)           | State Senator, District 8                    | $8,500                  | $10,000                     |
-| [Steve Padilla](candidates/Steve_Padilla.md)               | State Senator, District 18                   | $17,200                 | $0                          |
-| [Tim Grayson](candidates/Tim_Grayson.md)                   | State Senator, District 9                    | $16,600                 | $0                          |
-| [Shannon Grove](candidates/Shannon_Grove.md)               | State Senator, District 12                   | $16,000                 | $0                          |
-| [John Laird](candidates/John_Laird.md)                     | State Senator, District 17                   | $12,650                 | $0                          |
-| [Dave Cortese](candidates/Dave_Cortese.md)                 | State Senator, District 15                   | $7,700                  | $0                          |
-| [Megan Dahle](candidates/Megan_Dahle.md)                   | State Senator, District 1                    | $7,200                  | $0                          |
-| [Rosilicie Ochoa Bogh](candidates/Rosilicie_Ochoa_Bogh.md) | State Senator, District 19                   | $6,500                  | $0                          |
-| [Aisha Wahab](candidates/Aisha_Wahab.md)                   | State Senator, District 10                   | $4,900                  | $0                          |
+| Candidate                                                                | Role                                                                    | Zionist Contributions   | Zionist Behested Payments   |
+|--------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------|-----------------------------|
+| [Scott Wiener](candidates/Scott_Wiener.md)                               | State Senator, District 11                                              | $159,049                | $0                          |
+| [Anna Caballero](candidates/Anna_Caballero.md)                           | State Senator, District 14                                              | $120,400                | $0                          |
+| [Henry Stern](candidates/Henry_Stern.md)                                 | State Senator, District 27                                              | $90,600                 | $0                          |
+| [Tim Grayson](candidates/Tim_Grayson.md)                                 | State Senator, District 9                                               | $66,900                 | $0                          |
+| [Josh Becker](candidates/Josh_Becker.md)                                 | State Senator, District 13                                              | $54,600                 | $0                          |
+| [Christopher Cabaldon](candidates/Christopher_Cabaldon.md)               | State Senator, District 3                                               | $39,950                 | $0                          |
+| [Matt Haney](candidates/Matt_Haney.md)                                   | State Assemblymember, District 17                                       | $36,906                 | $0                          |
+| [Susan Rubio](candidates/Susan_Rubio.md)                                 | State Senator, District 22                                              | $17,400                 | $0                          |
+| [Megan Dahle](candidates/Megan_Dahle.md)                                 | State Senator, District 1                                               | $9,700                  | $0                          |
+| [John Laird](candidates/John_Laird.md)                                   | State Senator, District 17                                              | $9,475                  | $0                          |
+| [Angelique Ashby](candidates/Angelique_Ashby.md)                         | State Senator, District 8, and Majority Leader of the California Senate | $8,500                  | $0                          |
+| [Akilah Weber](candidates/Akilah_Weber.md)                               | State Senator, District 39                                              | $8,000                  | $0                          |
+| [Tony Strickland](candidates/Tony_Strickland.md)                         | State Senator, District 36                                              | $6,775                  | $0                          |
+| [Catherine Blakespear](candidates/Catherine_Blakespear.md)               | State Senator, District 38                                              | $6,500                  | $0                          |
+| [Sabrina Cervantes](candidates/Sabrina_Cervantes.md)                     | State Senator, District 31                                              | $6,500                  | $0                          |
+| [Lena Gonzalez](candidates/Lena_Gonzalez.md)                             | State Senator, District 33                                              | $6,000                  | $0                          |
+| [Roger Niello](candidates/Roger_Niello.md)                               | State Senator, District 6                                               | $5,850                  | $0                          |
+| [Brian Jones](candidates/Brian_Jones.md)                                 | State Senator, District 40                                              | $5,401                  | $0                          |
+| [Rosilicie Ochoa Bogh](candidates/Rosilicie_Ochoa_Bogh.md)               | State Senator, District 19                                              | $4,500                  | $0                          |
+| [Melissa Hurtado](candidates/Melissa_Hurtado.md)                         | State Senator, District 16                                              | $4,500                  | $0                          |
+| [Suzette Martinez Valladares](candidates/Suzette_Martinez_Valladares.md) | State Senator, District 23                                              | $4,000                  | $0                          |
+| [Dave Cortese](candidates/Dave_Cortese.md)                               | State Senator, District 15                                              | $3,000                  | $0                          |
+| [Laura Richardson](candidates/Laura_Richardson.md)                       | State Senator, District 35                                              | $2,000                  | $0                          |
+| [Lola Smallwood-Cuevas](candidates/Lola_Smallwood-Cuevas.md)             | State Senator, District 28                                              | $100                    | $0                          |
+| [Caroline Menjivar](candidates/Caroline_Menjivar.md)                     | State Senator, District 20                                              | $100                    | $0                          |
+
+## Candidates with Zero Identified Support
+
+| Candidate                                              | Role                       | Zionist Contributions   | Zionist Behested Payments   |
+|--------------------------------------------------------|----------------------------|-------------------------|-----------------------------|
+| [Aisha Wahab](candidates/Aisha_Wahab.md)               | State Senator, District 10 | $0                      | $0                          |
+| [Bob Archuleta](candidates/Bob_Archuleta.md)           | State Senator, District 30 | $0                      | $0                          |
+| [Kelly Seyarto](candidates/Kelly_Seyarto.md)           | State Senator, District 32 | $0                      | $0                          |
+| [Marie Alvarado-Gil](candidates/Marie_Alvarado-Gil.md) | State Senator, District 4  | $0                      | $0                          |
+| [Shannon Grove](candidates/Shannon_Grove.md)           | State Senator, District 12 | $0                      | $0                          |
+| [Steve Padilla](candidates/Steve_Padilla.md)           | State Senator, District 18 | $0                      | $0                          |
+| [Steven Choi](candidates/Steven_Choi.md)               | State Senator, District 37 | $0                      | $0                          |
+| [Tom Umberg](candidates/Tom_Umberg.md)                 | State Senator, District 34 | $0                      | $0                          |
 
 ## Data Unavailable (Not Found on PowerSearch)
 
-| Candidate                                      | Role                                            | Zionist Contributions   | Zionist Behested Payments   |
-|------------------------------------------------|-------------------------------------------------|-------------------------|-----------------------------|
-| [Connie Chan](candidates/Connie_Chan.md)       | San Francisco Board of Supervisors, District 1  | $0                      | $0                          |
-| [Jerry McNerney](candidates/Jerry_McNerney.md) | State Senator, District 5                       | $0                      | $0                          |
-| [Jesse Arreguín](candidates/Jesse_Arreguín.md) | State Senator, District 7                       | $0                      | $0                          |
-| [Mike McGuire](candidates/Mike_McGuire.md)     | State Senator, District 2                       | $0                      | $39,000                     |
-| [Monique Limón](candidates/Monique_Limón.md)   | State Senate President pro Tempore, District 21 | $0                      | $0                          |
+| Candidate                                              | Role                                            | Zionist Contributions   | Zionist Behested Payments   |
+|--------------------------------------------------------|-------------------------------------------------|-------------------------|-----------------------------|
+| [Benjamin Allen](candidates/Benjamin_Allen.md)         | State Senator, District 24                      | $0                      | $0                          |
+| [Eloise Gómez Reyes](candidates/Eloise_Gómez_Reyes.md) | State Senator, District 29                      | $6,300                  | $0                          |
+| [Jerry McNerney](candidates/Jerry_McNerney.md)         | State Senator, District 5                       | $0                      | $0                          |
+| [Jesse Arreguín](candidates/Jesse_Arreguín.md)         | State Senator, District 7                       | $0                      | $0                          |
+| [María Elena Durazo](candidates/María_Elena_Durazo.md) | State Senator, District 26                      | $0                      | $0                          |
+| [Mike McGuire](candidates/Mike_McGuire.md)             | State Senator, District 2                       | $0                      | $0                          |
+| [Monique Limón](candidates/Monique_Limón.md)           | State Senate President pro Tempore, District 21 | $0                      | $0                          |
+| [Sasha Renée Pérez](candidates/Sasha_Renée_Pérez.md)   | State Senator, District 25                      | $0                      | $0                          |
 
 ## Methodology
 

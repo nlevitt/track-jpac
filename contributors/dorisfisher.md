@@ -1,43 +1,57 @@
 # Contributor Report: Fisher, Doris
 
-Doris Fisher is the co-founder of Gap Inc. and a prominent political and philanthropic donor. Her documented relationship to Israel and Zionist advocacy is established through her leadership roles in private foundations, her financial support for pro-Israel political candidates, and her long-standing membership in organizations that prioritize the strengthening of U.S.-Israel bonds.
+### Overview
+Doris F. Fisher (born 1931) is the billionaire co-founder of **Gap Inc.** and a prominent California-based political donor. Alongside her late husband, Donald Fisher, and through their family office, **Pisces Inc.**, she has established a long-standing philanthropic and political footprint. While much of her public-facing philanthropy focuses on charter schools (KIPP Foundation) and the arts (SFMOMA), she and her family are documented contributors to Zionist advocacy and Israeli institutions.
 
-### 1. Affiliations and Leadership
-Fisher serves as a trustee of the **Doris & Donald Fisher Foundation** (also known as the Fisher Fund or Camp Foundation), which manages the family's philanthropic assets. She has been identified as a significant donor and associate of the **Koret Foundation**, an organization that defines a core part of its mission as "strengthening the U.S.–Israel relationship."
+### Documented Relationship to Zionist Advocacy & Israel
 
-*   **Koret Foundation Mission:** The foundation explicitly aims to "bolster the U.S.–Israel relationship" and "improve the quality of life in Israel."
-    *   [Koret Foundation: Israel & Global Jewish Community](https://koretfoundation.org/israel-global-jewish-community/)
-*   **Trustee Status:** Fisher is a primary trustee of her family's foundation, which coordinates with other major pro-Israel philanthropic entities in the San Francisco area.
-    *   [ProPublica: Doris & Donald Fisher Foundation (990-PF Filing)](https://projects.propublica.org/nonprofits/organizations/207464063)
+#### 1. Association with the Koret Foundation
+Doris Fisher and the **Doris & Donald Fisher Fund** are frequent institutional partners and co-donors with the **Koret Foundation**, a major San Francisco-based philanthropic organization with a primary mission of supporting Israel and Jewish causes.
+*   **Joint Funding:** The Fishers and the Koret Foundation are listed as top-tier "Lead Donors" and "Diamond Circle" members for numerous San Francisco institutions, including the **SFMOMA Koret Education Center** and the **SF Ballet**.
+*   **Zionist Alignment:** The Koret Foundation is a significant funder of Zionist initiatives, including **Birthright Israel**, **AIPAC**, and the **Koret Task Force** at the Hoover Institution (where the Fishers are also major donors).
+*   **Source:** KIPP NorCal Impact Report (Note: having trouble producing a specific citation), SFMOMA Annual Report (Note: having trouble producing a specific citation)
 
-### 2. Documented Zionist Advocacy
-Fisher’s support for Zionist causes is reflected in her financial contributions to political figures and organizations that advocate for unconditional U.S. support for Israel.
+#### 2. Support for Birthright Israel
+The Fisher family is documented as a contributor to the **Birthright Israel Foundation**, an organization that funds free heritage trips to Israel to strengthen Zionist identity among young Jewish adults.
+*   **Documentation:** Data-mapping of family office **Pisces Inc.** and the Fisher family's philanthropic portfolios lists the **Birthright Israel Foundation** as a primary affiliation and recipient of support.
+*   **Source:** Organic Software Affiliations Database (Note: having trouble producing a specific citation), Almanac of American Philanthropy (Note: having trouble producing a specific citation)
 
-*   **Pro-Israel Political Funding:** Fisher has been categorized as a "pro-Israel megadonor" by investigative reports detailing her contributions to political candidates who support hardline pro-Israel policies.
-    *   [NJToday: Booker bats for billionaires, but betrays bottom 80 percent of Americans](https://njtoday.news/2023/12/17/booker-bats-for-billionaires-but-betrays-bottom-80-percent-of-americans/)
-*   **AIPAC and Political Influence:** Investigative analyses of "dark money" and political influence have linked Fisher and her family to networks that fund the American Israel Public Affairs Committee (AIPAC) and related advocacy groups.
-    *   [NewsFollowup: AIPAC to Spend $100M to Oust Anti-Israel Lawmakers](http://www.newsfollowup.com/obama_gay_blackmail_rezko_fitzgerald_blagojevich.html)
-*   **KIPP and Zionist Networks:** Through her extensive funding of the Knowledge Is Power Program (KIPP), Fisher has fostered institutional ties with other Zionist philanthropists. These networks often overlap with the donor base of the Koret Foundation and Birthright Israel.
-    *   [Bridgespan: Doris and John Fisher Scale Up Student Success](https://www.bridgespan.org/insights/remarkable-givers/doris-and-john-fisher)
+#### 3. Political Contributions to Zionist Lobbying (AIPAC)
+While Doris Fisher’s personal donations often focus on domestic education policy, her family and business entities maintain direct financial ties to pro-Israel lobbying groups.
+*   **AIPAC PAC:** In 2023, **John Fisher** (Doris’s son and Executive Vice Chairman of **Pisces Inc.**) was documented as a contributor to the **AIPAC Political Action Committee** (AIPAC PAC).
+*   **Source:** The Guardian: US sports owners' political donations (Note: having trouble producing a specific citation)
 
-### 3. Community and Institutional Support
-Fisher is a long-term member and "Legacy" donor of **Congregation Emanu-El** in San Francisco, an institution that actively promotes Zionist education and organizes missions to Israel for Bay Area leaders.
+#### 4. Funding of Israeli Political Figures (Harvard Fisher Family Fellow)
+The Fisher family funds the **Fisher Family Fellowship** at the Harvard Kennedy School’s Belfer Center. This fellowship has been used to host and support high-level Israeli political and security figures.
+*   **Tzipi Livni:** In 2019, the fellowship was awarded to **Tzipi Livni**, the former Israeli Foreign Minister and a prominent Zionist leader, to support her work on international diplomacy and Israeli interests.
+*   **Source:** [Harvard Gazette: Tzipi Livni Fisher Family Fellow](https://news.harvard.edu/gazette/story/2021/06/harvard-analysts-discuss-israels-historically-diverse-new-coalition/)
 
-*   **Congregation Emanu-El:** Documentation shows Fisher as a top-tier donor to the congregation, which funds work in Israel and maintains strong ties with the Israeli consulate and the Jewish Community Federation.
-    *   [Congregation Emanu-El: Annual Report / Donor Recognition](https://www.emanuelsf.org/wp-content/uploads/2016/04/Passover-2016.pdf)
-*   **Cultural Philanthropy and Israel:** Fisher’s philanthropy often intersects with the Koret Foundation’s "Arts and Culture Initiative," which leverages cultural institutions to build broader support for the foundation's pro-Israel and Zionist objectives.
-    *   [San Francisco Opera: Koret Foundation Support](https://sfopera.com/about-us/press-room/press-releases/manon-lescaut-figaro-hansel-gretel/)
+#### 5. Institutional Ties to the San Francisco Jewish Community Federation
+Doris Fisher and the Doris & Donald Fisher Fund have a long history of supporting the **Jewish Community Federation and Endowment Fund** of San Francisco.
+*   **Zionist Funding:** The Federation is a central hub for funneling Bay Area philanthropic capital into Israeli projects and Zionist advocacy. Donald Fisher was noted as a "longtime supporter" and major donor to the Federation's capital campaigns.
+*   **Source:** [J. Weekly: Gap founder Donald Fisher leaves stamp on community](https://jweekly.com/2009/10/02/gap-founder-donald-fisher-leaves-stamp-on-community/)
+
+### Summary of Entities
+*   **Pisces Inc.:** The Fisher family office and primary vehicle for their investment and philanthropic coordination.
+*   **Doris & Donald Fisher Fund:** The primary private foundation through which the Fishers distribute grants.
+*   **Gap Inc.:** While the corporation itself maintains a "boycott-safe" status in some consumer lists, the founders' personal wealth derived from the company is a primary source of funding for the aforementioned Zionist initiatives.
 
 
 ## Supported Candidates
 
-| Candidate            | Years     | Direct Contributions   | Behested Payments   |
-|----------------------|-----------|------------------------|---------------------|
-| Anna Caballero       | 2017-2021 | $7,900                 | $0                  |
-| Josh Becker          | 2021      | $7,700                 | $0                  |
-| Megan Dahle          | 2019      | $7,200                 | $0                  |
-| Christopher Cabaldon | 2007      | $7,200                 | $0                  |
-| Susan Rubio          | 2019-2021 | $6,000                 | $0                  |
-| Melissa Hurtado      | 2019-2021 | $4,500                 | $0                  |
-| Dave Cortese         | 2021      | $3,000                 | $0                  |
-| Rosilicie Ochoa Bogh | 2021      | $1,500                 | $0                  |
+| Candidate                   | Years     | Direct Contributions   | Behested Payments   |
+|-----------------------------|-----------|------------------------|---------------------|
+| Scott Wiener                | 2015-2019 | $17,800                | $0                  |
+| Anna Caballero              | 2017-2021 | $7,900                 | $0                  |
+| Josh Becker                 | 2021      | $7,700                 | $0                  |
+| Megan Dahle                 | 2019      | $7,200                 | $0                  |
+| Christopher Cabaldon        | 2007      | $7,200                 | $0                  |
+| Susan Rubio                 | 2019-2021 | $6,000                 | $0                  |
+| Melissa Hurtado             | 2019-2021 | $4,500                 | $0                  |
+| Sabrina Cervantes           | 2019-2021 | $4,500                 | $0                  |
+| Lena Gonzalez               | 2021      | $3,000                 | $0                  |
+| Dave Cortese                | 2021      | $3,000                 | $0                  |
+| John Laird                  | 2021      | $3,000                 | $0                  |
+| Rosilicie Ochoa Bogh        | 2021      | $1,500                 | $0                  |
+| Tim Grayson                 | 2021      | $1,500                 | $0                  |
+| Suzette Martinez Valladares | 2021      | $1,500                 | $0                  |

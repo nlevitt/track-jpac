@@ -1,31 +1,40 @@
 # Contributor Report: Richard Leib
 
-# Contributor Report: Richard Leib
+Richard Leib is a prominent California political figure, business executive, and member of the University of California (UC) Board of Regents. He served as the **Chair of the UC Board of Regents** from 2022 to 2024 and is recognized as a significant political donor and advocate for Zionist causes within the California educational system and the broader San Diego community.
 
-Richard Leib is a businessman and the former Chair of the University of California (UC) Board of Regents, where he has been a vocal advocate for Israel and an opponent of anti-Zionist activism within the university system. He is the President and CEO of Dunleer Strategies, a strategic consulting firm based in San Diego [[1.3](https://www.universityofcalifornia.edu/about-us/leadership/board-regents/regent-richard-leib), [1.8](https://www.latimes.com/california/story/2023-12-12/campus-palestinian-allies-demand-uc-board-chair-resign-citing-one-sided-social-media-actions)]. Leib has served in various leadership capacities within the Jewish community, including as a past chair of the Jewish Federation of Greater Los Angeles [[1.3](https://www.universityofcalifornia.edu/about-us/leadership/board-regents/regent-richard-leib), [1.9](https://jewishcurrents.org/portrait-of-a-campus-in-crisis)].
+### 1. Political and Institutional Role
+Leib was appointed to the UC Board of Regents in 2018 by Governor Jerry Brown, with a term expiring in 2026. He is the President and CEO of **Dunleer Strategies**, a San Diego-based consulting firm, and previously co-founded Liquid Environmental Solutions.
+*   **UC Board Tenure:** Leib served as the Chair of the Regents during a period of heightened campus activism regarding the Israeli-Palestinian conflict. His leadership has been characterized by a firm stance against anti-Zionist activities on campus.
+*   **Political Background:** Early in his career, Leib worked for U.S. Representatives **Henry Waxman** and **Mel Levine**, both of whom were known as prominent pro-Israel leaders in Congress.
+*   **Sources:** University of California Regents Profile (Note: having trouble producing a specific citation), Los Angeles Times Profile (Note: having trouble producing a specific citation).
 
-### Relationship to Israel and Zionist Advocacy
+### 2. Zionist Advocacy and Institutional Policy
+Leib has used his position as a UC Regent to advocate for the inclusion of Zionism as a protected identity and to oppose boycotts of Israel.
+*   **Opposition to Zionist Speaker Bans:** In October 2022, Leib issued a formal statement denouncing student groups at **UC Berkeley School of Law** that adopted bylaws refusing to invite Zionist speakers. He described the move as "disturbing" and stated that "for many of these students, Zionism is an inextricable part of their Jewish identity."
+*   **Critique of Faculty Post-October 7:** Following the October 7, 2023, attacks, Leib publicly rebuked the **UC Ethnic Studies Faculty Council** for a letter that declined to label Hamas a terrorist organization, calling their statement "repugnant and offensive."
+*   **Sources:** Official Statement on UC Berkeley Law (Note: having trouble producing a specific citation), [CalMatters Coverage](https://calmatters.org/education/higher-education/2023/11/uc-regents-free-speech/).
 
-#### Public Policy and Campus Governance
-Leib has utilized his position as UC Regents Chair to address anti-Zionism on campus, which he describes as an "open" and "aggressive" form of student intimidation [[1.5](https://calmatters.org/education/higher-education/2023/11/uc-regents-israel-palestine/)].
-*   **Opposition to Student Boycotts:** In October 2022, Leib issued a statement denouncing student groups at the UC Berkeley School of Law for adopting bylaws that excluded Zionist speakers. He characterized Zionism as an "inextricable part" of Jewish identity and stated that the exclusion of such speakers constituted discrimination [[1.7](https://www.universityofcalifornia.edu/press-room/uc-regents-chair-richard-leib-statement-uc-berkeley-school-law)].
-*   **Policy Against Political Statements:** Leib co-authored Regents Policy J1, which restricts academic departments from posting political opinions on university homepages. The policy was widely viewed as a response to anti-Israel statements issued by several UC departments following the October 7, 2023, attacks [[1.4](https://www.latimes.com/california/story/2024-07-18/uc-regents-ban-views-on-israel-other-political-opinion-from-university-homepages), [1.9](https://www.sfchronicle.com/bayarea/article/uc-regents-homepage-political-statements-19582103.php)].
-*   **Condemnation of October 7:** On October 9, 2023, Leib and UC President Michael Drake issued a joint statement describing the Hamas attacks on Israel as "terrorism" and "sickening," calling for "collective condemnation" [[1.11](https://ucsdguardian.org/2023/10/16/ucsd-community-gathers-honor-our-martyrs-vigil-and-walk-for-israeli-solidarity/), [1.16](https://www.bestcolleges.com/news/uc-regents-delay-vote-on-political-opinions-policy/)].
+### 3. Documentation of Pro-Israel Social Media Activity
+In late 2023 and early 2024, Leib faced widespread calls for his resignation from a coalition of over 115 UC faculty, student, and community groups, including the **UC Palestine Collective**. The coalition cited his public engagement with social media posts they characterized as dehumanizing to Palestinians and anti-Zionist activists. Documented "likes" from his X (formerly Twitter) account included:
+*   **Opposition to BDS and SJP:** Leib liked posts labeling the **National Students for Justice in Palestine (SJP)** as an "anti-Israel hate group" and content ridiculing the **Boycott, Divestment, Sanctions (BDS)** movement.
+*   **"Pinkwashing" Allegations:** He engaged with a post comparing "Queers for Palestine" protesters to "Cows for McDonald's," a move critics described as "pinkwashing"—using LGBTQ+ rights to justify Israeli military actions.
+*   **Military Narratives:** He liked posts asserting that Hamas used hospitals as military headquarters, a claim used to justify Israeli strikes on medical facilities.
+*   **Sources:** Los Angeles Times: Campus Palestinian allies demand UC board chair resign (Note: having trouble producing a specific citation), [The Daily Nexus: UC Palestine Collective calls for resignation](https://dailynexus.com/2024-01-26/uc-palestine-collective-calls-for-uc-regents-chairs-resignation/).
 
-#### Political and Charitable Contributions
-Leib has a record of financial support for pro-Israel causes and candidates through both individual and family donations.
-*   **Israel Emergency Alliance:** Federal Election Commission (FEC) records indicate Leib has made contributions to the Israel Emergency Alliance (the corporate name for StandWithUs), a prominent pro-Israel advocacy and education organization [[1.3](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=richard+leib)].
-*   **Jewish Communal Funding:** Leib and his wife, Sharon Rosen Leib, are documented donors to the Jewish Community Foundation of San Diego and the American Jewish Joint Distribution Committee (JDC), supporting initiatives focused on "strengthening the local community" and "integrating immigrants" into Israeli society [[1.6](https://jcfsandiego.org/wp-content/uploads/2019/02/vision-winter-2015.pdf), [1.11](https://www.scribd.com/document/732890539/JDC-Annual-Report-2022-2023)].
-
-#### Advocacy and Media Commentary
-Leib frequently addresses the issue of antisemitism and anti-Zionism in public forums and Jewish media.
-*   **Published Stances:** In remarks published by the *San Diego Jewish World*, Leib called on university leadership to "address this form of anti-Zionism" and praised Jewish students for their resilience in the face of "unspeakable brutality" [[1.9](https://www.sdjewishworld.com/2023/11/15/uc-board-of-regents-chair-rich-leib-incumbent-on-university-leadership-to-call-out-hate-speech/)].
-*   **Campus Activism Critiques:** Leib has faced criticism from over 115 UC faculty and student groups for his social media activity, which included "liking" posts that ridiculed the Boycott, Divestment, Sanctions (BDS) movement and referred to Students for Justice in Palestine (SJP) as an "anti-Israel hate group" [[1.8](https://www.latimes.com/california/story/2023-12-12/campus-palestinian-allies-demand-uc-board-chair-resign-citing-one-sided-social-media-actions)].
-*   **Op-Ed Authorship:** Leib has been identified as an author of commentaries addressing Zionism, including a piece in *The Harvard Crimson* titled "Anti-Zionism and Anti-Semitism" (2007), which criticized comparisons of Israel to apartheid South Africa [[1.5](https://www.harvard.edu/president/task-force-on-antisemitism-and-anti-israeli-bias-final-report/)].
+### 4. Philanthropic and Organizational Ties
+Leib’s relationship with Zionist and pro-Israel causes extends to his philanthropic activities and community leadership in San Diego.
+*   **Jewish Community Foundation of San Diego:** He and his wife maintain the **Richard Leib & Sharon Rosen Leib Family Fund**, which supports various Jewish and communal causes.
+*   **American Jewish Committee (AJC):** In February 2024, Leib moderated a panel titled "Dispute But Also Create: Ending Antisemitism on Campus" at a symposium co-hosted by the **AJC** and the **Jewish Federation of San Diego**.
+*   **Local Political Influence:** Leib is described in local media as a "local influence peddler" and a significant donor to Democratic candidates in California, often aligning with the pro-Israel wing of the party.
+*   **Sources:** Jewish Community Foundation Fund Directory (Note: having trouble producing a specific citation), San Diego Jewish World: Symposium Report (Note: having trouble producing a specific citation), San Diego Reader: Political Contributions (Note: having trouble producing a specific citation).
 
 
 ## Supported Candidates
 
 | Candidate            | Years     | Direct Contributions   | Behested Payments   |
 |----------------------|-----------|------------------------|---------------------|
+| John Laird           | 2003-2019 | $2,400                 | $0                  |
 | Christopher Cabaldon | 2001-2023 | $1,500                 | $0                  |
+| Catherine Blakespear | 2023-2025 | $1,000                 | $0                  |
+| Anna Caballero       | 2023      | $500                   | $0                  |
+| Bob Archuleta        | 2017      | $0                     | $0                  |

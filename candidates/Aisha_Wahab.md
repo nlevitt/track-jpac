@@ -2,14 +2,13 @@
 
 **Role:** State Senator, District 10
 
-Aisha Wahab is the State Senator for California's 10th District, having assumed office on December 5, 2022. The district encompasses cities in the East Bay and northwestern Silicon Valley, including Hayward, Fremont, Union City, Newark, Milpitas, Sunnyvale, San Jose, and Santa Clara.
+Aisha Wahab serves as a California State Senator for the 10th district, a position she has held since December 5, 2022. She is also the Assistant Majority Leader and chairs the Senate Business, Professions & Economic Development Committee, and is currently running for Congress in California's 14th Congressional District as of April 2026.
 
-Analyzed on: 2026-04-25 00:04:07
-**Total Zionist Contributions:** $4,900
+Analyzed on: 2026-04-25 02:26:13
+**Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 
 ### Zionist Direct Contributions
 
-| Contributor                                           |   Years | Total Amount   | Relationship to Israel                                                                                                                                                                     |
-|-------------------------------------------------------|---------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Resnick, William](../contributors/resnickwilliam.md) |    2021 | $4,900         | Philanthropist who co-established the Resnick Institute for Life Sciences at the Technion-Israel Institute of Technology, demonstrating direct, active support for an Israeli institution. |
+No Zionist supporters identified among contributors.
+

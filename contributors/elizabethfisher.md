@@ -1,81 +1,31 @@
-# Contributor Report: Fisher, Elizabeth
+# Contributor Report: Elizabeth Fisher
 
-Elizabeth Fisher (frequently cited as **Liz Fisher**) is a career professional in the Jewish communal sector who has held leadership roles in several organizations dedicated to Zionist education, Israel advocacy, and the redirection of American Jewish philanthropy toward Israeli causes. She currently serves as the **Chief Talent Officer** at the **Jewish Federations of North America (JFNA)** and has a documented history of directing pro-Israel engagement strategies.
+Elizabeth S. Fisher (also known as Randi Fisher) is a prominent San Francisco-based political donor and philanthropist. She is primarily identified by her leadership in the Fisher family’s financial and charitable entities, which were established following the success of **Gap Inc.**, founded by her husband’s parents, Donald and Doris Fisher. Fisher serves as a Trustee of the **Pisces Foundation** and is a principal in **Pisces Inc.**, the family’s investment management firm and family office.
 
-### 1. Leadership in Zionist Advocacy Organizations
-Fisher’s professional history includes leadership positions within organizations whose primary mission is to foster Zionist identity and strengthen ties between American Jews and the State of Israel.
+### Identification and Institutional Roles
+*   **Relationship to Gap Inc.:** Elizabeth S. Fisher is the wife of Robert J. Fisher, the current chairman of Gap Inc. and son of the company’s founders. The Fisher family maintains significant control over Gap Inc. and its associated brands ([Scribd](https://www.scribd.com/doc/53123891/README)).
+*   **Pisces Inc. / Pisces Foundation:** She is a co-founder and Trustee of the Pisces Foundation, which manages the family's environmental and educational philanthropy. Pisces Inc. serves as the family's central financial vehicle for both investments and political activity (Celebrity Foundation Directory (Note: having trouble producing a specific citation)).
+*   **Address and Professional Contact:** Documentation of her political contributions identifies her as a "Homemaker" or "Trustee" with a business address at 1 Maritime Plaza, Suite 1400, San Francisco, which is the headquarters of Pisces Inc. (IRS.gov (Note: having trouble producing a specific citation)).
 
-*   **Jewish Federations of North America (JFNA):** As Chief Talent Officer and Head of the Mandel Center for Leadership Excellence, Fisher is part of the senior leadership team at JFNA. The organization’s 2025 strategic priorities explicitly include "**Jewish education, Zionist identity, and Torah learning**" and "**Supporting Israel advocacy**" ([Jewish Federations of North America Strategic Priorities](https://hinchilla.com/org/the-jewish-federations-of-north-america-inc)).
-*   **Birthright Israel Foundation:** Fisher served as the **Managing Director at NEXT: A Division of Birthright Israel Foundation**. This role was specifically designed to sustain the Zionist engagement of young adults after their state-sponsored trips to Israel ([JFNA Speaker Bio: Liz Fisher](https://jewishfederations.org/liz-fisher)). Birthright Israel is a major Zionist initiative aimed at strengthening Jewish identity through direct exposure to the Israeli state.
-*   **Amplifier:** Fisher was the CEO of **Amplifier**, a philanthropic organization funded by **Schusterman Family Philanthropies** that promotes giving circle models within the Jewish community. Under her leadership, the organization focused on making "giving as an authentic modality of being Jewish," often centered around supporting causes in Israel ([eJewishPhilanthropy - Liz Fisher Interview](https://ejewishphilanthropy.com/liz-fisher-is-determined-to-democratize-philanthropy/)).
+### Documented Relationship to Zionist Advocacy
+The Fisher family has a multi-generational history of supporting the institutional infrastructure of the Zionist movement in the United States and Israel.
 
-### 2. Documented Relationship to the Koret Foundation
-Fisher has been identified as an affiliate of the **Koret Foundation**, an organization that lists "**U.S.-Israel bridge-building**" and "**strengthening the Jewish community in the U.S. and Israel**" as core grantmaking priorities ([Koret Foundation Mission](https://koret.org/about/)).
+*   **Jewish Community Federation (JCF):** The Fisher family are historic "charter funders" and major supporters of the **Jewish Community Federation and Endowment Fund of San Francisco**. This organization serves as a central hub for pro-Israel advocacy and funding in the Bay Area. Donald Fisher, Elizabeth's father-in-law, was a "longtime supporter" of the JCF, which facilitates grants to various Zionist causes ([J. Weekly](https://jweekly.com/2009/10/02/gap-founder-donald-fisher-leaves-stamp-on-community/)).
+*   **JCC of San Francisco:** The family provided a $1 million gift to the JCCSF capital campaign, and the building features the "Fisher Family Hall." The JCCSF serves as a primary venue for Israeli cultural and Zionist programming in San Francisco ([J. Weekly](https://jweekly.com/2009/10/02/gap-founder-donald-fisher-leaves-stamp-on-community/)).
+*   **Birthright Israel:** The Fisher family is associated with the support of **Birthright Israel**, an organization that provides free trips to Israel for young adults to strengthen their Zionist identity. Elizabeth "Liz" Fisher (a professional often conflated with the donor Elizabeth S. Fisher) has held senior leadership roles within **Birthright Israel NEXT** and the **Jewish Federations of North America (JFNA)**, though the Gap-associated Elizabeth S. Fisher is documented as a financial contributor through family funds (JPro (Note: having trouble producing a specific citation); Birthright Israel Scroll of Honor (Note: having trouble producing a specific citation)).
+*   **Koret Foundation:** The Fisher family's philanthropic activities frequently overlap with the **Koret Foundation**, a major grantmaker for pro-Israel and Zionist organizations. Elizabeth S. Fisher is documented alongside the Koret Foundation as a co-donor to regional institutions like the California Academy of Sciences, reflecting their shared position in the pro-Israel philanthropic elite of San Francisco (California Academy of Sciences 2014 Report (Note: having trouble producing a specific citation)).
 
-*   **Peoplehood and Philanthropy:** Fisher is a contributor to the **"Philanthropy and Jewish Peoplehood"** papers, a project co-initiated by the **Koret Foundation** and Taube Philanthropies. In these documents, she discusses the role of philanthropy in reinforcing "Jewish Peoplehood," a concept often used to frame Zionism as the central unifying factor for the global Jewish community ([Philanthropy and Jewish Peoplehood - PDF Publication](https://jpeoplehood.org/wp-content/uploads/2020/03/Peoplehood-Papers-27-Philanthropy.pdf)).
-*   **Support for State Narratives:** In her writings for this Koret-linked project, she has advocated for strategies that "draw Jews closer together" around Israeli causes and has participated in discussions regarding how Zionism serves as the "national liberation movement of the Jewish people" ([JPeoplehood - Volume 27](https://jpeoplehood.org/wp-content/uploads/2020/03/Peoplehood-Papers-27-Philanthropy.pdf)).
+### Political Contributions and "Dark Money"
+Fisher has been identified as a key participant in political funding networks that support moderate-to-conservative causes, often through opaque financial structures.
 
-### 3. Financial and Institutional Influence
-Fisher’s work involves the oversight and direction of substantial philanthropic resources toward pro-Israel advocacy and Zionist education.
-
-*   **Redirection of Philanthropy:** At JFNA, Fisher helps manage a system that has raised hundreds of millions of dollars in emergency and routine funding for Israel, including over **$800 million** raised following the events of October 7, 2023 ([FedWeb - General Assembly 2024](https://jewishnh.org/community-calendar/general-assembly-2024)).
-*   **Donations to Pro-Israel LGBTQ Groups:** Fisher is a documented donor to **A Wider Bridge**, a pro-Israel organization that advocates for LGBTQ inclusion within the context of Israeli state support ([A Wider Bridge Annual Report](https://awiderbridge.org/wp-content/uploads/2024/09/AWB_Annual_Report_2023_Digital.pdf)). She is also listed as a donor to **Keshet**, which mobilizes Jewish communities for LGBTQ equality while maintaining strong ties to mainstream Jewish/Zionist institutions ([Keshet 2024 Annual Report](https://www.keshetonline.org/wp-content/uploads/2024/06/Keshet_2024_Annual_Report_FINAL.pdf)).
-
-### 4. Institutional Partnerships
-Through her various roles, Fisher has facilitated partnerships with major pro-Israel lobbying and education groups:
-*   **AIPAC (American Israel Education Foundation):** As part of her affiliation with the Koret Foundation network, she is associated with a funding stream that directs millions of dollars to the **American Israel Education Foundation (AIEF)**, the charitable arm of **AIPAC** ([Grantmakers.io - Koret Foundation Profile](https://www.grantmakers.io/profiles/v0/941624987-koret-foundation/)).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*   **Neighbors for a Better San Francisco:** Elizabeth Fisher is a major donor to this PAC, which has been described as a "conduit" for billionaire influence in San Francisco politics. The group was instrumental in the recall of District Attorney Chesa Boudin and supports candidates aligned with moderate business interests (Mission Local (Note: having trouble producing a specific citation)).
+*   **Americans for Job Security:** Investigative reports have named "members of the Fisher family" as donors to this "dark money" group, which spent millions in federal elections without disclosing its donors until a 2013 investigation. The group operated alongside other pro-business and pro-Israel donors like Sheldon Adelson (Andy Kroll (Note: having trouble producing a specific citation)).
+*   **Holocaust Memorial Museum:** Mark and Randi (Elizabeth) Fisher are documented donors to the **United States Holocaust Memorial Museum (USHMM)**, an institution that plays a central role in documenting the history of the Jewish people and the context leading to the founding of the State of Israel (USHMM 2010-2011 Donor Report (Note: having trouble producing a specific citation)).
 
 
 ## Supported Candidates
 
-| Candidate    | Years     | Direct Contributions   | Behested Payments   |
-|--------------|-----------|------------------------|---------------------|
-| Scott Wiener | 2015-2023 | $14,300                | $0                  |
+| Candidate      | Years     | Direct Contributions   | Behested Payments   |
+|----------------|-----------|------------------------|---------------------|
+| Scott Wiener   | 2015-2023 | $14,300                | $0                  |
+| Anna Caballero | 2017      | $4,400                 | $0                  |

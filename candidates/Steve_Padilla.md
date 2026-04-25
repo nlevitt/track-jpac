@@ -2,17 +2,13 @@
 
 **Role:** State Senator, District 18
 
-Steve Padilla is an incumbent member of the California State Senate, representing District 18. His district covers parts of San Diego, Imperial, Riverside, and San Bernardino counties, extending along the Mexico–United States border.
+Steve Padilla is a Democratic member of the California State Senate, representing District 18. He assumed office on December 5, 2022, and his current term concludes on December 7, 2026. Padilla is running for re-election in the primary on June 2, 2026. He also chairs the Senate Insurance Committee.
 
-Analyzed on: 2026-04-25 00:10:52
-**Total Zionist Contributions:** $17,200
+Analyzed on: 2026-04-25 02:55:25
+**Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 
 ### Zionist Direct Contributions
 
-| Contributor                                              |   Years | Total Amount   | Relationship to Israel                                                                                               |
-|----------------------------------------------------------|---------|----------------|----------------------------------------------------------------------------------------------------------------------|
-| [Mitzner, Michael P](../contributors/michaelmitznerp.md) |    2021 | $4,900         | Donor to Friends of the Israel Defense Forces (FIDF), supporting Israeli soldiers.                                   |
-| [Mitzner, Steven C](../contributors/cmitznersteven.md)   |    2021 | $4,900         | Major donor to Friends of the Israel Defense Forces (FIDF), supporting Israeli soldiers.                             |
-| [Mitzner, Ira](../contributors/iramitzner.md)            |    2021 | $4,900         | Board member of JINSA, advocating for a strong U.S.-Israel security relationship.                                    |
-| [Essakow, Jeffrey](../contributors/essakowjeffrey.md)    |    2021 | $2,500         | Donor to AIPAC and other organizations with documented pro-Israel advocacy, demonstrating active support for Israel. |
+No Zionist supporters identified among contributors.
+
