@@ -1,5 +1,5 @@
 # Aggregate Summary: California Zionist Contributions
-Generated on: 2026-04-24 23:48:59
+Generated on: 2026-04-24 23:49:15
 
 ## Candidates with Identified Support
 

@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 8
 
-Angelique Ashby is the State Senator for California's 8th District, which includes a significant portion of Sacramento County, such as the cities of Sacramento and Elk Grove. She assumed office in December 2022 and currently serves as the Majority Leader of the California Senate.
+Angelique Ashby is the Senate Majority Leader in the California State Senate, representing District 8. She assumed office in December 2022, and her district encompasses the core of the Sacramento metropolitan area, including Sacramento and Elk Grove.
 
-Analyzed on: 2026-04-24 23:25:51
+Analyzed on: 2026-04-24 23:49:15
 **Total Zionist Contributions:** $8,500
 **Total Zionist Behested Payments:** $10,000
 
