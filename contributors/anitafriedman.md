@@ -38,65 +38,6 @@ Friedman’s work extends to policy-level advocacy related to Israel and Jewish 
     *   *Source:* [JFCS News](https://www.jfcs.org/anita-friedman-named-2025-honorary-fellow-israel-museum-jerusalem/)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate    | Years     | Direct Contributions   | Behested Payments   |

@@ -29,60 +29,10 @@ Fisher is a long-term member and "Legacy" donor of **Congregation Emanu-El** in 
     *   [San Francisco Opera: Koret Foundation Support](https://sfopera.com/about-us/press-room/press-releases/manon-lescaut-figaro-hansel-gretel/)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate            | Years     | Direct Contributions   | Behested Payments   |
 |----------------------|-----------|------------------------|---------------------|
-| Scott Wiener         | 2015-2019 | $17,800                | $0                  |
 | Anna Caballero       | 2017-2021 | $7,900                 | $0                  |
 | Josh Becker          | 2021      | $7,700                 | $0                  |
 | Megan Dahle          | 2019      | $7,200                 | $0                  |

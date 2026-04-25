@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 1
 
-Megan Dahle is a Republican who assumed office as a member of the California State Senate, representing District 1, on December 2, 2024. The 1st State Senate District covers northeastern California, including all of Butte, Colusa, Glenn, Lassen, Modoc, Plumas, Shasta, Sierra, Siskiyou, Sutter, Tehama, and Yuba counties, and portions of Nevada and Placer counties.
+Megan Dahle is a Republican who has been serving as a member of the California State Senate, representing District 1, since December 2, 2024. Her current term is scheduled to end on December 4, 2028.
 
-Analyzed on: 2026-04-25 00:01:22
+Analyzed on: 2026-04-25 00:26:49
 **Total Zionist Contributions:** $7,200
 **Total Zionist Behested Payments:** $0
 

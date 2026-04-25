@@ -43,50 +43,6 @@ Hidary’s political fundraising frequently draws from a network of pro-Israel d
 *   **Documentation:** [The Forward: Syrian Jewish Community and Political Fundraising](https://forward.com/news/181102/jack-hidarys-longshot-bid-for-new-york-mayor-divid/)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate   | Years     | Direct Contributions   | Behested Payments   |

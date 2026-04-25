@@ -28,39 +28,6 @@ In January 2026, Senator Wiener faced a significant rupture in his relationship 
 *   **Political Context:** Despite this shift, Wiener continues to maintain his support for the "U.S.-Israel relationship" and the existence of Israel as a Jewish state [Source: [Jewish Journal](https://jewishjournal.com/community/373976/state-senator-scott-wiener-to-step-down-as-jewish-caucus-co-chair/)].
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate       |   Years | Direct Contributions   | Behested Payments   |

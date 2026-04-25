@@ -35,68 +35,8 @@ The Bloomfields are known for significant contributions to domestic educational 
     *   **Source:** [Sciencesprings - Breakthrough Starshot Funding](https://sciencesprings.wordpress.com/tag/breakthrough-starshot-initiative/)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
-| Candidate    | Years     | Direct Contributions   | Behested Payments   |
-|--------------|-----------|------------------------|---------------------|
-| Scott Wiener | 2015-2023 | $15,500                | $0                  |
-| Susan Rubio  | 2017-2021 | $13,700                | $0                  |
+| Candidate   | Years     | Direct Contributions   | Behested Payments   |
+|-------------|-----------|------------------------|---------------------|
+| Susan Rubio | 2017-2021 | $13,700                | $0                  |

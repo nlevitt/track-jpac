@@ -55,6 +55,7 @@ Kaufman utilizes his professional platform as a senior advisor at Dentons to inf
 
 
 
+
 ## Supported Candidates
 
 | Candidate   |   Years | Direct Contributions   | Behested Payments   |

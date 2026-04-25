@@ -30,23 +30,6 @@ Portantino’s political campaigns, including "Portantino for Senate 2020," have
 *   **Donor Base:** While corporate donors like NextEra Energy (Note: having trouble producing a specific citation) and Aflac (Note: having trouble producing a specific citation) have contributed significantly to the "Portantino for Senate 2020" committee, the entity’s relationship to Zionist advocacy is primarily evidenced through his [coordinated legislative actions](https://www.sdjewishworld.com/2021/09/08/california-ethnic-studies-legislation-passes/) and the consistent backing of pro-Israel PACs (Note: having trouble producing a specific citation).
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate       | Years     | Direct Contributions   | Behested Payments   |

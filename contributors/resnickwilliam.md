@@ -30,57 +30,6 @@ The Resnick Foundation, under the leadership of the Resnick family, has a docume
     *   *Source:* [MR Online - IDF Funding via Resnick Foundation](https://mronline.org/2024/02/21/california-pistachio-billionaires-funding-israels-occupation-regime/)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate    |   Years | Direct Contributions   | Behested Payments   |

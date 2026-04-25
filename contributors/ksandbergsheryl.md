@@ -36,50 +36,6 @@ Sandberg’s Zionist involvement is rooted in a family history of activism. Her 
 *   **Source:** [Hadassah Magazine](https://www.hadassahmagazine.org/2023/12/17/sheryl-sandbergs-inherited-jewish-activism/)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate   |   Years | Direct Contributions   | Behested Payments   |

@@ -33,22 +33,6 @@ As a representative of RIDA Development, Mitzner is part of a family office that
 *   **Source:** eJewishPhilanthropy: Your Daily Phil (June 24, 2024) - Mitzner and California Security Grants (Note: having trouble producing a specific citation)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate     |   Years | Direct Contributions   | Behested Payments   |

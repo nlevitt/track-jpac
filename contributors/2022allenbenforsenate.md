@@ -39,62 +39,6 @@ The committee **Ben Allen for Senate 2022** serves as a vehicle for collecting c
     *   **Source:** [FollowTheMoney.org - Allen, Ben Campaign Finance Profile](https://www.followthemoney.org/entity-details?eid=23437190)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate       |   Years | Direct Contributions   | Behested Payments   |

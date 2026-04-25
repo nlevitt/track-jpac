@@ -31,50 +31,6 @@ Helberg’s Zionist advocacy frequently appears in his public-facing roles and m
 *   **Social Media Advocacy:** Helberg uses platforms like X (formerly Twitter) to publish pro-Israel messages, such as praising the Abraham Accords and defending Israel's military actions as essential for Western security. [Source: Israel National News (Dec 23, 2025)](https://www.israelnationalnews.com/news/382417)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate   |   Years | Direct Contributions   | Behested Payments   |

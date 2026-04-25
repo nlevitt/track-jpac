@@ -29,23 +29,6 @@ Mitchell Cohen’s documented stances emphasize a "rooted cosmopolitanism" that 
 *   **Criticism of Settlement Policy:** While defending the legitimacy of the Zionist project, Cohen has criticized the Israeli right wing and the settlement policy beyond the 1967 borders, which he views as religious-nationalist extremism rather than a security necessity [[1.2](https://dissentmagazine.org/online_articles/israel-at-sixty-an-interview-with-mitchell-cohen/)].
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate    |   Years | Direct Contributions   | Behested Payments   |

@@ -33,50 +33,6 @@ Oracle maintains an internal policy that prioritizes support for Israel, often a
 Oracle America, Inc. operates a Political Action Committee (**Oracle PAC**) that contributes to federal candidates. While it supports candidates across the political spectrum, its leadership has utilized political engagement to advocate for the continuation of weapon shipments to Israel during private lobbying meetings with U.S. senators [[1.19]](https://www.business-humanrights.org/en/latest-news/oracle-allegedly-suppresses-pro-palestinian-voices-cuts-charity-support-amid-tiktok-takeover-bid/) [[1.4]](https://www.fec.gov/data/committee/C00323048/).
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate   | Years     | Direct Contributions   | Behested Payments   |

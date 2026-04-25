@@ -49,22 +49,6 @@ Mitzner is a prolific donor to political candidates and committees that prioriti
         *   *Source*: [Ballotpedia (Campaign Finance Records)](https://ballotpedia.org/George_P._Bush)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate     |   Years | Direct Contributions   | Behested Payments   |

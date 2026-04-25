@@ -31,23 +31,6 @@ Documentation suggests that Ahmanson's funding of pro-Israel causes is part of a
 *   **Source:** [Salon: Avenging angel of the religious right](https://www.salon.com/2004/01/06/ahmanson/)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate            |   Years | Direct Contributions   | Behested Payments   |

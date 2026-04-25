@@ -33,22 +33,6 @@ Essakow has been identified as a donor to the American Israel Public Affairs Com
     *   **Source:** Challenged Athletes Foundation - Board of Directors (Note: having trouble producing a specific citation)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate     |   Years | Direct Contributions   | Behested Payments   |

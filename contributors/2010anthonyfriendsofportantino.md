@@ -32,55 +32,6 @@ Portantino has been endorsed by "Democrats for Israel Los Angeles," an organizat
 *   **Source**: [WEHOville: Endorsement by Democrats for Israel Los Angeles](https://wehoville.com/2024/01/24/update-where-your-congressional-candidates-stand-on-israel-anti-semitism/)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate   |   Years | Direct Contributions   | Behested Payments   |

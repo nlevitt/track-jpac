@@ -32,57 +32,6 @@ Kounalakis’s political network includes high-level figures within the pro-Isra
     *   [Source: UCLA Hillel - Thank You UC Regents: Antisemitism Report Update](https://www.uclahillel.org/israel_on_campus)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate   | Years     | Direct Contributions   | Behested Payments   |

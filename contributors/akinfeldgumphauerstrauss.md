@@ -53,23 +53,6 @@ The firm and its employees are significant contributors to California political 
 | **Adam Schiff** | Recipient of Firm/Partner Contributions | [FEC Contributor Data](https://www.fec.gov/data/committee/C00104901/) |
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate    |   Years | Direct Contributions   | Behested Payments   |

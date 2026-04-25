@@ -37,55 +37,6 @@ Through the Sheryl Sandberg & Dave Goldberg Family Foundation, Sandberg has dire
     *   [Source: eJewishPhilanthropy](https://ejewishphilanthropy.com/your-daily-phil-sheryl-sandberg-displays-her-jewish-pride-a-philanthropic-couple-starts-a-new-accelerator-for-nyc-nonprofits/)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate   |   Years | Direct Contributions   | Behested Payments   |

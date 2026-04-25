@@ -26,38 +26,6 @@ The PAC is the political arm of a broader network of pro-Israel advocacy in Cali
 Critics of the PAC, such as [JVP-Action](https://www.laprogressive.com/racism/ca-legislative-jewish-caucus) and the [California Faculty Association](https://www.jweekly.com/2023/10/22/updated-csu-faculty-union-conflates-state-jewish-lobby-with-tobacco-and-oil/), have identified it as a specifically Zionist lobbying entity. The California Faculty Association notably included the PAC’s affiliate (JPAC) alongside AIPAC in a questionnaire for political candidates, questioning their acceptance of funds from groups that "harm working people" through their Middle East policy advocacy ([Source](https://www.jweekly.com/2023/10/22/updated-csu-faculty-union-conflates-state-jewish-lobby-with-tobacco-and-oil/)).
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate    |   Years | Direct Contributions   | Behested Payments   |

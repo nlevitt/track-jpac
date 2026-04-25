@@ -32,41 +32,6 @@ Allen maintains close ties with major Zionist and pro-Israel organizations, freq
     *   **Source:** [Jewish Caucus Statement on Attacks Against Israel (2023)](https://jewishcaucus.legislature.ca.gov/news/2023-10-07-california-legislative-jewish-caucus-releases-statement-horrific-terrorist-attacks)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate   |   Years | Direct Contributions   | Behested Payments   |

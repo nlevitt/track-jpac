@@ -35,48 +35,8 @@ Resnick’s support extends to prominent Jewish and Zionist communal organizatio
     *   [Source: Sony Pictures Classics - Biography of Lynda Resnick mentioning Simon Wiesenthal Center context](https://www.sonyclassics.com/thegreatestmovieeversold/presskit.pdf)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
-| Candidate            |   Years | Direct Contributions   | Behested Payments   |
-|----------------------|---------|------------------------|---------------------|
-| Christopher Cabaldon |    2023 | $5,500                 | $0                  |
-| Melissa Hurtado      |    2021 | $4,900                 | $0                  |
+| Candidate       |   Years | Direct Contributions   | Behested Payments   |
+|-----------------|---------|------------------------|---------------------|
+| Melissa Hurtado |    2021 | $4,900                 | $0                  |

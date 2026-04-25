@@ -30,52 +30,6 @@ As Chairman of the Broadcasting Board of Governors (BBG) from 1995 to 2002, Nath
 9. [The Eden Magazine: ADL Leadership and Marc Nathanson Participation](https://theedenmagazine.com/index.php/2025/03/01/beverly-hills-womens-club/)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate   | Years     | Direct Contributions   | Behested Payments   |

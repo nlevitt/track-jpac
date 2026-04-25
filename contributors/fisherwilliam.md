@@ -25,61 +25,8 @@ Beyond the AJC, Fisher’s broader philanthropic profile includes support for ot
 | **Tel Aviv University** | Scholarship Donor | Support for Israeli higher education [1.4](https://forward.com/fast-forward/376125/jewish-philanthropist-may-suspend-aid-to-israel-over-diaspora-controversies/) |
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
-| Candidate            | Years     | Direct Contributions   | Behested Payments   |
-|----------------------|-----------|------------------------|---------------------|
-| Scott Wiener         | 2015-2021 | $16,300                | $0                  |
-| Christopher Cabaldon | 2007      | $7,200                 | $0                  |
+| Candidate            |   Years | Direct Contributions   | Behested Payments   |
+|----------------------|---------|------------------------|---------------------|
+| Christopher Cabaldon |    2007 | $7,200                 | $0                  |

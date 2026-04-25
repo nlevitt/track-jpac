@@ -32,53 +32,6 @@ During his tenure in the California State Senate and his 2024 Congressional camp
 Min’s relationship with Zionist advocacy is defined by his alignment with "liberal Zionist" frameworks. His endorsement by J Street indicates a focus on diplomatic solutions and the preservation of Israel as a Jewish democracy, while his endorsement by DMFI PAC signals adherence to core pro-Israel tenets within the Democratic establishment, including unconditional military aid and opposition to the BDS movement.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate       |   Years | Direct Contributions   | Behested Payments   |

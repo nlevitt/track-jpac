@@ -24,42 +24,6 @@ Leib frequently addresses the issue of antisemitism and anti-Zionism in public f
 *   **Op-Ed Authorship:** Leib has been identified as an author of commentaries addressing Zionism, including a piece in *The Harvard Crimson* titled "Anti-Zionism and Anti-Semitism" (2007), which criticized comparisons of Israel to apartheid South Africa [[1.5](https://www.harvard.edu/president/task-force-on-antisemitism-and-anti-israeli-bias-final-report/)].
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate            | Years     | Direct Contributions   | Behested Payments   |

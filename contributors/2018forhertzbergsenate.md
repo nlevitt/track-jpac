@@ -30,36 +30,8 @@ Hertzberg maintained documented relationships with several prominent Zionist and
     *   **Source:** [Jewish Journal: Shul Merger, ADL Entertainment Dinner](https://jewishjournal.com/community/233486/moving-shaking-shul-merger-adl-entertainment-dinner/)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
-| Candidate   |   Years | Direct Contributions   | Behested Payments   |
-|-------------|---------|------------------------|---------------------|
-| Ash Kalra   |    2015 | $2,000                 | $0                  |
+| Candidate    |   Years | Direct Contributions   | Behested Payments   |
+|--------------|---------|------------------------|---------------------|
+| Scott Wiener |    2015 | $3,000                 | $0                  |

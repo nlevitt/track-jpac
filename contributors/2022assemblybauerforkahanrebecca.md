@@ -32,46 +32,8 @@ Bauer-Kahan was a primary proponent of **AB 715**, a bill aimed at combating ant
 *   **Source:** [CalMatters - The fight over California's controversial antisemitism law (October 14, 2024)](https://calmatters.org/education/k-12-education/2024/10/california-antisemitism-schools-law/)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
-| Candidate     |   Years | Direct Contributions   | Behested Payments   |
-|---------------|---------|------------------------|---------------------|
-| Gail Pellerin |    2021 | $1,000                 | $0                  |
+| Candidate   |   Years | Direct Contributions   | Behested Payments   |
+|-------------|---------|------------------------|---------------------|
+| Matt Haney  |    2021 | $1,000                 | $0                  |

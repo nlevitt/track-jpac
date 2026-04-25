@@ -28,23 +28,6 @@ Resnick’s philanthropic portfolio includes recurring support for entities that
     *   **Source:** [MR Online - California Billionaires Funding Israel's Occupation](https://mronline.org/2024/02/21/california-pistachio-billionaires-funding-israels-occupation-regime/)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate       |   Years | Direct Contributions   | Behested Payments   |

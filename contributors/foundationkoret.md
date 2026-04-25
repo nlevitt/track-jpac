@@ -36,23 +36,6 @@ The leadership of the Koret Foundation maintains direct ties to prominent pro-Is
 *   **Source:** [Koret Foundation - Leadership Profile: Jeff Farber](https://koret.org/grantees/israel-at-75-the-wonder-of-a-jewish-state/)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate       |   Years | Direct Contributions   | Behested Payments   |

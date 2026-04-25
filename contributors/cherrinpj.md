@@ -30,38 +30,6 @@ Through his firm, **Cherrin Philanthropy**, Cherrin advises major donors on "leg
 *   **Source:** [Cherrin Philanthropy - Official Site](https://cherrinphilanthropy.com/)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate    |   Years | Direct Contributions   | Behested Payments   |

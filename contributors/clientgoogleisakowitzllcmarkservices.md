@@ -42,58 +42,8 @@ As a "Responsible Officer" for Google’s government affairs branch, Isakowitz o
 *   **Lobbying Spend Overview:** [OpenSecrets: Google (Alphabet Inc.) Lobbying Profile](https://www.opensecrets.org/federal-lobbying/clients/summary?cycle=2023&id=D000067823)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate      | Years     | Direct Contributions   | Behested Payments   |
 |----------------|-----------|------------------------|---------------------|
 | Anna Caballero | 2021-2025 | $17,000                | $0                  |
-| Scott Wiener   | 2019-2021 | $9,000                 | $0                  |

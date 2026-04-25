@@ -36,26 +36,8 @@ Newman’s alignment with Zionist advocacy has drawn criticism from civil rights
 *   **Source:** LA Progressive - Critical Report on CLJC Influence (Note: having trouble producing a specific citation)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
-| Candidate          |   Years | Direct Contributions   | Behested Payments   |
-|--------------------|---------|------------------------|---------------------|
-| Melissa Hurtado    |    2021 | $9,800                 | $0                  |
-| Marie Alvarado-Gil |    2021 | $2,500                 | $0                  |
+| Candidate       |   Years | Direct Contributions   | Behested Payments   |
+|-----------------|---------|------------------------|---------------------|
+| Melissa Hurtado |    2021 | $9,800                 | $0                  |

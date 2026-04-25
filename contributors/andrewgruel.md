@@ -40,6 +40,10 @@ Gruel is a politically active individual whose influence extends through campaig
 
 
 
+
+
+
+
 ## Supported Candidates
 
 | Candidate          |   Years | Direct Contributions   | Behested Payments   |

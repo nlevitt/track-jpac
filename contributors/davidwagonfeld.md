@@ -43,50 +43,6 @@ Wagonfeld and his spouse, Alison Wagonfeld, are documented regular donors to Zio
     *   **Source:** [Americans for Ben-Gurion University: Celebrating Medical Science](https://americansforbgu.org/celebrating-the-remarkable-3-pioneering-medical-science/) (Listing Wagonfeld as a sponsor).
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate   | Years     | Direct Contributions   | Behested Payments   |

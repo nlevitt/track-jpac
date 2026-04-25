@@ -41,23 +41,6 @@ Stephanie Argyros and the foundation are primary underwriters for cultural and e
     *   **Source:** Performances Magazine: Segerstrom Center Donor List (January 2025) (Note: having trouble producing a specific citation)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate    |   Years | Direct Contributions   | Behested Payments   |

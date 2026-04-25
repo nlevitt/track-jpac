@@ -40,52 +40,6 @@ The company’s documented role in Israel’s security apparatus has led to wide
 *   **Student Resolutions:** Student governments at the University of California (Berkeley and Los Angeles) passed resolutions calling for divestment from HP, specifically citing its provision of biometric systems used at checkpoints ([AFSC Investigate](https://investigate.afsc.org/company/hp-inc)).
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate   | Years     | Direct Contributions   | Behested Payments   |

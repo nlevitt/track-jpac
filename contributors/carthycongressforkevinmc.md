@@ -27,23 +27,6 @@ McCarthy has utilized his official platform to reinforce the ideological foundat
 Documentation indicates that **Kevin McCarthy for Congress** maintains a symbiotic relationship with Zionist advocacy groups. McCarthy provides high-level legislative and diplomatic defense of Israeli state interests, while these groups and their associated donors provide the financial and organizational support necessary for his political leadership and conference expansion.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate     | Years     | Direct Contributions   | Behested Payments   |

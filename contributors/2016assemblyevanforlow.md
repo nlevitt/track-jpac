@@ -24,15 +24,8 @@ Low's relationship to Israel is formally integrated into his caucus memberships 
 *   **Diplomatic Stance:** Low has publicly supported a "two-state solution" as a means to ensure the "prosperity and national sovereignty" of the State of Israel alongside a Palestinian state ([San José Spotlight](https://sanjosespotlight.com/on-the-record-congressional-candidate-evan-low/)).
 
 
-
-
-
-
-
-
-
 ## Supported Candidates
 
-| Candidate   |   Years | Direct Contributions   | Behested Payments   |
-|-------------|---------|------------------------|---------------------|
-| Marc Berman |    2015 | $8,400                 | $0                  |
+| Candidate    |   Years | Direct Contributions   | Behested Payments   |
+|--------------|---------|------------------------|---------------------|
+| Scott Wiener |    2015 | $3,500                 | $0                  |

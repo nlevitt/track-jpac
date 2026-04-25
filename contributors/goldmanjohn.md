@@ -35,40 +35,8 @@ Goldman manages the **John and Marcia Goldman Foundation**, which held assets ex
     *   [Instrumentl - Foundation Grant Summary](https://www.instrumentl.com/990-report/john-marcia-goldman-foundation)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
-| Candidate    | Years     | Direct Contributions   | Behested Payments   |
-|--------------|-----------|------------------------|---------------------|
-| Scott Wiener | 2015-2019 | $5,700                 | $0                  |
+| Candidate    |   Years | Direct Contributions   | Behested Payments   |
+|--------------|---------|------------------------|---------------------|
+| Scott Wiener |    2025 | $7,000                 | $0                  |

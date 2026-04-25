@@ -37,23 +37,6 @@ The identification of **EUCA PAC/I-3** as an AIPAC-related entity in political t
 *   **Source:** OpenSecrets - United Contractors PAC Profile (Note: having trouble producing a specific citation)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate    | Years     | Direct Contributions   | Behested Payments   |

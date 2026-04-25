@@ -32,65 +32,6 @@ Kastelman is a documented donor to both localized pro-Israel political groups an
     *   **Documentation:** [CADEM 2023 Resolution Packet (Page 79)](https://www.cadem.org/wp-content/uploads/2023/05/May-2023-CDP-Resolution-Packet.pdf)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate   |   Years | Direct Contributions   | Behested Payments   |

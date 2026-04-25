@@ -40,52 +40,6 @@ Due to these documented financial ties, these brands have been identified by boy
 *   **Source:** [BDS Coalition: The Wonderful Company/Resnick Foundation Profile](https://bdscoalition.ca/the-wonderful-company-resnick-foundation/)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Supported Candidates
 
 | Candidate            |   Years | Direct Contributions   | Behested Payments   |
