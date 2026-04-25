@@ -57,6 +57,10 @@ Hidary’s political fundraising frequently draws from a network of pro-Israel d
 
 
 
+
+
+
+
 ## Supported Candidates
 
 | Candidate   | Years     | Direct Contributions   | Behested Payments   |

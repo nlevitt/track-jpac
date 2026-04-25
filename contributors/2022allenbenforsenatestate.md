@@ -37,6 +37,10 @@ Senator Allen maintains documented ties with several prominent Zionist and pro-I
 
 
 
+
+
+
+
 ## Supported Candidates
 
 | Candidate      |   Years | Direct Contributions   | Behested Payments   |

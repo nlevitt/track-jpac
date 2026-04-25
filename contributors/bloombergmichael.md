@@ -47,6 +47,10 @@ Bloomberg has used his political platform as Mayor and a presidential candidate 
 
 
 
+
+
+
+
 ## Supported Candidates
 
 | Candidate   |   Years | Direct Contributions   | Behested Payments   |

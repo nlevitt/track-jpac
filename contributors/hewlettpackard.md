@@ -54,6 +54,10 @@ The company’s documented role in Israel’s security apparatus has led to wide
 
 
 
+
+
+
+
 ## Supported Candidates
 
 | Candidate   | Years     | Direct Contributions   | Behested Payments   |

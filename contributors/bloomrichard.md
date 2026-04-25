@@ -43,6 +43,10 @@ Bloom has received financial and political backing from prominent Zionist figure
 
 
 
+
+
+
+
 ## Supported Candidates
 
 | Candidate      |   Years | Direct Contributions   | Behested Payments   |

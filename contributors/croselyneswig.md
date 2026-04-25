@@ -45,6 +45,10 @@ Swig maintains an active role in shaping communal responses to Israeli political
 
 
 
+
+
+
+
 ## Supported Candidates
 
 | Candidate         |   Years | Direct Contributions   | Behested Payments   |

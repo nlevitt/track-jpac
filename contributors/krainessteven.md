@@ -48,6 +48,10 @@ Kraines and his associated entities have a history of donating to political cand
 
 
 
+
+
+
+
 ## Supported Candidates
 
 | Candidate   |   Years | Direct Contributions   | Behested Payments   |

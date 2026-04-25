@@ -36,6 +36,10 @@ Independent and progressive media outlets have documented Lowenthal's alignment 
 
 
 
+
+
+
+
 ## Supported Candidates
 
 | Candidate      |   Years | Direct Contributions   | Behested Payments   |

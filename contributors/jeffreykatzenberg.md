@@ -42,6 +42,10 @@ While much of Katzenberg's political giving is directed toward the Democratic Pa
 
 
 
+
+
+
+
 ## Supported Candidates
 
 | Candidate   |   Years | Direct Contributions   | Behested Payments   |

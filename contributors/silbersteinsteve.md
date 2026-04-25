@@ -36,6 +36,10 @@ Silberstein's support for Israel-related causes is part of a wider pattern of gi
 
 
 
+
+
+
+
 ## Supported Candidates
 
 | Candidate      |   Years | Direct Contributions   | Behested Payments   |

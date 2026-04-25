@@ -48,14 +48,16 @@ As a principal shareholder and former chairman of **Gap Inc.**, Fisher has overs
 
 
 
+
+
+
+
 ## Supported Candidates
 
 | Candidate            | Years     | Direct Contributions   | Behested Payments   |
 |----------------------|-----------|------------------------|---------------------|
 | Steven Glazer        | 2013-2021 | $29,410                | $0                  |
-| Scott Wiener         | 2015-2023 | $24,500                | $0                  |
 | Buffy Wicks          | 2017-2025 | $18,800                | $0                  |
 | Christopher Cabaldon | 2007      | $7,200                 | $0                  |
 | Catherine Stefani    | 2023-2025 | $5,500                 | $0                  |
-| Marc Berman          | 2015-2017 | $5,200                 | $0                  |
 | Diane Papan          | 2023      | $1,500                 | $0                  |

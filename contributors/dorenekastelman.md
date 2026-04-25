@@ -46,6 +46,10 @@ Kastelman is a documented donor to both localized pro-Israel political groups an
 
 
 
+
+
+
+
 ## Supported Candidates
 
 | Candidate      | Years     | Direct Contributions   | Behested Payments   |

@@ -50,15 +50,17 @@ The PAC's leadership is closely linked to the broader "organized Jewish communit
 
 
 
+
+
+
+
 ## Supported Candidates
 
 | Candidate           | Years     | Direct Contributions   | Behested Payments   |
 |---------------------|-----------|------------------------|---------------------|
-| Marc Berman         | 2019-2025 | $29,050                | $0                  |
 | Matt Haney          | 2021-2023 | $25,700                | $0                  |
 | Rebecca Bauer-Kahan | 2019-2023 | $23,150                | $0                  |
 | Josh Becker         | 2019-2025 | $21,600                | $0                  |
-| Scott Wiener        | 2019-2023 | $13,350                | $0                  |
-| Patrick Ahrens      | 2023-2025 | $11,400                | $0                  |
 | Gail Pellerin       | 2023-2025 | $11,400                | $0                  |
+| Patrick Ahrens      | 2023-2025 | $11,400                | $0                  |
 | Steven Glazer       | 2019-2023 | $7,850                 | $0                  |

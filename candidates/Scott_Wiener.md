@@ -1,9 +1,9 @@
-# Zionist Supporters: Scott Wiener
+# California Zionist Supporters: Scott Wiener
 
-As of April 2026, Scott Wiener is an incumbent California State Senator, representing District 11. This district encompasses the city and county of San Francisco and a portion of northern San Mateo County.
+Scott Wiener is the incumbent California State Senator for District 11, which encompasses San Francisco and northern San Mateo County. He is also a candidate for the U.S. House of Representatives in the 2026 election for California's 11th Congressional District.
 
-Analyzed on: 2026-04-24 14:22:43
-**Total Zionist Contributions:** $289,626
+Analyzed on: 2026-04-24 21:59:59
+**Total Zionist Contributions:** $175,300
 **Total Zionist Behested Payments:** $30,000
 
 ### Zionist Behested Payments
@@ -16,7 +16,6 @@ Analyzed on: 2026-04-24 14:22:43
 
 | Contributor                                                                                                                 | Years     | Total Amount   | Relationship to Israel                                                                                                                                                                                               |
 |-----------------------------------------------------------------------------------------------------------------------------|-----------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Re-Elect Scott Wiener for State Senate 2020](../contributors/2020electforrescottsenatestatewiener.md)                      | 2021      | $114,326       | Scott Wiener is a vocal supporter of Israel, condemning BDS and having ties to pro-Israel groups.                                                                                                                    |
 | [Fisher, Robert](../contributors/fisherrobert.md)                                                                           | 2015-2023 | $24,500        | Board member of Koret Foundation, which explicitly aims to strengthen US-Israel bonds.                                                                                                                               |
 | [Conway, Gayle](../contributors/conwaygayle.md)                                                                             | 2015-2019 | $17,800        | Major donor to the Israeli-American Council (IAC), a prominent pro-Israel organization.                                                                                                                              |
 | [Fisher, Doris](../contributors/dorisfisher.md)                                                                             | 2015-2019 | $17,800        | Board member of Koret Foundation, which explicitly aims to strengthen US-Israel bonds.                                                                                                                               |

@@ -47,6 +47,10 @@ Ward has received financial contributions from corporate entities that engage in
 
 
 
+
+
+
+
 ## Supported Candidates
 
 | Candidate      |   Years | Direct Contributions   | Behested Payments   |

@@ -35,6 +35,10 @@ Hertzberg maintained documented relationships with several prominent Zionist and
 
 
 
+
+
+
+
 ## Supported Candidates
 
 | Candidate   |   Years | Direct Contributions   | Behested Payments   |

@@ -45,6 +45,10 @@ The JDCSV operates as a regional hub for pro-Israel organizing within the Santa 
 
 
 
+
+
+
+
 ## Supported Candidates
 
 | Candidate      |   Years | Direct Contributions   | Behested Payments   |

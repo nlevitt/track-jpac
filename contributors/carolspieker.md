@@ -42,6 +42,10 @@ Beyond direct political donations, Spieker’s philanthropic footprint includes 
 
 
 
+
+
+
+
 ## Supported Candidates
 
 | Candidate     | Years     | Direct Contributions   | Behested Payments   |

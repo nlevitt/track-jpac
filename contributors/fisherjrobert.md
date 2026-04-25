@@ -50,6 +50,10 @@ Fisher is active within the Jewish Community Federation and Endowment Fund of Sa
 
 
 
+
+
+
+
 ## Supported Candidates
 
 | Candidate           | Years     | Direct Contributions   | Behested Payments   |
@@ -61,6 +65,5 @@ Fisher is active within the Jewish Community Federation and Endowment Fund of Sa
 | Sara Aminzadeh      | 2021      | $6,900                 | $0                  |
 | Matt Haney          | 2021-2025 | $6,000                 | $0                  |
 | Josh Becker         | 2021-2023 | $5,500                 | $0                  |
-| Marc Berman         | 2017      | $4,400                 | $0                  |
 | Rebecca Bauer-Kahan | 2019-2023 | $3,500                 | $0                  |
 | Catherine Stefani   | 2025      | $2,000                 | $0                  |

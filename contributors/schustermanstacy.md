@@ -51,6 +51,10 @@ Tax filings for the Charles and Lynn Schusterman Family Foundation demonstrate t
 
 
 
+
+
+
+
 ## Supported Candidates
 
 | Candidate     | Years     | Direct Contributions   | Behested Payments   |

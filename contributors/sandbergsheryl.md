@@ -56,9 +56,12 @@ Through the Sheryl Sandberg & Dave Goldberg Family Foundation, Sandberg has dire
 
 
 
+
+
+
+
 ## Supported Candidates
 
 | Candidate   |   Years | Direct Contributions   | Behested Payments   |
 |-------------|---------|------------------------|---------------------|
 | Josh Becker |    2025 | $18,500                | $50,000             |
-| Marc Berman |    2017 | $4,400                 | $0                  |

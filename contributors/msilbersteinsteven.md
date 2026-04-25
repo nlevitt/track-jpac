@@ -47,6 +47,10 @@ Abe Silberstein, a freelance commentator on U.S.-Israel relations and regular co
 
 
 
+
+
+
+
 ## Supported Candidates
 
 | Candidate      |   Years | Direct Contributions   | Behested Payments   |
