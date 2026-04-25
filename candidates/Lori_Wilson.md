@@ -1,8 +1,10 @@
-# Zionist Supporters: Lori Wilson
+# California Zionist Supporters: Lori Wilson
 
-As of April 2026, Lori Wilson is the incumbent State Assemblymember for California's 11th Assembly District, having been re-elected in November 2024. Her district covers parts of Solano and Contra Costa counties, including cities such as Fairfield, Vacaville, and Antioch.
+**Role:** Assemblymember, District 11
 
-Analyzed on: 2026-04-24 14:54:53
+Lori Wilson is an incumbent Assemblymember for California's 11th Assembly District. The district encompasses all of Solano County and portions of Contra Costa and Sacramento Counties, including cities such as Benicia, Fairfield, and Vallejo.
+
+Analyzed on: 2026-04-24 22:14:19
 **Total Zionist Contributions:** $9,000
 **Total Zionist Behested Payments:** $0
 

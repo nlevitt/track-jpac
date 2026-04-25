@@ -1,8 +1,10 @@
-# Zionist Supporters: Robert Rivas
+# California Zionist Supporters: Robert Rivas
 
-Robert Rivas is the currently serving Speaker of the California State Assembly, having assumed the role on June 30, 2023. He represents the 29th Assembly District, which encompasses the Pajaro and Salinas valleys of the Central Coast, covering portions of Monterey, Santa Clara, and Santa Cruz counties.
+**Role:** Speaker of the California State Assembly, District 29
 
-Analyzed on: 2026-04-24 15:49:31
+Robert Rivas is currently the 71st Speaker of the California State Assembly, having assumed office on June 30, 2023. He represents the 29th Assembly District, which encompasses the Pajaro and Salinas valleys of the Central Coast, including parts of Monterey, San Benito, Santa Clara, and Santa Cruz counties.
+
+Analyzed on: 2026-04-24 22:17:42
 **Total Zionist Contributions:** $36,367
 **Total Zionist Behested Payments:** $0
 

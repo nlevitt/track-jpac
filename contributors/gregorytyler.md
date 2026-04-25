@@ -44,6 +44,21 @@ Gregory's political influence is exerted primarily through the organization and 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate         |   Years | Direct Contributions   | Behested Payments   |

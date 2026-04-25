@@ -47,9 +47,26 @@ Bloom has received financial and political backing from prominent Zionist figure
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
-| Candidate      |   Years | Direct Contributions   | Behested Payments   |
-|----------------|---------|------------------------|---------------------|
-| Alex Lee       |    2021 | $2,500                 | $0                  |
-| Sara Aminzadeh |    2021 | $1,000                 | $0                  |
+| Candidate   |   Years | Direct Contributions   | Behested Payments   |
+|-------------|---------|------------------------|---------------------|
+| Alex Lee    |    2021 | $2,500                 | $0                  |

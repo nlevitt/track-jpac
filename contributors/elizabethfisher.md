@@ -44,9 +44,20 @@ Through her various roles, Fisher has facilitated partnerships with major pro-Is
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
-| Candidate     | Years     | Direct Contributions   | Behested Payments   |
-|---------------|-----------|------------------------|---------------------|
-| Steven Glazer | 2013-2021 | $22,210                | $0                  |
-| Buffy Wicks   | 2017      | $8,800                 | $0                  |
+| Candidate   |   Years | Direct Contributions   | Behested Payments   |
+|-------------|---------|------------------------|---------------------|
+| Buffy Wicks |    2017 | $8,800                 | $0                  |

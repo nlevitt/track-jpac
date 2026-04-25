@@ -47,6 +47,17 @@ Isaacson and his firm partners are regular contributors to political causes that
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate      |   Years | Direct Contributions   | Behested Payments   |

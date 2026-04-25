@@ -47,6 +47,17 @@ While the user identifies Simitian as a "political donor," his primary financial
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate      |   Years | Direct Contributions   | Behested Payments   |

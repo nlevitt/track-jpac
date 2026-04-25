@@ -44,6 +44,17 @@ Bryan’s legislative actions include brokering compromises on bills prioritized
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate      |   Years | Direct Contributions   | Behested Payments   |

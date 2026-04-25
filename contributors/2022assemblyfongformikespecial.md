@@ -51,9 +51,26 @@ The committee "Mike Fong for Assembly 2022 Special" was formed to support Fong's
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
-| Candidate      |   Years | Direct Contributions   | Behested Payments   |
-|----------------|---------|------------------------|---------------------|
-| Alex Lee       |    2021 | $4,900                 | $0                  |
-| Sara Aminzadeh |    2021 | $2,500                 | $0                  |
+| Candidate   |   Years | Direct Contributions   | Behested Payments   |
+|-------------|---------|------------------------|---------------------|
+| Alex Lee    |    2021 | $4,900                 | $0                  |

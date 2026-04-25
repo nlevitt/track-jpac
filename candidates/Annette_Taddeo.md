@@ -1,8 +1,10 @@
 # California Zionist Supporters: Annette Taddeo
 
-Annette Taddeo is a politician whose career has been in Florida, not California, politics. As of April 2026, she is a former Florida State Senator for District 40, having served from 2017 to 2022, and is reportedly considering a run for her former seat, now Florida Senate District 38, which includes several coastal Miami-Dade municipalities.
+**Role:** Not applicable in California politics
 
-Analyzed on: 2026-04-24 22:00:13
+Annette Taddeo is not active in California politics. Her political career has been focused on Florida, where she previously served as a State Senator for District 40 and has been a candidate for other state and local offices.
+
+Analyzed on: 2026-04-24 22:48:40
 **Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 

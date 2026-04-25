@@ -56,6 +56,17 @@ Public records indicate that Moradzadeh has engaged in political giving and phil
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate      |   Years | Direct Contributions   | Behested Payments   |

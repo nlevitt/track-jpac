@@ -45,6 +45,26 @@ The committee "Jesse Gabriel for Assembly 2024" receives significant support fro
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate      |   Years | Direct Contributions   | Behested Payments   |

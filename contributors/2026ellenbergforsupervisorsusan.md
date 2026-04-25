@@ -43,6 +43,26 @@ Ellenberg is currently campaigning for re-election for the Santa Clara County Bo
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate      |   Years | Direct Contributions   | Behested Payments   |

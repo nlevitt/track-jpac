@@ -36,6 +36,27 @@ Pearlman has a career history as an educator, having served with the **Los Angel
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate     | Years     | Direct Contributions   | Behested Payments   |

@@ -45,6 +45,17 @@ Notably, a separate individual named Lee Heller (PhD, Santa Barbara) is document
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate      |   Years | Direct Contributions   | Behested Payments   |

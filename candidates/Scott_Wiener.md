@@ -1,8 +1,10 @@
 # California Zionist Supporters: Scott Wiener
 
-Scott Wiener is the incumbent California State Senator for District 11, which encompasses San Francisco and northern San Mateo County. He is also a candidate for the U.S. House of Representatives in the 2026 election for California's 11th Congressional District.
+**Role:** State Senator, District 11
 
-Analyzed on: 2026-04-24 21:59:59
+Scott Wiener currently serves as a California State Senator for District 11, a role he has held since 2016. His district encompasses San Francisco and northern San Mateo County, including cities such as Daly City, Colma, Broadmoor, and parts of South San Francisco.
+
+Analyzed on: 2026-04-24 22:48:16
 **Total Zionist Contributions:** $175,300
 **Total Zionist Behested Payments:** $30,000
 

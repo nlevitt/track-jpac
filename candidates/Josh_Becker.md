@@ -1,8 +1,10 @@
-# Zionist Supporters: Josh Becker
+# California Zionist Supporters: Josh Becker
 
-As of April 2026, Josh Becker is an elected official serving as the California State Senator for District 13, which encompasses portions of San Mateo and Santa Clara counties, covering the mid-Peninsula and northern Silicon Valley.
+**Role:** State Senator, District 13
 
-Analyzed on: 2026-04-24 14:49:04
+Josh Becker is the State Senator for California's 13th Senate District, which encompasses most of San Mateo County and the northern part of Santa Clara County.
+
+Analyzed on: 2026-04-24 22:14:00
 **Total Zionist Contributions:** $105,610
 **Total Zionist Behested Payments:** $50,000
 
@@ -22,8 +24,8 @@ Analyzed on: 2026-04-24 14:49:04
 | [Fisher, Doris](../contributors/dorisfisher.md)                                         | 2021      | $7,700         | Board member of Koret Foundation, which explicitly aims to strengthen US-Israel bonds.                                                                                             |
 | [Helberg, Jacob](../contributors/helbergjacob.md)                                       | 2019      | $7,200         | Actively supports Israel and engages in Zionist advocacy through public commentary, articles, and social media.                                                                    |
 | [Hidary, Jack](../contributors/hidaryjack.md)                                           | 2009-2019 | $6,050         | Served on the national board of the American Jewish Committee (AJC), a prominent pro-Israel advocacy group.                                                                        |
-| [Fisher, Robert J.](../contributors/fisherjrobert.md)                                   | 2021-2023 | $5,500         | Board member of Koret Foundation, which funds Israeli society initiatives & strengthens US-Israel ties.                                                                            |
 | [Wagonfeld, David](../contributors/davidwagonfeld.md)                                   | 2019-2025 | $5,500         | Past President of a Jewish Community Federation, which supports Israel and advocates for strong US-Israel ties.                                                                    |
+| [Fisher, Robert J.](../contributors/fisherjrobert.md)                                   | 2021-2023 | $5,500         | Board member of Koret Foundation, which funds Israeli society initiatives & strengthens US-Israel ties.                                                                            |
 | [Oracle America, Inc.](../contributors/americaincoracle.md)                             | 2021-2025 | $4,000         | Maintains significant R&D, operations, and investments in Israel; founder supports pro-Israel causes.                                                                              |
 | [Sandberg, Sheryl K](../contributors/ksandbergsheryl.md)                                | 2009      | $3,900         | Participated in ADL's Women's Leadership Mission to Israel, meeting Israeli leaders.                                                                                               |
 | [Hewlett Packard](../contributors/hewlettpackard.md)                                    | 2009      | $3,900         | Maintains significant operations, R&D centers, and investments in Israel's tech sector.                                                                                            |

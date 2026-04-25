@@ -53,6 +53,8 @@ Resnick’s support extends to prominent Jewish and Zionist communal organizatio
 
 
 
+
+
 ## Supported Candidates
 
 | Candidate            |   Years | Direct Contributions   | Behested Payments   |

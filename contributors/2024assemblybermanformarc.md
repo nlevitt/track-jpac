@@ -47,6 +47,26 @@ The campaign committee 'Marc Berman for Assembly 2024' has received financial su
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate      |   Years | Direct Contributions   | Behested Payments   |

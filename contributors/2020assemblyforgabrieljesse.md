@@ -48,6 +48,19 @@ Following the events of October 7, 2023, Gabriel released statements via the Jew
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate           |   Years | Direct Contributions   | Behested Payments   |

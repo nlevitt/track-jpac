@@ -51,9 +51,26 @@ Ward has received financial contributions from corporate entities that engage in
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
-| Candidate      |   Years | Direct Contributions   | Behested Payments   |
-|----------------|---------|------------------------|---------------------|
-| Alex Lee       |    2021 | $4,900                 | $0                  |
-| Sara Aminzadeh |    2021 | $3,000                 | $0                  |
+| Candidate   |   Years | Direct Contributions   | Behested Payments   |
+|-------------|---------|------------------------|---------------------|
+| Alex Lee    |    2021 | $4,900                 | $0                  |

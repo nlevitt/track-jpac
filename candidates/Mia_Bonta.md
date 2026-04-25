@@ -1,8 +1,10 @@
-# Zionist Supporters: Mia Bonta
+# California Zionist Supporters: Mia Bonta
 
-Mia Bonta is the currently serving incumbent in the California State Assembly, representing the 18th Assembly District. She was elected in a special election on August 31, 2021. The 18th Assembly District covers the East Bay area of Northern California, including the cities of Oakland, Alameda, and Emeryville.
+**Role:** Assemblymember, District 18
 
-Analyzed on: 2026-04-24 15:28:22
+Mia Bonta currently serves as the Assemblymember for California's 18th Assembly District, having been first elected in 2021. This East Bay district encompasses a significant portion of Oakland, along with the cities of Emeryville and Alameda.
+
+Analyzed on: 2026-04-24 22:16:43
 **Total Zionist Contributions:** $6,400
 **Total Zionist Behested Payments:** $0
 

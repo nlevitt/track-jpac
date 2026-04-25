@@ -1,8 +1,10 @@
-# Zionist Supporters: Gail Pellerin
+# California Zionist Supporters: Gail Pellerin
 
-Gail Pellerin is the incumbent California State Assemblymember for the 28th Assembly District, having been elected in November 2022 and re-elected in 2024. This district encompasses portions of Santa Cruz and Santa Clara counties.
+**Role:** Assemblymember, District 28
 
-Analyzed on: 2026-04-24 15:47:55
+Gail Pellerin is an incumbent Assemblymember for California's 28th Assembly District, having been elected in November 2022. The district encompasses parts of Santa Cruz and Santa Clara counties, and she is currently seeking re-election for a term ending in December 2026.
+
+Analyzed on: 2026-04-24 22:17:37
 **Total Zionist Contributions:** $16,732
 **Total Zionist Behested Payments:** $0
 

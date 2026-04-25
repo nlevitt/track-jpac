@@ -1,8 +1,10 @@
-# Zionist Supporters: Dave Cortese
+# California Zionist Supporters: Dave Cortese
 
-As of April 2026, Dave Cortese is the incumbent California State Senator for District 15, serving his second term. This district covers most of Santa Clara County in the southern San Francisco Bay Area, including the city of San Jose.
+**Role:** State Senator, District 15
 
-Analyzed on: 2026-04-24 14:51:06
+Dave Cortese is a California State Senator, representing District 15, which encompasses a majority of Santa Clara County, including San Jose, Morgan Hill, and Gilroy. He was re-elected in November 2024 and his current term concludes in December 2028.
+
+Analyzed on: 2026-04-24 22:14:05
 **Total Zionist Contributions:** $7,700
 **Total Zionist Behested Payments:** $0
 

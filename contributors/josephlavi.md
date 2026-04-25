@@ -38,6 +38,25 @@ Joseph Lavi is a trial lawyer specializing in labor and employment law. His fina
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate   |   Years | Direct Contributions   | Behested Payments   |

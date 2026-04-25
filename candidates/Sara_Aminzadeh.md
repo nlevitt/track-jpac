@@ -1,8 +1,10 @@
-# Zionist Supporters: Sara Aminzadeh
+# California Zionist Supporters: Sara Aminzadeh
 
-As of April 2026, Sara Aminzadeh serves as the Deputy Secretary for Federal Affairs at the California Natural Resources Agency, an appointed position where she leads federal relations on behalf of the agency. She is not currently an incumbent State Senator or Assembly Member, nor is she a candidate for either office.
+**Role:** Trustee, Kentfield Unified School District, At-large
 
-Analyzed on: 2026-04-24 15:20:13
+Sara Aminzadeh is currently a Trustee for the Kentfield Unified School District, At-large, with her term ending in 2028. She also serves as the Deputy Secretary for Federal Affairs at the California Natural Resources Agency.
+
+Analyzed on: 2026-04-24 22:16:14
 **Total Zionist Contributions:** $53,750
 **Total Zionist Behested Payments:** $0
 
@@ -37,5 +39,5 @@ Analyzed on: 2026-04-24 15:20:13
 | [Moradzadeh, Michael](../contributors/michaelmoradzadeh.md)                                                                  |    2021 | $600           | Co-founder of Iranian American Jewish Federation (IAJF), an organization that explicitly supports Israel.                                  |
 | [Buc, Nancy L.](../contributors/buclnancy.md)                                                                                |    2021 | $600           | Board member of American Jewish Committee (AJC), a leading pro-Israel advocacy organization.                                               |
 | [David Nahai Consulting Services, Inc.](../contributors/consultingdavidincnahaiservices.md)                                  |    2021 | $500           | David Nahai served on the Executive Committee of the American Jewish Congress, a pro-Israel advocacy organization.                         |
-| Tsai, Shelby Pasarell                                                                                                        |    2021 | $500           | Founding team member of Israel Impact Ventures, investing in Israeli tech companies, demonstrating active support for Israel's economy.    |
+| [Tsai, Shelby Pasarell](../contributors/pasarellshelbytsai.md)                                                               |    2021 | $500           | Founding team member of Israel Impact Ventures, investing in Israeli tech companies, demonstrating active support for Israel's economy.    |
 | [Rose, Susan](../contributors/rosesusan.md)                                                                                  |    2021 | $500           | Prominent pro-Israel philanthropist and major donor to pro-Israel advocacy organizations like AIPAC.                                       |

@@ -47,9 +47,23 @@ Beyond the IAC, Conway’s philanthropic profile includes support for educationa
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
-| Candidate         | Years     | Direct Contributions   | Behested Payments   |
-|-------------------|-----------|------------------------|---------------------|
-| Buffy Wicks       | 2017-2025 | $16,200                | $0                  |
-| Catherine Stefani | 2023      | $11,000                | $0                  |
+| Candidate         |   Years | Direct Contributions   | Behested Payments   |
+|-------------------|---------|------------------------|---------------------|
+| Catherine Stefani |    2023 | $11,000                | $0                  |

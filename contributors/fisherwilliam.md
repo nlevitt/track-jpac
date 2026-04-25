@@ -43,11 +43,23 @@ Beyond the AJC, Fisher’s broader philanthropic profile includes support for ot
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
-| Candidate            | Years     | Direct Contributions   | Behested Payments   |
-|----------------------|-----------|------------------------|---------------------|
-| Steven Glazer        | 2013-2021 | $30,610                | $0                  |
-| Buffy Wicks          | 2017-2019 | $10,800                | $0                  |
-| Christopher Cabaldon | 2007      | $7,200                 | $0                  |
-| Catherine Stefani    | 2023      | $2,000                 | $0                  |
+| Candidate         |   Years | Direct Contributions   | Behested Payments   |
+|-------------------|---------|------------------------|---------------------|
+| Catherine Stefani |    2023 | $2,000                 | $0                  |

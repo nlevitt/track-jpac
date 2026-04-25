@@ -1,8 +1,10 @@
-# Zionist Supporters: Christopher Cabaldon
+# California Zionist Supporters: Christopher Cabaldon
 
-As of April 2026, Christopher Cabaldon is not an incumbent or candidate for an elected office in California; instead, he serves as an appointed member of the California State University (CSU) Board of Trustees, a position he has held since 2021. This role involves statewide oversight of the CSU system.
+**Role:** State Senator, District 3
 
-Analyzed on: 2026-04-24 14:49:54
+Christopher Cabaldon is a member of the California State Senate for the 3rd district, having assumed office in December 2024. The district he represents includes portions of Solano, Yolo, Napa, Sonoma, Contra Costa, and Sacramento counties.
+
+Analyzed on: 2026-04-24 22:48:21
 **Total Zionist Contributions:** $37,500
 **Total Zionist Behested Payments:** $0
 

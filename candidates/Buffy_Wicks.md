@@ -1,8 +1,10 @@
-# Zionist Supporters: Buffy Wicks
+# California Zionist Supporters: Buffy Wicks
 
-Buffy Wicks is currently serving as an incumbent Assemblymember for California's 14th State Assembly District as of April 2026. This district covers parts of the East Bay in Contra Costa and Alameda counties, including cities like Berkeley, Piedmont, Richmond, San Pablo, El Cerrito, and portions of Oakland.
+**Role:** Assemblymember, District 14
 
-Analyzed on: 2026-04-24 15:23:53
+Buffy Wicks is a Democratic Assemblymember representing California's 14th Assembly District, which encompasses the East Bay cities of Berkeley, Piedmont, Richmond, San Pablo, and El Cerrito. She is a prominent advocate for housing legislation and currently serves as the Chair of the Assembly Appropriations Committee.
+
+Analyzed on: 2026-04-24 22:16:20
 **Total Zionist Contributions:** $93,350
 **Total Zionist Behested Payments:** $0
 

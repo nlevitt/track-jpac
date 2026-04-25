@@ -44,6 +44,28 @@ The leadership of BHFS maintains governing roles in major Zionist and pro-Israel
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate    |   Years | Direct Contributions   | Behested Payments   |

@@ -44,9 +44,23 @@ As of 2024, the Koret Foundation reported total assets of approximately **$316 m
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate         |   Years | Direct Contributions   | Behested Payments   |
 |-------------------|---------|------------------------|---------------------|
-| Matt Haney        |    2021 | $2,500                 | $0                  |
 | Catherine Stefani |    2023 | $1,000                 | $0                  |

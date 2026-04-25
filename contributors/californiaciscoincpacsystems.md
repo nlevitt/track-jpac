@@ -55,6 +55,13 @@ The company's leadership has explicitly aligned the firm's operations with Israe
 
 
 
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate   |   Years | Direct Contributions   | Behested Payments   |

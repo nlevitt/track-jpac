@@ -53,10 +53,30 @@ The Bloomfields are known for significant contributions to domestic educational 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
-| Candidate     | Years     | Direct Contributions   | Behested Payments   |
-|---------------|-----------|------------------------|---------------------|
-| Steven Glazer | 2013-2021 | $37,800                | $0                  |
-| Robert Rivas  | 2025      | $11,800                | $0                  |
-| Bill Dodd     | 2017      | $8,800                 | $0                  |
+| Candidate    |   Years | Direct Contributions   | Behested Payments   |
+|--------------|---------|------------------------|---------------------|
+| Robert Rivas |    2025 | $11,800                | $0                  |

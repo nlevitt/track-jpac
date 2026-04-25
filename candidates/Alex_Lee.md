@@ -1,8 +1,10 @@
-# Zionist Supporters: Alex Lee
+# California Zionist Supporters: Alex Lee
 
-Alex Lee is the currently serving incumbent Assemblymember for California's 24th Assembly District, which includes Fremont, Newark, and Sunol in Alameda County, and Milpitas and parts of western San Jose in Santa Clara County. He assumed office for the 24th district on December 5, 2022, and his current term ends on December 7, 2026. Lee is also a candidate for re-election to the same office in the primary election on June 2, 2026.
+**Role:** Assemblymember, District 24
 
-Analyzed on: 2026-04-24 15:37:07
+Alex Lee is a member of the California State Assembly, representing District 24. He assumed office on December 5, 2022, and his current term ends on December 7, 2026. His district includes Fremont, Newark, and Sunol in Alameda County, as well as Milpitas and northern San Jose in Santa Clara County.
+
+Analyzed on: 2026-04-24 22:17:20
 **Total Zionist Contributions:** $19,960
 **Total Zionist Behested Payments:** $0
 

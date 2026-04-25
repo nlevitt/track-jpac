@@ -49,9 +49,23 @@ Kounalakis’s political network includes high-level figures within the pro-Isra
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate         |   Years | Direct Contributions   | Behested Payments   |
 |-------------------|---------|------------------------|---------------------|
 | Catherine Stefani |    2023 | $1,000                 | $0                  |
-| Sara Aminzadeh    |    2021 | $1,000                 | $0                  |

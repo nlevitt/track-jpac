@@ -1,8 +1,10 @@
-# Zionist Supporters: Bill Dodd
+# California Zionist Supporters: Bill Dodd
 
-As of April 2026, Bill Dodd is a California Assemblymember, representing Assembly District 4. This district covers Napa and Yolo counties, along with portions of Sonoma and Solano counties in the North Bay.
+**Role:** Candidate for Lieutenant Governor
 
-Analyzed on: 2026-04-24 14:29:14
+Bill Dodd is a candidate for California Lieutenant Governor in the 2026 election. He previously served as the State Senator for District 3, which included parts of the northern San Francisco Bay Area and Delta region.
+
+Analyzed on: 2026-04-24 22:48:30
 **Total Zionist Contributions:** $26,900
 **Total Zionist Behested Payments:** $0
 

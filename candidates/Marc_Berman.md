@@ -1,8 +1,10 @@
 # California Zionist Supporters: Marc Berman
 
-Marc Berman is currently a California State Assemblymember, representing the 23rd Assembly District, which covers southern San Mateo County and northern Santa Clara County, encompassing parts of the San Francisco Peninsula and Silicon Valley. He assumed office on December 5, 2022, and his current term concludes on December 7, 2026, with him running for re-election in the primary on June 2, 2026.
+**Role:** Assemblymember, District 23
 
-Analyzed on: 2026-04-24 22:00:28
+Marc Berman is the incumbent Assemblymember for California's 23rd Assembly District, which covers portions of southern San Mateo County and northern Santa Clara County, extending from Silicon Valley to the Coastside. He was first elected to the State Assembly in November 2016 and is defending his seat in April 2026.
+
+Analyzed on: 2026-04-24 22:17:10
 **Total Zionist Contributions:** $119,850
 **Total Zionist Behested Payments:** $0
 

@@ -50,6 +50,17 @@ CAIR-LA condemned Zbur’s response as "one-sided," alleging that he failed to a
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate      |   Years | Direct Contributions   | Behested Payments   |

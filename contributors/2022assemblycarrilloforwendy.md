@@ -52,11 +52,29 @@ In 2025, Carrillo's relationship with the organized pro-Israel lobby underwent a
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
-| Candidate      |   Years | Direct Contributions   | Behested Payments   |
-|----------------|---------|------------------------|---------------------|
-| Mia Bonta      |    2021 | $6,400                 | $0                  |
-| Alex Lee       |    2021 | $4,900                 | $0                  |
-| Sara Aminzadeh |    2021 | $2,500                 | $0                  |
-| Gail Pellerin  |    2021 | $2,000                 | $0                  |
+| Candidate     |   Years | Direct Contributions   | Behested Payments   |
+|---------------|---------|------------------------|---------------------|
+| Gail Pellerin |    2021 | $2,000                 | $0                  |

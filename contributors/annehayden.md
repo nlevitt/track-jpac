@@ -43,6 +43,27 @@ In Rochester, New York, Hayden (documented as Anne Hayden McQuay) has funded the
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate     | Years     | Direct Contributions   | Behested Payments   |

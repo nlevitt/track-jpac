@@ -49,6 +49,24 @@ While Wiener has branded his 2026 congressional campaign as independent of major
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate   |   Years | Direct Contributions   | Behested Payments   |

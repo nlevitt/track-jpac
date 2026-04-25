@@ -54,9 +54,16 @@ The Resnick Foundation, under the leadership of the Resnick family, has a docume
 
 
 
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate    |   Years | Direct Contributions   | Behested Payments   |
 |--------------|---------|------------------------|---------------------|
-| Aisha Wahab  |    2021 | $4,900                 | $0                  |
 | Dave Cortese |    2019 | $4,700                 | $0                  |

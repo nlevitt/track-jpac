@@ -49,9 +49,29 @@ Bauer-Kahan was a primary proponent of **AB 715**, a bill aimed at combating ant
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
-| Candidate      |   Years | Direct Contributions   | Behested Payments   |
-|----------------|---------|------------------------|---------------------|
-| Sara Aminzadeh |    2021 | $4,500                 | $0                  |
-| Gail Pellerin  |    2021 | $1,000                 | $0                  |
+| Candidate     |   Years | Direct Contributions   | Behested Payments   |
+|---------------|---------|------------------------|---------------------|
+| Gail Pellerin |    2021 | $1,000                 | $0                  |

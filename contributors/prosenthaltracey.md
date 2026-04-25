@@ -22,6 +22,27 @@ Another public figure named Tracey (or Tracy) Rosenthal is an author and the [co
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate     |   Years | Direct Contributions   | Behested Payments   |

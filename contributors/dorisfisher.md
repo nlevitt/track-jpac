@@ -47,13 +47,20 @@ Fisher is a long-term member and "Legacy" donor of **Congregation Emanu-El** in 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
-| Candidate            | Years     | Direct Contributions   | Behested Payments   |
-|----------------------|-----------|------------------------|---------------------|
-| Steven Glazer        | 2015-2021 | $29,800                | $0                  |
-| Buffy Wicks          | 2017      | $8,800                 | $0                  |
-| Josh Becker          | 2021      | $7,700                 | $0                  |
-| Christopher Cabaldon | 2007      | $7,200                 | $0                  |
-| Dave Cortese         | 2021      | $3,000                 | $0                  |
-| John Laird           | 2021      | $3,000                 | $0                  |
+| Candidate   |   Years | Direct Contributions   | Behested Payments   |
+|-------------|---------|------------------------|---------------------|
+| Buffy Wicks |    2017 | $8,800                 | $0                  |

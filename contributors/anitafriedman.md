@@ -56,10 +56,30 @@ Friedman’s work extends to policy-level advocacy related to Israel and Jewish 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate    | Years     | Direct Contributions   | Behested Payments   |
 |--------------|-----------|------------------------|---------------------|
-| Josh Becker  | 2019-2021 | $9,700                 | $0                  |
-| Buffy Wicks  | 2017-2021 | $4,650                 | $0                  |
 | Robert Rivas | 2021-2023 | $1,500                 | $0                  |

@@ -48,6 +48,19 @@ Smidt is recorded as a financial contributor to several other organizations with
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate           |   Years | Direct Contributions   | Behested Payments   |
