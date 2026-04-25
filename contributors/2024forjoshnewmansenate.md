@@ -43,6 +43,16 @@ Newman’s alignment with Zionist advocacy has drawn criticism from civil rights
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate          |   Years | Direct Contributions   | Behested Payments   |

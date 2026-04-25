@@ -85,6 +85,16 @@ The committee **Ben Allen for Senate 2022** serves as a vehicle for collecting c
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate       |   Years | Direct Contributions   | Behested Payments   |

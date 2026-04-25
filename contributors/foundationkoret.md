@@ -43,6 +43,16 @@ The leadership of the Koret Foundation maintains direct ties to prominent pro-Is
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate       |   Years | Direct Contributions   | Behested Payments   |

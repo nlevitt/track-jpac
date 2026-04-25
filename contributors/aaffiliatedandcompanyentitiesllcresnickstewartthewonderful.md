@@ -76,6 +76,16 @@ Due to these documented financial ties, these brands have been identified by boy
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate            |   Years | Direct Contributions   | Behested Payments   |

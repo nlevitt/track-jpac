@@ -48,6 +48,16 @@ Stephanie Argyros and the foundation are primary underwriters for cultural and e
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate    |   Years | Direct Contributions   | Behested Payments   |

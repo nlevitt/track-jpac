@@ -84,6 +84,16 @@ The PAC's leadership is closely linked to the broader "organized Jewish communit
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate    | Years     | Direct Contributions   | Behested Payments   |

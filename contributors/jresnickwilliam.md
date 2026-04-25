@@ -35,6 +35,16 @@ Resnick’s philanthropic portfolio includes recurring support for entities that
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate       |   Years | Direct Contributions   | Behested Payments   |

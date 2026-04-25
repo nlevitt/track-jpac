@@ -57,6 +57,16 @@ Allen maintains close ties with major Zionist and pro-Israel organizations, freq
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate   |   Years | Direct Contributions   | Behested Payments   |

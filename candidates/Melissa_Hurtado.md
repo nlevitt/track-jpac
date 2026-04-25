@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 16
 
-Melissa Hurtado is a Democratic member of the California State Senate, representing District 16. The district encompasses Bakersfield, Kings County, and portions of Tulare County in California's Central Valley, known for its fertile farmland and oil production.
+Melissa Hurtado is the incumbent State Senator for California's 16th District, representing portions of Fresno, Tulare, Kings, and Kern Counties in the Central Valley. She is running for re-election in 2026 and chairs the Senate Agriculture Committee and the Senate Budget Subcommittee No. 4 on State Administration and General Government.
 
-Analyzed on: 2026-04-24 23:32:34
+Analyzed on: 2026-04-25 00:05:38
 **Total Zionist Contributions:** $55,000
 **Total Zionist Behested Payments:** $0
 

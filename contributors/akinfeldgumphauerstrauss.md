@@ -60,6 +60,16 @@ The firm and its employees are significant contributors to California political 
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate    |   Years | Direct Contributions   | Behested Payments   |

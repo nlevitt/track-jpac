@@ -70,6 +70,16 @@ Beyond the IAC, Conway’s philanthropic profile includes support for educationa
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate    | Years     | Direct Contributions   | Behested Payments   |

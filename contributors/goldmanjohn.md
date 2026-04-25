@@ -57,6 +57,16 @@ Goldman manages the **John and Marcia Goldman Foundation**, which held assets ex
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate    | Years     | Direct Contributions   | Behested Payments   |

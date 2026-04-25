@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 12
 
-Shannon Grove is a Republican State Senator representing California's 12th Senate District, which encompasses the southern Central Valley and portions of Fresno, Kern, and Tulare Counties. Her current term concludes in December 2026.
+Shannon Grove is an incumbent Republican member of the California State Senate, representing District 12. Her district encompasses the southern Central Valley and parts of Fresno, Kern, and Tulare Counties.
 
-Analyzed on: 2026-04-24 23:28:49
+Analyzed on: 2026-04-25 00:04:20
 **Total Zionist Contributions:** $16,000
 **Total Zionist Behested Payments:** $0
 

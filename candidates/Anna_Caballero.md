@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 14
 
-Anna Caballero is a Democratic member of the California State Senate, representing District 14. She assumed office on December 5, 2022, and her current term concludes on December 7, 2026. Her district encompasses portions of the Central Valley, including Merced, Madera, and Fresno Counties.
+Anna Caballero is an incumbent California State Senator for District 14, which encompasses parts of Fresno, Madera, and Merced Counties. As of April 2026, she is also a candidate for California State Treasurer in the upcoming 2026 election.
 
-Analyzed on: 2026-04-24 23:29:47
+Analyzed on: 2026-04-25 00:05:03
 **Total Zionist Contributions:** $47,200
 **Total Zionist Behested Payments:** $0
 

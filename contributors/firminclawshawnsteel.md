@@ -36,6 +36,16 @@ Shawn Steel Law Firm Inc. serves as a vehicle for political contributions that s
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate          |   Years | Direct Contributions   | Behested Payments   |

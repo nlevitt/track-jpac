@@ -40,6 +40,15 @@ As a representative of RIDA Development, Mitzner is part of a family office that
 
 
 
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate     |   Years | Direct Contributions   | Behested Payments   |

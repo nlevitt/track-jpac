@@ -40,6 +40,16 @@ In California and at the federal level, Kotick has utilized personal funds and c
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate         |   Years | Direct Contributions   | Behested Payments   |

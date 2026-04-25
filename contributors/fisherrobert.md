@@ -77,6 +77,16 @@ As a principal shareholder and former chairman of **Gap Inc.**, Fisher has overs
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate            | Years     | Direct Contributions   | Behested Payments   |

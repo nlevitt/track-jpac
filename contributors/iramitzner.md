@@ -56,6 +56,15 @@ Mitzner is a prolific donor to political candidates and committees that prioriti
 
 
 
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate     |   Years | Direct Contributions   | Behested Payments   |

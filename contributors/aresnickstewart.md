@@ -57,6 +57,16 @@ Stewart A. Resnick is an American billionaire businessman, chairman of The Wonde
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate            |   Years | Direct Contributions   | Behested Payments   |

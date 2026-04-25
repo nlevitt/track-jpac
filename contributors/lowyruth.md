@@ -43,6 +43,16 @@ Lowy’s support extends to educational and communal institutions that promote a
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate   |   Years | Direct Contributions   | Behested Payments   |

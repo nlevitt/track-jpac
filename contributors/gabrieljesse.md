@@ -61,6 +61,16 @@ Gabriel maintains close institutional ties with the Jewish Public Affairs Commit
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate   |   Years | Direct Contributions   | Behested Payments   |

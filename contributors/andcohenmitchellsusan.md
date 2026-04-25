@@ -36,6 +36,16 @@ Mitchell Cohen’s documented stances emphasize a "rooted cosmopolitanism" that 
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate    |   Years | Direct Contributions   | Behested Payments   |

@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 19
 
-Rosilicie Ochoa Bogh is a California State Senator for the 19th District, having been re-elected in November 2024 to serve her second term. Her district is one of the largest geographically in the state, covering various cities and communities across Riverside and San Bernardino counties.
+Rosilicie Ochoa Bogh is a California State Senator representing District 19. She was re-elected in November 2024, and her current term extends until December 4, 2028. Her district encompasses communities across Riverside and San Bernardino counties, making it the third largest geographical senate district in the state.
 
-Analyzed on: 2026-04-24 23:40:59
+Analyzed on: 2026-04-25 00:11:08
 **Total Zionist Contributions:** $6,500
 **Total Zionist Behested Payments:** $0
 

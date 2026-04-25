@@ -40,6 +40,15 @@ Essakow has been identified as a donor to the American Israel Public Affairs Com
 
 
 
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate     |   Years | Direct Contributions   | Behested Payments   |

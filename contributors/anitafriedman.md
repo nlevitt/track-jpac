@@ -87,6 +87,16 @@ Friedman’s work extends to policy-level advocacy related to Israel and Jewish 
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate    | Years     | Direct Contributions   | Behested Payments   |

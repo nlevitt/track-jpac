@@ -70,6 +70,16 @@ Sandberg’s Zionist involvement is rooted in a family history of activism. Her 
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate   |   Years | Direct Contributions   | Behested Payments   |

@@ -48,6 +48,16 @@ Critics of the PAC, such as [JVP-Action](https://www.laprogressive.com/racism/ca
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate    |   Years | Direct Contributions   | Behested Payments   |

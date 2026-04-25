@@ -43,6 +43,16 @@ Glazer has utilized his political platform to affirm his support for Israel thro
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate          |   Years | Direct Contributions   | Behested Payments   |

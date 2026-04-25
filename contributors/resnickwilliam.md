@@ -71,6 +71,16 @@ The Resnick Foundation, under the leadership of the Resnick family, has a docume
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate    |   Years | Direct Contributions   | Behested Payments   |

@@ -38,6 +38,16 @@ Documentation suggests that Ahmanson's funding of pro-Israel causes is part of a
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate            |   Years | Direct Contributions   | Behested Payments   |

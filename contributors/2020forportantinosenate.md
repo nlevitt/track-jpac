@@ -37,6 +37,16 @@ Portantino’s political campaigns, including "Portantino for Senate 2020," have
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate       | Years     | Direct Contributions   | Behested Payments   |
