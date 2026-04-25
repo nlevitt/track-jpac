@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 10
 
-Aisha Wahab is an incumbent California State Senator representing District 10, which encompasses parts of Alameda and Santa Clara counties, including the cities of Hayward, Fremont, and Sunnyvale. As of April 2026, she is also a candidate for the U.S. House of Representatives in California's 14th Congressional District.
+Aisha Wahab currently serves as the State Senator for California's 10th District, representing parts of Alameda and Santa Clara counties, including cities like Hayward, Fremont, and San Jose. She was elected in 2022 and is also a candidate for California's 14th Congressional District in the June 2026 primary.
 
-Analyzed on: 2026-04-24 22:13:51
+Analyzed on: 2026-04-24 23:26:01
 **Total Zionist Contributions:** $4,900
 **Total Zionist Behested Payments:** $0
 

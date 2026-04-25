@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 15
 
-Dave Cortese is a California State Senator, representing District 15, which encompasses a majority of Santa Clara County, including San Jose, Morgan Hill, and Gilroy. He was re-elected in November 2024 and his current term concludes in December 2028.
+Dave Cortese is a California State Senator representing District 15, which encompasses a large portion of Santa Clara County in Silicon Valley, including San Jose, Morgan Hill, and Gilroy. He assumed office on December 7, 2020, and his current term concludes on December 4, 2028.
 
-Analyzed on: 2026-04-24 22:14:05
+Analyzed on: 2026-04-24 23:29:52
 **Total Zionist Contributions:** $7,700
 **Total Zionist Behested Payments:** $0
 

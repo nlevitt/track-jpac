@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 13
 
-Josh Becker is the State Senator for California's 13th Senate District, which encompasses most of San Mateo County and the northern part of Santa Clara County.
+Josh Becker is a Democratic California State Senator representing District 13, which encompasses most of San Mateo County and the northern part of Santa Clara County. His current term extends until December 4, 2028.
 
-Analyzed on: 2026-04-24 22:14:00
+Analyzed on: 2026-04-24 23:28:54
 **Total Zionist Contributions:** $105,610
 **Total Zionist Behested Payments:** $50,000
 

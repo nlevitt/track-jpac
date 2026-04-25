@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 3
 
-Christopher Cabaldon is a member of the California State Senate for the 3rd district, having assumed office in December 2024. The district he represents includes portions of Solano, Yolo, Napa, Sonoma, Contra Costa, and Sacramento counties.
+Christopher Cabaldon is a member of the California State Senate, representing District 3, having assumed office in December 2024. The district encompasses parts of Contra Costa, Napa, Sacramento, Solano, Sonoma, and Yolo counties.
 
-Analyzed on: 2026-04-24 22:48:21
+Analyzed on: 2026-04-24 23:48:38
 **Total Zionist Contributions:** $37,500
 **Total Zionist Behested Payments:** $0
 
