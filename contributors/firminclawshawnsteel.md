@@ -27,3 +27,17 @@ Shawn Steel Law Firm Inc. serves as a vehicle for political contributions that s
 *   **Direct Law Firm Donations:** The "Shawn Steel Law Firm Inc." (alternatively "Shawn Steel & Associates") has made numerous donations to GOP PACs and candidates who maintain staunchly pro-Israel platforms, including 19,900 USD to John Curtis and various local California candidates.
     *   *Source:* PolicyBrief: Shawn Steel & Assoc Contributions (Note: having trouble producing a specific citation)
     *   *Source:* Pride At The Pier: Follow the Money - Shawn Steel Law Firm Inc (Note: having trouble producing a specific citation)
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate          |   Years | Direct Contributions   | Behested Payments   |
+|--------------------|---------|------------------------|---------------------|
+| Marie Alvarado-Gil |    2025 | $1,000                 | $0                  |

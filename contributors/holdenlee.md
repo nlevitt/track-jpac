@@ -49,6 +49,14 @@ Lee's role in directing the financial assets of the Federation is documented in 
 
 
 
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate    |   Years | Direct Contributions   | Behested Payments   |

@@ -56,6 +56,15 @@ Helberg’s Zionist advocacy frequently appears in his public-facing roles and m
 
 
 
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate   |   Years | Direct Contributions   | Behested Payments   |

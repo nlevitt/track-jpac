@@ -55,8 +55,18 @@ Resnick’s support extends to prominent Jewish and Zionist communal organizatio
 
 
 
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate            |   Years | Direct Contributions   | Behested Payments   |
 |----------------------|---------|------------------------|---------------------|
 | Christopher Cabaldon |    2023 | $5,500                 | $0                  |
+| Melissa Hurtado      |    2021 | $4,900                 | $0                  |

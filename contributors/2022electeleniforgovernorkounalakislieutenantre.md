@@ -64,8 +64,17 @@ Kounalakis’s political network includes high-level figures within the pro-Isra
 
 
 
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
-| Candidate         |   Years | Direct Contributions   | Behested Payments   |
-|-------------------|---------|------------------------|---------------------|
-| Catherine Stefani |    2023 | $1,000                 | $0                  |
+| Candidate   | Years     | Direct Contributions   | Behested Payments   |
+|-------------|-----------|------------------------|---------------------|
+| Susan Rubio | 2019-2025 | $6,000                 | $0                  |

@@ -47,3 +47,17 @@ Mitzner is a prolific donor to political candidates and committees that prioriti
         *   *Source*: Jewish Insider (Daily Kickoff Archive) (Note: having trouble producing a specific citation)
     *   **George P. Bush**: Mitzner contributed approximately **$113,000** to George P. Bush's campaign for Texas Attorney General.
         *   *Source*: [Ballotpedia (Campaign Finance Records)](https://ballotpedia.org/George_P._Bush)
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate     |   Years | Direct Contributions   | Behested Payments   |
+|---------------|---------|------------------------|---------------------|
+| Steve Padilla |    2021 | $4,900                 | $0                  |

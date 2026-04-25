@@ -34,3 +34,17 @@ Glazer has utilized his political platform to affirm his support for Israel thro
 *   **Member:** California Legislative Jewish Caucus
 *   **Endorsee:** Jewish Democratic Coalition of the Bay Area
     *   *Source:* [Jewish Democratic Coalition Endorsements](https://www.jdcsv.com/endorsements)
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate          |   Years | Direct Contributions   | Behested Payments   |
+|--------------------|---------|------------------------|---------------------|
+| Marie Alvarado-Gil |    2021 | $2,500                 | $0                  |

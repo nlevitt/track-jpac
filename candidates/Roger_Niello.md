@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 6
 
-Roger Niello is a Republican who currently serves as the State Senator for California's 6th District, which encompasses portions of Sacramento and Placer counties. He assumed office in December 2022 and is seeking re-election in the June 2026 primary.
+Roger Niello is a Republican currently representing California's 6th State Senate District, which encompasses the northern and eastern suburbs of the Sacramento metropolitan area, including portions of Sacramento and Placer counties. He was elected in 2022 and is seeking re-election in 2026.
 
-Analyzed on: 2026-04-24 23:48:59
+Analyzed on: 2026-04-25 00:02:36
 **Total Zionist Contributions:** $5,000
 **Total Zionist Behested Payments:** $36,444
 

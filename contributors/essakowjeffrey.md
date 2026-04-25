@@ -31,3 +31,17 @@ Essakow has been identified as a donor to the American Israel Public Affairs Com
     *   **Source:** [Protea Properties - Executive Profile](https://www.proteaproperties.com/jeffrey/)
 *   **Challenged Athletes Foundation (CAF):** Essakow is a co-founder and Chairman of the Board of CAF, an organization through which he has coordinated sports-related initiatives involving Israeli athletes and solidarity events.
     *   **Source:** Challenged Athletes Foundation - Board of Directors (Note: having trouble producing a specific citation)
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate     |   Years | Direct Contributions   | Behested Payments   |
+|---------------|---------|------------------------|---------------------|
+| Steve Padilla |    2021 | $2,500                 | $0                  |

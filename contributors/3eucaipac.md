@@ -35,3 +35,17 @@ The identification of **EUCA PAC/I-3** as an AIPAC-related entity in political t
 *   **Political Designation:** Pro-Israel/Pro-Business Donor Coalition.
 *   **Financial Scope:** EUCA/UCON PAC maintains a significant war chest, often exceeding $500,000 per cycle, distributed to candidates who align with both construction and Israel-aligned lobbying interests.
 *   **Source:** OpenSecrets - United Contractors PAC Profile (Note: having trouble producing a specific citation)
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate    | Years     | Direct Contributions   | Behested Payments   |
+|--------------|-----------|------------------------|---------------------|
+| Roger Niello | 2005-2007 | $5,000                 | $0                  |

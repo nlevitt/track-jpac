@@ -34,3 +34,18 @@ Newman’s political career has been bolstered by pro-Israel organizations and c
 Newman’s alignment with Zionist advocacy has drawn criticism from civil rights and anti-Zionist organizations. Critics have described Newman and the CLJC as a "pro-Israel faction" within the legislature that works to "erase Palestinians from the political and educational discourse" and pressures public universities to suppress student activism critical of the Israeli government.
 *   **Source:** CounterPunch - Analysis of the CA Legislative Jewish Caucus (Note: having trouble producing a specific citation)
 *   **Source:** LA Progressive - Critical Report on CLJC Influence (Note: having trouble producing a specific citation)
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate          |   Years | Direct Contributions   | Behested Payments   |
+|--------------------|---------|------------------------|---------------------|
+| Melissa Hurtado    |    2021 | $9,800                 | $0                  |
+| Marie Alvarado-Gil |    2021 | $2,500                 | $0                  |

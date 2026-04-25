@@ -58,8 +58,18 @@ Beyond the AJC, Fisher’s broader philanthropic profile includes support for ot
 
 
 
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
-| Candidate         |   Years | Direct Contributions   | Behested Payments   |
-|-------------------|---------|------------------------|---------------------|
-| Catherine Stefani |    2023 | $2,000                 | $0                  |
+| Candidate            | Years     | Direct Contributions   | Behested Payments   |
+|----------------------|-----------|------------------------|---------------------|
+| Scott Wiener         | 2015-2021 | $16,300                | $0                  |
+| Christopher Cabaldon | 2007      | $7,200                 | $0                  |

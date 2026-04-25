@@ -51,3 +51,17 @@ The firm and its employees are significant contributors to California political 
 | **AIPAC** | Direct Coordination Partner | [Noria Research Filing Analysis](https://noria-research.com/mena/dollars-and-decadence-intro/) |
 | **Ileana Ros-Lehtinen** | Firm Senior Advisor & Pro-Israel Agent | Akin Gump Official Profile (Note: having trouble producing a specific citation) |
 | **Adam Schiff** | Recipient of Firm/Partner Contributions | [FEC Contributor Data](https://www.fec.gov/data/committee/C00104901/) |
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate    |   Years | Direct Contributions   | Behested Payments   |
+|--------------|---------|------------------------|---------------------|
+| Roger Niello |    2011 | $0                     | $36,444             |

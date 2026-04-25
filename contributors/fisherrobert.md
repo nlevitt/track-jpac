@@ -68,8 +68,18 @@ As a principal shareholder and former chairman of **Gap Inc.**, Fisher has overs
 
 
 
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
-| Candidate   |   Years | Direct Contributions   | Behested Payments   |
-|-------------|---------|------------------------|---------------------|
-| Diane Papan |    2023 | $1,500                 | $0                  |
+| Candidate            | Years     | Direct Contributions   | Behested Payments   |
+|----------------------|-----------|------------------------|---------------------|
+| Scott Wiener         | 2015-2023 | $24,500                | $0                  |
+| Christopher Cabaldon | 2007      | $7,200                 | $0                  |

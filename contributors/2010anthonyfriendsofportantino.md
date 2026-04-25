@@ -62,6 +62,15 @@ Portantino has been endorsed by "Democrats for Israel Los Angeles," an organizat
 
 
 
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate   |   Years | Direct Contributions   | Behested Payments   |

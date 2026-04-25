@@ -62,8 +62,16 @@ Beyond the IAC, Conway’s philanthropic profile includes support for educationa
 
 
 
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
-| Candidate         |   Years | Direct Contributions   | Behested Payments   |
-|-------------------|---------|------------------------|---------------------|
-| Catherine Stefani |    2023 | $11,000                | $0                  |
+| Candidate    | Years     | Direct Contributions   | Behested Payments   |
+|--------------|-----------|------------------------|---------------------|
+| Scott Wiener | 2015-2019 | $17,800                | $0                  |

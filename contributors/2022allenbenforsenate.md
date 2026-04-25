@@ -76,8 +76,17 @@ The committee **Ben Allen for Senate 2022** serves as a vehicle for collecting c
 
 
 
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
-| Candidate      |   Years | Direct Contributions   | Behested Payments   |
-|----------------|---------|------------------------|---------------------|
-| Patrick Ahrens |    2023 | $1,000                 | $0                  |
+| Candidate       |   Years | Direct Contributions   | Behested Payments   |
+|-----------------|---------|------------------------|---------------------|
+| Melissa Hurtado |    2021 | $4,900                 | $0                  |

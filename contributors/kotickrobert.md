@@ -31,3 +31,17 @@ In California and at the federal level, Kotick has utilized personal funds and c
     *   **Source:** [Shacknews - Bobby Kotick's secret companies for political campaigns](https://www.shacknews.com/article/128864/nintendo-wii-u-and-3ds-eshops-will-close-permanently-in-march-2023)
 *   **California State Candidates:** Kotick has made direct contributions to California state-level candidates, including a $2,000 donation to Dave Cortese's campaign.
     *   **Source:** [Transparency USA - Dave Cortese Contributor List](https://www.transparencyusa.org/ca/candidate/dave-cortese-can)
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate         |   Years | Direct Contributions   | Behested Payments   |
+|-------------------|---------|------------------------|---------------------|
+| Caroline Menjivar |    2023 | $1,500                 | $0                  |

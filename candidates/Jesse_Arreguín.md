@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 7
 
-Jesse Arreguín is a Democratic member of the California State Senate, representing District 7. He assumed office in December 2024, following his tenure as Mayor of Berkeley.
+Jesse Arreguín is a Democratic member of the California State Senate, representing the 7th district since December 2, 2024. His district encompasses the westernmost portions of Alameda and Contra Costa counties, including cities such as Oakland, Alameda, Berkeley, Richmond, and Hercules.
 
-Analyzed on: 2026-04-24 23:49:09
+Analyzed on: 2026-04-25 00:03:23
 **Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 

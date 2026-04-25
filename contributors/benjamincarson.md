@@ -33,3 +33,17 @@ Carson is documented as having business and financial interests in California, w
     *   **Source:** The Atlas Society / Castos - Crisis in the Classroom with Dr. Ben Carson (Note: having trouble producing a specific citation)
 *   **California Donor/Entity Records:** A "Benjamin Carson" is listed in California regulatory filings associated with entities such as Rocketship Education in San Jose.
     *   **Source:** Rocketship Education - California Form 199 Tax Filing (Note: having trouble producing a specific citation)
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate          |   Years | Direct Contributions   | Behested Payments   |
+|--------------------|---------|------------------------|---------------------|
+| Marie Alvarado-Gil |    2021 | $100                   | $0                  |

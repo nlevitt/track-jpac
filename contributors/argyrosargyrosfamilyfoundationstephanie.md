@@ -39,3 +39,17 @@ Stephanie Argyros and the foundation are primary underwriters for cultural and e
     *   **Source:** [Chapman University: Forward Magazine Research Report](https://www.chapman.edu/page-not-found.aspx)
 *   **Segerstrom Center for the Arts:** Stephanie Argyros is a lead donor and fundraiser for the Segerstrom Center, which often features Israeli cultural performers and has a leadership structure that overlaps with several pro-Israel advocacy organizations in Southern California.
     *   **Source:** Performances Magazine: Segerstrom Center Donor List (January 2025) (Note: having trouble producing a specific citation)
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate    |   Years | Direct Contributions   | Behested Payments   |
+|--------------|---------|------------------------|---------------------|
+| Mike McGuire |    2022 | $0                     | $10,000             |

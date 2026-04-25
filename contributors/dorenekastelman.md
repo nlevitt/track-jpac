@@ -72,8 +72,17 @@ Kastelman is a documented donor to both localized pro-Israel political groups an
 
 
 
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
-| Candidate    | Years     | Direct Contributions   | Behested Payments   |
-|--------------|-----------|------------------------|---------------------|
-| Robert Rivas | 2023-2025 | $767                   | $0                  |
+| Candidate   |   Years | Direct Contributions   | Behested Payments   |
+|-------------|---------|------------------------|---------------------|
+| Josh Becker |    2025 | $360                   | $0                  |

@@ -21,3 +21,17 @@ Gruel is a politically active individual whose influence extends through campaig
 
 *   **Campaign and Donor Status:** Gruel maintains a candidate committee, **Andrew Gruel for HB City Council**, which accepts contributions up to the state-mandated limit of $5,900 per election cycle [[1.5](https://gruel4council.com/)]. 
 *   **Institutional Support:** He has received endorsements from the **California Women Leadership Association (CWLA) PAC**, an organization that supports candidates adhering to conservative free-market principles and individual freedoms [1.10 (Note: having trouble producing a specific citation)]. His appointment to the Huntington Beach City Council was championed by former City Attorney **Michael Gates**, a figure known for challenging state mandates and advocating for local municipal control [1.8 (Note: having trouble producing a specific citation), [1.11](https://voiceofoc.org/2025/12/huntington-beach-continues-to-lose-lawsuits-arguing-charter-city-rights/)].
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate          |   Years | Direct Contributions   | Behested Payments   |
+|--------------------|---------|------------------------|---------------------|
+| Marie Alvarado-Gil |    2025 | $500                   | $0                  |

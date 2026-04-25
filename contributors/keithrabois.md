@@ -44,6 +44,14 @@ Rabois’s influence is often exerted in conjunction with a close-knit group of 
 
 
 
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate    |   Years | Direct Contributions   | Behested Payments   |

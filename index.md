@@ -1,27 +1,29 @@
 # Aggregate Summary: California Zionist Contributions
-Generated on: 2026-04-24 23:49:15
+Generated on: 2026-04-25 00:03:55
 
 ## Candidates with Identified Support
 
-| Candidate                                                  | Role                       | Zionist Contributions   | Zionist Behested Payments   |
-|------------------------------------------------------------|----------------------------|-------------------------|-----------------------------|
-| [Josh Becker](candidates/Josh_Becker.md)                   | State Senator, District 13 | $105,610                | $50,000                     |
-| [Melissa Hurtado](candidates/Melissa_Hurtado.md)           | State Senator, District 16 | $55,000                 | $0                          |
-| [Anna Caballero](candidates/Anna_Caballero.md)             | State Senator, District 14 | $47,200                 | $0                          |
-| [Roger Niello](candidates/Roger_Niello.md)                 | State Senator, District 6  | $5,000                  | $36,444                     |
-| [Christopher Cabaldon](candidates/Christopher_Cabaldon.md) | State Senator, District 3  | $37,500                 | $0                          |
-| [Susan Rubio](candidates/Susan_Rubio.md)                   | State Senator, District 22 | $34,100                 | $0                          |
-| [Angelique Ashby](candidates/Angelique_Ashby.md)           | State Senator, District 8  | $8,500                  | $10,000                     |
-| [Steve Padilla](candidates/Steve_Padilla.md)               | State Senator, District 18 | $17,200                 | $0                          |
-| [Tim Grayson](candidates/Tim_Grayson.md)                   | State Senator, District 9  | $16,600                 | $0                          |
-| [Shannon Grove](candidates/Shannon_Grove.md)               | State Senator, District 12 | $16,000                 | $0                          |
-| [John Laird](candidates/John_Laird.md)                     | State Senator, District 17 | $15,650                 | $0                          |
-| [Dave Cortese](candidates/Dave_Cortese.md)                 | State Senator, District 15 | $7,700                  | $0                          |
-| [Megan Dahle](candidates/Megan_Dahle.md)                   | State Senator, District 1  | $7,200                  | $0                          |
-| [Marie Alvarado-Gil](candidates/Marie_Alvarado-Gil.md)     | State Senator, District 4  | $6,600                  | $0                          |
-| [Rosilicie Ochoa Bogh](candidates/Rosilicie_Ochoa_Bogh.md) | State Senator, District 19 | $6,500                  | $0                          |
-| [Aisha Wahab](candidates/Aisha_Wahab.md)                   | State Senator, District 10 | $4,900                  | $0                          |
-| [Caroline Menjivar](candidates/Caroline_Menjivar.md)       | State Senator, District 20 | $4,000                  | $0                          |
+| Candidate                                                  | Role                        | Zionist Contributions   | Zionist Behested Payments   |
+|------------------------------------------------------------|-----------------------------|-------------------------|-----------------------------|
+| [Scott Wiener](candidates/Scott_Wiener.md)                 | State Senator, District 11  | $175,300                | $30,000                     |
+| [Josh Becker](candidates/Josh_Becker.md)                   | State Senator, District 13  | $105,610                | $50,000                     |
+| [Melissa Hurtado](candidates/Melissa_Hurtado.md)           | State Senator, District 16  | $55,000                 | $0                          |
+| [Matt Haney](candidates/Matt_Haney.md)                     | Assemblymember, District 17 | $54,300                 | $0                          |
+| [Anna Caballero](candidates/Anna_Caballero.md)             | State Senator, District 14  | $47,200                 | $0                          |
+| [Roger Niello](candidates/Roger_Niello.md)                 | State Senator, District 6   | $5,000                  | $36,444                     |
+| [Christopher Cabaldon](candidates/Christopher_Cabaldon.md) | State Senator, District 3   | $39,500                 | $0                          |
+| [Susan Rubio](candidates/Susan_Rubio.md)                   | State Senator, District 22  | $34,100                 | $0                          |
+| [Angelique Ashby](candidates/Angelique_Ashby.md)           | State Senator, District 8   | $8,500                  | $10,000                     |
+| [Steve Padilla](candidates/Steve_Padilla.md)               | State Senator, District 18  | $17,200                 | $0                          |
+| [Tim Grayson](candidates/Tim_Grayson.md)                   | State Senator, District 9   | $16,600                 | $0                          |
+| [Shannon Grove](candidates/Shannon_Grove.md)               | State Senator, District 12  | $16,000                 | $0                          |
+| [John Laird](candidates/John_Laird.md)                     | State Senator, District 17  | $15,650                 | $0                          |
+| [Dave Cortese](candidates/Dave_Cortese.md)                 | State Senator, District 15  | $7,700                  | $0                          |
+| [Megan Dahle](candidates/Megan_Dahle.md)                   | State Senator, District 1   | $7,200                  | $0                          |
+| [Marie Alvarado-Gil](candidates/Marie_Alvarado-Gil.md)     | State Senator, District 4   | $6,600                  | $0                          |
+| [Rosilicie Ochoa Bogh](candidates/Rosilicie_Ochoa_Bogh.md) | State Senator, District 19  | $6,500                  | $0                          |
+| [Aisha Wahab](candidates/Aisha_Wahab.md)                   | State Senator, District 10  | $4,900                  | $0                          |
+| [Caroline Menjivar](candidates/Caroline_Menjivar.md)       | State Senator, District 20  | $4,000                  | $0                          |
 
 ## Data Unavailable (Not Found on PowerSearch)
 

@@ -26,3 +26,17 @@ Resnick’s philanthropic portfolio includes recurring support for entities that
 *   **Family Context:** As the son of billionaire philanthropists Lynda and Stewart Resnick, William J. Resnick is part of a family foundation that has funneled millions of dollars into Israeli institutions, including a **$50 million gift to the Technion-Israel Institute of Technology** and consistent donations to the **American Friends of the Israel Defense Forces (FIDF)**.
     *   **Source:** [Technion - Historic Gift from Resnicks](https://www.technion.ac.il/en/blog/2022/12/historic-gift-to-the-technion/)
     *   **Source:** [MR Online - California Billionaires Funding Israel's Occupation](https://mronline.org/2024/02/21/california-pistachio-billionaires-funding-israels-occupation-regime/)
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate       |   Years | Direct Contributions   | Behested Payments   |
+|-----------------|---------|------------------------|---------------------|
+| Melissa Hurtado |    2017 | $2,500                 | $0                  |

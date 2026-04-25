@@ -76,8 +76,22 @@ Fisher is active within the Jewish Community Federation and Endowment Fund of Sa
 
 
 
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
-| Candidate    | Years     | Direct Contributions   | Behested Payments   |
-|--------------|-----------|------------------------|---------------------|
-| Robert Rivas | 2017-2025 | $16,800                | $0                  |
+| Candidate            | Years     | Direct Contributions   | Behested Payments   |
+|----------------------|-----------|------------------------|---------------------|
+| Anna Caballero       | 2015-2025 | $22,300                | $0                  |
+| Tim Grayson          | 2015-2025 | $16,600                | $0                  |
+| Angelique Ashby      | 2023-2025 | $8,500                 | $0                  |
+| Matt Haney           | 2021-2025 | $6,000                 | $0                  |
+| Josh Becker          | 2021-2023 | $5,500                 | $0                  |
+| Christopher Cabaldon | 2025      | $2,000                 | $0                  |

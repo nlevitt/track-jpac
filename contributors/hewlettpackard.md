@@ -67,8 +67,18 @@ The company’s documented role in Israel’s security apparatus has led to wide
 
 
 
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate   | Years     | Direct Contributions   | Behested Payments   |
 |-------------|-----------|------------------------|---------------------|
+| Josh Becker | 2009      | $3,900                 | $0                  |
 | John Laird  | 2005-2007 | $3,500                 | $0                  |

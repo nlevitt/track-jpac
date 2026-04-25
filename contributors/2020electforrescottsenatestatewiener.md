@@ -42,8 +42,17 @@ In January 2026, Senator Wiener faced a significant rupture in his relationship 
 
 
 
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
-| Candidate    |   Years | Direct Contributions   | Behested Payments   |
-|--------------|---------|------------------------|---------------------|
-| Scott Wiener |    2021 | $114,326               | $0                  |
+| Candidate       |   Years | Direct Contributions   | Behested Payments   |
+|-----------------|---------|------------------------|---------------------|
+| Melissa Hurtado |    2017 | $4,400                 | $0                  |

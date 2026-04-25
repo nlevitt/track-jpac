@@ -28,3 +28,17 @@ Portantino’s political campaigns, including "Portantino for Senate 2020," have
 *   **Democrats for Israel Los Angeles (DFI-LA):** Portantino has received the [endorsement of DFI-LA](https://dfi-la.org/endorsements-in-past-elections-by-dfi-los-angeles/), a chartered Democratic club that requires candidates to demonstrate a record of support for the State of Israel and a commitment to fighting anti-Israel sentiment in public policy.
 *   **Jewish Democratic Council of America (JDCA):** He has been a featured participant in forums hosted by the JDCA (Note: having trouble producing a specific citation), where he has highlighted his record of incorporating Jewish American history and pro-Israel "guardrails" into state legislation.
 *   **Donor Base:** While corporate donors like NextEra Energy (Note: having trouble producing a specific citation) and Aflac (Note: having trouble producing a specific citation) have contributed significantly to the "Portantino for Senate 2020" committee, the entity’s relationship to Zionist advocacy is primarily evidenced through his [coordinated legislative actions](https://www.sdjewishworld.com/2021/09/08/california-ethnic-studies-legislation-passes/) and the consistent backing of pro-Israel PACs (Note: having trouble producing a specific citation).
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate       | Years     | Direct Contributions   | Behested Payments   |
+|-----------------|-----------|------------------------|---------------------|
+| Melissa Hurtado | 2017-2021 | $14,200                | $0                  |

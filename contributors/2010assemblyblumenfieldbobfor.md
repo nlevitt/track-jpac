@@ -53,6 +53,15 @@ The 'Bob Blumenfield for Assembly 2010' committee was funded by a range of donor
 
 
 
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
 | Candidate   |   Years | Direct Contributions   | Behested Payments   |

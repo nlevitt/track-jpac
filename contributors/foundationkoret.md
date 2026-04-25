@@ -34,3 +34,17 @@ The foundation actively supports organizations that promote Zionist perspectives
 The leadership of the Koret Foundation maintains direct ties to prominent pro-Israel advocacy organizations. Jeffrey Farber, who has served as the CEO of the Koret Foundation since 2005, is a former chair of AIPAC of Northern California. Farber has stated that he is "committed to ensuring a strong U.S.-Israel relationship" and views Israel as a country "strong enough to protect and defend a homeland for the Jewish people."
 
 *   **Source:** [Koret Foundation - Leadership Profile: Jeff Farber](https://koret.org/grantees/israel-at-75-the-wonder-of-a-jewish-state/)
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate       |   Years | Direct Contributions   | Behested Payments   |
+|-----------------|---------|------------------------|---------------------|
+| Angelique Ashby |    2024 | $0                     | $10,000             |

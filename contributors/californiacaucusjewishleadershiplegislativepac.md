@@ -40,9 +40,16 @@ Critics of the PAC, such as [JVP-Action](https://www.laprogressive.com/racism/ca
 
 
 
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
-| Candidate    | Years     | Direct Contributions   | Behested Payments   |
-|--------------|-----------|------------------------|---------------------|
-| Marc Berman  | 2015-2017 | $13,000                | $0                  |
-| Scott Wiener | 2015      | $4,200                 | $0                  |
+| Candidate    |   Years | Direct Contributions   | Behested Payments   |
+|--------------|---------|------------------------|---------------------|
+| Scott Wiener |    2015 | $4,200                 | $0                  |

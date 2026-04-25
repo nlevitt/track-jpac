@@ -29,3 +29,17 @@ The Ahmansons hold leadership and advisory roles in organizations that maintain 
 Documentation suggests that Ahmanson's funding of pro-Israel causes is part of a broader "wedge" strategy. This involves using support for Israel and other social issues to challenge liberal or progressive leadership within American religious institutions, aiming to realign them with conservative political goals.
 *   **Source:** [National Center for Science Education: The Wedge at Work](https://ncse.ngo/wedge-work)
 *   **Source:** [Salon: Avenging angel of the religious right](https://www.salon.com/2004/01/06/ahmanson/)
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate            |   Years | Direct Contributions   | Behested Payments   |
+|----------------------|---------|------------------------|---------------------|
+| Rosilicie Ochoa Bogh |    2023 | $5,000                 | $0                  |

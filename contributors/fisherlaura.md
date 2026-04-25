@@ -61,8 +61,16 @@ The Fisher family has documented history of supporting political causes and cand
 
 
 
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
-| Candidate   |   Years | Direct Contributions   | Behested Payments   |
-|-------------|---------|------------------------|---------------------|
-| Buffy Wicks |    2017 | $8,800                 | $0                  |
+| Candidate    | Years     | Direct Contributions   | Behested Payments   |
+|--------------|-----------|------------------------|---------------------|
+| Scott Wiener | 2015-2017 | $17,200                | $0                  |

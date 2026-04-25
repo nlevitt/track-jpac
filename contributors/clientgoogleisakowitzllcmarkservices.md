@@ -72,8 +72,18 @@ As a "Responsible Officer" for Google’s government affairs branch, Isakowitz o
 
 
 
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
-| Candidate   |   Years | Direct Contributions   | Behested Payments   |
-|-------------|---------|------------------------|---------------------|
-| Bill Dodd   |    2021 | $4,500                 | $0                  |
+| Candidate      | Years     | Direct Contributions   | Behested Payments   |
+|----------------|-----------|------------------------|---------------------|
+| Anna Caballero | 2021-2025 | $17,000                | $0                  |
+| Scott Wiener   | 2019-2021 | $9,000                 | $0                  |

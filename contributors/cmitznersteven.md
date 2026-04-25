@@ -31,3 +31,17 @@ Mitzner has held multiple leadership positions within Jewish communal organizati
 As a representative of RIDA Development, Mitzner is part of a family office that exerts significant economic influence in California through massive capital investments. His financial support of pro-Israel institutions like Yeshiva University’s advocacy center and FIDF aligns his philanthropic profile with broader political efforts to maintain and strengthen U.S. support for Israel.
 
 *   **Source:** eJewishPhilanthropy: Your Daily Phil (June 24, 2024) - Mitzner and California Security Grants (Note: having trouble producing a specific citation)
+
+
+
+
+
+
+
+
+
+## Supported Candidates
+
+| Candidate     |   Years | Direct Contributions   | Behested Payments   |
+|---------------|---------|------------------------|---------------------|
+| Steve Padilla |    2021 | $4,900                 | $0                  |

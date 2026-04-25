@@ -73,8 +73,17 @@ In 2025, Carrillo's relationship with the organized pro-Israel lobby underwent a
 
 
 
+
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
-| Candidate     |   Years | Direct Contributions   | Behested Payments   |
-|---------------|---------|------------------------|---------------------|
-| Gail Pellerin |    2021 | $2,000                 | $0                  |
+| Candidate         |   Years | Direct Contributions   | Behested Payments   |
+|-------------------|---------|------------------------|---------------------|
+| Caroline Menjivar |    2021 | $2,500                 | $0                  |

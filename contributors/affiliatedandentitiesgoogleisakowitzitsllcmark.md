@@ -76,8 +76,17 @@ Political donations are frequently filed under the name **"Google LLC and Affili
 
 
 
+
+
+
+
+
+
+
+
 ## Supported Candidates
 
-| Candidate   | Years     | Direct Contributions   | Behested Payments   |
-|-------------|-----------|------------------------|---------------------|
-| Matt Haney  | 2021-2023 | $11,000                | $0                  |
+| Candidate    | Years     | Direct Contributions   | Behested Payments   |
+|--------------|-----------|------------------------|---------------------|
+| Matt Haney   | 2021-2023 | $11,000                | $0                  |
+| Scott Wiener | 2021-2023 | $5,000                 | $0                  |
