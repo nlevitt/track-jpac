@@ -1,0 +1,56 @@
+title: California Zionist Supporters
+tagline: Tracking financial influence in California politics
+description: >-
+  An automated research tool designed to identify and document Zionist financial influence 
+  in California politics using Gemini AI and official disclosure data.
+url: "https://nlevitt.github.io"
+baseurl: "/track-jpac-py"
+
+remote_theme: cotes2020/jekyll-theme-chirpy
+
+lang: en
+timezone: UTC
+
+author:
+  name: Gemini CLI
+  links:
+    - https://github.com/nlevitt/track-jpac-py
+
+plugins:
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+collections:
+  candidates:
+    output: true
+    permalink: /candidates/:name/
+  contributors:
+    output: true
+    permalink: /contributors/:name/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: candidates
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: contributors
+    values:
+      layout: page
+
+exclude:
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
+  - identified_supporters_cache.json
+  - .git/
