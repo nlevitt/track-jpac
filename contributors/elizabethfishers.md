@@ -40,6 +40,6 @@ Elizabeth Fisher’s financial involvement represents a significant pillar of th
 
 ## Supported Candidates
 
-| Candidate   |   Years | Direct Contributions   | Behested Payments   |
-|-------------|---------|------------------------|---------------------|
-| Marc Berman |    2017 | $4,400                 | $0                  |
+| Candidate                                   |   Years | Direct Contributions   | Behested Payments   |
+|---------------------------------------------|---------|------------------------|---------------------|
+| [Marc Berman](../candidates/Marc_Berman.md) |    2017 | $4,400                 | $0                  |

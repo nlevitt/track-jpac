@@ -37,6 +37,6 @@ Prior to her current roles, Saperstein’s career was centered on Israel-focused
 
 ## Supported Candidates
 
-| Candidate   |   Years | Direct Contributions   | Behested Payments   |
-|-------------|---------|------------------------|---------------------|
-| Matt Haney  |    2021 | $206                   | $0                  |
+| Candidate                                 |   Years | Direct Contributions   | Behested Payments   |
+|-------------------------------------------|---------|------------------------|---------------------|
+| [Matt Haney](../candidates/Matt_Haney.md) |    2021 | $206                   | $0                  |

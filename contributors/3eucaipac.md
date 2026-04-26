@@ -26,6 +26,6 @@ While the **Engineering & Utility Contractors Association PAC (EUCA PAC/I-3)** o
 
 ## Supported Candidates
 
-| Candidate    | Years     | Direct Contributions   | Behested Payments   |
-|--------------|-----------|------------------------|---------------------|
-| Roger Niello | 2005-2007 | $5,000                 | $0                  |
+| Candidate                                     | Years     | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------|-----------|------------------------|---------------------|
+| [Roger Niello](../candidates/Roger_Niello.md) | 2005-2007 | $5,000                 | $0                  |

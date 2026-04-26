@@ -42,6 +42,6 @@ While **Rita Gutierrez-Fisher** is a documented local philanthropist in the San 
 
 ## Supported Candidates
 
-| Candidate    |   Years | Direct Contributions   | Behested Payments   |
-|--------------|---------|------------------------|---------------------|
-| Robert Rivas |    2025 | $100                   | $0                  |
+| Candidate                                     |   Years | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------|---------|------------------------|---------------------|
+| [Robert Rivas](../candidates/Robert_Rivas.md) |    2025 | $100                   | $0                  |

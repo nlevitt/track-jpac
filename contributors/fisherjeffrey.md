@@ -46,6 +46,6 @@ Jeffrey Fisher is documented as a donor to California-based organizations that m
 
 ## Supported Candidates
 
-| Candidate    |   Years | Direct Contributions   | Behested Payments   |
-|--------------|---------|------------------------|---------------------|
-| Akilah Weber |    2025 | $500                   | $0                  |
+| Candidate                                     |   Years | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------|---------|------------------------|---------------------|
+| [Akilah Weber](../candidates/Akilah_Weber.md) |    2025 | $500                   | $0                  |

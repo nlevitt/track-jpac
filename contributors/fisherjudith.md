@@ -45,6 +45,6 @@ The subject’s philanthropy has faced criticism from anti-Zionist organizations
 
 ## Supported Candidates
 
-| Candidate   |   Years | Direct Contributions   | Behested Payments   |
-|-------------|---------|------------------------|---------------------|
-| Josh Hoover |    2025 | $100                   | $0                  |
+| Candidate                                   |   Years | Direct Contributions   | Behested Payments   |
+|---------------------------------------------|---------|------------------------|---------------------|
+| [Josh Hoover](../candidates/Josh_Hoover.md) |    2025 | $100                   | $0                  |

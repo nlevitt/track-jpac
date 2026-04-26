@@ -37,6 +37,6 @@ Fisher’s relationship to Zionist advocacy is primarily characterized by his in
 
 ## Supported Candidates
 
-| Candidate    |   Years | Direct Contributions   | Behested Payments   |
-|--------------|---------|------------------------|---------------------|
-| Chris Rogers |    2025 | $250                   | $0                  |
+| Candidate                                     |   Years | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------|---------|------------------------|---------------------|
+| [Chris Rogers](../candidates/Chris_Rogers.md) |    2025 | $250                   | $0                  |

@@ -31,6 +31,6 @@ In California, the Fisher family (operating through Pisces Inc. and individual a
 
 ## Supported Candidates
 
-| Candidate   | Years     | Direct Contributions   | Behested Payments   |
-|-------------|-----------|------------------------|---------------------|
-| Brian Jones | 2019-2021 | $300                   | $0                  |
+| Candidate                                   | Years     | Direct Contributions   | Behested Payments   |
+|---------------------------------------------|-----------|------------------------|---------------------|
+| [Brian Jones](../candidates/Brian_Jones.md) | 2019-2021 | $300                   | $0                  |

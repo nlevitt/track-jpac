@@ -33,6 +33,6 @@ The family's support for Israel has led to public scrutiny and boycott campaigns
 
 ## Supported Candidates
 
-| Candidate     |   Years | Direct Contributions   | Behested Payments   |
-|---------------|---------|------------------------|---------------------|
-| Steve Bennett |    2022 | $500                   | $0                  |
+| Candidate                                       |   Years | Direct Contributions   | Behested Payments   |
+|-------------------------------------------------|---------|------------------------|---------------------|
+| [Steve Bennett](../candidates/Steve_Bennett.md) |    2022 | $500                   | $0                  |

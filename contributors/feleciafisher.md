@@ -39,6 +39,6 @@ Due to their significant financial backing of Zionist organizations, the Fisher 
 
 ## Supported Candidates
 
-| Candidate             |   Years | Direct Contributions   | Behested Payments   |
-|-----------------------|---------|------------------------|---------------------|
-| Lola Smallwood-Cuevas |    2021 | $100                   | $0                  |
+| Candidate                                                       |   Years | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------------------------|---------|------------------------|---------------------|
+| [Lola Smallwood-Cuevas](../candidates/Lola_Smallwood-Cuevas.md) |    2021 | $100                   | $0                  |

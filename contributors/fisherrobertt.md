@@ -36,6 +36,6 @@ Fisher is a significant political donor, contributing to both mainstream politic
 
 ## Supported Candidates
 
-| Candidate   |   Years | Direct Contributions   | Behested Payments   |
-|-------------|---------|------------------------|---------------------|
-| Rick Zbur   |    2023 | $1,500                 | $0                  |
+| Candidate                               |   Years | Direct Contributions   | Behested Payments   |
+|-----------------------------------------|---------|------------------------|---------------------|
+| [Rick Zbur](../candidates/Rick_Zbur.md) |    2023 | $1,500                 | $0                  |

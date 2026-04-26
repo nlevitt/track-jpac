@@ -27,6 +27,6 @@ Patrick F. Leibrich is a documented political donor to conservative causes in Ca
 
 ## Supported Candidates
 
-| Candidate       |   Years | Direct Contributions   | Behested Payments   |
-|-----------------|---------|------------------------|---------------------|
-| Tony Strickland |    2023 | $500                   | $0                  |
+| Candidate                                           |   Years | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------------|---------|------------------------|---------------------|
+| [Tony Strickland](../candidates/Tony_Strickland.md) |    2023 | $500                   | $0                  |

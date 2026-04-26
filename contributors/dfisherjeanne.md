@@ -29,6 +29,6 @@ Fisher is a frequent donor to political campaigns and committees that maintain s
 
 ## Supported Candidates
 
-| Candidate   |   Years | Direct Contributions   | Behested Payments   |
-|-------------|---------|------------------------|---------------------|
-| Josh Becker |    2012 | $500                   | $0                  |
+| Candidate                                   |   Years | Direct Contributions   | Behested Payments   |
+|---------------------------------------------|---------|------------------------|---------------------|
+| [Josh Becker](../candidates/Josh_Becker.md) |    2012 | $500                   | $0                  |

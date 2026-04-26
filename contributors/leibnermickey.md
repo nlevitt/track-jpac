@@ -39,6 +39,6 @@ Documentation exists for a separate individual named **Michael "Mickey" Leibner*
 
 ## Supported Candidates
 
-| Candidate   |   Years | Direct Contributions   | Behested Payments   |
-|-------------|---------|------------------------|---------------------|
-| Liz Ortega  |    2025 | $250                   | $0                  |
+| Candidate                                 |   Years | Direct Contributions   | Behested Payments   |
+|-------------------------------------------|---------|------------------------|---------------------|
+| [Liz Ortega](../candidates/Liz_Ortega.md) |    2025 | $250                   | $0                  |

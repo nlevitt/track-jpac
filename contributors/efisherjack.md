@@ -34,6 +34,6 @@ The Fisher family is frequently included in databases tracking "Zionist donors" 
 
 ## Supported Candidates
 
-| Candidate    |   Years | Direct Contributions   | Behested Payments   |
-|--------------|---------|------------------------|---------------------|
-| Robert Rivas |    2023 | $200                   | $0                  |
+| Candidate                                     |   Years | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------|---------|------------------------|---------------------|
+| [Robert Rivas](../candidates/Robert_Rivas.md) |    2023 | $200                   | $0                  |

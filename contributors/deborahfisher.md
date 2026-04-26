@@ -40,7 +40,7 @@ The Fisher family has a documented history of supporting organizations that prom
 
 ## Supported Candidates
 
-| Candidate     |   Years | Direct Contributions   | Behested Payments   |
-|---------------|---------|------------------------|---------------------|
-| Lena Gonzalez |    2026 | $2,000                 | $0                  |
-| Jeff Gonzalez |    2026 | $2,000                 | $0                  |
+| Candidate                                       |   Years | Direct Contributions   | Behested Payments   |
+|-------------------------------------------------|---------|------------------------|---------------------|
+| [Lena Gonzalez](../candidates/Lena_Gonzalez.md) |    2026 | $2,000                 | $0                  |
+| [Jeff Gonzalez](../candidates/Jeff_Gonzalez.md) |    2026 | $2,000                 | $0                  |

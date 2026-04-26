@@ -37,7 +37,7 @@ Fisher’s political influence is channeled through individual donations and the
 
 ## Supported Candidates
 
-| Candidate    |   Years | Direct Contributions   | Behested Payments   |
-|--------------|---------|------------------------|---------------------|
-| Marc Berman  |    2017 | $5,400                 | $0                  |
-| Jacqui Irwin |    2017 | $500                   | $0                  |
+| Candidate                                     |   Years | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------|---------|------------------------|---------------------|
+| [Marc Berman](../candidates/Marc_Berman.md)   |    2017 | $5,400                 | $0                  |
+| [Jacqui Irwin](../candidates/Jacqui_Irwin.md) |    2017 | $500                   | $0                  |

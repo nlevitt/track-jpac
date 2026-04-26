@@ -36,6 +36,6 @@ JPAC’s Zionist advocacy has led to direct political confrontations with labor 
 
 ## Supported Candidates
 
-| Candidate   |   Years | Direct Contributions   | Behested Payments   |
-|-------------|---------|------------------------|---------------------|
-| Marc Berman |    1978 | $200                   | $0                  |
+| Candidate                                   |   Years | Direct Contributions   | Behested Payments   |
+|---------------------------------------------|---------|------------------------|---------------------|
+| [Marc Berman](../candidates/Marc_Berman.md) |    1978 | $200                   | $0                  |

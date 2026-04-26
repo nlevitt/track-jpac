@@ -35,6 +35,6 @@ The family has directed funds toward Israeli educational and security-related in
 
 ## Supported Candidates
 
-| Candidate   |   Years | Direct Contributions   | Behested Payments   |
-|-------------|---------|------------------------|---------------------|
-| Brian Jones |    2025 | $601                   | $0                  |
+| Candidate                                   |   Years | Direct Contributions   | Behested Payments   |
+|---------------------------------------------|---------|------------------------|---------------------|
+| [Brian Jones](../candidates/Brian_Jones.md) |    2025 | $601                   | $0                  |

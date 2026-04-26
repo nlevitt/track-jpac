@@ -30,6 +30,6 @@ The Fisher family operates through **Pisces Inc.**, which manages their multi-bi
 
 ## Supported Candidates
 
-| Candidate     |   Years | Direct Contributions   | Behested Payments   |
-|---------------|---------|------------------------|---------------------|
-| Joe Patterson |    2002 | $250                   | $0                  |
+| Candidate                                       |   Years | Direct Contributions   | Behested Payments   |
+|-------------------------------------------------|---------|------------------------|---------------------|
+| [Joe Patterson](../candidates/Joe_Patterson.md) |    2002 | $250                   | $0                  |

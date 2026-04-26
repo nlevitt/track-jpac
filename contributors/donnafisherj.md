@@ -37,6 +37,6 @@ Political records show that individuals associated with the Fisher family (inclu
 
 ## Supported Candidates
 
-| Candidate   |   Years | Direct Contributions   | Behested Payments   |
-|-------------|---------|------------------------|---------------------|
-| Lori Wilson |    2010 | $2                     | $0                  |
+| Candidate                                   |   Years | Direct Contributions   | Behested Payments   |
+|---------------------------------------------|---------|------------------------|---------------------|
+| [Lori Wilson](../candidates/Lori_Wilson.md) |    2010 | $2                     | $0                  |

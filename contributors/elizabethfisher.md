@@ -25,8 +25,8 @@ Fisher has been identified as a key participant in political funding networks th
 
 ## Supported Candidates
 
-| Candidate    | Years     | Direct Contributions   | Behested Payments   |
-|--------------|-----------|------------------------|---------------------|
-| Buffy Wicks  | 2017      | $8,800                 | $0                  |
-| Marc Berman  | 2015-2017 | $5,200                 | $0                  |
-| Jacqui Irwin | 2017      | $500                   | $0                  |
+| Candidate                                     | Years     | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------|-----------|------------------------|---------------------|
+| [Buffy Wicks](../candidates/Buffy_Wicks.md)   | 2017      | $8,800                 | $0                  |
+| [Marc Berman](../candidates/Marc_Berman.md)   | 2015-2017 | $5,200                 | $0                  |
+| [Jacqui Irwin](../candidates/Jacqui_Irwin.md) | 2017      | $500                   | $0                  |

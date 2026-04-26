@@ -38,6 +38,6 @@ JPAC’s advocacy is driven by a coalition that includes explicitly Zionist enti
 
 ## Supported Candidates
 
-| Candidate     |   Years | Direct Contributions   | Behested Payments   |
-|---------------|---------|------------------------|---------------------|
-| Robert Garcia |    2012 | $2,500                 | $0                  |
+| Candidate                                       |   Years | Direct Contributions   | Behested Payments   |
+|-------------------------------------------------|---------|------------------------|---------------------|
+| [Robert Garcia](../candidates/Robert_Garcia.md) |    2012 | $2,500                 | $0                  |

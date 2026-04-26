@@ -39,6 +39,6 @@ Advocacy and research groups focused on monitoring Zionist influence in U.S. pol
 
 ## Supported Candidates
 
-| Candidate    |   Years | Direct Contributions   | Behested Payments   |
-|--------------|---------|------------------------|---------------------|
-| Chris Rogers |    2012 | $250                   | $0                  |
+| Candidate                                     |   Years | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------|---------|------------------------|---------------------|
+| [Chris Rogers](../candidates/Chris_Rogers.md) |    2012 | $250                   | $0                  |

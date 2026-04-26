@@ -28,6 +28,6 @@ Orlanski is a frequent contributor to local and state-level political causes in 
 
 ## Supported Candidates
 
-| Candidate       | Years     | Direct Contributions   | Behested Payments   |
-|-----------------|-----------|------------------------|---------------------|
-| Tony Strickland | 2005-2007 | $275                   | $0                  |
+| Candidate                                           | Years     | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------------|-----------|------------------------|---------------------|
+| [Tony Strickland](../candidates/Tony_Strickland.md) | 2005-2007 | $275                   | $0                  |

@@ -32,6 +32,6 @@ Watchdog groups and labor organizations in California have categorized donors li
 
 ## Supported Candidates
 
-| Candidate        |   Years | Direct Contributions   | Behested Payments   |
-|------------------|---------|------------------------|---------------------|
-| Stephanie Nguyen |    2021 | $4,900                 | $0                  |
+| Candidate                                             |   Years | Direct Contributions   | Behested Payments   |
+|-------------------------------------------------------|---------|------------------------|---------------------|
+| [Stephanie Nguyen](../candidates/Stephanie_Nguyen.md) |    2021 | $4,900                 | $0                  |

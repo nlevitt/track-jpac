@@ -36,17 +36,17 @@ Fisher has been categorized by researchers and monitoring groups as a "Prominent
 
 ## Supported Candidates
 
-| Candidate            | Years     | Direct Contributions   | Behested Payments   |
-|----------------------|-----------|------------------------|---------------------|
-| Anna Caballero       | 2015-2017 | $17,200                | $0                  |
-| Robert Rivas         | 2017-2021 | $13,300                | $0                  |
-| Tim Grayson          | 2015-2021 | $10,600                | $0                  |
-| Henry Stern          | 2015-2017 | $9,600                 | $0                  |
-| Marc Berman          | 2017      | $4,400                 | $0                  |
-| Cottie Petrie-Norris | 2019      | $2,000                 | $0                  |
-| Blanca Rubio         | 2021      | $1,500                 | $0                  |
-| Matt Haney           | 2021      | $1,500                 | $0                  |
-| Rebecca Bauer-Kahan  | 2019      | $1,000                 | $0                  |
-| Cecilia Aguiar-Curry | 2021      | $1,000                 | $0                  |
-| Al Muratsuchi        | 2021      | $1,000                 | $0                  |
-| Lori Wilson          | 2021      | $1,000                 | $0                  |
+| Candidate                                                     | Years     | Direct Contributions   | Behested Payments   |
+|---------------------------------------------------------------|-----------|------------------------|---------------------|
+| [Anna Caballero](../candidates/Anna_Caballero.md)             | 2015-2017 | $17,200                | $0                  |
+| [Robert Rivas](../candidates/Robert_Rivas.md)                 | 2017-2021 | $13,300                | $0                  |
+| [Tim Grayson](../candidates/Tim_Grayson.md)                   | 2015-2021 | $10,600                | $0                  |
+| [Henry Stern](../candidates/Henry_Stern.md)                   | 2015-2017 | $9,600                 | $0                  |
+| [Marc Berman](../candidates/Marc_Berman.md)                   | 2017      | $4,400                 | $0                  |
+| [Cottie Petrie-Norris](../candidates/Cottie_Petrie-Norris.md) | 2019      | $2,000                 | $0                  |
+| [Blanca Rubio](../candidates/Blanca_Rubio.md)                 | 2021      | $1,500                 | $0                  |
+| [Matt Haney](../candidates/Matt_Haney.md)                     | 2021      | $1,500                 | $0                  |
+| [Rebecca Bauer-Kahan](../candidates/Rebecca_Bauer-Kahan.md)   | 2019      | $1,000                 | $0                  |
+| [Cecilia Aguiar-Curry](../candidates/Cecilia_Aguiar-Curry.md) | 2021      | $1,000                 | $0                  |
+| [Al Muratsuchi](../candidates/Al_Muratsuchi.md)               | 2021      | $1,000                 | $0                  |
+| [Lori Wilson](../candidates/Lori_Wilson.md)                   | 2021      | $1,000                 | $0                  |

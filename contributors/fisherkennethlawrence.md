@@ -43,6 +43,6 @@ The Fisher family (Gap Inc./Pisces Inc.) represents a primary pillar of the San 
 
 ## Supported Candidates
 
-| Candidate   |   Years | Direct Contributions   | Behested Payments   |
-|-------------|---------|------------------------|---------------------|
-| Diane Papan |    2021 | $4,900                 | $0                  |
+| Candidate                                   |   Years | Direct Contributions   | Behested Payments   |
+|---------------------------------------------|---------|------------------------|---------------------|
+| [Diane Papan](../candidates/Diane_Papan.md) |    2021 | $4,900                 | $0                  |

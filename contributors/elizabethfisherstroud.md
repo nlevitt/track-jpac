@@ -30,8 +30,8 @@ Fisher’s support for Israel is largely channeled through the **Jewish Communit
 
 ## Supported Candidates
 
-| Candidate      | Years     | Direct Contributions   | Behested Payments   |
-|----------------|-----------|------------------------|---------------------|
-| Anna Caballero | 2015-2017 | $12,800                | $0                  |
-| Tim Grayson    | 2015-2017 | $9,600                 | $0                  |
-| Robert Rivas   | 2017      | $6,400                 | $0                  |
+| Candidate                                         | Years     | Direct Contributions   | Behested Payments   |
+|---------------------------------------------------|-----------|------------------------|---------------------|
+| [Anna Caballero](../candidates/Anna_Caballero.md) | 2015-2017 | $12,800                | $0                  |
+| [Tim Grayson](../candidates/Tim_Grayson.md)       | 2015-2017 | $9,600                 | $0                  |
+| [Robert Rivas](../candidates/Robert_Rivas.md)     | 2017      | $6,400                 | $0                  |

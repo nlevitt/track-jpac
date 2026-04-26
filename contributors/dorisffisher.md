@@ -24,9 +24,9 @@ Fisher maintains a documented relationship with the **Koret Foundation**, a San 
 
 ## Supported Candidates
 
-| Candidate      | Years     | Direct Contributions   | Behested Payments   |
-|----------------|-----------|------------------------|---------------------|
-| Henry Stern    | 2015-2017 | $9,600                 | $0                  |
-| Anna Caballero | 2015-2017 | $8,600                 | $0                  |
-| Robert Rivas   | 2017      | $6,400                 | $0                  |
-| Tim Grayson    | 2017      | $5,400                 | $0                  |
+| Candidate                                         | Years     | Direct Contributions   | Behested Payments   |
+|---------------------------------------------------|-----------|------------------------|---------------------|
+| [Henry Stern](../candidates/Henry_Stern.md)       | 2015-2017 | $9,600                 | $0                  |
+| [Anna Caballero](../candidates/Anna_Caballero.md) | 2015-2017 | $8,600                 | $0                  |
+| [Robert Rivas](../candidates/Robert_Rivas.md)     | 2017      | $6,400                 | $0                  |
+| [Tim Grayson](../candidates/Tim_Grayson.md)       | 2017      | $5,400                 | $0                  |

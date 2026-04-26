@@ -34,6 +34,6 @@ Documentation confirms that the Fisher family's philanthropic and political acti
 
 ## Supported Candidates
 
-| Candidate      |   Years | Direct Contributions   | Behested Payments   |
-|----------------|---------|------------------------|---------------------|
-| Damon Connolly |    2005 | $180                   | $0                  |
+| Candidate                                         |   Years | Direct Contributions   | Behested Payments   |
+|---------------------------------------------------|---------|------------------------|---------------------|
+| [Damon Connolly](../candidates/Damon_Connolly.md) |    2005 | $180                   | $0                  |

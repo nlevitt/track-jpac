@@ -35,6 +35,6 @@ While the user identified "Fisher, Alida" as a "Prominent Zionist donor," public
 
 ## Supported Candidates
 
-| Candidate         |   Years | Direct Contributions   | Behested Payments   |
-|-------------------|---------|------------------------|---------------------|
-| Caroline Menjivar |    2021 | $100                   | $0                  |
+| Candidate                                               |   Years | Direct Contributions   | Behested Payments   |
+|---------------------------------------------------------|---------|------------------------|---------------------|
+| [Caroline Menjivar](../candidates/Caroline_Menjivar.md) |    2021 | $100                   | $0                  |

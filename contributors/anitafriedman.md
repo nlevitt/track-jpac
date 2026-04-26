@@ -25,14 +25,14 @@ Dr. Anita Friedman’s relationship to Israel is defined by her dual role as a h
 
 ## Supported Candidates
 
-| Candidate      | Years     | Direct Contributions   | Behested Payments   |
-|----------------|-----------|------------------------|---------------------|
-| Jesse Gabriel  | 2019-2025 | $10,900                | $0                  |
-| Josh Becker    | 2019-2021 | $9,700                 | $0                  |
-| Scott Wiener   | 2015-2023 | $5,000                 | $0                  |
-| Buffy Wicks    | 2017-2021 | $4,650                 | $0                  |
-| Robert Rivas   | 2021-2023 | $1,500                 | $0                  |
-| Damon Connolly | 2023      | $500                   | $0                  |
-| Jesse Arreguín | 2023      | $500                   | $0                  |
-| Isaac Bryan    | 2023      | $250                   | $0                  |
-| Monique Limón  | 2021      | $250                   | $0                  |
+| Candidate                                         | Years     | Direct Contributions   | Behested Payments   |
+|---------------------------------------------------|-----------|------------------------|---------------------|
+| [Jesse Gabriel](../candidates/Jesse_Gabriel.md)   | 2019-2025 | $10,900                | $0                  |
+| [Josh Becker](../candidates/Josh_Becker.md)       | 2019-2021 | $9,700                 | $0                  |
+| [Scott Wiener](../candidates/Scott_Wiener.md)     | 2015-2023 | $5,000                 | $0                  |
+| [Buffy Wicks](../candidates/Buffy_Wicks.md)       | 2017-2021 | $4,650                 | $0                  |
+| [Robert Rivas](../candidates/Robert_Rivas.md)     | 2021-2023 | $1,500                 | $0                  |
+| [Damon Connolly](../candidates/Damon_Connolly.md) | 2023      | $500                   | $0                  |
+| [Jesse Arreguín](../candidates/Jesse_Arreguín.md) | 2023      | $500                   | $0                  |
+| [Isaac Bryan](../candidates/Isaac_Bryan.md)       | 2023      | $250                   | $0                  |
+| [Monique Limón](../candidates/Monique_Limón.md)   | 2021      | $250                   | $0                  |

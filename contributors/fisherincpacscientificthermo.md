@@ -37,6 +37,6 @@ The Fisher family (Gap/Pisces) exerts influence on Zionist advocacy through thre
 
 ## Supported Candidates
 
-| Candidate    |   Years | Direct Contributions   | Behested Payments   |
-|--------------|---------|------------------------|---------------------|
-| Chris Rogers |    2012 | $500                   | $0                  |
+| Candidate                                     |   Years | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------|---------|------------------------|---------------------|
+| [Chris Rogers](../candidates/Chris_Rogers.md) |    2012 | $500                   | $0                  |

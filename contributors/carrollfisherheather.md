@@ -35,6 +35,6 @@ The "Carroll-Fisher, Heather" identity in the context of "Prominent Zionist dono
 
 ## Supported Candidates
 
-| Candidate     |   Years | Direct Contributions   | Behested Payments   |
-|---------------|---------|------------------------|---------------------|
-| Pilar Schiavo |    2021 | $375                   | $0                  |
+| Candidate                                       |   Years | Direct Contributions   | Behested Payments   |
+|-------------------------------------------------|---------|------------------------|---------------------|
+| [Pilar Schiavo](../candidates/Pilar_Schiavo.md) |    2021 | $375                   | $0                  |

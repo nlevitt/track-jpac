@@ -32,6 +32,6 @@ Beyond Birthright and Koret, the Fisher family’s support for Israel is evidenc
 
 ## Supported Candidates
 
-| Candidate   |   Years | Direct Contributions   | Behested Payments   |
-|-------------|---------|------------------------|---------------------|
-| Josh Becker |    2009 | $100                   | $0                  |
+| Candidate                                   |   Years | Direct Contributions   | Behested Payments   |
+|---------------------------------------------|---------|------------------------|---------------------|
+| [Josh Becker](../candidates/Josh_Becker.md) |    2009 | $100                   | $0                  |

@@ -40,6 +40,6 @@ Fisher and the broader family are cited in activist research (such as the **Mapp
 
 ## Supported Candidates
 
-| Candidate    | Years     | Direct Contributions   | Behested Payments   |
-|--------------|-----------|------------------------|---------------------|
-| Jacqui Irwin | 2013-2021 | $200                   | $0                  |
+| Candidate                                     | Years     | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------|-----------|------------------------|---------------------|
+| [Jacqui Irwin](../candidates/Jacqui_Irwin.md) | 2013-2021 | $200                   | $0                  |

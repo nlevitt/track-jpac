@@ -39,6 +39,6 @@ While occasionally referred to as "Scott" in localized or informal contexts, the
 
 ## Supported Candidates
 
-| Candidate    |   Years | Direct Contributions   | Behested Payments   |
-|--------------|---------|------------------------|---------------------|
-| Jacqui Irwin |    2022 | $500                   | $0                  |
+| Candidate                                     |   Years | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------|---------|------------------------|---------------------|
+| [Jacqui Irwin](../candidates/Jacqui_Irwin.md) |    2022 | $500                   | $0                  |

@@ -36,7 +36,7 @@ While Sakurako Fisher is primarily identified as a philanthropic donor, her poli
 
 ## Supported Candidates
 
-| Candidate    |   Years | Direct Contributions   | Behested Payments   |
-|--------------|---------|------------------------|---------------------|
-| Josh Becker  |    2019 | $2,500                 | $0                  |
-| Robert Rivas |    2019 | $2,000                 | $0                  |
+| Candidate                                     |   Years | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------|---------|------------------------|---------------------|
+| [Josh Becker](../candidates/Josh_Becker.md)   |    2019 | $2,500                 | $0                  |
+| [Robert Rivas](../candidates/Robert_Rivas.md) |    2019 | $2,000                 | $0                  |

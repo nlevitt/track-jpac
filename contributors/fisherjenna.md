@@ -34,6 +34,6 @@ Fisher’s ties to Israel extend to her academic history; she is a graduate of *
 
 ## Supported Candidates
 
-| Candidate   |   Years | Direct Contributions   | Behested Payments   |
-|-------------|---------|------------------------|---------------------|
-| Josh Becker |    2019 | $500                   | $0                  |
+| Candidate                                   |   Years | Direct Contributions   | Behested Payments   |
+|---------------------------------------------|---------|------------------------|---------------------|
+| [Josh Becker](../candidates/Josh_Becker.md) |    2019 | $500                   | $0                  |

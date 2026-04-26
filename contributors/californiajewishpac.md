@@ -30,21 +30,21 @@ The PAC's influence has led to friction with other political entities in Califor
 
 ## Supported Candidates
 
-| Candidate           | Years     | Direct Contributions   | Behested Payments   |
-|---------------------|-----------|------------------------|---------------------|
-| Jesse Gabriel       | 2019-2025 | $38,850                | $0                  |
-| Marc Berman         | 2019-2025 | $29,050                | $0                  |
-| Josh Lowenthal      | 2021-2025 | $26,700                | $0                  |
-| Dawn Addis          | 2021-2025 | $26,700                | $0                  |
-| Matt Haney          | 2021-2023 | $25,700                | $0                  |
-| Rebecca Bauer-Kahan | 2019-2023 | $23,150                | $0                  |
-| Josh Becker         | 2019-2025 | $21,600                | $0                  |
-| Maggy Krell         | 2023-2025 | $16,900                | $0                  |
-| Blanca Rubio        | 2019-2025 | $15,075                | $0                  |
-| Rick Zbur           | 2023-2025 | $14,150                | $0                  |
-| Henry Stern         | 2019-2023 | $13,350                | $0                  |
-| Scott Wiener        | 2019-2023 | $13,350                | $0                  |
-| Gail Pellerin       | 2023-2025 | $11,400                | $0                  |
-| Patrick Ahrens      | 2023-2025 | $11,400                | $0                  |
-| Susan Rubio         | 2021-2025 | $8,400                 | $0                  |
-| Jacqui Irwin        | 2023-2025 | $5,500                 | $0                  |
+| Candidate                                                   | Years     | Direct Contributions   | Behested Payments   |
+|-------------------------------------------------------------|-----------|------------------------|---------------------|
+| [Jesse Gabriel](../candidates/Jesse_Gabriel.md)             | 2019-2025 | $38,850                | $0                  |
+| [Marc Berman](../candidates/Marc_Berman.md)                 | 2019-2025 | $29,050                | $0                  |
+| [Josh Lowenthal](../candidates/Josh_Lowenthal.md)           | 2021-2025 | $26,700                | $0                  |
+| [Dawn Addis](../candidates/Dawn_Addis.md)                   | 2021-2025 | $26,700                | $0                  |
+| [Matt Haney](../candidates/Matt_Haney.md)                   | 2021-2023 | $25,700                | $0                  |
+| [Rebecca Bauer-Kahan](../candidates/Rebecca_Bauer-Kahan.md) | 2019-2023 | $23,150                | $0                  |
+| [Josh Becker](../candidates/Josh_Becker.md)                 | 2019-2025 | $21,600                | $0                  |
+| [Maggy Krell](../candidates/Maggy_Krell.md)                 | 2023-2025 | $16,900                | $0                  |
+| [Blanca Rubio](../candidates/Blanca_Rubio.md)               | 2019-2025 | $15,075                | $0                  |
+| [Rick Zbur](../candidates/Rick_Zbur.md)                     | 2023-2025 | $14,150                | $0                  |
+| [Henry Stern](../candidates/Henry_Stern.md)                 | 2019-2023 | $13,350                | $0                  |
+| [Scott Wiener](../candidates/Scott_Wiener.md)               | 2019-2023 | $13,350                | $0                  |
+| [Gail Pellerin](../candidates/Gail_Pellerin.md)             | 2023-2025 | $11,400                | $0                  |
+| [Patrick Ahrens](../candidates/Patrick_Ahrens.md)           | 2023-2025 | $11,400                | $0                  |
+| [Susan Rubio](../candidates/Susan_Rubio.md)                 | 2021-2025 | $8,400                 | $0                  |
+| [Jacqui Irwin](../candidates/Jacqui_Irwin.md)               | 2023-2025 | $5,500                 | $0                  |

@@ -29,6 +29,6 @@ The Fisher family's support is characterized by a focus on "securing the Jewish 
 
 ## Supported Candidates
 
-| Candidate     |   Years | Direct Contributions   | Behested Payments   |
-|---------------|---------|------------------------|---------------------|
-| Jeff Gonzalez |    2025 | $2,000                 | $0                  |
+| Candidate                                       |   Years | Direct Contributions   | Behested Payments   |
+|-------------------------------------------------|---------|------------------------|---------------------|
+| [Jeff Gonzalez](../candidates/Jeff_Gonzalez.md) |    2025 | $2,000                 | $0                  |

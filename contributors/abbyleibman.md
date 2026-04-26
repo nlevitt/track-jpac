@@ -37,6 +37,6 @@ While Leibman is a distinguished alumna of the University of California, San Die
 
 ## Supported Candidates
 
-| Candidate    |   Years | Direct Contributions   | Behested Payments   |
-|--------------|---------|------------------------|---------------------|
-| Robert Rivas |    2025 | $1,000                 | $0                  |
+| Candidate                                     |   Years | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------|---------|------------------------|---------------------|
+| [Robert Rivas](../candidates/Robert_Rivas.md) |    2025 | $1,000                 | $0                  |

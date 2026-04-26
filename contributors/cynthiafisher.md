@@ -31,6 +31,6 @@ The Fisher family, through **Pisces Inc.** and the **Koret Foundation**, has don
 
 ## Supported Candidates
 
-| Candidate    |   Years | Direct Contributions   | Behested Payments   |
-|--------------|---------|------------------------|---------------------|
-| Akilah Weber |    2025 | $5,000                 | $0                  |
+| Candidate                                     |   Years | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------|---------|------------------------|---------------------|
+| [Akilah Weber](../candidates/Akilah_Weber.md) |    2025 | $5,000                 | $0                  |

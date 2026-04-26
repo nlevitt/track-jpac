@@ -38,6 +38,6 @@ As a principal at Pisces Inc., Fisher manages the assets derived from Gap Inc., 
 
 ## Supported Candidates
 
-| Candidate       |   Years | Direct Contributions   | Behested Payments   |
-|-----------------|---------|------------------------|---------------------|
-| Tony Strickland |    2003 | $250                   | $0                  |
+| Candidate                                           |   Years | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------------|---------|------------------------|---------------------|
+| [Tony Strickland](../candidates/Tony_Strickland.md) |    2003 | $250                   | $0                  |

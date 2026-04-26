@@ -46,6 +46,6 @@ The individual "FISHER, M J MRS" represents a nexus of retail wealth and ideolog
 
 ## Supported Candidates
 
-| Candidate     |   Years | Direct Contributions   | Behested Payments   |
-|---------------|---------|------------------------|---------------------|
-| Joe Patterson |    1992 | $250                   | $0                  |
+| Candidate                                       |   Years | Direct Contributions   | Behested Payments   |
+|-------------------------------------------------|---------|------------------------|---------------------|
+| [Joe Patterson](../candidates/Joe_Patterson.md) |    1992 | $250                   | $0                  |

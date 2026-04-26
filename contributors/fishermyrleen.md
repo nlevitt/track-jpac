@@ -36,6 +36,6 @@ The Fisher name is centrally associated with **Birthright Israel** (Taglit), an 
 
 ## Supported Candidates
 
-| Candidate    |   Years | Direct Contributions   | Behested Payments   |
-|--------------|---------|------------------------|---------------------|
-| Robert Rivas |    2017 | $100                   | $0                  |
+| Candidate                                     |   Years | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------|---------|------------------------|---------------------|
+| [Robert Rivas](../candidates/Robert_Rivas.md) |    2017 | $100                   | $0                  |

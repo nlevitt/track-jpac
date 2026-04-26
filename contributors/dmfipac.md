@@ -29,9 +29,9 @@ While based in D.C., DMFI PAC is a prominent actor in California politics, focus
 
 ## Supported Candidates
 
-| Candidate     |   Years | Direct Contributions   | Behested Payments   |
-|---------------|---------|------------------------|---------------------|
-| Kate Sanchez  |    2021 | $2,500                 | $0                  |
-| Lena Gonzalez |    2025 | $1,000                 | $0                  |
-| Jeff Gonzalez |    2025 | $1,000                 | $0                  |
-| Mark Gonzalez |    2025 | $1,000                 | $0                  |
+| Candidate                                       |   Years | Direct Contributions   | Behested Payments   |
+|-------------------------------------------------|---------|------------------------|---------------------|
+| [Kate Sanchez](../candidates/Kate_Sanchez.md)   |    2021 | $2,500                 | $0                  |
+| [Lena Gonzalez](../candidates/Lena_Gonzalez.md) |    2025 | $1,000                 | $0                  |
+| [Jeff Gonzalez](../candidates/Jeff_Gonzalez.md) |    2025 | $1,000                 | $0                  |
+| [Mark Gonzalez](../candidates/Mark_Gonzalez.md) |    2025 | $1,000                 | $0                  |

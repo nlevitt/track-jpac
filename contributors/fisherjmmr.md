@@ -42,6 +42,6 @@ The Fisher family members are major contributors to both Republican and Democrat
 
 ## Supported Candidates
 
-| Candidate     |   Years | Direct Contributions   | Behested Payments   |
-|---------------|---------|------------------------|---------------------|
-| Joe Patterson |    1992 | $250                   | $0                  |
+| Candidate                                       |   Years | Direct Contributions   | Behested Payments   |
+|-------------------------------------------------|---------|------------------------|---------------------|
+| [Joe Patterson](../candidates/Joe_Patterson.md) |    1992 | $250                   | $0                  |

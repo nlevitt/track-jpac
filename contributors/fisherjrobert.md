@@ -32,31 +32,31 @@ Fisher’s political giving through **Pisces Inc.** and personal accounts has hi
 
 ## Supported Candidates
 
-| Candidate            | Years     | Direct Contributions   | Behested Payments   |
-|----------------------|-----------|------------------------|---------------------|
-| Anna Caballero       | 2015-2025 | $22,300                | $0                  |
-| Robert Rivas         | 2017-2025 | $16,800                | $0                  |
-| Tim Grayson          | 2015-2025 | $16,600                | $0                  |
-| Henry Stern          | 2015-2021 | $15,300                | $0                  |
-| Cottie Petrie-Norris | 2019-2025 | $13,500                | $0                  |
-| Blanca Rubio         | 2021-2025 | $11,000                | $0                  |
-| Angelique Ashby      | 2023-2025 | $8,500                 | $0                  |
-| Lori Wilson          | 2021-2025 | $8,500                 | $0                  |
-| Cecilia Aguiar-Curry | 2021-2025 | $8,500                 | $0                  |
-| Rick Zbur            | 2021-2025 | $6,500                 | $0                  |
-| Matt Haney           | 2021-2025 | $6,000                 | $0                  |
-| Josh Becker          | 2021-2023 | $5,500                 | $0                  |
-| Juan Carrillo        | 2023      | $4,500                 | $0                  |
-| Marc Berman          | 2017      | $4,400                 | $0                  |
-| Blanca Pacheco       | 2025      | $4,000                 | $0                  |
-| Rebecca Bauer-Kahan  | 2019-2023 | $3,500                 | $0                  |
-| Al Muratsuchi        | 2023      | $3,000                 | $0                  |
-| John Laird           | 2023      | $3,000                 | $0                  |
-| Susan Rubio          | 2021-2023 | $3,000                 | $0                  |
-| Catherine Blakespear | 2025      | $2,500                 | $0                  |
-| John Harabedian      | 2025      | $2,000                 | $0                  |
-| Sabrina Cervantes    | 2025      | $2,000                 | $0                  |
-| Monique Limón        | 2025      | $2,000                 | $0                  |
-| Catherine Stefani    | 2025      | $2,000                 | $0                  |
-| Christopher Cabaldon | 2025      | $2,000                 | $0                  |
-| Laura Richardson     | 2025      | $1,500                 | $0                  |
+| Candidate                                                     | Years     | Direct Contributions   | Behested Payments   |
+|---------------------------------------------------------------|-----------|------------------------|---------------------|
+| [Anna Caballero](../candidates/Anna_Caballero.md)             | 2015-2025 | $22,300                | $0                  |
+| [Robert Rivas](../candidates/Robert_Rivas.md)                 | 2017-2025 | $16,800                | $0                  |
+| [Tim Grayson](../candidates/Tim_Grayson.md)                   | 2015-2025 | $16,600                | $0                  |
+| [Henry Stern](../candidates/Henry_Stern.md)                   | 2015-2021 | $15,300                | $0                  |
+| [Cottie Petrie-Norris](../candidates/Cottie_Petrie-Norris.md) | 2019-2025 | $13,500                | $0                  |
+| [Blanca Rubio](../candidates/Blanca_Rubio.md)                 | 2021-2025 | $11,000                | $0                  |
+| [Angelique Ashby](../candidates/Angelique_Ashby.md)           | 2023-2025 | $8,500                 | $0                  |
+| [Lori Wilson](../candidates/Lori_Wilson.md)                   | 2021-2025 | $8,500                 | $0                  |
+| [Cecilia Aguiar-Curry](../candidates/Cecilia_Aguiar-Curry.md) | 2021-2025 | $8,500                 | $0                  |
+| [Rick Zbur](../candidates/Rick_Zbur.md)                       | 2021-2025 | $6,500                 | $0                  |
+| [Matt Haney](../candidates/Matt_Haney.md)                     | 2021-2025 | $6,000                 | $0                  |
+| [Josh Becker](../candidates/Josh_Becker.md)                   | 2021-2023 | $5,500                 | $0                  |
+| [Juan Carrillo](../candidates/Juan_Carrillo.md)               | 2023      | $4,500                 | $0                  |
+| [Marc Berman](../candidates/Marc_Berman.md)                   | 2017      | $4,400                 | $0                  |
+| [Blanca Pacheco](../candidates/Blanca_Pacheco.md)             | 2025      | $4,000                 | $0                  |
+| [Rebecca Bauer-Kahan](../candidates/Rebecca_Bauer-Kahan.md)   | 2019-2023 | $3,500                 | $0                  |
+| [Al Muratsuchi](../candidates/Al_Muratsuchi.md)               | 2023      | $3,000                 | $0                  |
+| [John Laird](../candidates/John_Laird.md)                     | 2023      | $3,000                 | $0                  |
+| [Susan Rubio](../candidates/Susan_Rubio.md)                   | 2021-2023 | $3,000                 | $0                  |
+| [Catherine Blakespear](../candidates/Catherine_Blakespear.md) | 2025      | $2,500                 | $0                  |
+| [John Harabedian](../candidates/John_Harabedian.md)           | 2025      | $2,000                 | $0                  |
+| [Sabrina Cervantes](../candidates/Sabrina_Cervantes.md)       | 2025      | $2,000                 | $0                  |
+| [Monique Limón](../candidates/Monique_Limón.md)               | 2025      | $2,000                 | $0                  |
+| [Catherine Stefani](../candidates/Catherine_Stefani.md)       | 2025      | $2,000                 | $0                  |
+| [Christopher Cabaldon](../candidates/Christopher_Cabaldon.md) | 2025      | $2,000                 | $0                  |
+| [Laura Richardson](../candidates/Laura_Richardson.md)         | 2025      | $1,500                 | $0                  |

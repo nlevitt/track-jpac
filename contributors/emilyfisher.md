@@ -30,6 +30,6 @@ Critical mapping projects and activist groups have identified Emily Fisher and t
 
 ## Supported Candidates
 
-| Candidate   |   Years | Direct Contributions   | Behested Payments   |
-|-------------|---------|------------------------|---------------------|
-| Alex Lee    |    1996 | $1,000                 | $0                  |
+| Candidate                             |   Years | Direct Contributions   | Behested Payments   |
+|---------------------------------------|---------|------------------------|---------------------|
+| [Alex Lee](../candidates/Alex_Lee.md) |    1996 | $1,000                 | $0                  |

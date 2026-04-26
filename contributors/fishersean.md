@@ -30,6 +30,6 @@ Sean Fisher’s relationship to Zionist advocacy is established through direct c
 
 ## Supported Candidates
 
-| Candidate    |   Years | Direct Contributions   | Behested Payments   |
-|--------------|---------|------------------------|---------------------|
-| Robert Rivas |    2017 | $100                   | $0                  |
+| Candidate                                     |   Years | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------|---------|------------------------|---------------------|
+| [Robert Rivas](../candidates/Robert_Rivas.md) |    2017 | $100                   | $0                  |

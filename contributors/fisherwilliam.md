@@ -41,13 +41,13 @@ The Fisher family's philanthropic network creates a "closed loop" of support for
 
 ## Supported Candidates
 
-| Candidate            | Years     | Direct Contributions   | Behested Payments   |
-|----------------------|-----------|------------------------|---------------------|
-| Scott Wiener         | 2015-2021 | $16,300                | $0                  |
-| Buffy Wicks          | 2017-2019 | $10,800                | $0                  |
-| Christopher Cabaldon | 2007      | $7,200                 | $0                  |
-| Jesse Gabriel        | 2017-2019 | $6,700                 | $0                  |
-| Marc Berman          | 2015-2017 | $5,200                 | $0                  |
-| Josh Becker          | 2019      | $2,500                 | $0                  |
-| Catherine Stefani    | 2023      | $2,000                 | $0                  |
-| Jacqui Irwin         | 2017-2021 | $1,500                 | $0                  |
+| Candidate                                                     | Years     | Direct Contributions   | Behested Payments   |
+|---------------------------------------------------------------|-----------|------------------------|---------------------|
+| [Scott Wiener](../candidates/Scott_Wiener.md)                 | 2015-2021 | $16,300                | $0                  |
+| [Buffy Wicks](../candidates/Buffy_Wicks.md)                   | 2017-2019 | $10,800                | $0                  |
+| [Christopher Cabaldon](../candidates/Christopher_Cabaldon.md) | 2007      | $7,200                 | $0                  |
+| [Jesse Gabriel](../candidates/Jesse_Gabriel.md)               | 2017-2019 | $6,700                 | $0                  |
+| [Marc Berman](../candidates/Marc_Berman.md)                   | 2015-2017 | $5,200                 | $0                  |
+| [Josh Becker](../candidates/Josh_Becker.md)                   | 2019      | $2,500                 | $0                  |
+| [Catherine Stefani](../candidates/Catherine_Stefani.md)       | 2023      | $2,000                 | $0                  |
+| [Jacqui Irwin](../candidates/Jacqui_Irwin.md)                 | 2017-2021 | $1,500                 | $0                  |

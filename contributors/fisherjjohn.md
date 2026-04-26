@@ -33,16 +33,16 @@ Fisher’s political activity is characterized by large-scale donations to the R
 
 ## Supported Candidates
 
-| Candidate            | Years     | Direct Contributions   | Behested Payments   |
-|----------------------|-----------|------------------------|---------------------|
-| Tim Grayson          | 2015-2023 | $11,100                | $0                  |
-| Henry Stern          | 2015-2017 | $9,600                 | $0                  |
-| Scott Wiener         | 2017      | $8,800                 | $0                  |
-| Anna Caballero       | 2015-2017 | $8,600                 | $0                  |
-| Robert Rivas         | 2017-2023 | $7,900                 | $0                  |
-| Marc Berman          | 2017      | $4,400                 | $0                  |
-| Tony Strickland      | 2014      | $3,600                 | $0                  |
-| Blanca Pacheco       | 2023      | $3,000                 | $0                  |
-| Cottie Petrie-Norris | 2025      | $2,000                 | $0                  |
-| Cecilia Aguiar-Curry | 2023      | $1,500                 | $0                  |
-| James Gallagher      | 2025      | $1,000                 | $0                  |
+| Candidate                                                     | Years     | Direct Contributions   | Behested Payments   |
+|---------------------------------------------------------------|-----------|------------------------|---------------------|
+| [Tim Grayson](../candidates/Tim_Grayson.md)                   | 2015-2023 | $11,100                | $0                  |
+| [Henry Stern](../candidates/Henry_Stern.md)                   | 2015-2017 | $9,600                 | $0                  |
+| [Scott Wiener](../candidates/Scott_Wiener.md)                 | 2017      | $8,800                 | $0                  |
+| [Anna Caballero](../candidates/Anna_Caballero.md)             | 2015-2017 | $8,600                 | $0                  |
+| [Robert Rivas](../candidates/Robert_Rivas.md)                 | 2017-2023 | $7,900                 | $0                  |
+| [Marc Berman](../candidates/Marc_Berman.md)                   | 2017      | $4,400                 | $0                  |
+| [Tony Strickland](../candidates/Tony_Strickland.md)           | 2014      | $3,600                 | $0                  |
+| [Blanca Pacheco](../candidates/Blanca_Pacheco.md)             | 2023      | $3,000                 | $0                  |
+| [Cottie Petrie-Norris](../candidates/Cottie_Petrie-Norris.md) | 2025      | $2,000                 | $0                  |
+| [Cecilia Aguiar-Curry](../candidates/Cecilia_Aguiar-Curry.md) | 2023      | $1,500                 | $0                  |
+| [James Gallagher](../candidates/James_Gallagher.md)           | 2025      | $1,000                 | $0                  |

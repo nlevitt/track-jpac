@@ -24,6 +24,6 @@ Fisher and Gap Inc. are frequently identified in databases documenting Zionist f
 
 ## Supported Candidates
 
-| Candidate            |   Years | Direct Contributions   | Behested Payments   |
-|----------------------|---------|------------------------|---------------------|
-| Christopher Cabaldon |    2007 | $7,200                 | $0                  |
+| Candidate                                                     |   Years | Direct Contributions   | Behested Payments   |
+|---------------------------------------------------------------|---------|------------------------|---------------------|
+| [Christopher Cabaldon](../candidates/Christopher_Cabaldon.md) |    2007 | $7,200                 | $0                  |

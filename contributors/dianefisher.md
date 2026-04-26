@@ -34,6 +34,6 @@ Beyond direct financial contributions, individuals named Diane Fisher have held 
 
 ## Supported Candidates
 
-| Candidate    | Years     | Direct Contributions   | Behested Payments   |
-|--------------|-----------|------------------------|---------------------|
-| Jacqui Irwin | 2013-2019 | $849                   | $0                  |
+| Candidate                                     | Years     | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------|-----------|------------------------|---------------------|
+| [Jacqui Irwin](../candidates/Jacqui_Irwin.md) | 2013-2019 | $849                   | $0                  |

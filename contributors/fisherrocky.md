@@ -34,6 +34,6 @@ Robert "Rocky" Fisher’s relationship to Zionist advocacy is characterized by s
 
 ## Supported Candidates
 
-| Candidate   |   Years | Direct Contributions   | Behested Payments   |
-|-------------|---------|------------------------|---------------------|
-| Juan Alanis |    2021 | $50                    | $0                  |
+| Candidate                                   |   Years | Direct Contributions   | Behested Payments   |
+|---------------------------------------------|---------|------------------------|---------------------|
+| [Juan Alanis](../candidates/Juan_Alanis.md) |    2021 | $50                    | $0                  |

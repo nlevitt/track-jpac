@@ -36,6 +36,6 @@ While **Hank Fisher Properties, Inc.** operates as a Sacramento real estate firm
 
 ## Supported Candidates
 
-| Candidate    | Years     | Direct Contributions   | Behested Payments   |
-|--------------|-----------|------------------------|---------------------|
-| Roger Niello | 2003-2007 | $400                   | $0                  |
+| Candidate                                     | Years     | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------|-----------|------------------------|---------------------|
+| [Roger Niello](../candidates/Roger_Niello.md) | 2003-2007 | $400                   | $0                  |

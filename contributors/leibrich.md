@@ -41,9 +41,9 @@ Leib’s professional career includes serving as staff for prominent pro-Israel 
 
 ## Supported Candidates
 
-| Candidate       | Years     | Direct Contributions   | Behested Payments   |
-|-----------------|-----------|------------------------|---------------------|
-| Robert Rivas    | 2021-2023 | $2,395                 | $0                  |
-| Akilah Weber    | 2021      | $1,000                 | $0                  |
-| Esmeralda Soria | 2023      | $550                   | $0                  |
-| Lori Wilson     | 2023      | $500                   | $0                  |
+| Candidate                                           | Years     | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------------|-----------|------------------------|---------------------|
+| [Robert Rivas](../candidates/Robert_Rivas.md)       | 2021-2023 | $2,395                 | $0                  |
+| [Akilah Weber](../candidates/Akilah_Weber.md)       | 2021      | $1,000                 | $0                  |
+| [Esmeralda Soria](../candidates/Esmeralda_Soria.md) | 2023      | $550                   | $0                  |
+| [Lori Wilson](../candidates/Lori_Wilson.md)         | 2023      | $500                   | $0                  |
