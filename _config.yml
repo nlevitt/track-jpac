@@ -1,0 +1,28 @@
+# Site Settings
+title: My Website
+description: A minimalist site hosted on GitHub Pages
+baseurl: "" # Leave empty if this is for <username>.github.io
+url: ""     # Leave empty
+
+# Theme Settings
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+plugins:
+  - jekyll-remote-theme
+
+# Light/Dark Mode (System-based)
+color-scheme: auto
+
+# Automatic Layouts
+# This ensures every .md file uses the "page" layout 
+# without you having to edit the files themselves.
+defaults:
+  - scope:
+      path: "" # An empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
