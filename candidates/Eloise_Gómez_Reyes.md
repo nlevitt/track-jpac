@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 29
 
-Eloise Gómez Reyes is a member of the California State Senate, representing District 29, having assumed office on December 2, 2024. Her current term is set to conclude on December 4, 2028.
+Eloise Gómez Reyes is a Democratic member of the California State Senate, representing District 29, a position she assumed on December 2, 2024. A former Assembly Majority Leader, she is known for championing worker protections, education, and legal aid.
 
-Analyzed on: 2026-04-25 03:28:14
+Analyzed on: 2026-04-25 19:30:37
 **Total Zionist Contributions:** $6,300
 **Total Zionist Behested Payments:** $0
 

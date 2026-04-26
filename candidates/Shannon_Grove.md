@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 12
 
-Shannon Grove currently serves as a Republican State Senator for District 12 in California, with her term set to conclude on December 7, 2026. She is also a candidate for the California State Board of Equalization, District 1, in the June 2026 primary election.
+Shannon Grove currently serves as the State Senator for California's 12th District, a position she has held since December 2022 with her term ending in December 2026. She is actively involved in legislative efforts, recently advancing bills related to human trafficking and public safety, and is also a candidate for the California State Board of Equalization District 1 in the June 2026 primary election.
 
-Analyzed on: 2026-04-25 02:27:43
+Analyzed on: 2026-04-25 19:27:17
 **Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 

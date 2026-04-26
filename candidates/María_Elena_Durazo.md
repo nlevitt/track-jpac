@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 26
 
-María Elena Durazo is currently a member of the California State Senate, representing District 26. She assumed office on December 5, 2022, and her current term is set to end on December 7, 2026.
+María Elena Durazo currently serves as a member of the California State Senate, representing District 26. Her term in the State Senate concludes on December 7, 2026, and she is a candidate for the Los Angeles County Board of Supervisors, District 1, in the June 2, 2026 primary election.
 
-Analyzed on: 2026-04-25 03:08:20
+Analyzed on: 2026-04-25 19:29:00
 **Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 

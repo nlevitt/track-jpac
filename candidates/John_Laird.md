@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 17
 
-John Laird is currently serving as the California State Senator for District 17, having been re-elected on November 5, 2024, for his final term due to term limits. As of April 2026, he chairs the Senate Budget and Fiscal Review Committee and represents Santa Cruz, San Benito, Monterey, and most of San Luis Obispo Counties.
+John Laird is serving as the California State Senator for District 17, representing Santa Cruz, San Benito, Monterey, and the majority of San Luis Obispo Counties. He was re-elected on November 5, 2024, and sworn into his final term on December 2, 2024, due to term limits.
 
-Analyzed on: 2026-04-25 02:53:29
+Analyzed on: 2026-04-25 19:27:39
 **Total Zionist Contributions:** $9,475
 **Total Zionist Behested Payments:** $0
 

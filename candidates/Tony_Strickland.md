@@ -2,11 +2,18 @@
 
 **Role:** State Senator, District 36
 
-Tony Strickland (R) is a member of the California State Senate, representing District 36. He assumed office on March 11, 2025, and his current term concludes on December 7, 2026. Strickland is seeking re-election for the same district in the primary on June 2, 2026.
+Tony Strickland is currently a California State Senator representing District 36, having assumed office on March 11, 2025. He is actively involved in legislative efforts, including advocating for full funding of Proposition 36 and introducing Senate Bill 885, and is running for re-election in the June 2, 2026 primary election.
 
-Analyzed on: 2026-04-25 04:00:58
-**Total Zionist Contributions:** $6,775
+Analyzed on: 2026-04-25 19:36:29
+**Total Zionist Contributions:** $9,625
 **Total Zionist Behested Payments:** $0
+
+### Zionist Federal Contributions (FEC)
+
+| Contributor                                              |   Years | Total Amount   | Relationship to Israel                                                                                            |
+|----------------------------------------------------------|---------|----------------|-------------------------------------------------------------------------------------------------------------------|
+| [FISHER, THEODORE G](../contributors/fishergtheodore.md) |    2003 | $250           | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
+| [FISHER, JOHN J](../contributors/fisherjjohn.md)         |    2014 | $2,600         | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
 
 ### Zionist Direct Contributions
 

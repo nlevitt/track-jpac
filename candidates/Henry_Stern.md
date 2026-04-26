@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 27
 
-Henry Stern is a Democratic member of the California State Senate, representing District 27. He was re-elected in November 2024, and his current term is set to conclude on December 4, 2028.
+Henry Stern is a Democrat serving as a member of the California State Senate for District 27. He was first elected in 2016, and his current term concludes in December 2028.
 
-Analyzed on: 2026-04-25 03:14:15
+Analyzed on: 2026-04-25 19:29:05
 **Total Zionist Contributions:** $90,600
 **Total Zionist Behested Payments:** $0
 

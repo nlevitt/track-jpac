@@ -50,6 +50,7 @@ Doris Fisher and the Doris & Donald Fisher Fund have a long history of supportin
 | Melissa Hurtado             | 2019-2021 | $4,500                 | $0                  |
 | Sabrina Cervantes           | 2019-2021 | $4,500                 | $0                  |
 | Lena Gonzalez               | 2021      | $3,000                 | $0                  |
+| Cecilia Aguiar-Curry        | 2021      | $3,000                 | $0                  |
 | Dave Cortese                | 2021      | $3,000                 | $0                  |
 | John Laird                  | 2021      | $3,000                 | $0                  |
 | Rosilicie Ochoa Bogh        | 2021      | $1,500                 | $0                  |

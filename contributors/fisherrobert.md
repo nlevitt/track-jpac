@@ -42,3 +42,4 @@ Fisher has leveraged his wealth to support political causes and candidates that 
 | Anna Caballero       | 2017      | $4,400                 | $0                  |
 | Josh Becker          | 2019      | $2,500                 | $0                  |
 | Matt Haney           | 2023      | $1,500                 | $0                  |
+| Joe Patterson        | 2004      | $500                   | $0                  |

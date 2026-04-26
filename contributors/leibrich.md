@@ -46,3 +46,4 @@ Leib’s professional career includes serving as staff for prominent pro-Israel 
 | Catherine Blakespear |    2021 | $3,000                 | $0                  |
 | Akilah Weber         |    2021 | $1,000                 | $0                  |
 | John Laird           |    2001 | $500                   | $0                  |
+| Lori Wilson          |    2023 | $500                   | $0                  |

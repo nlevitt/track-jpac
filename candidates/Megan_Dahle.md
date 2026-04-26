@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 1
 
-Megan Dahle (R) is a member of the California State Senate, representing District 1. She assumed office on December 2, 2024, and her current term ends on December 4, 2028.
+Megan Dahle is a Republican State Senator representing California's 1st District, having assumed office on December 2, 2024, after previously serving in the State Assembly. She returned to the Capitol in 2024 after recovering from a serious stroke in late 2023.
 
-Analyzed on: 2026-04-25 01:57:46
+Analyzed on: 2026-04-25 19:24:12
 **Total Zionist Contributions:** $9,700
 **Total Zionist Behested Payments:** $0
 

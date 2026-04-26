@@ -30,9 +30,11 @@ Beyond Israel-specific organizations, Fisher is a prolific donor to the Republic
 | Scott Wiener                | 2015-2021 | $10,150                | $0                  |
 | Anna Caballero              | 2017-2023 | $7,400                 | $0                  |
 | Christopher Cabaldon        | 2007      | $7,200                 | $0                  |
+| Heath Flora                 | 2021-2025 | $5,500                 | $0                  |
 | Tony Strickland             | 2009      | $5,000                 | $0                  |
 | Brian Jones                 | 2021-2023 | $4,500                 | $0                  |
 | Rosilicie Ochoa Bogh        | 2021-2023 | $3,000                 | $0                  |
+| James Gallagher             | 2023      | $3,000                 | $0                  |
 | Megan Dahle                 | 2019      | $2,500                 | $0                  |
 | Suzette Martinez Valladares | 2021-2025 | $2,500                 | $0                  |
 | Josh Becker                 | 2021      | $1,500                 | $0                  |

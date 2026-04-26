@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 2
 
-Mike McGuire currently serves as a member of the California State Senate, representing District 2, with his term concluding in December 2026. He previously held the position of Senate President pro tempore from February 2024 to November 2025.
+Mike McGuire currently serves as a State Senator for California's 2nd District, a position he is terming out of in December 2026. He is actively campaigning for the U.S. House of Representatives in California's 1st Congressional District, with primaries scheduled for June 2026.
 
-Analyzed on: 2026-04-25 01:59:15
+Analyzed on: 2026-04-25 19:24:31
 **Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 

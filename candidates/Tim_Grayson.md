@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 9
 
-Tim Grayson is currently serving as a California State Senator for District 9, a position he assumed in December 2024 after being elected in November 2024. His current term is set to conclude in December 2028.
+Tim Grayson is currently a Democratic member of the California State Senate, representing District 9, a position he has held since December 2, 2024. His term is set to conclude on December 4, 2028. Grayson also serves as the Chair of the Senate Banking and Financial Institutions Committee.
 
-Analyzed on: 2026-04-25 02:24:39
+Analyzed on: 2026-04-25 19:26:32
 **Total Zionist Contributions:** $66,900
 **Total Zionist Behested Payments:** $0
 

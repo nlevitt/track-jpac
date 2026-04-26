@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 14
 
-Anna Caballero is currently a California State Senator for District 14, a position she assumed on December 5, 2022, and her term concludes on December 7, 2026. She is also campaigning for California State Treasurer in the June 2026 primary election.
+Anna Caballero is currently serving her second term as the California State Senator for the 14th District, and as of April 2026, she is campaigning for the 2026 California State Treasurer election. She also chairs the Senate Committee on Agriculture and the Senate Appropriations Committee for the 2025-2026 session.
 
-Analyzed on: 2026-04-25 02:41:27
+Analyzed on: 2026-04-25 19:27:22
 **Total Zionist Contributions:** $120,400
 **Total Zionist Behested Payments:** $0
 

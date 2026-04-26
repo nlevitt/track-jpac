@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 3
 
-Christopher Cabaldon is a Democratic member of the California State Senate, representing District 3, having assumed office on December 2, 2024. He is the first Filipino-American Senator in California history and, as of April 2026, is actively involved in legislative efforts, including bills concerning AI regulation.
+Christopher Cabaldon is a Democratic member of the California State Senate, representing District 3, and is the first Filipino-American Senator in California history. He assumed office in December 2024 and is actively involved in legislation concerning artificial intelligence and serves as chair of a Senate Budget subcommittee.
 
-Analyzed on: 2026-04-25 02:06:07
+Analyzed on: 2026-04-25 19:24:36
 **Total Zionist Contributions:** $39,950
 **Total Zionist Behested Payments:** $0
 

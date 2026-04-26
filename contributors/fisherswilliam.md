@@ -36,9 +36,11 @@ Fisher has been categorized by researchers and monitoring groups as a "Prominent
 
 ## Supported Candidates
 
-| Candidate      | Years     | Direct Contributions   | Behested Payments   |
-|----------------|-----------|------------------------|---------------------|
-| Anna Caballero | 2015-2017 | $17,200                | $0                  |
-| Tim Grayson    | 2015-2021 | $10,600                | $0                  |
-| Henry Stern    | 2015-2017 | $9,600                 | $0                  |
-| Matt Haney     | 2021      | $1,500                 | $0                  |
+| Candidate            | Years     | Direct Contributions   | Behested Payments   |
+|----------------------|-----------|------------------------|---------------------|
+| Anna Caballero       | 2015-2017 | $17,200                | $0                  |
+| Tim Grayson          | 2015-2021 | $10,600                | $0                  |
+| Henry Stern          | 2015-2017 | $9,600                 | $0                  |
+| Matt Haney           | 2021      | $1,500                 | $0                  |
+| Cecilia Aguiar-Curry | 2021      | $1,000                 | $0                  |
+| Lori Wilson          | 2021      | $1,000                 | $0                  |

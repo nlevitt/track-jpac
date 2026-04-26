@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 4
 
-Marie Alvarado-Gil is a Republican who represents California's 4th State Senate District, having assumed office in December 2022 and with her current term ending in December 2026. As of April 2026, she is actively working on legislation such as the Rural Roads and Small Business Protection Act and "Leo's Law," advocating for rural communities, public safety, and fiscally conservative policies.
+Marie Alvarado-Gil is the California State Senator for District 4, having been elected in 2022 and switching her party affiliation from Democrat to Republican in August 2024. She is currently running for re-election in the June 2, 2026 primary for the same district.
 
-Analyzed on: 2026-04-25 02:07:35
+Analyzed on: 2026-04-25 19:24:42
 **Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 

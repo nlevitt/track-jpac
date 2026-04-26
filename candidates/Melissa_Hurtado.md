@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 16
 
-Melissa Hurtado is a Democratic member of the California State Senate, representing District 16, with her current term concluding on December 7, 2026. She is actively campaigning for re-election in the June 2, 2026, primary and currently chairs the Senate Human Services Committee and the Senate Budget Subcommittee No. 4 on State Administration and General Government.
+Melissa Hurtado is a Democratic politician currently serving as the California State Senator for the 16th District, encompassing parts of Fresno, Tulare, Kings, and Kern Counties. Her current term concludes in December 2026, and she is seeking re-election in the June 2026 primary.
 
-Analyzed on: 2026-04-25 02:44:28
+Analyzed on: 2026-04-25 19:27:33
 **Total Zionist Contributions:** $4,500
 **Total Zionist Behested Payments:** $0
 

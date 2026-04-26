@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 38
 
-Catherine Blakespear is a Democratic member of the California State Senate, representing District 38 since December 5, 2022. Her current term concludes on December 7, 2026, and she is seeking re-election in the primary on June 2, 2026.
+Catherine Blakespear is currently serving as the State Senator for California's 38th District, a position she was elected to in 2022. Her district encompasses northern San Diego County and southern Orange County, and her current term concludes in December 2026.
 
-Analyzed on: 2026-04-25 04:04:50
+Analyzed on: 2026-04-25 19:36:41
 **Total Zionist Contributions:** $6,500
 **Total Zionist Behested Payments:** $0
 

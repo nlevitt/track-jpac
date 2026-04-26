@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 19
 
-Rosilicie Ochoa Bogh is a California State Senator representing the 19th District, having been re-elected in November 2024 for a term ending in December 2028. As the first Republican Latina elected to the California State Senate, she is recognized as a top-performing Republican known for bipartisan and pragmatic legislation.
+Rosilicie Ochoa Bogh is a California State Senator, representing the 19th State Senate District. She was re-elected in November 2024 and assumed office for the newly drawn district on December 2, 2024, serving until December 2028.
 
-Analyzed on: 2026-04-25 02:56:31
+Analyzed on: 2026-04-25 19:27:50
 **Total Zionist Contributions:** $4,500
 **Total Zionist Behested Payments:** $0
 

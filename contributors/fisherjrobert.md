@@ -37,7 +37,9 @@ Fisher’s political giving through **Pisces Inc.** and personal accounts has hi
 | Anna Caballero       | 2015-2025 | $22,300                | $0                  |
 | Tim Grayson          | 2015-2025 | $16,600                | $0                  |
 | Henry Stern          | 2015-2021 | $15,300                | $0                  |
+| Cecilia Aguiar-Curry | 2021-2025 | $8,500                 | $0                  |
 | Angelique Ashby      | 2023-2025 | $8,500                 | $0                  |
+| Lori Wilson          | 2021-2025 | $8,500                 | $0                  |
 | Matt Haney           | 2021-2025 | $6,000                 | $0                  |
 | Josh Becker          | 2021-2023 | $5,500                 | $0                  |
 | John Laird           | 2023      | $3,000                 | $0                  |

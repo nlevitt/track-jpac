@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 22
 
-Susan Rubio is a California State Senator representing District 22. She was first elected in 2018, reelected in 2022, and her current term concludes on December 7, 2026. As of the 2025-2026 Legislative Session, she serves as Assistant Majority Whip and chairs the Senate Committee on Governmental Organization.
+Susan Rubio is a California State Senator representing District 22, with her current term ending on December 7, 2026. She is running for re-election in the primary on June 2, 2026, and serves as the Chair of the Senate Committee on Governmental Organization and Assistant Majority Whip.
 
-Analyzed on: 2026-04-25 03:01:53
+Analyzed on: 2026-04-25 19:28:14
 **Total Zionist Contributions:** $17,400
 **Total Zionist Behested Payments:** $0
 

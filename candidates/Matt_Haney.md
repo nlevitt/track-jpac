@@ -2,9 +2,9 @@
 
 **Role:** State Assemblymember, District 17
 
-Matt Haney is currently a member of the California State Assembly, representing District 17, and serves as Chair of the Committee on Housing and Community Development and the Legislative Renters' Caucus. He is running for re-election in the primary on June 2, 2026, for a term that ends on December 7, 2026.
+Matt Haney is currently a California State Assemblymember representing the 17th District, encompassing the eastern side of San Francisco. He serves as Chair of the Committee on Housing and Community Development and the Legislative Renters' Caucus, with his current term ending December 7, 2026.
 
-Analyzed on: 2026-04-25 01:55:40
+Analyzed on: 2026-04-25 19:24:07
 **Total Zionist Contributions:** $36,906
 **Total Zionist Behested Payments:** $0
 

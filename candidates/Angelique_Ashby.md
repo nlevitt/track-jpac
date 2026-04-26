@@ -1,10 +1,10 @@
 # California Zionist Supporters: Angelique Ashby
 
-**Role:** State Senator, District 8, and Majority Leader of the California Senate
+**Role:** State Senator, District 8 and Majority Leader of the California Senate
 
-Angelique Ashby is currently serving as the State Senator for California's 8th District and as the Majority Leader of the California Senate, having been appointed to the latter role on December 23, 2025. She assumed office on December 5, 2022, and is seeking re-election in the primary on June 2, 2026.
+Angelique Ashby is currently the Majority Leader of the California State Senate, representing District 8. She assumed office on December 5, 2022, and her current term concludes on December 7, 2026. She is on the ballot for re-election in the primary for District 8 on June 2, 2026.
 
-Analyzed on: 2026-04-25 02:18:48
+Analyzed on: 2026-04-25 19:25:19
 **Total Zionist Contributions:** $8,500
 **Total Zionist Behested Payments:** $0
 
