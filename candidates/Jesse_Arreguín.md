@@ -2,11 +2,19 @@
 
 **Role:** State Senator, District 7
 
-Jesse Arreguín currently serves as a member of the California State Senate, representing the 7th district, a position he assumed on December 2, 2024. He chairs both the Senate Housing Committee and the Senate Public Safety Committee as of April 2026.
+Jesse Arreguín is a member of the California State Senate, representing District 7. He assumed office on December 2, 2024, and his current term ends on December 4, 2028. He is from Fresno, California.
 
-Analyzed on: 2026-04-25 23:10:01
-**Total Zionist Contributions:** $0
+Analyzed on: 2026-04-26 00:44:56
+**Total Zionist Contributions:** $1,500
 **Total Zionist Behested Payments:** $0
 
+### Zionist Federal Contributions (FEC)
 
-Search returned no candidate results on SOS PowerSearch.
+No Zionist federal contributions identified.
+
+### Zionist Direct Contributions
+
+| Contributor                                         |   Years | Total Amount   | Relationship to Israel                                                                  |
+|-----------------------------------------------------|---------|----------------|-----------------------------------------------------------------------------------------|
+| [Leib, Richard](../contributors/leibrichard.md)     |    2023 | $1,000         | Former Chair of UC Regents; documented Zionist advocate and supporter of Israel causes. |
+| [Friedman, Anita](../contributors/anitafriedman.md) |    2023 | $500           | Executive Director of JFCS; prominent Zionist community leader.                         |

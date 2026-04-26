@@ -39,6 +39,7 @@ Fisher’s political activity is characterized by large-scale donations to the R
 | Henry Stern          | 2015-2017 | $9,600                 | $0                  |
 | Scott Wiener         | 2017      | $8,800                 | $0                  |
 | Anna Caballero       | 2015-2017 | $8,600                 | $0                  |
+| Ben Allen            | 2013-2017 | $8,500                 | $0                  |
 | Robert Rivas         | 2017-2023 | $7,900                 | $0                  |
 | Marc Berman          | 2017      | $4,400                 | $0                  |
 | Tony Strickland      | 2014      | $3,600                 | $0                  |

@@ -2,11 +2,17 @@
 
 **Role:** State Senator, District 26
 
-María Elena Durazo currently serves as a member of the California State Senate, representing District 26. Her term in the State Senate concludes on December 7, 2026, and she is a candidate for the Los Angeles County Board of Supervisors, District 1, in the June 2, 2026 primary election.
+María Elena Durazo is a Democratic member of the California State Senate, representing District 26, a position she has held since December 2022. She is running for election to the Los Angeles County Board of Supervisors, District 1, in the June 2, 2026 primary. Durazo was born in Madera, California.
 
-Analyzed on: 2026-04-25 19:29:00
+Analyzed on: 2026-04-26 01:00:40
 **Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 
+### Zionist Federal Contributions (FEC)
 
-Search returned no candidate results on SOS PowerSearch.
+No Zionist federal contributions identified.
+
+### Zionist Direct Contributions
+
+No Zionist supporters identified among contributors.
+

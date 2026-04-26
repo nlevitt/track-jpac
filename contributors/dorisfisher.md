@@ -42,7 +42,9 @@ Doris Fisher and the Doris & Donald Fisher Fund have a long history of supportin
 | Candidate                   | Years     | Direct Contributions   | Behested Payments   |
 |-----------------------------|-----------|------------------------|---------------------|
 | Scott Wiener                | 2015-2019 | $17,800                | $0                  |
+| Ben Allen                   | 2017-2019 | $15,000                | $0                  |
 | Marc Berman                 | 2017-2021 | $9,900                 | $0                  |
+| Monique Limón               | 2017-2021 | $9,700                 | $0                  |
 | Buffy Wicks                 | 2017      | $8,800                 | $0                  |
 | Anna Caballero              | 2017-2021 | $7,900                 | $0                  |
 | Josh Becker                 | 2021      | $7,700                 | $0                  |
@@ -53,12 +55,12 @@ Doris Fisher and the Doris & Donald Fisher Fund have a long history of supportin
 | Melissa Hurtado             | 2019-2021 | $4,500                 | $0                  |
 | Jacqui Irwin                | 2017-2021 | $3,500                 | $0                  |
 | John Laird                  | 2021      | $3,000                 | $0                  |
-| Lena Gonzalez               | 2021      | $3,000                 | $0                  |
 | Dave Cortese                | 2021      | $3,000                 | $0                  |
 | Robert Rivas                | 2019-2021 | $3,000                 | $0                  |
 | Cecilia Aguiar-Curry        | 2021      | $3,000                 | $0                  |
+| Lena Gonzalez               | 2021      | $3,000                 | $0                  |
 | Joaquin Arambula            | 2017      | $2,000                 | $0                  |
 | Rosilicie Ochoa Bogh        | 2021      | $1,500                 | $0                  |
 | Suzette Martinez Valladares | 2021      | $1,500                 | $0                  |
-| Tim Grayson                 | 2021      | $1,500                 | $0                  |
 | James Ramos                 | 2019      | $1,500                 | $0                  |
+| Tim Grayson                 | 2021      | $1,500                 | $0                  |
