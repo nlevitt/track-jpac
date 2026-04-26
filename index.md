@@ -1,5 +1,5 @@
 # Aggregate Summary: California Zionist Contributions
-Generated on: 2026-04-25 22:32:26
+Generated on: 2026-04-25 23:03:13
 
 ## Candidates with Identified Support
 
@@ -14,7 +14,7 @@ Generated on: 2026-04-25 22:32:26
 | [Tim Grayson](candidates/Tim_Grayson.md)                                 | State Senator, District 9                                              | $66,900                 | $0                          |
 | [Josh Becker](candidates/Josh_Becker.md)                                 | State Senator, District 13                                             | $54,600                 | $0                          |
 | [Christopher Cabaldon](candidates/Christopher_Cabaldon.md)               | State Senator, District 3                                              | $39,500                 | $0                          |
-| [Matt Haney](candidates/Matt_Haney.md)                                   | State Assemblymember, District 17                                      | $36,906                 | $0                          |
+| [Matt Haney](candidates/Matt_Haney.md)                                   | State Assemblymember, District 17                                      | $34,906                 | $0                          |
 | [Rebecca Bauer-Kahan](candidates/Rebecca_Bauer-Kahan.md)                 | State Assemblymember, District 16                                      | $30,350                 | $0                          |
 | [Dawn Addis](candidates/Dawn_Addis.md)                                   | State Assemblymember, District 30                                      | $27,150                 | $0                          |
 | [Jacqui Irwin](candidates/Jacqui_Irwin.md)                               | State Assemblymember, District 42                                      | $26,049                 | $0                          |
