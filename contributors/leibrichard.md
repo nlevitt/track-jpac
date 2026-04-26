@@ -36,5 +36,9 @@ Leib’s relationship with Zionist and pro-Israel causes extends to his philanth
 | John Laird           | 2003-2019 | $2,400                 | $0                  |
 | Christopher Cabaldon | 2001-2023 | $1,500                 | $0                  |
 | Catherine Blakespear | 2023-2025 | $1,000                 | $0                  |
+| Marc Berman          | 2012      | $1,000                 | $0                  |
+| Jacqui Irwin         | 2023-2025 | $1,000                 | $0                  |
 | Anna Caballero       | 2023      | $500                   | $0                  |
+| Diane Papan          | 2021      | $500                   | $0                  |
+| Buffy Wicks          | 2023      | $500                   | $0                  |
 | Bob Archuleta        | 2017      | $0                     | $0                  |

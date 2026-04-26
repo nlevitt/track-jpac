@@ -28,4 +28,5 @@ Fisher maintains a documented relationship with the **Koret Foundation**, a San 
 |----------------|-----------|------------------------|---------------------|
 | Henry Stern    | 2015-2017 | $9,600                 | $0                  |
 | Anna Caballero | 2015-2017 | $8,600                 | $0                  |
+| Robert Rivas   | 2017      | $6,400                 | $0                  |
 | Tim Grayson    | 2017      | $5,400                 | $0                  |

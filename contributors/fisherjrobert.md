@@ -35,16 +35,21 @@ Fisher’s political giving through **Pisces Inc.** and personal accounts has hi
 | Candidate            | Years     | Direct Contributions   | Behested Payments   |
 |----------------------|-----------|------------------------|---------------------|
 | Anna Caballero       | 2015-2025 | $22,300                | $0                  |
+| Robert Rivas         | 2017-2025 | $16,800                | $0                  |
 | Tim Grayson          | 2015-2025 | $16,600                | $0                  |
 | Henry Stern          | 2015-2021 | $15,300                | $0                  |
+| Lori Wilson          | 2021-2025 | $8,500                 | $0                  |
 | Cecilia Aguiar-Curry | 2021-2025 | $8,500                 | $0                  |
 | Angelique Ashby      | 2023-2025 | $8,500                 | $0                  |
-| Lori Wilson          | 2021-2025 | $8,500                 | $0                  |
 | Matt Haney           | 2021-2025 | $6,000                 | $0                  |
 | Josh Becker          | 2021-2023 | $5,500                 | $0                  |
+| Marc Berman          | 2017      | $4,400                 | $0                  |
+| Rebecca Bauer-Kahan  | 2019-2023 | $3,500                 | $0                  |
 | John Laird           | 2023      | $3,000                 | $0                  |
 | Susan Rubio          | 2021-2023 | $3,000                 | $0                  |
 | Catherine Blakespear | 2025      | $2,500                 | $0                  |
+| Catherine Stefani    | 2025      | $2,000                 | $0                  |
+| John Harabedian      | 2025      | $2,000                 | $0                  |
 | Sabrina Cervantes    | 2025      | $2,000                 | $0                  |
 | Christopher Cabaldon | 2025      | $2,000                 | $0                  |
 | Laura Richardson     | 2025      | $1,500                 | $0                  |

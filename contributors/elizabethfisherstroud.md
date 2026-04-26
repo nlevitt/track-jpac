@@ -35,3 +35,4 @@ Fisher’s support for Israel is largely channeled through the **Jewish Communit
 | Henry Stern    | 2015-2017 | $13,800                | $0                  |
 | Anna Caballero | 2015-2017 | $12,800                | $0                  |
 | Tim Grayson    | 2015-2017 | $9,600                 | $0                  |
+| Robert Rivas   | 2017      | $6,400                 | $0                  |

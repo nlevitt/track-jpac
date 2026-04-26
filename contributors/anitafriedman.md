@@ -29,4 +29,6 @@ Dr. Anita Friedman’s relationship to Israel is defined by her dual role as a h
 |----------------|-----------|------------------------|---------------------|
 | Josh Becker    | 2019-2021 | $9,700                 | $0                  |
 | Scott Wiener   | 2015-2023 | $5,000                 | $0                  |
+| Buffy Wicks    | 2017-2021 | $4,650                 | $0                  |
+| Robert Rivas   | 2021-2023 | $1,500                 | $0                  |
 | Damon Connolly | 2023      | $500                   | $0                  |

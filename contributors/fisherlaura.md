@@ -40,5 +40,8 @@ Fisher’s political influence is channeled through individual donations and the
 | Candidate      | Years     | Direct Contributions   | Behested Payments   |
 |----------------|-----------|------------------------|---------------------|
 | Scott Wiener   | 2015-2017 | $17,200                | $0                  |
+| Buffy Wicks    | 2017      | $8,800                 | $0                  |
+| Marc Berman    | 2017      | $5,400                 | $0                  |
 | Anna Caballero | 2017      | $4,400                 | $0                  |
 | Tim Grayson    | 2017      | $1,000                 | $0                  |
+| Jacqui Irwin   | 2017      | $500                   | $0                  |

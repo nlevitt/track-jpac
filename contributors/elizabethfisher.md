@@ -28,4 +28,7 @@ Fisher has been identified as a key participant in political funding networks th
 | Candidate      | Years     | Direct Contributions   | Behested Payments   |
 |----------------|-----------|------------------------|---------------------|
 | Scott Wiener   | 2015-2023 | $14,300                | $0                  |
+| Buffy Wicks    | 2017      | $8,800                 | $0                  |
+| Marc Berman    | 2015-2017 | $5,200                 | $0                  |
 | Anna Caballero | 2017      | $4,400                 | $0                  |
+| Jacqui Irwin   | 2017      | $500                   | $0                  |

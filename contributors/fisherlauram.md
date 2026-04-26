@@ -43,4 +43,5 @@ The ideological basis for the family's Zionist philanthropy is reflected in the 
 |----------------|-----------|------------------------|---------------------|
 | Henry Stern    | 2015-2017 | $9,600                 | $0                  |
 | Anna Caballero | 2015-2017 | $8,600                 | $0                  |
+| Robert Rivas   | 2017      | $6,400                 | $0                  |
 | Tim Grayson    | 2017      | $4,400                 | $0                  |

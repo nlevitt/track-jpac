@@ -32,3 +32,4 @@ While based in D.C., DMFI PAC is a prominent actor in California politics, focus
 | Candidate     |   Years | Direct Contributions   | Behested Payments   |
 |---------------|---------|------------------------|---------------------|
 | Lena Gonzalez |    2025 | $1,000                 | $0                  |
+| Jeff Gonzalez |    2025 | $1,000                 | $0                  |
