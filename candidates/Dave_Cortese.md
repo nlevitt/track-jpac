@@ -2,14 +2,18 @@
 
 **Role:** State Senator, District 15
 
-Dave Cortese is currently serving as a California State Senator for District 15, a position he was re-elected to in November 2024 with his current term ending in December 2028. As of April 2026, he is reportedly planning to run for California Attorney General if Rob Bonta seeks the governor's office.
+Dave Cortese is currently serving his second four-year term as a California State Senator for District 15, which encompasses much of Santa Clara County. He also holds the positions of State Senate Majority Whip and Chair of the Senate Transportation Committee as of April 2026.
 
-Analyzed on: 2026-04-25 19:27:27
+Analyzed on: 2026-04-25 23:11:32
 **Total Zionist Contributions:** $3,000
 **Total Zionist Behested Payments:** $0
 
+### Zionist Federal Contributions (FEC)
+
+No Zionist federal contributions identified.
+
 ### Zionist Direct Contributions
 
-| Contributor                                     |   Years | Total Amount   | Relationship to Israel                                                                                            |
-|-------------------------------------------------|---------|----------------|-------------------------------------------------------------------------------------------------------------------|
-| [Fisher, Doris](../contributors/dorisfisher.md) |    2021 | $3,000         | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
+| Contributor                                     |   Years | Total Amount   | Relationship to Israel                                                                                 |
+|-------------------------------------------------|---------|----------------|--------------------------------------------------------------------------------------------------------|
+| [Fisher, Doris](../contributors/dorisfisher.md) |    2021 | $3,000         | Prominent Zionist donor (Gap Inc. co-founder); associated with Koret Foundation and Birthright Israel. |

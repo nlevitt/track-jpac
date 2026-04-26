@@ -2,15 +2,19 @@
 
 **Role:** State Senator, District 23
 
-Suzette Martinez Valladares is a Republican member of the California State Senate, representing District 23, having assumed office on December 2, 2024, with her current term ending in December 2028. As of April 2026, she is actively engaged in the legislative process, introducing bills concerning public safety, worker ownership, and energy transparency, and co-chairs the bipartisan Problem Solvers Caucus.
+Suzette Martinez Valladares is a Republican member of the California State Senate, representing District 23. She assumed office on December 2, 2024, and her current term concludes on December 4, 2028. She is focused on addressing California's affordability crisis, public safety, and expanding education and job opportunities.
 
-Analyzed on: 2026-04-25 19:28:19
+Analyzed on: 2026-04-25 23:12:37
 **Total Zionist Contributions:** $4,000
 **Total Zionist Behested Payments:** $0
 
+### Zionist Federal Contributions (FEC)
+
+No Zionist federal contributions identified.
+
 ### Zionist Direct Contributions
 
-| Contributor                                     | Years     | Total Amount   | Relationship to Israel                                                                                            |
-|-------------------------------------------------|-----------|----------------|-------------------------------------------------------------------------------------------------------------------|
-| [Fisher, John](../contributors/fisherjohn.md)   | 2021-2025 | $2,500         | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
-| [Fisher, Doris](../contributors/dorisfisher.md) | 2021      | $1,500         | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
+| Contributor                                     | Years     | Total Amount   | Relationship to Israel                                                                                 |
+|-------------------------------------------------|-----------|----------------|--------------------------------------------------------------------------------------------------------|
+| [Fisher, John](../contributors/fisherjohn.md)   | 2021-2025 | $2,500         | Prominent Zionist donor (Oakland A's owner); associated with Koret Foundation and Birthright Israel.   |
+| [Fisher, Doris](../contributors/dorisfisher.md) | 2021      | $1,500         | Prominent Zionist donor (Gap Inc. co-founder); associated with Koret Foundation and Birthright Israel. |

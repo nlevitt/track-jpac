@@ -48,6 +48,5 @@ Leib’s professional career includes serving as staff for prominent pro-Israel 
 | Akilah Weber         | 2021      | $1,000                 | $0                  |
 | Esmeralda Soria      | 2023      | $550                   | $0                  |
 | Pilar Schiavo        | 2023      | $500                   | $0                  |
-| John Laird           | 2001      | $500                   | $0                  |
 | Lori Wilson          | 2023      | $500                   | $0                  |
 | Buffy Wicks          | 2021      | $500                   | $0                  |

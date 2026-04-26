@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 7
 
-Jesse Arreguín is a California State Senator for District 7, having assumed office in December 2024. He previously served as the Mayor of Berkeley and currently chairs the Senate's Public Safety and Housing Committees.
+Jesse Arreguín currently serves as a member of the California State Senate, representing the 7th district, a position he assumed on December 2, 2024. He chairs both the Senate Housing Committee and the Senate Public Safety Committee as of April 2026.
 
-Analyzed on: 2026-04-25 19:25:13
+Analyzed on: 2026-04-25 23:10:01
 **Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 

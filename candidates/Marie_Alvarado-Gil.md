@@ -2,11 +2,15 @@
 
 **Role:** State Senator, District 4
 
-Marie Alvarado-Gil is the California State Senator for District 4, having been elected in 2022 and switching her party affiliation from Democrat to Republican in August 2024. She is currently running for re-election in the June 2, 2026 primary for the same district.
+Marie Alvarado-Gil is a Republican member of the California State Senate, representing District 4. Elected in 2022 as a Democrat, she switched her party affiliation to Republican in August 2024 and is currently running for re-election in the primary on June 2, 2026.
 
-Analyzed on: 2026-04-25 19:24:42
+Analyzed on: 2026-04-25 23:09:28
 **Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
+
+### Zionist Federal Contributions (FEC)
+
+No Zionist federal contributions identified.
 
 ### Zionist Direct Contributions
 

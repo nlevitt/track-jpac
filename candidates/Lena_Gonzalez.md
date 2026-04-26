@@ -2,7 +2,7 @@
 
 **Role:** State Senator, District 33
 
-Lena Gonzalez was first elected to the California State Senate in 2019 and re-elected in 2020 for a term ending December 4, 2028, and currently serves as the Senate Majority Leader and Chair of the California Latino Legislative Caucus.
+Lena Gonzalez is a California State Senator for District 33, serving as the Majority Leader of the California State Senate and Chair of the California Latino Legislative Caucus. She was born in Torrance, California, and resides in Long Beach.
 
 Analyzed on: 2026-04-25 03:39:35
 **Total Zionist Contributions:** $6,000

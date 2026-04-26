@@ -1,15 +1,19 @@
 # California Zionist Supporters: Angelique Ashby
 
-**Role:** State Senator, District 8 and Majority Leader of the California Senate
+**Role:** State Senator, District 8, and Majority Leader of the California Senate
 
-Angelique Ashby is currently the Majority Leader of the California State Senate, representing District 8. She assumed office on December 5, 2022, and her current term concludes on December 7, 2026. She is on the ballot for re-election in the primary for District 8 on June 2, 2026.
+Angelique Ashby is a member of the California State Senate, representing District 8, having assumed office on December 5, 2022. She was appointed Majority Leader of the California Senate on December 23, 2025, and is running for re-election in the primary on June 2, 2026.
 
-Analyzed on: 2026-04-25 19:25:19
+Analyzed on: 2026-04-25 23:10:07
 **Total Zionist Contributions:** $8,500
 **Total Zionist Behested Payments:** $0
 
+### Zionist Federal Contributions (FEC)
+
+No Zionist federal contributions identified.
+
 ### Zionist Direct Contributions
 
-| Contributor                                           | Years     | Total Amount   | Relationship to Israel                                                                                            |
-|-------------------------------------------------------|-----------|----------------|-------------------------------------------------------------------------------------------------------------------|
-| [Fisher, Robert J.](../contributors/fisherjrobert.md) | 2023-2025 | $8,500         | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
+| Contributor                                           | Years     | Total Amount   | Relationship to Israel                                                                               |
+|-------------------------------------------------------|-----------|----------------|------------------------------------------------------------------------------------------------------|
+| [Fisher, Robert J.](../contributors/fisherjrobert.md) | 2023-2025 | $8,500         | Prominent Zionist donor (Gap Inc. chairman); associated with Koret Foundation and Birthright Israel. |

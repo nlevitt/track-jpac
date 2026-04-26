@@ -2,11 +2,15 @@
 
 **Role:** State Assemblymember, District 17
 
-Matt Haney is currently serving as the California State Assemblymember for District 17, representing the eastern part of San Francisco. As of April 2026, he chairs the Committee on Housing and Community Development, the Legislative Renters' Caucus, and the Committee on Downtown Recovery, actively championing legislation related to housing, healthcare, and economic initiatives.
+Matt Haney is currently a member of the California State Assembly, representing District 17, a position he assumed on May 3, 2022. He is seeking re-election in the primary on June 2, 2026, for a term that ends on December 7, 2026, and chairs the Committee on Housing and Community Development and the Legislative Renters' Caucus.
 
-Analyzed on: 2026-04-25 23:00:10
+Analyzed on: 2026-04-25 23:08:33
 **Total Zionist Contributions:** $34,906
 **Total Zionist Behested Payments:** $0
+
+### Zionist Federal Contributions (FEC)
+
+No Zionist federal contributions identified.
 
 ### Zionist Direct Contributions
 

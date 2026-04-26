@@ -38,9 +38,7 @@ While Sakurako Fisher is primarily identified as a philanthropic donor, her poli
 
 | Candidate           |   Years | Direct Contributions   | Behested Payments   |
 |---------------------|---------|------------------------|---------------------|
-| Anna Caballero      |    2015 | $8,400                 | $0                  |
 | Henry Stern         |    2015 | $4,200                 | $0                  |
-| Tim Grayson         |    2015 | $4,200                 | $0                  |
 | Josh Becker         |    2019 | $2,500                 | $0                  |
 | Robert Rivas        |    2019 | $2,000                 | $0                  |
 | Rebecca Bauer-Kahan |    2019 | $1,000                 | $0                  |

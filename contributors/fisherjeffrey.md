@@ -48,5 +48,4 @@ Jeffrey Fisher is documented as a donor to California-based organizations that m
 
 | Candidate    |   Years | Direct Contributions   | Behested Payments   |
 |--------------|---------|------------------------|---------------------|
-| Scott Wiener |    1994 | $2,000                 | $0                  |
 | Akilah Weber |    2025 | $500                   | $0                  |
