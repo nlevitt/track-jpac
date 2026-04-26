@@ -1,10 +1,12 @@
 # California Zionist Supporters: Avelino Valencia
 
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/valencia_518_11-30-22_resized.jpg" alt="Photo of Avelino Valencia" align="right" style="margin-left: 20px">
+
 **Role:** State Assemblymember, District 68
 
-Avelino Valencia is a member of the California State Assembly, representing District 68, and is running for the California State Senate to represent District 34 in the June 2, 2026 primary election. He is from Anaheim, California.
+Avelino Valencia is a member of the California State Assembly, representing District 68, and is seeking election to the California State Senate, District 34. He is from Anaheim, California.
 
-Analyzed on: 2026-04-26 02:29:20
+Analyzed on: 2026-04-26 12:56:17
 **Total Zionist Contributions:** $1,500
 **Total Zionist Behested Payments:** $0
 

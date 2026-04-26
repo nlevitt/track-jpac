@@ -1,10 +1,12 @@
 # California Zionist Supporters: Josh Lowenthal
 
-**Role:** State Assemblymember, District 69, Speaker Pro Tempore
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/lowenthal_009_11-30-22_resized.jpg" alt="Photo of Josh Lowenthal" align="right" style="margin-left: 20px">
 
-Josh Lowenthal is a California State Assemblymember for District 69, where he also serves as Speaker Pro Tempore. He assumed office on December 5, 2022, and is seeking re-election to the same office in the 2026 election. He is from Long Beach, California.
+**Role:** Speaker pro Tempore of the California State Assembly, District 69
 
-Analyzed on: 2026-04-26 02:31:13
+Josh Lowenthal is the Speaker pro Tempore of the California State Assembly, representing District 69. He was born in and lives in Long Beach, California, and is currently seeking re-election to the California State Assembly for District 69 in the primary on June 2, 2026.
+
+Analyzed on: 2026-04-26 12:56:26
 **Total Zionist Contributions:** $26,700
 **Total Zionist Behested Payments:** $0
 

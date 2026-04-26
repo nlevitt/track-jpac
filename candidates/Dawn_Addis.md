@@ -1,10 +1,12 @@
 # California Zionist Supporters: Dawn Addis
 
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/addis_003_11-30-22_resized.jpg" alt="Photo of Dawn Addis" align="right" style="margin-left: 20px">
+
 **Role:** State Assemblymember, District 30
 
-Dawn Addis is a member of the California State Assembly, representing District 30. She is seeking re-election to the California State Assembly for District 30 in the primary on June 2, 2026. She was born in San Francisco, California, and resides in Morro Bay.
+Dawn Addis is a member of the California State Assembly, representing District 30. She is seeking re-election to the same office in the June 2, 2026, primary election and is from Morro Bay.
 
-Analyzed on: 2026-04-26 01:25:33
+Analyzed on: 2026-04-26 12:51:24
 **Total Zionist Contributions:** $26,700
 **Total Zionist Behested Payments:** $0
 

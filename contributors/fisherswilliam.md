@@ -39,6 +39,7 @@ Fisher has been categorized by researchers and monitoring groups as a "Prominent
 | Candidate                                                     | Years     | Direct Contributions   | Behested Payments   |
 |---------------------------------------------------------------|-----------|------------------------|---------------------|
 | [Anna Caballero](../candidates/Anna_Caballero.md)             | 2015-2017 | $17,200                | $0                  |
+| [Ben Allen](../candidates/Ben_Allen.md)                       | 2013-2017 | $13,600                | $0                  |
 | [Robert Rivas](../candidates/Robert_Rivas.md)                 | 2017-2021 | $13,300                | $0                  |
 | [Tim Grayson](../candidates/Tim_Grayson.md)                   | 2015-2021 | $10,600                | $0                  |
 | [Henry Stern](../candidates/Henry_Stern.md)                   | 2015-2017 | $9,600                 | $0                  |

@@ -1,10 +1,12 @@
 # California Zionist Supporters: Maggy Krell
 
+<img src="https://lettersandscience.ucdavis.edu/sites/g/files/dgvnsk15706/files/styles/sf_profile/public/images/person/Maggy%20Krell.jpeg?h=a7e6d17b&itok=kwhSUK6x" alt="Photo of Maggy Krell" align="right" style="margin-left: 20px">
+
 **Role:** State Assemblymember, District 6
 
-Maggy Krell is the State Assemblymember for District 6, having assumed office on December 2, 2024, and is seeking re-election to the same office. She is from Sacramento.
+Maggy Krell is a Democratic Assemblymember for California's 6th District, representing Sacramento and surrounding communities. She is seeking re-election to this office in the June 2026 primary.
 
-Analyzed on: 2026-04-26 01:16:08
+Analyzed on: 2026-04-26 12:46:29
 **Total Zionist Contributions:** $16,900
 **Total Zionist Behested Payments:** $0
 

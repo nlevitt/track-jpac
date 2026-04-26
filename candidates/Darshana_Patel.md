@@ -2,9 +2,9 @@
 
 **Role:** State Assemblymember, District 76
 
-Darshana Patel is a member of the California State Assembly, representing District 76. She is seeking re-election to the California State Assembly, District 76, and resides in San Diego.
+Darshana Patel is a member of the California State Assembly, representing District 76, and is seeking re-election for the same district in the June 2, 2026, primary. She is from San Diego, California.
 
-Analyzed on: 2026-04-26 02:51:09
+Analyzed on: 2026-04-26 12:57:16
 **Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 

@@ -1,10 +1,12 @@
 # California Zionist Supporters: Jesse Arreguín
 
+<img src="https://berkeleyca.gov/sites/default/files/elected-office-holder/portrait.jpg" alt="Photo of Jesse Arreguín" align="right" style="margin-left: 20px">
+
 **Role:** State Senator, District 7
 
-Jesse Arreguín is a member of the California State Senate, representing District 7. He assumed office on December 2, 2024, and his current term ends on December 4, 2028. He is from Fresno, California.
+Jesse Arreguín is a member of the California State Senate, representing District 7. He was born in Fresno, California, and raised in San Francisco, California.
 
-Analyzed on: 2026-04-26 00:44:56
+Analyzed on: 2026-04-26 12:33:15
 **Total Zionist Contributions:** $1,500
 **Total Zionist Behested Payments:** $0
 

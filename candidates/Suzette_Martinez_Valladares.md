@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 23
 
-Suzette Martinez Valladares is a Republican member of the California State Senate, representing District 23. She assumed office on December 2, 2024, and her current term concludes on December 4, 2028. She is focused on addressing California's affordability crisis, public safety, and expanding education and job opportunities.
+Suzette Martinez Valladares is a member of the California State Senate, representing District 23. She assumed office on December 2, 2024, and her current term ends on December 4, 2028. She is from Santa Clarita, CA.
 
-Analyzed on: 2026-04-25 23:12:37
+Analyzed on: 2026-04-26 12:40:31
 **Total Zionist Contributions:** $4,000
 **Total Zionist Behested Payments:** $0
 

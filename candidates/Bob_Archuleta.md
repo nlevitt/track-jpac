@@ -1,10 +1,12 @@
 # California Zionist Supporters: Bob Archuleta
 
+<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/archuleta_bob.jpg" alt="Photo of Bob Archuleta" align="right" style="margin-left: 20px">
+
 **Role:** State Senator, District 30
 
-Bob Archuleta is a Democratic member of the California State Senate, representing District 30. He is seeking re-election for the same district in 2026 and resides in Pico Rivera, California.
+Bob Archuleta is the State Senator for California's 30th District and is seeking re-election to the same office in 2026. He is a former mayor of Pico Rivera.
 
-Analyzed on: 2026-04-26 01:13:28
+Analyzed on: 2026-04-26 12:41:03
 **Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 

@@ -1,10 +1,12 @@
 # California Zionist Supporters: Megan Dahle
 
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/mdahle-ad01.gif" alt="Photo of Megan Dahle" align="right" style="margin-left: 20px">
+
 **Role:** State Senator, District 1
 
-Megan Dahle is a Republican member of the California State Senate, representing District 1, having assumed office on December 2, 2024. She previously served in the California State Assembly from 2019 to 2024.
+Megan Dahle is a member of the California State Senate, representing District 1, having assumed office in December 2024. She is from Fall River Mills, California, and resides in Bieber, California.
 
-Analyzed on: 2026-04-25 23:08:39
+Analyzed on: 2026-04-26 12:35:17
 **Total Zionist Contributions:** $9,700
 **Total Zionist Behested Payments:** $0
 

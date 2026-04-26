@@ -1,10 +1,12 @@
 # California Zionist Supporters: Patrick Ahrens
 
-**Role:** State Assemblymember, District 26
+<img src="http://www.fhda.edu/_images/PatrickAhrens2018.jpg" alt="Photo of Patrick Ahrens" align="right" style="margin-left: 20px">
 
-Patrick Ahrens is a member of the California State Assembly, representing District 26, and is seeking re-election to that office in the June 2, 2026 primary. He was born in San Jose, California, and resides in Sunnyvale, California.
+**Role:** California State Assemblymember, District 26
 
-Analyzed on: 2026-04-26 01:22:56
+Patrick Ahrens is a California State Assemblymember representing District 26, having assumed office on December 2, 2024. He is currently seeking re-election to represent District 26 and is from Sunnyvale, California.
+
+Analyzed on: 2026-04-26 12:50:50
 **Total Zionist Contributions:** $11,400
 **Total Zionist Behested Payments:** $0
 

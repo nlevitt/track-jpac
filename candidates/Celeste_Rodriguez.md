@@ -1,10 +1,12 @@
 # California Zionist Supporters: Celeste Rodriguez
 
+<img src="https://ci.san-fernando.ca.us/wp-content/uploads/2021/07/Rodriguez-Celeste-2021-267x300.png" alt="Photo of Celeste Rodriguez" align="right" style="margin-left: 20px">
+
 **Role:** State Assemblymember, District 43
 
-Celeste Rodriguez is the State Assemblymember for District 43, having assumed office on December 2, 2024. She is seeking re-election to the California State Assembly for District 43 in the June 2, 2026 primary election. She previously served as the mayor and a city councilmember for San Fernando, California.
+Celeste Rodriguez is the California State Assemblymember for District 43 and is seeking re-election to the same office in the June 2, 2026 primary election. She is from San Fernando, California.
 
-Analyzed on: 2026-04-26 01:29:57
+Analyzed on: 2026-04-26 12:53:19
 **Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 

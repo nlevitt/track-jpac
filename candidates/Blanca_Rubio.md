@@ -1,10 +1,12 @@
 # California Zionist Supporters: Blanca Rubio
 
-**Role:** State Assembly Member, District 48
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/rubio.jpg" alt="Photo of Blanca Rubio" align="right" style="margin-left: 20px">
 
-Blanca Rubio is a Democratic member of the California State Assembly, representing District 48. She is seeking re-election to the State Assembly for District 48 in the June 2, 2026 primary election and is from Baldwin Park, California.
+**Role:** State Assemblymember, District 48
 
-Analyzed on: 2026-04-26 01:34:13
+Blanca Rubio is the State Assemblymember for California's 48th District and is seeking re-election to the same office in the 2026 elections. She is a resident of Baldwin Park, California.
+
+Analyzed on: 2026-04-26 12:53:40
 **Total Zionist Contributions:** $47,075
 **Total Zionist Behested Payments:** $0
 

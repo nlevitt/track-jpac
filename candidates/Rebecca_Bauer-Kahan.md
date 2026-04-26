@@ -1,10 +1,12 @@
 # California Zionist Supporters: Rebecca Bauer-Kahan
 
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a16_r_b_kahan.jpg" alt="Photo of Rebecca Bauer-Kahan" align="right" style="margin-left: 20px">
+
 **Role:** State Assemblymember, District 16
 
-Rebecca Bauer-Kahan is a California State Assemblymember for District 16 and is seeking re-election to the same office. She is from Portola Valley, California.
+Rebecca Bauer-Kahan is a member of the California State Assembly, representing District 16. She is running for re-election to the same office in the primary on June 2, 2026, and is from Orinda, California.
 
-Analyzed on: 2026-04-26 01:19:55
+Analyzed on: 2026-04-26 12:47:42
 **Total Zionist Contributions:** $29,150
 **Total Zionist Behested Payments:** $0
 

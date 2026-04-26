@@ -1,10 +1,12 @@
 # California Zionist Supporters: Joaquin Arambula
 
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/asm-arambula.jpg" alt="Photo of Joaquin Arambula" align="right" style="margin-left: 20px">
+
 **Role:** State Assemblymember, District 31
 
-Joaquin Arambula is currently a member of the California State Assembly, representing District 31. He is running for election to the Fresno City Council to represent District 3. He was born in Delano, California, and grew up in Fresno, California.
+Joaquin Arambula is currently a California State Assemblymember, representing District 31. He is seeking election to the Fresno City Council for District 3 and is from Delano, California.
 
-Analyzed on: 2026-04-26 01:25:46
+Analyzed on: 2026-04-26 12:51:29
 **Total Zionist Contributions:** $2,000
 **Total Zionist Behested Payments:** $0
 

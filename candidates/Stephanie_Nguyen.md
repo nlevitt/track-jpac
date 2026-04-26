@@ -1,10 +1,12 @@
 # California Zionist Supporters: Stephanie Nguyen
 
-**Role:** State Assemblymember, District 10
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/nguyen_515_11-30-22_resized.jpg" alt="Photo of Stephanie Nguyen" align="right" style="margin-left: 20px">
 
-Stephanie Nguyen is a California State Assemblymember for the 10th District, having been reelected in November 2024. She is currently running for re-election to represent District 10 in the primary on June 2, 2026, and is from Sacramento and Elk Grove.
+**Role:** California State Assemblymember, District 10
 
-Analyzed on: 2026-04-26 01:17:53
+Stephanie Nguyen is a California State Assemblymember for District 10, from Elk Grove, California. She is seeking re-election to the California State Assembly, District 10, in the primary on June 2, 2026.
+
+Analyzed on: 2026-04-26 12:47:02
 **Total Zionist Contributions:** $4,900
 **Total Zionist Behested Payments:** $0
 

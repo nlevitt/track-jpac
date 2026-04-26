@@ -1,11 +1,13 @@
 # California Zionist Supporters: Esmeralda Soria
 
-**Role:** State Assemblymember, District 27; Candidate for State Senate, District 14
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/soria_025_edit_11-29-22_resized_0.jpg" alt="Photo of Esmeralda Soria" align="right" style="margin-left: 20px">
 
-Esmeralda Soria is currently serving as a California State Assemblymember for District 27, with her term ending on December 7, 2026. She is a candidate for the California State Senate, District 14, with the primary election scheduled for June 2, 2026. Soria is from the Central Valley.
+**Role:** State Assemblymember, District 27
 
-Analyzed on: 2026-04-26 01:23:55
-**Total Zionist Contributions:** $550
+Esmeralda Soria is a Democratic California State Assemblymember, representing District 27, and is serving in her second term. She is seeking election to the California State Senate for District 14 in the June 2026 primary election. Soria was born and raised in California's Central Valley and resides in Fresno.
+
+Analyzed on: 2026-04-26 12:50:55
+**Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 
 ### Zionist Federal Contributions (FEC)
@@ -14,6 +16,5 @@ No Zionist federal contributions identified.
 
 ### Zionist Direct Contributions
 
-| Contributor                               |   Years | Total Amount   | Relationship to Israel                                                                  |
-|-------------------------------------------|---------|----------------|-----------------------------------------------------------------------------------------|
-| [Leib, Rich](../contributors/leibrich.md) |    2023 | $550           | Former Chair of UC Regents; documented Zionist advocate and supporter of Israel causes. |
+No Zionist supporters identified among contributors.
+

@@ -1,10 +1,12 @@
 # California Zionist Supporters: Carl DeMaio
 
-**Role:** State Assemblymember, District 75
+<img src="https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/159263.jpg" alt="Photo of Carl DeMaio" align="right" style="margin-left: 20px">
 
-Carl DeMaio is a California State Assemblymember representing District 75 and is seeking re-election to the same office in the 2026 election. He is from San Diego.
+**Role:** California State Assemblymember, District 75
 
-Analyzed on: 2026-04-26 02:49:23
+Carl DeMaio is a California State Assemblymember for District 75, having assumed office in December 2024. He is seeking re-election for the same district in the 2026 election and is from San Diego, California.
+
+Analyzed on: 2026-04-26 12:57:11
 **Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 

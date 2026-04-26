@@ -2,9 +2,9 @@
 
 **Role:** State Assemblymember, District 33
 
-Alexandra Macedo is the California State Assemblymember for District 33. She is from Tulare, CA, and is seeking re-election to the same office in the 2026 primary election.
+Alexandra Macedo is the incumbent State Assemblymember for California's 33rd District, serving since December 2, 2024. She is seeking re-election to represent District 33 in the June 2, 2026 primary election. Macedo was born and raised in Tulare, California.
 
-Analyzed on: 2026-04-26 01:27:12
+Analyzed on: 2026-04-26 12:51:52
 **Total Zionist Contributions:** $1,000
 **Total Zionist Behested Payments:** $0
 

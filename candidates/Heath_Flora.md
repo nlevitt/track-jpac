@@ -1,10 +1,12 @@
 # California Zionist Supporters: Heath Flora
 
-**Role:** Assembly Republican Leader, District 9
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/flora.jpg" alt="Photo of Heath Flora" align="right" style="margin-left: 20px">
 
-Heath Flora currently serves as the Assembly Republican Leader for California's 9th Assembly District. He is seeking re-election to represent District 9 in the California State Assembly and is from Stanislaus County, living in Modesto, California.
+**Role:** State Assemblymember, District 9
 
-Analyzed on: 2026-04-26 01:17:16
+Heath Flora is the current State Assemblymember for California's 9th District and serves as the Assembly Republican Leader. He is seeking re-election to the same office in 2026 and is from Ripon, California.
+
+Analyzed on: 2026-04-26 12:46:51
 **Total Zionist Contributions:** $5,500
 **Total Zionist Behested Payments:** $0
 

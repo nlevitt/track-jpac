@@ -1,10 +1,12 @@
 # California Zionist Supporters: Christopher Cabaldon
 
+<img src="https://calearninglab.org/wp-content/uploads/2024/09/Emcee-Christopher-Cabaldon-488x559.png" alt="Photo of Christopher Cabaldon" align="right" style="margin-left: 20px">
+
 **Role:** State Senator, District 3
 
-Christopher Cabaldon is a member of the California State Senate, representing District 3, having assumed office on December 2, 2024. He is from California and previously served as the longest-serving mayor of West Sacramento from 1998 to 2020. He is recognized for his background in education policy and is the first Filipino-American Senator in California history.
+Christopher Cabaldon is a member of the California State Senate, representing District 3. He assumed office on December 2, 2024, and his current term concludes on December 4, 2028. He is from West Sacramento, California.
 
-Analyzed on: 2026-04-25 23:22:17
+Analyzed on: 2026-04-26 12:35:36
 **Total Zionist Contributions:** $39,500
 **Total Zionist Behested Payments:** $0
 

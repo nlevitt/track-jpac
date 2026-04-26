@@ -1,10 +1,12 @@
 # California Zionist Supporters: Susan Rubio
 
+<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_rubio.jpg" alt="Photo of Susan Rubio" align="right" style="margin-left: 20px">
+
 **Role:** State Senator, District 22
 
-Susan Rubio is a Democratic member of the California State Senate, representing District 22, having first assumed office on December 3, 2018. Her current term concludes on December 7, 2026, and she is seeking re-election in the primary on June 2, 2026. She also holds positions as Chair of the Senate Insurance Committee and Assistant Majority Whip.
+Susan Rubio is a Democratic member of the California State Senate, representing District 22, and lives in Baldwin Park. Her current term ends in December 2026, and she is seeking re-election to the same seat.
 
-Analyzed on: 2026-04-25 23:12:31
+Analyzed on: 2026-04-26 12:40:19
 **Total Zionist Contributions:** $17,400
 **Total Zionist Behested Payments:** $0
 

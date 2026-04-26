@@ -34,9 +34,10 @@ The PAC's influence has led to friction with other political entities in Califor
 |-------------------------------------------------------------|-----------|------------------------|---------------------|
 | [Jesse Gabriel](../candidates/Jesse_Gabriel.md)             | 2019-2025 | $38,850                | $0                  |
 | [Marc Berman](../candidates/Marc_Berman.md)                 | 2019-2025 | $29,050                | $0                  |
-| [Josh Lowenthal](../candidates/Josh_Lowenthal.md)           | 2021-2025 | $26,700                | $0                  |
 | [Dawn Addis](../candidates/Dawn_Addis.md)                   | 2021-2025 | $26,700                | $0                  |
+| [Josh Lowenthal](../candidates/Josh_Lowenthal.md)           | 2021-2025 | $26,700                | $0                  |
 | [Matt Haney](../candidates/Matt_Haney.md)                   | 2021-2023 | $25,700                | $0                  |
+| [Ben Allen](../candidates/Ben_Allen.md)                     | 2021-2025 | $24,200                | $0                  |
 | [Rebecca Bauer-Kahan](../candidates/Rebecca_Bauer-Kahan.md) | 2019-2023 | $23,150                | $0                  |
 | [Josh Becker](../candidates/Josh_Becker.md)                 | 2019-2025 | $21,600                | $0                  |
 | [Maggy Krell](../candidates/Maggy_Krell.md)                 | 2023-2025 | $16,900                | $0                  |

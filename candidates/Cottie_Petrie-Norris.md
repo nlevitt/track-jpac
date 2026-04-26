@@ -1,10 +1,12 @@
 # California Zionist Supporters: Cottie Petrie-Norris
 
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a74_c_p_norris.jpg" alt="Photo of Cottie Petrie-Norris" align="right" style="margin-left: 20px">
+
 **Role:** State Assemblymember, District 73
 
-Cottie Petrie-Norris is a Democratic member of the California State Assembly, representing District 73. She currently holds this office and is seeking re-election to the same seat in the June 2, 2026 primary election. She grew up in San Diego County, California, and currently represents communities including Costa Mesa, Irvine, and Tustin.
+Cottie Petrie-Norris is a Democratic member of the California State Assembly, representing District 73. She is from San Diego, California, and resides in Irvine. She is seeking re-election for the same office in the June 2, 2026 primary election.
 
-Analyzed on: 2026-04-26 02:47:48
+Analyzed on: 2026-04-26 12:57:01
 **Total Zionist Contributions:** $23,000
 **Total Zionist Behested Payments:** $0
 

@@ -1,10 +1,12 @@
 # California Zionist Supporters: James Ramos
 
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a40_jc_ramos.jpg" alt="Photo of James Ramos" align="right" style="margin-left: 20px">
+
 **Role:** State Assemblymember, District 45
 
-James Ramos is a California State Assemblymember for District 45 and is running for re-election to that office in 2026. He is from the San Manuel Indian Reservation in San Bernardino County.
+James Ramos is a Democratic member of the California State Assembly, representing District 45. He is seeking re-election to the same office in 2026 and is from the San Manuel Indian Reservation in San Bernardino County, California.
 
-Analyzed on: 2026-04-26 01:30:17
+Analyzed on: 2026-04-26 12:53:25
 **Total Zionist Contributions:** $1,500
 **Total Zionist Behested Payments:** $0
 

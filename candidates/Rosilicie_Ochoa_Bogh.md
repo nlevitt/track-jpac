@@ -1,10 +1,12 @@
 # California Zionist Supporters: Rosilicie Ochoa Bogh
 
+<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd23_ochoa_bogh.jpg" alt="Photo of Rosilicie Ochoa Bogh" align="right" style="margin-left: 20px">
+
 **Role:** State Senator, District 19
 
-Rosilicie Ochoa Bogh is a California State Senator representing the 19th State Senate District, having been re-elected in November 2024. She is a native Californian and is from Yucaipa.
+Rosilicie Ochoa Bogh is a California State Senator representing District 19, having been re-elected in November 2024 to a term that began in December 2024 and ends in December 2028. She resides in Yucaipa, California.
 
-Analyzed on: 2026-04-25 23:12:01
+Analyzed on: 2026-04-26 12:39:52
 **Total Zionist Contributions:** $4,500
 **Total Zionist Behested Payments:** $0
 

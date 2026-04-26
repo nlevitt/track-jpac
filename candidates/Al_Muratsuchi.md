@@ -1,10 +1,12 @@
 # California Zionist Supporters: Al Muratsuchi
 
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad66.jpg" alt="Photo of Al Muratsuchi" align="right" style="margin-left: 20px">
+
 **Role:** State Assemblymember, District 66
 
-Al Muratsuchi currently serves as the State Assemblymember for California's 66th District, representing the Los Angeles South Bay area. He is also a candidate for California Superintendent of Public Instruction in the June 2, 2026 primary election.
+Al Muratsuchi is currently a California State Assemblymember representing District 66. He is also seeking election for California Superintendent of Public Instruction in the June 2026 primary. Muratsuchi represents and resides in the Los Angeles South Bay area, including Torrance.
 
-Analyzed on: 2026-04-26 02:27:55
+Analyzed on: 2026-04-26 12:56:02
 **Total Zionist Contributions:** $6,500
 **Total Zionist Behested Payments:** $0
 

@@ -1,10 +1,12 @@
 # California Zionist Supporters: Blanca Pacheco
 
-**Role:** State Assemblymember, District 64
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/pachecho_007_11-30-22_resized.jpg" alt="Photo of Blanca Pacheco" align="right" style="margin-left: 20px">
 
-Blanca Pacheco is the incumbent State Assemblymember for District 64 and is seeking re-election to the California State Assembly for the same district in the 2026 election. She is from Downey, California.
+**Role:** State Assembly Member, District 64
 
-Analyzed on: 2026-04-26 02:26:05
+Blanca Pacheco is a Democratic member of the California State Assembly, representing District 64, which includes cities like Downey, Norwalk, Whittier, and La Mirada. She assumed office in December 2022 and is currently seeking re-election to the same seat in the June 2, 2026 primary election.
+
+Analyzed on: 2026-04-26 12:55:51
 **Total Zionist Contributions:** $7,000
 **Total Zionist Behested Payments:** $0
 

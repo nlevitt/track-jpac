@@ -51,4 +51,3 @@ Fisher has leveraged his wealth to support political causes and candidates that 
 | [Diane Papan](../candidates/Diane_Papan.md)                   | 2023      | $1,500                 | $0                  |
 | [Matt Haney](../candidates/Matt_Haney.md)                     | 2023      | $1,500                 | $0                  |
 | [Al Muratsuchi](../candidates/Al_Muratsuchi.md)               | 2021      | $1,000                 | $0                  |
-| [Joe Patterson](../candidates/Joe_Patterson.md)               | 2004      | $500                   | $0                  |

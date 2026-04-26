@@ -1,10 +1,12 @@
 # California Zionist Supporters: Monique Limón
 
-**Role:** State Senator, District 21; President pro Tempore of the California State Senate
+<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/limon_monique_d-19_2.jpg" alt="Photo of Monique Limón" align="right" style="margin-left: 20px">
 
-Monique Limón is a member of the California State Senate, representing District 21. She also serves as the President pro Tempore of the California State Senate, having assumed that office in late 2025 or early 2026. Limón was born and raised in Santa Barbara, California.
+**Role:** State Senator, District 21, and Senate President pro Tempore
 
-Analyzed on: 2026-04-26 01:03:15
+Monique Limón is the California Senate President pro Tempore and represents State Senate District 21. She was born and raised in Santa Barbara, California.
+
+Analyzed on: 2026-04-26 12:33:59
 **Total Zionist Contributions:** $14,285
 **Total Zionist Behested Payments:** $0
 

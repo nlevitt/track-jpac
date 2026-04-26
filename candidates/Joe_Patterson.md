@@ -1,21 +1,18 @@
 # California Zionist Supporters: Joe Patterson
 
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/patterson_a25i1438_resized.png" alt="Photo of Joe Patterson" align="right" style="margin-left: 20px">
+
 **Role:** State Assemblymember, District 5
 
-Joe Patterson is currently a Republican member of the California State Assembly, representing District 5, having assumed office on December 5, 2022, with his current term ending on December 7, 2026. He is actively seeking re-election for the same seat and is on the ballot for the primary election on June 2, 2026.
+Joe Patterson is currently a Republican State Assemblymember for District 5. He was born and raised in Napa, California, and is seeking re-election to represent District 5 in the primary on June 2, 2026.
 
-Analyzed on: 2026-04-25 20:12:06
-**Total Zionist Contributions:** $1,250
+Analyzed on: 2026-04-26 12:46:12
+**Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 
 ### Zionist Federal Contributions (FEC)
 
-| Contributor                                              |   Years | Total Amount   | Relationship to Israel                                                                                            |
-|----------------------------------------------------------|---------|----------------|-------------------------------------------------------------------------------------------------------------------|
-| [DE FISHER, EMANUEL](../contributors/deemanuelfisher.md) |    2002 | $250           | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
-| [FISHER, M J MR](../contributors/fisherjmmr.md)          |    1992 | $250           | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
-| [FISHER, M J MRS](../contributors/fisherjmmrs.md)        |    1992 | $250           | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
-| [FISHER, ROBERT](../contributors/fisherrobert.md)        |    2004 | $500           | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
+No Zionist federal contributions identified.
 
 ### Zionist Direct Contributions
 

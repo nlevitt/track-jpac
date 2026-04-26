@@ -1,10 +1,12 @@
 # California Zionist Supporters: Catherine Stefani
 
+<img src="https://sfbos.org/sites/default/files/Roster_frame_stefani_0.jpg" alt="Photo of Catherine Stefani" align="right" style="margin-left: 20px">
+
 **Role:** State Assemblymember, District 19
 
-Catherine Stefani is a Democratic member of the California State Assembly, representing District 19. She is seeking re-election for this seat in the June 2026 primary election and resides in San Francisco, California.
+Catherine Stefani is a Democratic member of the California State Assembly, representing District 19. She is running for re-election to the California State Assembly in the June 2026 primary election and resides in San Francisco.
 
-Analyzed on: 2026-04-26 01:21:59
+Analyzed on: 2026-04-26 12:49:27
 **Total Zionist Contributions:** $9,500
 **Total Zionist Behested Payments:** $0
 

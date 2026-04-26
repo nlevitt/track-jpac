@@ -42,6 +42,7 @@ External observers and advocacy groups have documented the PAC's specific dedica
 |-------------------------------------------------|-----------|------------------------|---------------------|
 | [Marc Berman](../candidates/Marc_Berman.md)     | 2015-2017 | $13,000                | $0                  |
 | [Jesse Gabriel](../candidates/Jesse_Gabriel.md) | 2017      | $8,800                 | $0                  |
+| [Ben Allen](../candidates/Ben_Allen.md)         | 2017      | $8,800                 | $0                  |
 | [Blanca Rubio](../candidates/Blanca_Rubio.md)   | 2017      | $4,400                 | $0                  |
 | [Henry Stern](../candidates/Henry_Stern.md)     | 2015      | $4,200                 | $0                  |
 | [Scott Wiener](../candidates/Scott_Wiener.md)   | 2015      | $4,200                 | $0                  |

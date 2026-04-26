@@ -1,18 +1,18 @@
 # California Zionist Supporters: Diane Dixon
 
-**Role:** State Assemblywoman, District 72
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/dixon_a25i1340_resized.png" alt="Photo of Diane Dixon" align="right" style="margin-left: 20px">
 
-Diane Dixon is a California State Assemblywoman for the 72nd District, representing Newport Beach. She is currently a candidate for the Orange County Board of Supervisors, District 5, in the 2026 California Primary Election.
+**Role:** State Assemblymember, District 72
 
-Analyzed on: 2026-04-26 02:47:08
-**Total Zionist Contributions:** $3,300
+Diane Dixon is a Republican serving as the California State Assemblymember for District 72, from Newport Beach. She is also a candidate for the Orange County Board of Supervisors, District 5, in the 2026 election.
+
+Analyzed on: 2026-04-26 12:56:56
+**Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 
 ### Zionist Federal Contributions (FEC)
 
-| Contributor                                   |   Years | Total Amount   | Relationship to Israel                                                                               |
-|-----------------------------------------------|---------|----------------|------------------------------------------------------------------------------------------------------|
-| [FISHER, JOHN](../contributors/fisherjohn.md) |    2024 | $3,300         | Prominent Zionist donor (Oakland A's owner); associated with Koret Foundation and Birthright Israel. |
+No Zionist federal contributions identified.
 
 ### Zionist Direct Contributions
 

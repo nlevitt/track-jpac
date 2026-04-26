@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 29
 
-Eloise Gómez Reyes is a California State Senator representing District 29. She assumed office on December 2, 2024, and is from Colton, California.
+Eloise Gómez Reyes is a California State Senator representing District 29, having assumed office in December 2024. She is from Colton, California, in the Inland Empire.
 
-Analyzed on: 2026-04-26 00:42:56
+Analyzed on: 2026-04-26 12:32:54
 **Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 

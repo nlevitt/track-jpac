@@ -1,10 +1,12 @@
 # California Zionist Supporters: Sharon Quirk-Silva
 
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad65_quirk-silva_siteportrait.jpg" alt="Photo of Sharon Quirk-Silva" align="right" style="margin-left: 20px">
+
 **Role:** State Assemblymember, District 67
 
-Sharon Quirk-Silva is a member of the California State Assembly, representing District 67. She is from Fullerton, California, and is term-limited for her current Assembly seat in 2026.
+Sharon Quirk-Silva is a member of the California State Assembly, representing District 67. She is from Fullerton and is term-limited from the Assembly in 2026.
 
-Analyzed on: 2026-04-26 02:28:28
+Analyzed on: 2026-04-26 12:56:11
 **Total Zionist Contributions:** $1,500
 **Total Zionist Behested Payments:** $0
 

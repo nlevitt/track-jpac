@@ -1,10 +1,12 @@
 # California Zionist Supporters: Natasha Johnson
 
-**Role:** State Assemblymember, District 63
+<img src="nan" alt="Photo of Natasha Johnson" align="right" style="margin-left: 20px">
 
-Natasha Johnson is the State Assemblymember for California's 63rd District, having assumed office in September 2025. She is seeking re-election to represent District 63 in the June 2026 primary and is from Lake Elsinore.
+**Role:** State Assembly Member, District 63
 
-Analyzed on: 2026-04-26 02:23:58
+Natasha Johnson is a member of the California State Assembly, representing the 63rd district, having assumed office in September 2025. She previously served on the Lake Elsinore City Council, including three terms as mayor. Johnson is seeking re-election to the California State Assembly for District 63 in the June 2, 2026 primary.
+
+Analyzed on: 2026-04-26 12:55:46
 **Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 

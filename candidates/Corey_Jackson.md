@@ -1,18 +1,18 @@
 # California Zionist Supporters: Corey Jackson
 
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/jackson_027_11-30-22_resized.jpg" alt="Photo of Corey Jackson" align="right" style="margin-left: 20px">
+
 **Role:** State Assemblymember, District 60
 
-Corey Jackson is the State Assemblymember for California's 60th Assembly District, representing portions of Riverside, Moreno Valley, Perris, and San Jacinto. He was reelected in November 2024 and is seeking re-election for this seat in the June 2, 2026, primary election.
+Corey Jackson is a member of the California State Assembly, representing District 60. He is seeking re-election to the same seat in the 2026 primary election on June 2, 2026. He represents areas including portions of Riverside, Moreno Valley, Perris, and San Jacinto.
 
-Analyzed on: 2026-04-26 02:17:03
-**Total Zionist Contributions:** $1,000
+Analyzed on: 2026-04-26 12:55:26
+**Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 
 ### Zionist Federal Contributions (FEC)
 
-| Contributor                                   |   Years | Total Amount   | Relationship to Israel                                                                               |
-|-----------------------------------------------|---------|----------------|------------------------------------------------------------------------------------------------------|
-| [FISHER, JOHN](../contributors/fisherjohn.md) |    2016 | $1,000         | Prominent Zionist donor (Oakland A's owner); associated with Koret Foundation and Birthright Israel. |
+No Zionist federal contributions identified.
 
 ### Zionist Direct Contributions
 

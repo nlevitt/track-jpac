@@ -39,6 +39,7 @@ Fisher’s political activity is characterized by large-scale donations to the R
 | [Henry Stern](../candidates/Henry_Stern.md)                   | 2015-2017 | $9,600                 | $0                  |
 | [Scott Wiener](../candidates/Scott_Wiener.md)                 | 2017      | $8,800                 | $0                  |
 | [Anna Caballero](../candidates/Anna_Caballero.md)             | 2015-2017 | $8,600                 | $0                  |
+| [Ben Allen](../candidates/Ben_Allen.md)                       | 2013-2017 | $8,500                 | $0                  |
 | [Robert Rivas](../candidates/Robert_Rivas.md)                 | 2017-2023 | $7,900                 | $0                  |
 | [Marc Berman](../candidates/Marc_Berman.md)                   | 2017      | $4,400                 | $0                  |
 | [Tony Strickland](../candidates/Tony_Strickland.md)           | 2014      | $3,600                 | $0                  |

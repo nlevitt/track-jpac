@@ -2,9 +2,9 @@
 
 **Role:** State Senator, District 25
 
-Sasha Renée Pérez is a California State Senator representing District 25 and is seeking re-election for this seat. She is from Alhambra, California.
+Sasha Renée Pérez is a California State Senator representing District 25. A San Gabriel Valley native and former Mayor of Alhambra, she is currently seeking re-election to the State Senate.
 
-Analyzed on: 2026-04-26 00:51:55
+Analyzed on: 2026-04-26 12:33:40
 **Total Zionist Contributions:** $250
 **Total Zionist Behested Payments:** $0
 

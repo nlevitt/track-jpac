@@ -1,23 +1,22 @@
 # California Zionist Supporters: Lori Wilson
 
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad11-wilson_006_portraits_resized.jpg" alt="Photo of Lori Wilson" align="right" style="margin-left: 20px">
+
 **Role:** State Assemblymember, District 11
 
-Lori Wilson is a Democratic member of the California State Assembly, representing District 11, a role she has held since April 2022. She is currently running for re-election in 2026 and also serves as Chair of the Assembly Transportation Committee and the California Legislative Black Caucus.
+Lori Wilson is the State Assemblymember for California's 11th District, which includes all of Solano County and portions of Contra Costa and Sacramento Counties. She is seeking re-election to the California State Assembly in the June 2, 2026 primary election. Wilson is from Suisun City, California.
 
-Analyzed on: 2026-04-25 20:33:33
-**Total Zionist Contributions:** $10,002
+Analyzed on: 2026-04-26 12:47:19
+**Total Zionist Contributions:** $9,500
 **Total Zionist Behested Payments:** $0
 
 ### Zionist Federal Contributions (FEC)
 
-| Contributor                                         |   Years | Total Amount   | Relationship to Israel                                                                                            |
-|-----------------------------------------------------|---------|----------------|-------------------------------------------------------------------------------------------------------------------|
-| [FISHER, DONNA J.](../contributors/donnafisherj.md) |    2010 | $2             | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
+No Zionist federal contributions identified.
 
 ### Zionist Direct Contributions
 
-| Contributor                                             | Years     | Total Amount   | Relationship to Israel                                                                                            |
-|---------------------------------------------------------|-----------|----------------|-------------------------------------------------------------------------------------------------------------------|
-| [Fisher, Robert J.](../contributors/fisherjrobert.md)   | 2021-2025 | $8,500         | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
-| [Fisher, William S.](../contributors/fisherswilliam.md) | 2021      | $1,000         | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
-| [Leib, Rich](../contributors/leibrich.md)               | 2023      | $500           | Former Chair of UC Regents; documented Zionist advocate and supporter of Israel causes.                           |
+| Contributor                                             | Years     | Total Amount   | Relationship to Israel                                                                               |
+|---------------------------------------------------------|-----------|----------------|------------------------------------------------------------------------------------------------------|
+| [Fisher, Robert J.](../contributors/fisherjrobert.md)   | 2021-2025 | $8,500         | Prominent Zionist donor (Gap Inc. chairman); associated with Koret Foundation and Birthright Israel. |
+| [Fisher, William S.](../contributors/fisherswilliam.md) | 2021      | $1,000         | Prominent Zionist donor (Manzanita Capital); associated with Koret Foundation and Birthright Israel. |

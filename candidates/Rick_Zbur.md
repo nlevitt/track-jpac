@@ -1,10 +1,12 @@
 # California Zionist Supporters: Rick Zbur
 
-**Role:** California State Assemblymember, District 51
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/chavez-zbur_510_11-30-22_resized.jpg" alt="Photo of Rick Zbur" align="right" style="margin-left: 20px">
 
-Rick Zbur is a California State Assemblymember for District 51 and the Democratic Caucus Chair of the California Assembly. He is seeking re-election for this position and is originally from New Mexico, currently residing in Los Angeles.
+**Role:** State Assemblymember, District 51
 
-Analyzed on: 2026-04-26 01:47:31
+Rick Zbur is currently serving as a California State Assemblymember for District 51. He is seeking re-election for the same office in the June 2, 2026 primary and is from Peralta, New Mexico, residing in Los Angeles, California.
+
+Analyzed on: 2026-04-26 12:54:15
 **Total Zionist Contributions:** $23,650
 **Total Zionist Behested Payments:** $0
 

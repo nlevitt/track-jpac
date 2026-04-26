@@ -1,10 +1,12 @@
 # California Zionist Supporters: John Laird
 
+<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd17_laird_0.jpg" alt="Photo of John Laird" align="right" style="margin-left: 20px">
+
 **Role:** State Senator, District 17
 
-John Laird is a California State Senator, representing District 17, which includes Santa Cruz, San Benito, Monterey, and most of San Luis Obispo Counties. He was re-elected in November 2024 and his current term extends until December 2028. As of April 2026, he chairs the Senate Budget Subcommittee on Education and the Select Committee on Older LGBTQ+ Californians.
+John Laird is the State Senator for District 17, having been re-elected on November 5, 2024, for his final term. He is a resident of Santa Cruz, California.
 
-Analyzed on: 2026-04-25 23:11:50
+Analyzed on: 2026-04-26 12:39:19
 **Total Zionist Contributions:** $8,400
 **Total Zionist Behested Payments:** $0
 

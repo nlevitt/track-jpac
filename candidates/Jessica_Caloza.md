@@ -1,10 +1,12 @@
 # California Zionist Supporters: Jessica Caloza
 
+<img src="https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/158655.jpg" alt="Photo of Jessica Caloza" align="right" style="margin-left: 20px">
+
 **Role:** State Assemblymember, District 52
 
-Jessica Caloza is the State Assemblymember for District 52 and is seeking re-election to the same office. She is from Eagle Rock, Los Angeles, having immigrated from the Philippines.
+Jessica Caloza is a California State Assemblymember for the 52nd District, having assumed office in December 2024. She is seeking re-election in the June 2, 2026 primary election. Caloza was born in Quezon City, Philippines.
 
-Analyzed on: 2026-04-26 01:48:50
+Analyzed on: 2026-04-26 12:54:20
 **Total Zionist Contributions:** $250
 **Total Zionist Behested Payments:** $0
 

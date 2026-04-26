@@ -1,10 +1,12 @@
 # California Zionist Supporters: Lisa Calderon
 
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/calderon-057.jpg" alt="Photo of Lisa Calderon" align="right" style="margin-left: 20px">
+
 **Role:** State Assemblymember, District 56
 
-Lisa Calderon is the State Assemblymember for California's 56th District, having assumed office on December 5, 2022. She is seeking re-election to the same seat in the primary election on June 2, 2026, and resides in the City of Whittier.
+Lisa Calderon is the State Assemblymember for California's 56th District, a position she assumed on December 5, 2022. She is seeking re-election to the same office in the upcoming 2026 elections. Calderon was born and raised in California's Central Valley and resides in Whittier.
 
-Analyzed on: 2026-04-26 02:00:28
+Analyzed on: 2026-04-26 12:54:49
 **Total Zionist Contributions:** $1,500
 **Total Zionist Behested Payments:** $0
 

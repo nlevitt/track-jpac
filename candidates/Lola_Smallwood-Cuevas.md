@@ -1,11 +1,13 @@
 # California Zionist Supporters: Lola Smallwood-Cuevas
 
+<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/smallwood-cuevas_lola_d-28.jpg" alt="Photo of Lola Smallwood-Cuevas" align="right" style="margin-left: 20px">
+
 **Role:** State Senator, District 28
 
-Lola Smallwood-Cuevas is a California State Senator representing District 28, which includes diverse communities within Los Angeles. She is seeking re-election for this position in the June 2, 2026 primary election.
+Lola Smallwood-Cuevas is a California State Senator representing District 28, which includes communities in Los Angeles. She is currently seeking re-election to her seat in the California State Senate in the June 2, 2026 primary election.
 
-Analyzed on: 2026-04-26 01:12:57
-**Total Zionist Contributions:** $100
+Analyzed on: 2026-04-26 12:40:57
+**Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 
 ### Zionist Federal Contributions (FEC)
@@ -14,6 +16,5 @@ No Zionist federal contributions identified.
 
 ### Zionist Direct Contributions
 
-| Contributor                                         |   Years | Total Amount   | Relationship to Israel                                                                                            |
-|-----------------------------------------------------|---------|----------------|-------------------------------------------------------------------------------------------------------------------|
-| [Fisher, Felecia](../contributors/feleciafisher.md) |    2021 | $100           | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
+No Zionist supporters identified among contributors.
+

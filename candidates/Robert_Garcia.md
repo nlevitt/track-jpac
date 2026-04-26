@@ -1,10 +1,12 @@
 # California Zionist Supporters: Robert Garcia
 
+<img src="https://www.joincalifornia.com/candidate_pic.php?id=15124" alt="Photo of Robert Garcia" align="right" style="margin-left: 20px">
+
 **Role:** U.S. Representative, California's 42nd Congressional District
 
-Robert Garcia is the U.S. Representative for California's 42nd Congressional District and is seeking re-election for this position in the upcoming 2026 primary. He is from Long Beach, California, and previously served as the city's mayor.
+Robert Garcia is the U.S. Representative for California's 42nd Congressional District, representing Long Beach, California, and Southeast Los Angeles. He is seeking re-election to the U.S. House to represent California's 42nd Congressional District in the primary on June 2, 2026.
 
-Analyzed on: 2026-04-26 01:44:42
+Analyzed on: 2026-04-26 12:54:09
 **Total Zionist Contributions:** $2,500
 **Total Zionist Behested Payments:** $0
 

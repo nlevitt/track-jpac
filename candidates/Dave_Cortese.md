@@ -1,10 +1,12 @@
 # California Zionist Supporters: Dave Cortese
 
+<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd15_cortese_0.jpg" alt="Photo of Dave Cortese" align="right" style="margin-left: 20px">
+
 **Role:** State Senator, District 15
 
-Dave Cortese is currently serving his second four-year term as a California State Senator for District 15, which encompasses much of Santa Clara County. He also holds the positions of State Senate Majority Whip and Chair of the Senate Transportation Committee as of April 2026.
+Dave Cortese is a California State Senator representing District 15, which encompasses much of Santa Clara County, and is from San Jose, California. He is currently seeking the office of California Attorney General in 2026.
 
-Analyzed on: 2026-04-25 23:11:32
+Analyzed on: 2026-04-26 12:38:45
 **Total Zionist Contributions:** $3,000
 **Total Zionist Behested Payments:** $0
 

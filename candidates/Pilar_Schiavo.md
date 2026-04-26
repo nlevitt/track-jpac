@@ -1,11 +1,13 @@
 # California Zionist Supporters: Pilar Schiavo
 
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/schiavo_030_11-29-22_resized.jpg" alt="Photo of Pilar Schiavo" align="right" style="margin-left: 20px">
+
 **Role:** State Assemblymember, District 40
 
-Pilar Schiavo is a member of the California State Assembly, representing District 40. Her current term ends in December 2026, and she is seeking re-election to the same office in the June 2026 primary election. She was born in Sonora, California, and currently resides in Chatsworth.
+Pilar Schiavo is a member of the California State Assembly, representing District 40. She is seeking re-election to the California State Assembly for District 40 in the upcoming 2026 election and lives in Chatsworth.
 
-Analyzed on: 2026-04-26 01:28:38
-**Total Zionist Contributions:** $375
+Analyzed on: 2026-04-26 12:52:33
+**Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 
 ### Zionist Federal Contributions (FEC)
@@ -14,6 +16,5 @@ No Zionist federal contributions identified.
 
 ### Zionist Direct Contributions
 
-| Contributor                                                        |   Years | Total Amount   | Relationship to Israel                                                                                            |
-|--------------------------------------------------------------------|---------|----------------|-------------------------------------------------------------------------------------------------------------------|
-| [Carroll-Fisher, Heather](../contributors/carrollfisherheather.md) |    2021 | $375           | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
+No Zionist supporters identified among contributors.
+

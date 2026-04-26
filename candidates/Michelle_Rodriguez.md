@@ -1,10 +1,12 @@
 # California Zionist Supporters: Michelle Rodriguez
 
-**Role:** State Assemblymember, District 53
+<img src="https://michelleforassembly.com/cms/wp-content/uploads/2023/08/new-safe-meeno-MICHELLE_RODRIGUEZ-2023.07_011.jpg" alt="Photo of Michelle Rodriguez" align="right" style="margin-left: 20px">
 
-Michelle Rodriguez is a Democratic member of the California State Assembly, representing District 53. She assumed office on December 2, 2024, and is currently seeking re-election in the primary on June 2, 2026. Rodriguez is from Ontario, California, and is a lifelong resident of the 53rd Assembly District.
+**Role:** Assemblymember, District 53
 
-Analyzed on: 2026-04-26 01:50:09
+Michelle Rodriguez is the Assemblymember for California's 53rd District, a position she assumed on December 2, 2024. She is from Ontario, California, and is seeking re-election for the 53rd District in the primary on June 2, 2026.
+
+Analyzed on: 2026-04-26 12:54:30
 **Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 

@@ -1,10 +1,12 @@
 # California Zionist Supporters: Aisha Wahab
 
+<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/wahab_aisha_d-10_-_crop.jpg" alt="Photo of Aisha Wahab" align="right" style="margin-left: 20px">
+
 **Role:** State Senator, District 10
 
-Aisha Wahab is a California State Senator representing District 10, having assumed office on December 5, 2022, with her current term ending on December 7, 2026. She is also a candidate for California's 14th Congressional District in the U.S. House, participating in a primary on June 2, 2026, and a special election on June 16, 2026.
+Aisha Wahab is a State Senator for District 10, residing in Hayward, California. She is currently seeking election to the U.S. House of Representatives for California's 14th Congressional District.
 
-Analyzed on: 2026-04-25 23:11:13
+Analyzed on: 2026-04-26 12:37:04
 **Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 

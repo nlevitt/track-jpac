@@ -1,10 +1,12 @@
 # California Zionist Supporters: Tri Ta
 
-**Role:** State Assemblymember, District 70
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/tri_ta_a25i1353_resized.png" alt="Photo of Tri Ta" align="right" style="margin-left: 20px">
 
-Tri Ta currently serves as the California State Assemblymember for District 70 and is seeking re-election to the same office in 2026. He is from Westminster, California.
+**Role:** State Assemblyman, District 70
 
-Analyzed on: 2026-04-26 02:36:51
+Tri Ta is currently a California State Assemblyman representing District 70. He is seeking re-election for the same district in the June 2, 2026 primary election and resides in Westminster, California.
+
+Analyzed on: 2026-04-26 12:56:37
 **Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 

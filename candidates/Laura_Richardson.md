@@ -1,21 +1,21 @@
 # California Zionist Supporters: Laura Richardson
 
+<img src="https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/6409.jpg" alt="Photo of Laura Richardson" align="right" style="margin-left: 20px">
+
 **Role:** State Senator, District 35
 
-Laura Richardson is a Democratic member of the California State Senate, representing District 35. She assumed office on December 2, 2024, and her current term ends on December 4, 2028.
+Laura Richardson is a member of the California State Senate, representing District 35. She was born in Los Angeles, California, and lives in San Pedro.
 
-Analyzed on: 2026-04-25 03:55:34
-**Total Zionist Contributions:** $2,000
+Analyzed on: 2026-04-26 12:42:03
+**Total Zionist Contributions:** $1,500
 **Total Zionist Behested Payments:** $0
 
 ### Zionist Federal Contributions (FEC)
 
-| Contributor      |   Years | Total Amount   | Relationship to Israel                                                                                            |
-|------------------|---------|----------------|-------------------------------------------------------------------------------------------------------------------|
-| FISHER, EMILY H. |    2002 | $500           | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
+No Zionist federal contributions identified.
 
 ### Zionist Direct Contributions
 
-| Contributor                                          |   Years | Total Amount   | Relationship to Israel                                                                                            |
-|------------------------------------------------------|---------|----------------|-------------------------------------------------------------------------------------------------------------------|
-| [Fisher, Robert J](../contributors/fisherjrobert.md) |    2025 | $1,500         | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
+| Contributor                                          |   Years | Total Amount   | Relationship to Israel                                                                               |
+|------------------------------------------------------|---------|----------------|------------------------------------------------------------------------------------------------------|
+| [Fisher, Robert J](../contributors/fisherjrobert.md) |    2025 | $1,500         | Prominent Zionist donor (Gap Inc. chairman); associated with Koret Foundation and Birthright Israel. |

@@ -1,10 +1,12 @@
 # California Zionist Supporters: Catherine Blakespear
 
+<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/blakespear_catherine_d-38.jpg" alt="Photo of Catherine Blakespear" align="right" style="margin-left: 20px">
+
 **Role:** State Senator, District 38
 
-Catherine Blakespear is the State Senator for District 38, which encompasses northern San Diego County and southern Orange County. She is seeking re-election to the California State Senate to represent District 38 in 2026 and resides in Encinitas.
+Catherine Blakespear is the State Senator for California's 38th District and is seeking re-election to that office in the June 2, 2026 primary. She is from Encinitas, California.
 
-Analyzed on: 2026-04-26 01:14:57
+Analyzed on: 2026-04-26 12:42:47
 **Total Zionist Contributions:** $3,500
 **Total Zionist Behested Payments:** $0
 

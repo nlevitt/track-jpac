@@ -1,18 +1,14 @@
 # California Zionist Supporters: Kate Sanchez
 
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/sanchez_a25i1518_resized.png" alt="Photo of Kate Sanchez" align="right" style="margin-left: 20px">
+
 **Role:** State Assembly Member, District 71
 
-Kate Sanchez is a member of the California State Assembly, representing District 71. She is running for re-election to the California State Assembly for District 71 in the 2026 election, and her district includes areas across Orange and Riverside counties.
+Kate Sanchez is the State Assembly Member for California's 71st District, having assumed office in December 2022. She is seeking re-election to the same office in the June 2026 primary and November 2026 general election, and her family has resided in the 71st Assembly District for over 30 years.
 
-Analyzed on: 2026-04-26 02:41:02
-**Total Zionist Contributions:** $2,500
+Analyzed on: 2026-04-26 12:56:49
+**Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
-
-### Zionist Federal Contributions (FEC)
-
-| Contributor                            |   Years | Total Amount   | Relationship to Israel                                         |
-|----------------------------------------|---------|----------------|----------------------------------------------------------------|
-| [DMFI PAC](../contributors/dmfipac.md) |    2021 | $2,500         | Democratic Majority for Israel; Zionist advocacy organization. |
 
 
 Search returned no candidate results on SOS PowerSearch.

@@ -1,22 +1,20 @@
 # California Zionist Supporters: Jeff Gonzalez
 
+<img src="https://californiaglobe.com/wp-content/uploads/2024/10/Screenshot-2024-10-03-at-7.03.49%E2%80%AFAM-708x642.png" alt="Photo of Jeff Gonzalez" align="right" style="margin-left: 20px">
+
 **Role:** State Assemblymember, District 36
 
-Jeff Gonzalez is a Republican State Assemblymember for California's 36th District, having assumed office on December 2, 2024, and is currently running for re-election in the June 2, 2026, primary. A combat veteran and small business owner, he was named 2026 Veteran of the Year in April 2026.
+Jeff Gonzalez is the Republican State Assemblymember for California's District 36, having assumed office on December 2, 2024. He is seeking re-election to represent District 36 in the primary on June 2, 2026, and is from Indio, California.
 
-Analyzed on: 2026-04-25 21:51:23
-**Total Zionist Contributions:** $5,000
+Analyzed on: 2026-04-26 12:52:22
+**Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 
 ### Zionist Federal Contributions (FEC)
 
-| Contributor                                         |   Years | Total Amount   | Relationship to Israel                                                                                            |
-|-----------------------------------------------------|---------|----------------|-------------------------------------------------------------------------------------------------------------------|
-| [DMFI PAC](../contributors/dmfipac.md)              |    2025 | $1,000         | Democratic Majority for Israel; Zionist advocacy organization.                                                    |
-| [FISHER, DEBORAH](../contributors/deborahfisher.md) |    2026 | $2,000         | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
+No Zionist federal contributions identified.
 
 ### Zionist Direct Contributions
 
-| Contributor                                   |   Years | Total Amount   | Relationship to Israel                                                                                            |
-|-----------------------------------------------|---------|----------------|-------------------------------------------------------------------------------------------------------------------|
-| [Fisher, Dana](../contributors/danafisher.md) |    2025 | $2,000         | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
+No Zionist supporters identified among contributors.
+

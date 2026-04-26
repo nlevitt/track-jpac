@@ -1,10 +1,12 @@
 # California Zionist Supporters: Tom Umberg
 
+<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_umberg.jpg" alt="Photo of Tom Umberg" align="right" style="margin-left: 20px">
+
 **Role:** State Senator, District 34
 
-Tom Umberg is a Democratic member of the California State Senate, representing District 34, with his current term ending in December 2026. He is currently seeking election to the California State Board of Equalization, District 4, in the June 2026 primary election. Umberg is from Orange County, California.
+Tom Umberg currently serves as a California State Senator for District 34. He is also a candidate for the California State Board of Equalization, District 4, and is from Orange County, California.
 
-Analyzed on: 2026-04-26 01:14:09
+Analyzed on: 2026-04-26 12:41:40
 **Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 

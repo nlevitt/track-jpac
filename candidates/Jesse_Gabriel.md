@@ -1,10 +1,12 @@
 # California Zionist Supporters: Jesse Gabriel
 
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad-46_gabriel_resized.jpg" alt="Photo of Jesse Gabriel" align="right" style="margin-left: 20px">
+
 **Role:** State Assemblymember, District 46
 
-Jesse Gabriel is the incumbent State Assemblymember for California's 46th District, a position he assumed on December 5, 2022. He is seeking re-election to represent District 46 in the upcoming 2026 elections and is originally from Berkeley, California.
+Jesse Gabriel is a California State Assemblymember for District 46, a position he currently holds and is seeking re-election for in the upcoming 2026 elections. Born in Berkeley, California, and raised in Oak Park, California, he resides in the San Fernando Valley.
 
-Analyzed on: 2026-04-26 01:32:23
+Analyzed on: 2026-04-26 12:53:31
 **Total Zionist Contributions:** $82,650
 **Total Zionist Behested Payments:** $0
 

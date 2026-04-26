@@ -2,9 +2,9 @@
 
 **Role:** State Assemblymember, District 34
 
-Thomas Lackey is a Republican State Assemblymember for District 34, from Boron, California. He is currently serving his term, which ends on December 7, 2026, and is term-limited from seeking re-election to the State Assembly.
+Thomas Lackey is a Republican currently serving as the State Assemblymember for California's 34th District. He is from Palmdale, California, and is term-limited for re-election to this seat in 2026.
 
-Analyzed on: 2026-04-26 01:08:40
+Analyzed on: 2026-04-26 12:34:27
 **Total Zionist Contributions:** $4,200
 **Total Zionist Behested Payments:** $0
 

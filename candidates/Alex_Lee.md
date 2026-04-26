@@ -1,18 +1,18 @@
 # California Zionist Supporters: Alex Lee
 
-**Role:** California State Assemblymember, District 24
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/lee-025.jpg" alt="Photo of Alex Lee" align="right" style="margin-left: 20px">
 
-Alex Lee is currently serving as the California State Assemblymember for District 24, a position he has held since being sworn into his second term on December 5, 2022. He is also the chair of the California Legislative Progressive Caucus and is seeking re-election in the primary on June 2, 2026.
+**Role:** State Assemblymember, District 24
 
-Analyzed on: 2026-04-25 21:18:12
-**Total Zionist Contributions:** $1,000
+Alex Lee is a member of the California State Assembly, representing District 24. He is seeking re-election to the California State Assembly for District 24 in the 2026 election, with the primary on June 2, 2026. Lee is from San Jose, California.
+
+Analyzed on: 2026-04-26 12:50:39
+**Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 
 ### Zionist Federal Contributions (FEC)
 
-| Contributor                                     |   Years | Total Amount   | Relationship to Israel                                                                                            |
-|-------------------------------------------------|---------|----------------|-------------------------------------------------------------------------------------------------------------------|
-| [FISHER, EMILY](../contributors/emilyfisher.md) |    1996 | $1,000         | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
+No Zionist federal contributions identified.
 
 ### Zionist Direct Contributions
 

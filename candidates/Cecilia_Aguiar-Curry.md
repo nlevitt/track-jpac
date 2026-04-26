@@ -1,10 +1,12 @@
 # California Zionist Supporters: Cecilia Aguiar-Curry
 
-**Role:** State Assemblymember, District 4, and Assembly Majority Leader
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad-04_aguiar-curry_c18_resized.jpg" alt="Photo of Cecilia Aguiar-Curry" align="right" style="margin-left: 20px">
 
-Cecilia Aguiar-Curry is the Assembly Majority Leader for California State Assembly, District 4, where her current term concludes on December 7, 2026. She is seeking re-election for the same district in the June 2, 2026, primary election and is from Winters, Yolo County.
+**Role:** Assembly Majority Leader, California State Assembly, District 4
 
-Analyzed on: 2026-04-26 01:15:51
+Cecilia Aguiar-Curry is the Assembly Majority Leader for California's 4th Assembly District and is seeking re-election for the same seat. She is from Winters, California.
+
+Analyzed on: 2026-04-26 12:45:47
 **Total Zionist Contributions:** $14,000
 **Total Zionist Behested Payments:** $0
 

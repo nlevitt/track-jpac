@@ -1,10 +1,12 @@
 # California Zionist Supporters: Tina McKinnor
 
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/mckinnon_portrait_web.jpg" alt="Photo of Tina McKinnor" align="right" style="margin-left: 20px">
+
 **Role:** State Assemblymember, District 61
 
-Tina McKinnor is a Democratic member of the California State Assembly, representing District 61. She was born and raised in Los Angeles County, California, and is seeking re-election to her current office in the 2026 primary election.
+Tina McKinnor is currently a California State Assemblymember for District 61 and is seeking re-election to the same office in the June 2, 2026 primary election. She is from Los Angeles County.
 
-Analyzed on: 2026-04-26 02:17:16
+Analyzed on: 2026-04-26 13:17:17
 **Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 

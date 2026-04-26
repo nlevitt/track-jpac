@@ -1,10 +1,12 @@
 # California Zionist Supporters: Melissa Hurtado
 
+<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_hurtado_0.jpg" alt="Photo of Melissa Hurtado" align="right" style="margin-left: 20px">
+
 **Role:** State Senator, District 16
 
-Melissa Hurtado is a Democratic member of the California State Senate, representing District 16. Her current term concludes on December 7, 2026, and she is seeking re-election in the June 2, 2026 primary election. As of April 2026, she chairs the Senate Budget Subcommittee No. 4 on State Administration and General Government and has recently advanced legislation concerning student safety and rail infrastructure.
+Melissa Hurtado is a Democratic member of the California State Senate, representing District 16. She is seeking re-election to the same seat in the June 2, 2026 primary election and is from Sanger, California, in the Central Valley.
 
-Analyzed on: 2026-04-25 23:11:43
+Analyzed on: 2026-04-26 12:39:04
 **Total Zionist Contributions:** $4,500
 **Total Zionist Behested Payments:** $0
 

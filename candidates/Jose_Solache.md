@@ -2,9 +2,9 @@
 
 **Role:** State Assemblymember, District 62
 
-Jose Solache is the State Assemblymember for District 62 and is seeking re-election to this office. He is from Lynwood, California.
+Jose Solache is a member of the California State Assembly, representing District 62, and is seeking re-election to the same office in the June 2026 primary. He is from Lynwood, California.
 
-Analyzed on: 2026-04-26 02:18:14
+Analyzed on: 2026-04-26 12:55:42
 **Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
 
