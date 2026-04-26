@@ -50,4 +50,5 @@ Fisher has leveraged his wealth to support political causes and candidates that 
 | Lisa Calderon        | 2021      | $1,500                 | $0                  |
 | Diane Papan          | 2023      | $1,500                 | $0                  |
 | Matt Haney           | 2023      | $1,500                 | $0                  |
+| Al Muratsuchi        | 2021      | $1,000                 | $0                  |
 | Joe Patterson        | 2004      | $500                   | $0                  |

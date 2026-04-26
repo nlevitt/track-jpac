@@ -42,7 +42,6 @@ External observers and advocacy groups have documented the PAC's specific dedica
 |---------------|-----------|------------------------|---------------------|
 | Marc Berman   | 2015-2017 | $13,000                | $0                  |
 | Jesse Gabriel | 2017      | $8,800                 | $0                  |
-| Ben Allen     | 2017      | $8,800                 | $0                  |
 | Blanca Rubio  | 2017      | $4,400                 | $0                  |
 | Henry Stern   | 2015      | $4,200                 | $0                  |
 | Scott Wiener  | 2015      | $4,200                 | $0                  |
