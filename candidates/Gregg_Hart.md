@@ -1,12 +1,16 @@
 # California Zionist Supporters: Gregg Hart
 
-**Role:** California State Assemblymember, District 37
+**Role:** State Assemblymember, District 37
 
-Gregg Hart is currently serving as the California State Assemblymember for the 37th District, having been elected in November 2022 and assuming office on December 5, 2022. His current term concludes on December 7, 2026, and he is seeking re-election in the primary scheduled for June 2, 2026.
+Gregg Hart is a member of the California State Assembly, representing District 37. He is seeking re-election to the same office in the June 2, 2026 primary election and is from Santa Barbara.
 
-Analyzed on: 2026-04-25 21:56:40
+Analyzed on: 2026-04-26 01:28:19
 **Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
+
+### Zionist Federal Contributions (FEC)
+
+No Zionist federal contributions identified.
 
 ### Zionist Direct Contributions
 

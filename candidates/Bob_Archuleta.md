@@ -2,11 +2,15 @@
 
 **Role:** State Senator, District 30
 
-Bob Archuleta is currently a Democratic member of the California State Senate, representing District 30, with his current term ending in December 2026. He is running for re-election in the 2026 primary election and serves as Chair of the Senate Committee on Military and Veterans Affairs.
+Bob Archuleta is a Democratic member of the California State Senate, representing District 30. He is seeking re-election for the same district in 2026 and resides in Pico Rivera, California.
 
-Analyzed on: 2026-04-25 19:30:44
+Analyzed on: 2026-04-26 01:13:28
 **Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
+
+### Zionist Federal Contributions (FEC)
+
+No Zionist federal contributions identified.
 
 ### Zionist Direct Contributions
 

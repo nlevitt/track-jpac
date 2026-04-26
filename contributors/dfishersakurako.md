@@ -36,9 +36,7 @@ While Sakurako Fisher is primarily identified as a philanthropic donor, her poli
 
 ## Supported Candidates
 
-| Candidate           |   Years | Direct Contributions   | Behested Payments   |
-|---------------------|---------|------------------------|---------------------|
-| Henry Stern         |    2015 | $4,200                 | $0                  |
-| Josh Becker         |    2019 | $2,500                 | $0                  |
-| Robert Rivas        |    2019 | $2,000                 | $0                  |
-| Rebecca Bauer-Kahan |    2019 | $1,000                 | $0                  |
+| Candidate    |   Years | Direct Contributions   | Behested Payments   |
+|--------------|---------|------------------------|---------------------|
+| Josh Becker  |    2019 | $2,500                 | $0                  |
+| Robert Rivas |    2019 | $2,000                 | $0                  |

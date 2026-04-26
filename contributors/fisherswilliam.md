@@ -44,6 +44,7 @@ Fisher has been categorized by researchers and monitoring groups as a "Prominent
 | Tim Grayson          | 2015-2021 | $10,600                | $0                  |
 | Henry Stern          | 2015-2017 | $9,600                 | $0                  |
 | Marc Berman          | 2017      | $4,400                 | $0                  |
+| Blanca Rubio         | 2021      | $1,500                 | $0                  |
 | Matt Haney           | 2021      | $1,500                 | $0                  |
 | Rebecca Bauer-Kahan  | 2019      | $1,000                 | $0                  |
 | Cecilia Aguiar-Curry | 2021      | $1,000                 | $0                  |

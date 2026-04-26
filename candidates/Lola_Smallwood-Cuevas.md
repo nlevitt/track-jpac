@@ -2,11 +2,15 @@
 
 **Role:** State Senator, District 28
 
-Lola Smallwood-Cuevas is a member of the California State Senate, representing District 28, a position she has held since December 5, 2022. Her current term concludes on December 7, 2026, and she is seeking re-election in the primary on June 2, 2026. She chairs the Senate Labor, Public Employment and Retirement Committee.
+Lola Smallwood-Cuevas is a California State Senator representing District 28, which includes diverse communities within Los Angeles. She is seeking re-election for this position in the June 2, 2026 primary election.
 
-Analyzed on: 2026-04-25 19:29:10
+Analyzed on: 2026-04-26 01:12:57
 **Total Zionist Contributions:** $100
 **Total Zionist Behested Payments:** $0
+
+### Zionist Federal Contributions (FEC)
+
+No Zionist federal contributions identified.
 
 ### Zionist Direct Contributions
 

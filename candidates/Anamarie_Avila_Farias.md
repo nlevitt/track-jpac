@@ -1,12 +1,16 @@
 # California Zionist Supporters: Anamarie Avila Farias
 
-**Role:** California State Assemblymember, District 15
+**Role:** State Assemblymember, District 15
 
-Anamarie Avila Farias is the California State Assemblymember for District 15, having assumed office on December 2, 2024, with her current term ending on December 7, 2026. She is running for re-election in the primary on June 2, 2026, and is known for her work in affordable housing and economic development.
+Anamarie Avila Farias is a California State Assemblymember for District 15, having assumed office on December 2, 2024. She is seeking re-election to represent District 15, which includes parts of Contra Costa County and the East Bay, in the 2026 California State Assembly election.
 
-Analyzed on: 2026-04-25 20:48:00
+Analyzed on: 2026-04-26 01:19:41
 **Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
+
+### Zionist Federal Contributions (FEC)
+
+No Zionist federal contributions identified.
 
 ### Zionist Direct Contributions
 

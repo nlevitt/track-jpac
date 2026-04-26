@@ -43,6 +43,7 @@ Doris Fisher and the Doris & Donald Fisher Fund have a long history of supportin
 |-----------------------------|-----------|------------------------|---------------------|
 | Scott Wiener                | 2015-2019 | $17,800                | $0                  |
 | Ben Allen                   | 2017-2019 | $15,000                | $0                  |
+| Blanca Rubio                | 2017-2021 | $12,100                | $0                  |
 | Marc Berman                 | 2017-2021 | $9,900                 | $0                  |
 | Monique Limón               | 2017-2021 | $9,700                 | $0                  |
 | Buffy Wicks                 | 2017      | $8,800                 | $0                  |
@@ -51,6 +52,7 @@ Doris Fisher and the Doris & Donald Fisher Fund have a long history of supportin
 | Christopher Cabaldon        | 2007      | $7,200                 | $0                  |
 | Megan Dahle                 | 2019      | $7,200                 | $0                  |
 | Susan Rubio                 | 2019-2021 | $6,000                 | $0                  |
+| Jesse Gabriel               | 2017-2021 | $5,500                 | $0                  |
 | Sabrina Cervantes           | 2019-2021 | $4,500                 | $0                  |
 | Melissa Hurtado             | 2019-2021 | $4,500                 | $0                  |
 | Jacqui Irwin                | 2017-2021 | $3,500                 | $0                  |
@@ -60,7 +62,7 @@ Doris Fisher and the Doris & Donald Fisher Fund have a long history of supportin
 | Cecilia Aguiar-Curry        | 2021      | $3,000                 | $0                  |
 | Lena Gonzalez               | 2021      | $3,000                 | $0                  |
 | Joaquin Arambula            | 2017      | $2,000                 | $0                  |
-| Rosilicie Ochoa Bogh        | 2021      | $1,500                 | $0                  |
 | Suzette Martinez Valladares | 2021      | $1,500                 | $0                  |
+| Rosilicie Ochoa Bogh        | 2021      | $1,500                 | $0                  |
 | James Ramos                 | 2019      | $1,500                 | $0                  |
 | Tim Grayson                 | 2021      | $1,500                 | $0                  |

@@ -2,18 +2,18 @@
 
 **Role:** State Assemblymember, District 40
 
-Pilar Schiavo is a Democratic member of the California State Assembly, representing District 40. She assumed office in December 2022 and is running for re-election in the June 2026 primary.
+Pilar Schiavo is a member of the California State Assembly, representing District 40. Her current term ends in December 2026, and she is seeking re-election to the same office in the June 2026 primary election. She was born in Sonora, California, and currently resides in Chatsworth.
 
-Analyzed on: 2026-04-25 22:13:01
-**Total Zionist Contributions:** $1,775
+Analyzed on: 2026-04-26 01:28:38
+**Total Zionist Contributions:** $375
 **Total Zionist Behested Payments:** $0
+
+### Zionist Federal Contributions (FEC)
+
+No Zionist federal contributions identified.
 
 ### Zionist Direct Contributions
 
 | Contributor                                                        |   Years | Total Amount   | Relationship to Israel                                                                                            |
 |--------------------------------------------------------------------|---------|----------------|-------------------------------------------------------------------------------------------------------------------|
-| [Fisher, Julienne](../contributors/fisherjulienne.md)              |    2021 | $600           | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
-| [Leib, Rich](../contributors/leibrich.md)                          |    2023 | $500           | Former Chair of UC Regents; documented Zionist advocate and supporter of Israel causes.                           |
 | [Carroll-Fisher, Heather](../contributors/carrollfisherheather.md) |    2021 | $375           | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
-| [Leibman, Abby](../contributors/abbyleibman.md)                    |    2023 | $200           | Former Chair of UC Regents; documented Zionist advocate and supporter of Israel causes.                           |
-| [Fisher, Alida](../contributors/alidafisher.md)                    |    2021 | $100           | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |

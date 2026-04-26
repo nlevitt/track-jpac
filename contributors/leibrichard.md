@@ -34,6 +34,7 @@ Leib’s relationship with Zionist and pro-Israel causes extends to his philanth
 | Candidate            | Years     | Direct Contributions   | Behested Payments   |
 |----------------------|-----------|------------------------|---------------------|
 | John Laird           | 2003-2019 | $2,400                 | $0                  |
+| Jesse Gabriel        | 2023-2025 | $1,500                 | $0                  |
 | Christopher Cabaldon | 2001-2023 | $1,500                 | $0                  |
 | Catherine Blakespear | 2023-2025 | $1,000                 | $0                  |
 | Marc Berman          | 2012      | $1,000                 | $0                  |
@@ -42,6 +43,8 @@ Leib’s relationship with Zionist and pro-Israel causes extends to his philanth
 | Monique Limón        | 2021      | $835                   | $0                  |
 | Anna Caballero       | 2023      | $500                   | $0                  |
 | Diane Papan          | 2021      | $500                   | $0                  |
+| Isaac Bryan          | 2023      | $500                   | $0                  |
 | Buffy Wicks          | 2023      | $500                   | $0                  |
+| Jessica Caloza       | 2023      | $250                   | $0                  |
 | Sasha Renée Pérez    | 2023      | $250                   | $0                  |
 | Bob Archuleta        | 2017      | $0                     | $0                  |

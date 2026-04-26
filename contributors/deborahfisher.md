@@ -44,4 +44,3 @@ The Fisher family has a documented history of supporting organizations that prom
 |---------------|---------|------------------------|---------------------|
 | Lena Gonzalez |    2026 | $2,000                 | $0                  |
 | Jeff Gonzalez |    2026 | $2,000                 | $0                  |
-| Henry Stern   |    2015 | $250                   | $0                  |

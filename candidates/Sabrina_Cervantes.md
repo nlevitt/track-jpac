@@ -2,15 +2,19 @@
 
 **Role:** State Senator, District 31
 
-Sabrina Cervantes is a Democratic member of the California State Senate, representing District 31, a position she has held since December 2, 2024. As of April 2026, she is actively involved in legislative efforts, including authoring the California Voting Rights Act of 2026, and chairs the Senate Appropriations Committee.
+Sabrina Cervantes is a member of the California State Senate, representing District 31. She is from Riverside County, California.
 
-Analyzed on: 2026-04-25 19:30:49
+Analyzed on: 2026-04-26 01:13:44
 **Total Zionist Contributions:** $6,500
 **Total Zionist Behested Payments:** $0
 
+### Zionist Federal Contributions (FEC)
+
+No Zionist federal contributions identified.
+
 ### Zionist Direct Contributions
 
-| Contributor                                           | Years     | Total Amount   | Relationship to Israel                                                                                            |
-|-------------------------------------------------------|-----------|----------------|-------------------------------------------------------------------------------------------------------------------|
-| [Fisher, Doris](../contributors/dorisfisher.md)       | 2019-2021 | $4,500         | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
-| [Fisher, Robert J.](../contributors/fisherjrobert.md) | 2025      | $2,000         | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
+| Contributor                                           | Years     | Total Amount   | Relationship to Israel                                                                                 |
+|-------------------------------------------------------|-----------|----------------|--------------------------------------------------------------------------------------------------------|
+| [Fisher, Doris](../contributors/dorisfisher.md)       | 2019-2021 | $4,500         | Prominent Zionist donor (Gap Inc. co-founder); associated with Koret Foundation and Birthright Israel. |
+| [Fisher, Robert J.](../contributors/fisherjrobert.md) | 2025      | $2,000         | Prominent Zionist donor (Gap Inc. chairman); associated with Koret Foundation and Birthright Israel.   |

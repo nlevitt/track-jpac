@@ -39,6 +39,5 @@ Fisher’s political influence is channeled through individual donations and the
 
 | Candidate    |   Years | Direct Contributions   | Behested Payments   |
 |--------------|---------|------------------------|---------------------|
-| Buffy Wicks  |    2017 | $8,800                 | $0                  |
 | Marc Berman  |    2017 | $5,400                 | $0                  |
 | Jacqui Irwin |    2017 | $500                   | $0                  |

@@ -2,11 +2,15 @@
 
 **Role:** State Assemblymember, District 26
 
-Patrick Ahrens is a Democratic member of the California State Assembly, representing the 26th district since December 2, 2024. He is currently serving his term, which ends on December 7, 2026, and is running for re-election in the primary on June 2, 2026.
+Patrick Ahrens is a member of the California State Assembly, representing District 26, and is seeking re-election to that office in the June 2, 2026 primary. He was born in San Jose, California, and resides in Sunnyvale, California.
 
-Analyzed on: 2026-04-25 21:21:01
+Analyzed on: 2026-04-26 01:22:56
 **Total Zionist Contributions:** $11,400
 **Total Zionist Behested Payments:** $0
+
+### Zionist Federal Contributions (FEC)
+
+No Zionist federal contributions identified.
 
 ### Zionist Direct Contributions
 

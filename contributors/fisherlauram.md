@@ -39,7 +39,6 @@ The ideological basis for the family's Zionist philanthropy is reflected in the 
 
 ## Supported Candidates
 
-| Candidate    | Years     | Direct Contributions   | Behested Payments   |
-|--------------|-----------|------------------------|---------------------|
-| Henry Stern  | 2015-2017 | $9,600                 | $0                  |
-| Robert Rivas | 2017      | $6,400                 | $0                  |
+| Candidate    |   Years | Direct Contributions   | Behested Payments   |
+|--------------|---------|------------------------|---------------------|
+| Robert Rivas |    2017 | $6,400                 | $0                  |

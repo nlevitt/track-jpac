@@ -1,12 +1,16 @@
 # California Zionist Supporters: Esmeralda Soria
 
-**Role:** Assemblymember, District 27
+**Role:** State Assemblymember, District 27; Candidate for State Senate, District 14
 
-Esmeralda Soria is a Democratic Assemblymember representing California's 27th Assembly District, currently serving her second term which concludes in December 2026. She chairs the Assembly Agriculture Committee and is campaigning for California State Senate District 14 in the June 2026 primary election.
+Esmeralda Soria is currently serving as a California State Assemblymember for District 27, with her term ending on December 7, 2026. She is a candidate for the California State Senate, District 14, with the primary election scheduled for June 2, 2026. Soria is from the Central Valley.
 
-Analyzed on: 2026-04-25 21:23:10
+Analyzed on: 2026-04-26 01:23:55
 **Total Zionist Contributions:** $550
 **Total Zionist Behested Payments:** $0
+
+### Zionist Federal Contributions (FEC)
+
+No Zionist federal contributions identified.
 
 ### Zionist Direct Contributions
 

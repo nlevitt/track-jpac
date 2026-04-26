@@ -35,13 +35,17 @@ Beyond Israel-specific organizations, Fisher is a prolific donor to the Republic
 | Tony Strickland             | 2009      | $5,000                 | $0                  |
 | Brian Jones                 | 2021-2023 | $4,500                 | $0                  |
 | Ben Allen                   | 2017      | $4,400                 | $0                  |
+| Thomas Lackey               | 2015      | $4,200                 | $0                  |
+| Blanca Rubio                | 2023      | $3,000                 | $0                  |
 | Rosilicie Ochoa Bogh        | 2021-2023 | $3,000                 | $0                  |
 | James Gallagher             | 2023      | $3,000                 | $0                  |
-| Megan Dahle                 | 2019      | $2,500                 | $0                  |
 | Suzette Martinez Valladares | 2021-2025 | $2,500                 | $0                  |
+| Megan Dahle                 | 2019      | $2,500                 | $0                  |
+| Jesse Gabriel               | 2017      | $2,000                 | $0                  |
 | Tim Grayson                 | 2021      | $1,500                 | $0                  |
 | Josh Becker                 | 2021      | $1,500                 | $0                  |
 | Akilah Weber                | 2021      | $1,500                 | $0                  |
+| Rick Zbur                   | 2023      | $1,500                 | $0                  |
 | Juan Alanis                 | 2023      | $1,500                 | $0                  |
 | Diane Papan                 | 2023      | $1,500                 | $0                  |
 | Monique Limón               | 2021      | $1,500                 | $0                  |

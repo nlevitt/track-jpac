@@ -2,25 +2,23 @@
 
 **Role:** State Senator, District 27
 
-Henry Stern is a Democrat serving as a member of the California State Senate for District 27. He was first elected in 2016, and his current term concludes in December 2028.
+Henry Stern is a State Senator for California's 27th District and is from Malibu, California.
 
-Analyzed on: 2026-04-25 19:29:05
-**Total Zionist Contributions:** $90,600
+Analyzed on: 2026-04-26 01:12:25
+**Total Zionist Contributions:** $61,650
 **Total Zionist Behested Payments:** $0
+
+### Zionist Federal Contributions (FEC)
+
+No Zionist federal contributions identified.
 
 ### Zionist Direct Contributions
 
-| Contributor                                                                                                              | Years     | Total Amount   | Relationship to Israel                                                                                            |
-|--------------------------------------------------------------------------------------------------------------------------|-----------|----------------|-------------------------------------------------------------------------------------------------------------------|
-| [Fisher, Robert J.](../contributors/fisherjrobert.md)                                                                    | 2015-2021 | $15,300        | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
-| [Fisher, Elizabeth Stroud](../contributors/elizabethfisherstroud.md)                                                     | 2015-2017 | $13,800        | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
-| [California Jewish PAC](../contributors/californiajewishpac.md)                                                          | 2019-2023 | $13,350        | PAC (JPAC) dedicated to supporting Zionist candidates in California.                                              |
-| [Fisher, William S.](../contributors/fisherswilliam.md)                                                                  | 2015-2017 | $9,600         | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
-| [Fisher, Doris F.](../contributors/dorisffisher.md)                                                                      | 2015-2017 | $9,600         | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
-| [Fisher, Laura M.](../contributors/fisherlauram.md)                                                                      | 2015-2017 | $9,600         | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
-| [Fisher, John J.](../contributors/fisherjjohn.md)                                                                        | 2015-2017 | $9,600         | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
-| [California Jewish Legislative Caucus Leadership PAC](../contributors/californiacaucusjewishleadershiplegislativepac.md) | 2015      | $4,200         | PAC (JPAC) dedicated to supporting Zionist candidates in California.                                              |
-| [Fisher, Sakurako D.](../contributors/dfishersakurako.md)                                                                | 2015      | $4,200         | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
-| [Fisher, Sakurako](../contributors/fishersakurako.md)                                                                    | 2017      | $1,000         | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
-| [Fisher, Deborah](../contributors/deborahfisher.md)                                                                      | 2015      | $250           | Prominent Zionist donors (Gap Inc./Pisces Inc. founders); associated with Koret Foundation and Birthright Israel. |
-| [Leibman, Abby](../contributors/abbyleibman.md)                                                                          | 2015      | $100           | Former Chair of UC Regents; documented Zionist advocate and supporter of Israel causes.                           |
+| Contributor                                                                                                              | Years     | Total Amount   | Relationship to Israel                                                                                 |
+|--------------------------------------------------------------------------------------------------------------------------|-----------|----------------|--------------------------------------------------------------------------------------------------------|
+| [Fisher, Robert J.](../contributors/fisherjrobert.md)                                                                    | 2015-2021 | $15,300        | Prominent Zionist donor (Gap Inc. chairman); associated with Koret Foundation and Birthright Israel.   |
+| [California Jewish PAC](../contributors/californiajewishpac.md)                                                          | 2019-2023 | $13,350        | PAC (JPAC) dedicated to supporting Zionist candidates in California.                                   |
+| [Fisher, Doris F.](../contributors/dorisffisher.md)                                                                      | 2015-2017 | $9,600         | Prominent Zionist donor (Gap Inc. co-founder); associated with Koret Foundation and Birthright Israel. |
+| [Fisher, John J.](../contributors/fisherjjohn.md)                                                                        | 2015-2017 | $9,600         | Prominent Zionist donor (Oakland A's owner); associated with Koret Foundation and Birthright Israel.   |
+| [Fisher, William S.](../contributors/fisherswilliam.md)                                                                  | 2015-2017 | $9,600         | Prominent Zionist donor (Manzanita Capital); associated with Koret Foundation and Birthright Israel.   |
+| [California Jewish Legislative Caucus Leadership PAC](../contributors/californiacaucusjewishleadershiplegislativepac.md) | 2015      | $4,200         | PAC (JPAC) dedicated to supporting Zionist candidates in California.                                   |

@@ -2,11 +2,15 @@
 
 **Role:** State Assemblymember, District 6
 
-Maggy Krell (Democratic Party) is a member of the California State Assembly, representing District 6, having assumed office on December 2, 2024. She is currently running for re-election in the primary on June 2, 2026, for a term that ends on December 7, 2026.
+Maggy Krell is the State Assemblymember for District 6, having assumed office on December 2, 2024, and is seeking re-election to the same office. She is from Sacramento.
 
-Analyzed on: 2026-04-25 20:12:56
+Analyzed on: 2026-04-26 01:16:08
 **Total Zionist Contributions:** $16,900
 **Total Zionist Behested Payments:** $0
+
+### Zionist Federal Contributions (FEC)
+
+No Zionist federal contributions identified.
 
 ### Zionist Direct Contributions
 

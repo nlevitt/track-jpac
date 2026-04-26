@@ -37,8 +37,6 @@ While Leibman is a distinguished alumna of the University of California, San Die
 
 ## Supported Candidates
 
-| Candidate     |   Years | Direct Contributions   | Behested Payments   |
-|---------------|---------|------------------------|---------------------|
-| Robert Rivas  |    2025 | $1,000                 | $0                  |
-| Pilar Schiavo |    2023 | $200                   | $0                  |
-| Henry Stern   |    2015 | $100                   | $0                  |
+| Candidate    |   Years | Direct Contributions   | Behested Payments   |
+|--------------|---------|------------------------|---------------------|
+| Robert Rivas |    2025 | $1,000                 | $0                  |

@@ -2,11 +2,15 @@
 
 **Role:** State Senator, District 34
 
-Tom Umberg is currently serving as the California State Senator for District 34 and chairs the Senate Judiciary Committee. He is term-limited and will conclude his term on December 7, 2026, while also running for election to the California State Board of Equalization, District 4, in the June 2, 2026 primary.
+Tom Umberg is a Democratic member of the California State Senate, representing District 34, with his current term ending in December 2026. He is currently seeking election to the California State Board of Equalization, District 4, in the June 2026 primary election. Umberg is from Orange County, California.
 
-Analyzed on: 2026-04-25 19:31:06
+Analyzed on: 2026-04-26 01:14:09
 **Total Zionist Contributions:** $0
 **Total Zionist Behested Payments:** $0
+
+### Zionist Federal Contributions (FEC)
+
+No Zionist federal contributions identified.
 
 ### Zionist Direct Contributions
 

@@ -46,6 +46,7 @@ The Fisher family's philanthropic network creates a "closed loop" of support for
 | Scott Wiener         | 2015-2021 | $16,300                | $0                  |
 | Buffy Wicks          | 2017-2019 | $10,800                | $0                  |
 | Christopher Cabaldon | 2007      | $7,200                 | $0                  |
+| Jesse Gabriel        | 2017-2019 | $6,700                 | $0                  |
 | Marc Berman          | 2015-2017 | $5,200                 | $0                  |
 | Josh Becker          | 2019      | $2,500                 | $0                  |
 | Catherine Stefani    | 2023      | $2,000                 | $0                  |

@@ -32,8 +32,6 @@ Sakurako Fisher and her husband are prolific donors to the **Republican Party** 
 
 | Candidate    | Years     | Direct Contributions   | Behested Payments   |
 |--------------|-----------|------------------------|---------------------|
-| Buffy Wicks  | 2017-2019 | $6,400                 | $0                  |
 | Marc Berman  | 2015-2017 | $5,200                 | $0                  |
 | Robert Rivas | 2017      | $2,000                 | $0                  |
-| Henry Stern  | 2017      | $1,000                 | $0                  |
 | Jacqui Irwin | 2017      | $500                   | $0                  |

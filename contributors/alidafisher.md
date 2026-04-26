@@ -35,8 +35,6 @@ While the user identified "Fisher, Alida" as a "Prominent Zionist donor," public
 
 ## Supported Candidates
 
-| Candidate           |   Years | Direct Contributions   | Behested Payments   |
-|---------------------|---------|------------------------|---------------------|
-| Rebecca Bauer-Kahan |    2017 | $200                   | $0                  |
-| Pilar Schiavo       |    2021 | $100                   | $0                  |
-| Caroline Menjivar   |    2021 | $100                   | $0                  |
+| Candidate         |   Years | Direct Contributions   | Behested Payments   |
+|-------------------|---------|------------------------|---------------------|
+| Caroline Menjivar |    2021 | $100                   | $0                  |
