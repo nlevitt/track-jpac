@@ -2,6 +2,8 @@ This contributor report examines the documented political and philanthropic acti
 
 # Contributor Report: Rita Gutierrez-Fisher
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### 1. Identity and Professional Background
 Public records and local news identify **Rita Gutierrez-Fisher** as a resident of **Gilroy, California**, and a retired school counselor from South Valley Middle School. She has been active in local philanthropy and community organizations for several decades, including the **Japanese American Citizens League (JACL)** and the **St. Louise Regional Hospital Foundation**.
 

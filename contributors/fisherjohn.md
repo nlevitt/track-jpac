@@ -1,5 +1,7 @@
 # Contributor Report: Fisher, John
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 John Joseph Fisher is a prominent American businessman, principal owner of the Oakland Athletics (MLB) and the San Jose Earthquakes (MLS), and a high-ranking executive at **Pisces Inc.**, the family office for the founders of Gap Inc. 1.9 (Note: having trouble producing a specific citation), [1.11](https://www.forbes.com/profile/john-fisher/). Fisher has been identified as a significant political donor with a documented history of supporting Zionist organizations and Israeli causes through personal contributions and his family's philanthropic entities.
 
 ### 1. Relationship to Zionist Advocacy and Israel

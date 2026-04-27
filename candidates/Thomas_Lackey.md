@@ -4,9 +4,11 @@
 
 Thomas Lackey is a Republican currently serving as the State Assemblymember for California's 34th District. He is from Palmdale, California, and is term-limited for re-election to this seat in 2026.
 
-Analyzed on: 2026-04-26 12:34:27
-**Total Zionist Contributions:** $4,200
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:34:27  
+**Total Zionist Contributions:** $4,200  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

@@ -1,5 +1,7 @@
 # Contributor Report: Leibman, Abby
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 Abby J. Leibman is a prominent California-based attorney and non-profit executive who currently serves as the President and CEO of **MAZON: A Jewish Response to Hunger**. Her career is defined by leadership in organizations that integrate Jewish values with political advocacy, particularly concerning food security and social justice in both the United States and Israel.
 
 ### Relationship to Israel and Zionist Advocacy

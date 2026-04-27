@@ -1,5 +1,7 @@
 # Contributor Report: Fisher Saperstein, Allie
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 Allie Fisher Saperstein (often documented as **Ariella Saperstein**) is a prominent political donor and philanthropic professional deeply integrated into the infrastructure of Zionist advocacy and pro-Israel policy-making. She is a member of the **Fisher family**, the founders of **Gap Inc.**, and is the daughter of **John J. Fisher**, the chairman of Gap Inc. and founder of the family office **Pisces Inc.** Saperstein holds leadership roles in influential grantmaking organizations that prioritize the strengthening of the U.S.-Israel relationship and the promotion of Zionist discourse in North America.
 
 ### 1. Identity and Family Connection to Gap Inc./Pisces Inc.

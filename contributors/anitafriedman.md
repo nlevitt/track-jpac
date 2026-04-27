@@ -1,5 +1,7 @@
 # Contributor Report: Anita Friedman
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 Anita Friedman is a San Francisco-based executive and political donor who serves as the Executive Director of Jewish Family and Children's Services (JFCS). She is documented as a primary leader within the pro-Israel lobby and Zionist advocacy networks in the United States and Israel.
 
 ### Leadership Roles in Zionist Organizations

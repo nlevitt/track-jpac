@@ -2,6 +2,8 @@ This research report examines the political and philanthropic activities of the 
 
 # Contributor Report: FISHER, JASON (Fisher Family)
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### 1. Overview of Identity and Corporate Affiliation
 The subject is identified as a member of the Fisher family, the founders of the San Francisco-based retail giant **Gap Inc.** and the family investment firm **Pisces Inc.** (also known as Pisces Group). The family is among the wealthiest in California and is heavily involved in political and philanthropic sectors.
 

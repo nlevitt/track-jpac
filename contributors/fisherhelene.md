@@ -2,6 +2,8 @@ This report examines the political and philanthropic activities of **Helene Fish
 
 # Contributor Report: Fisher, Helene
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### 1. Identity and Affiliation
 The individual identified as **Helene Fisher** in various advocacy contexts is the co-founder of **Gap Inc.** and **Pisces Inc.**, Doris Fisher (often referred to interchangeably with "Helene" in certain activist donor databases). Alongside her late husband, Donald Fisher, she established the Fisher family's significant philanthropic presence in San Francisco. Pisces Inc. serves as the family's investment and management office, overseeing the wealth generated from Gap Inc. to fund a variety of causes, including significant pro-Israel and Zionist initiatives.
 

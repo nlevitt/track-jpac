@@ -1,5 +1,7 @@
 # Aggregate Summary: California Zionist Contributions
-Generated on: 2026-04-26 13:17:17
+Generated on: 2026-04-26 13:17:17  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ## Candidates with Identified Support
 

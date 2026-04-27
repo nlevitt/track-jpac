@@ -6,9 +6,11 @@
 
 Jessica Caloza is a California State Assemblymember for the 52nd District, having assumed office in December 2024. She is seeking re-election in the June 2, 2026 primary election. Caloza was born in Quezon City, Philippines.
 
-Analyzed on: 2026-04-26 12:54:20
-**Total Zionist Contributions:** $250
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:54:20  
+**Total Zionist Contributions:** $250  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

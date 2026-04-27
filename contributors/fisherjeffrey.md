@@ -2,6 +2,8 @@ This research report documents the political and philanthropic activities of **J
 
 # Contributor Report: FISHER, JEFFREY
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### 1. Identity and Professional Context
 The name "Jeffrey Fisher" is associated with multiple prominent figures in California political and legal circles, often appearing alongside the **Fisher Family** (founders of **Gap Inc.** and **Pisces Inc.**), who are identified by activist projects as "Prominent Zionist donors."
 

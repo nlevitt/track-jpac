@@ -6,9 +6,11 @@
 
 Jeff Gonzalez is the Republican State Assemblymember for California's District 36, having assumed office on December 2, 2024. He is seeking re-election to represent District 36 in the primary on June 2, 2026, and is from Indio, California.
 
-Analyzed on: 2026-04-26 12:52:22
-**Total Zionist Contributions:** $0
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:52:22  
+**Total Zionist Contributions:** $0  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

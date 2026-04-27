@@ -6,9 +6,11 @@
 
 Josh Lowenthal is the Speaker pro Tempore of the California State Assembly, representing District 69. He was born in and lives in Long Beach, California, and is currently seeking re-election to the California State Assembly for District 69 in the primary on June 2, 2026.
 
-Analyzed on: 2026-04-26 12:56:26
-**Total Zionist Contributions:** $26,700
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:56:26  
+**Total Zionist Contributions:** $26,700  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

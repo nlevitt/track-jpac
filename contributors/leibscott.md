@@ -1,5 +1,7 @@
 # Contributor Report: RICHARD LEIB
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 Richard Leib is a prominent California political donor and public official who served as the Chair of the University of California (UC) Board of Regents from 2022 to 2024. He is a documented supporter of Zionist causes and has used his platform to advocate for the inclusion of Zionism within protected categories of identity on university campuses.
 
 ### 1. Leadership at University of California and Pro-Israel Advocacy

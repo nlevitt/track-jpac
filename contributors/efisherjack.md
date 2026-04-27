@@ -1,5 +1,7 @@
 # Contributor Report: John J. Fisher (Fisher Family)
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 This report documents the political and philanthropic activities of the Fisher family, specifically **John Joseph Fisher** (often referred to as **John J. Fisher**), who serves as the primary manager of the family’s investment firm, **Pisces Inc.**, and holds significant influence through the **Gap Inc.** legacy. The documentation focuses on their established relationship with Israel and Zionist advocacy organizations, as requested.
 
 ### 1. Professional Background and Identity

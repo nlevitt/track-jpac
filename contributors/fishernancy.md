@@ -1,5 +1,7 @@
 # Contributor Report: FISHER, NANCY
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 Nancy Fisher is a San Francisco-based political contributor and philanthropist identified in donor databases as a significant supporter of Zionist institutions and Israeli advocacy organizations. She is associated with the Fisher family, founders of **Gap Inc.** and the family investment firm **Pisces Inc.**, whose collective philanthropic activities have focused heavily on Jewish identity, Holocaust remembrance, and educational initiatives in Israel.
 
 ### 1. Documented Support for Zionist Organizations

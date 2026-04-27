@@ -1,5 +1,7 @@
 # Contributor Report: Doris F. Fisher
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 **Doris F. Fisher** (b. 1931) is the billionaire co-founder of **Gap Inc.** and a prominent political and philanthropic donor based in San Francisco. Alongside her late husband, Donald Fisher, she established the **Doris & Donald Fisher Fund**, which serves as a primary vehicle for their directed giving. Fisher is documented as a significant contributor to Zionist causes, specifically through her early support of **Birthright Israel** and her long-standing associations with the **Koret Foundation** and the **Jewish Community Federation of San Francisco**.
 
 ### 1. Support for Birthright Israel and "The Mega Group"

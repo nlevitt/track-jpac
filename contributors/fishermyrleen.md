@@ -2,6 +2,8 @@ This report examines the political and philanthropic contributions of the Fisher
 
 # Contributor Report: Fisher, Myrleen
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### Identity and Corporate Background
 The Fisher family, founders of **Gap Inc.**, manages its extensive philanthropic and political activities through **Pisces Inc.**, a family office and investment firm based in San Francisco [1.9 (Note: having trouble producing a specific citation), [1.16](https://piscesfoundation.org/bio/bob-fisher/)].
 *   **Donald Fisher (d. 2009) and Doris Fisher**: Co-founded Gap Inc. in 1969. Donald Fisher served as chairman of the board and was a significant figure in San Francisco's Jewish and Republican political circles 1.12 (Note: having trouble producing a specific citation), [1.25 (Note: having trouble producing a specific citation)].

@@ -1,5 +1,7 @@
 # Contributor Report: Fisher, Elizabeth Stroud
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 Elizabeth Stroud Fisher (known professionally as Randi Fisher) is a prominent California-based philanthropist and co-founder of the Pisces Foundation. Alongside her husband, Robert J. Fisher (Chairman of Gap Inc. and son of Gap founders Donald and Doris Fisher), she manages significant family wealth and directs philanthropic capital toward environmental, educational, and Jewish communal causes. Fisher is documented as a contributor to major Zionist organizations that facilitate American Jewish engagement with the State of Israel.
 
 ### 1. Documentation of Support for Zionist Organizations

@@ -1,5 +1,7 @@
 # Contributor Report: Ron Fisher
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 Ron Fisher (Ronald D. Fisher) is a prominent technology executive and philanthropist documented as a significant donor to Zionist organizations and Israeli educational initiatives. He is most frequently identified in philanthropic records alongside his wife, **Lisa Rosenbaum**, through the **Fisher Family Foundation**. His advocacy is characterized by substantial financial support for programs designed to strengthen the connection between the Jewish diaspora and the State of Israel.
 
 ### 1. Philanthropic Support for Israel and Zionist Initiatives

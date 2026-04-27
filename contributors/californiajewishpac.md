@@ -2,6 +2,8 @@ As part of the research into California political donors, this report examines t
 
 # Contributor Report: California Jewish PAC
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### 1. Organizational Overview and Rebranding
 The **California Jewish PAC** is a political action committee that operates in coordination with the **Jewish Public Affairs Committee of California (JPAC)**, which identifies as the largest single-state coalition of Jewish organizations in the United States. In February 2026, the advocacy arm (JPAC) announced a rebranding to **Jewish California** to reflect its role as the "unified voice" for the state’s Jewish community in Sacramento [[1.14](https://www.sdjewishworld.com/2026/02/25/jewish-public-affairs-committee-renames-itself-jewish-california/)].
 

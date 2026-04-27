@@ -2,6 +2,8 @@ This report examines the California-based political entity **EUCA PAC/I-3** (ass
 
 # Contributor Report: EUCA PAC/I-3
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### 1. Organizational Identification and Legal Status
 **EUCA PAC** is the political action committee for the **Engineering & Utility Contractors Association** (ID: [761134](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=761134)), a trade association based in San Ramon, California. In recent years, the association rebranded as **United Contractors (UCON)**. The alphanumeric suffix **/I-3** often appears in donor databases (such as *SomaliScan* and *Cal-Access* scrapes) to denote specific reporting categories, often identifying the committee as an "Intermediary" or part of a specific "Industry" reporting block (SomaliScan Record (Note: having trouble producing a specific citation)).
 

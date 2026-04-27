@@ -6,9 +6,11 @@
 
 Celeste Rodriguez is the California State Assemblymember for District 43 and is seeking re-election to the same office in the June 2, 2026 primary election. She is from San Fernando, California.
 
-Analyzed on: 2026-04-26 12:53:19
-**Total Zionist Contributions:** $0
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:53:19  
+**Total Zionist Contributions:** $0  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

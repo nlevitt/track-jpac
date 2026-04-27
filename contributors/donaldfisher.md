@@ -1,5 +1,7 @@
 # Contributor Report: Fisher, Donald
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 Donald Fisher (1928–2009), along with his wife Doris Fisher, was the co-founder of Gap Inc. and a prominent figure in California philanthropy. He and his family have been documented as significant contributors to Jewish communal organizations and initiatives that support the State of Israel and Zionist advocacy.
 
 ### 1. Institutional Affiliations and "Pisces" Entities

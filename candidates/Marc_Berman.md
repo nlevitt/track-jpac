@@ -6,9 +6,11 @@
 
 Marc Berman is a Democratic member of the California State Assembly, representing District 23. He is seeking re-election to the State Assembly for District 23 and was raised in Palo Alto, California.
 
-Analyzed on: 2026-04-26 12:50:06
-**Total Zionist Contributions:** $77,550
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:50:06  
+**Total Zionist Contributions:** $77,550  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

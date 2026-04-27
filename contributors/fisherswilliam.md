@@ -1,5 +1,7 @@
 # Contributor Report: Fisher, William S.
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 William Sydney Fisher is an American businessman, hedge fund manager, and a member of the family that founded Gap Inc. He is a primary principal at **Pisces Inc.**, the Fisher family office, and has been a director of **Gap Inc.** since 2009. Fisher is documented as a major donor to political and philanthropic organizations, with a specific focus on pro-Israel advocacy and Zionist organizations.
 
 ### 1. Affiliation with Zionist and Pro-Israel Organizations

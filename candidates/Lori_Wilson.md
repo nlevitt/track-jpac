@@ -6,9 +6,11 @@
 
 Lori Wilson is the State Assemblymember for California's 11th District, which includes all of Solano County and portions of Contra Costa and Sacramento Counties. She is seeking re-election to the California State Assembly in the June 2, 2026 primary election. Wilson is from Suisun City, California.
 
-Analyzed on: 2026-04-26 12:47:19
-**Total Zionist Contributions:** $9,500
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:47:19  
+**Total Zionist Contributions:** $9,500  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

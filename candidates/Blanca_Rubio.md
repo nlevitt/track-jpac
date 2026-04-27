@@ -6,9 +6,11 @@
 
 Blanca Rubio is the State Assemblymember for California's 48th District and is seeking re-election to the same office in the 2026 elections. She is a resident of Baldwin Park, California.
 
-Analyzed on: 2026-04-26 12:53:40
-**Total Zionist Contributions:** $47,075
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:53:40  
+**Total Zionist Contributions:** $47,075  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

@@ -1,5 +1,7 @@
 # Contributor Report: FISHER-ROGERS, LARONDA
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 The individual identified as **Fisher-Rogers, LaRonda** is a California-based professional, though public documentation primarily associates the "prominent Zionist donors" status and the specific affiliations mentioned (Gap Inc., Pisces Inc., Koret Foundation, and Birthright Israel) with the **Fisher family of San Francisco**, specifically the founders and heirs of Gap Inc.
 
 ### 1. Affiliation with Gap Inc. and Pisces Inc.

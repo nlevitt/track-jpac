@@ -2,6 +2,8 @@ The individual identified as "**Fisher, Steven**" (often documented as **Stephen
 
 # Contributor Report: Fisher, Steven
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### Background and Corporate Affiliation
 Steven (Stephen) Fisher is a principal figure associated with **Pisces, Inc.**, the family office that manages the wealth of the Fisher family, founders of the retail giant **Gap Inc.** [1.5, 1.15]. The family’s philanthropic activity is primarily channeled through the **Fisher Family Foundation** and individual contributions from the heirs of Donald and Doris Fisher [1.11, 1.14].
 

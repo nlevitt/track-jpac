@@ -1,5 +1,7 @@
 # Contributor Report: Emily Fisher
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 **FISHER, EMILY** (also referred to as **Emily and David Fisher**) is a prominent San Francisco-based political donor and philanthropist. She is a member of the **Fisher family**, the founders of **Gap Inc.** and the **Pisces Foundation**. Fisher is documented as a significant contributor to organizations that support the State of Israel and Zionist advocacy, often operating through family-led foundations and Bay Area Jewish communal institutions.
 
 ### 1. Institutional Affiliations and Donor Relationships

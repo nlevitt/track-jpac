@@ -6,9 +6,11 @@
 
 Aisha Wahab is a State Senator for District 10, residing in Hayward, California. She is currently seeking election to the U.S. House of Representatives for California's 14th Congressional District.
 
-Analyzed on: 2026-04-26 12:37:04
-**Total Zionist Contributions:** $0
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:37:04  
+**Total Zionist Contributions:** $0  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

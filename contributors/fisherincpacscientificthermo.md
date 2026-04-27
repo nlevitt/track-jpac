@@ -1,5 +1,7 @@
 # Contributor Report: The Fisher Family (Gap Inc. / Pisces Inc.)
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 **Note on Entity Identification:** While the request refers to "THERMO FISHER SCIENTIFIC INC. PAC," the provided context (Gap Inc./Pisces Inc. founders, Koret Foundation, and Birthright Israel) pertains to the **Fisher family of San Francisco**, specifically **Donald Fisher** (1928–2009), **Doris Fisher**, and their sons (Robert, William, and John). **Thermo Fisher Scientific Inc.** is a separate multinational biotechnology corporation (founded by Chester G. Fisher) with distinct operations and its own PAC. This report focuses on the documented Zionist advocacy of the Fisher family and their associated entities, as specified in the context.
 
 ### 1. Institutional Affiliations and Zionist Advocacy

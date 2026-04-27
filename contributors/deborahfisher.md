@@ -1,5 +1,7 @@
 # Contributor Report: Fisher, Deborah (Doris)
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### Overview
 The name "Fisher, Deborah" in the context of the founders of **Gap Inc.** and **Pisces Inc.** is frequently associated in activist documentation with **Doris Fisher** (the co-founder of Gap Inc.) and the broader Fisher family of San Francisco. The Fisher family, particularly Doris Fisher and her late husband Donald Fisher, are prominent billionaires whose philanthropic and political activities include significant support for Zionist institutions and Israeli causes. They are frequently linked to the **Koret Foundation** and **Birthright Israel**, both of which are central to Zionist advocacy and the strengthening of ties between the Jewish diaspora and the State of Israel.
 

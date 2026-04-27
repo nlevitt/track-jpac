@@ -6,9 +6,11 @@
 
 Roger Niello is a California State Senator representing District 6. He was elected in 2022 and is currently seeking re-election in the June 2, 2026 primary. He resides in Fair Oaks, California.
 
-Analyzed on: 2026-04-26 12:36:06
-**Total Zionist Contributions:** $0
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:36:06  
+**Total Zionist Contributions:** $0  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

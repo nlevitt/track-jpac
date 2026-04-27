@@ -6,9 +6,11 @@
 
 Tim Grayson is a member of the California State Senate, representing District 9, a position he assumed on December 2, 2024. He is a longtime resident of Concord, California.
 
-Analyzed on: 2026-04-26 12:36:46
-**Total Zionist Contributions:** $46,700
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:36:46  
+**Total Zionist Contributions:** $46,700  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

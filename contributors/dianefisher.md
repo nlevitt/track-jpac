@@ -1,5 +1,7 @@
 # Contributor Report: Fisher, Diane
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 Diane Fisher is identified as a member of the Fisher family, the billionaire philanthropic dynasty behind **Gap Inc.** and **Pisces Inc.** (the family's investment firm). She is the wife of **James (Jim) Fisher**, the brother of Gap Inc. co-founder Donald Fisher. Documentation links Diane Fisher and the broader Fisher family to extensive financial support for Zionist organizations and pro-Israel advocacy, primarily through the **Koret Foundation** and **Birthright Israel**.
 
 ### 1. Affiliation with Gap Inc. and Pisces Inc.

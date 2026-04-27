@@ -1,5 +1,7 @@
 # Contributor Report: Fisher, Doris
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### Overview
 Doris F. Fisher (born 1931) is the billionaire co-founder of **Gap Inc.** and a prominent California-based political donor. Alongside her late husband, Donald Fisher, and through their family office, **Pisces Inc.**, she has established a long-standing philanthropic and political footprint. While much of her public-facing philanthropy focuses on charter schools (KIPP Foundation) and the arts (SFMOMA), she and her family are documented contributors to Zionist advocacy and Israeli institutions.
 

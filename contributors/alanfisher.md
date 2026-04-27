@@ -1,5 +1,7 @@
 # Contributor Report: Alan Fisher
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### **Background**
 Alan Fisher is a California-based physicist and prominent political donor specializing in instrumentation for particle accelerators at the SLAC National Accelerator Laboratory at Stanford University. While his professional career is in physics, he is primarily documented in political and philanthropic contexts as a high-level advocate and donor for Zionist organizations and Israeli institutions. 
 

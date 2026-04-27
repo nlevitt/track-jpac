@@ -6,9 +6,11 @@
 
 Sade Elhawary is the California State Assemblymember for District 57. She is running for re-election to the California State Assembly for District 57 in the June 2, 2026 primary election. Elhawary is from Los Angeles, California.
 
-Analyzed on: 2026-04-26 12:54:55
-**Total Zionist Contributions:** $0
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:54:55  
+**Total Zionist Contributions:** $0  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

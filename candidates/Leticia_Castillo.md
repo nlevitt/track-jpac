@@ -6,9 +6,11 @@
 
 Leticia Castillo is the State Assemblywoman for California's 58th Assembly District, a position she was elected to in November 2024 and assumed on December 2, 2024. She is seeking re-election to the same office in the June 2026 primary and November 2026 general election. Castillo is from Home Gardens in Riverside County.
 
-Analyzed on: 2026-04-26 12:55:01
-**Total Zionist Contributions:** $0
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:55:01  
+**Total Zionist Contributions:** $0  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

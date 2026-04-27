@@ -2,6 +2,8 @@ As of 2024, **Sakurako D. Fisher** (also known as Sako Fisher) is a prominent Ca
 
 # Contributor Report: Fisher, Sakurako D.
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### Overview of Philanthropic and Political Profile
 Sakurako D. Fisher operates as part of the prominent Fisher family of San Francisco, whose wealth originates from the founding of **Gap Inc.** and the management of **Pisces Inc.** (the family’s investment office). Her philanthropic activity is frequently conducted in tandem with her husband, William S. Fisher. Their documented contributions focus on institutional maintenance of Zionist ideology through education, cultural exchange, and direct support for the State of Israel.
 

@@ -6,9 +6,11 @@
 
 Henry Stern is a member of the California State Senate, representing District 27. He is from Malibu, California, and resides in Los Angeles, California.
 
-Analyzed on: 2026-04-26 12:40:52
-**Total Zionist Contributions:** $61,650
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:40:52  
+**Total Zionist Contributions:** $61,650  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

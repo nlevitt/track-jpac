@@ -1,5 +1,7 @@
 # Contributor Report: Fisher, Robert J.
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 Robert Joseph Fisher is a prominent California-based businessman and political donor best known for his leadership roles within **Gap Inc.** and **Pisces Inc.** He is a central figure in the Fisher family’s philanthropic and political network, which maintains documented ties to pro-Israel organizations and Zionist advocacy.
 
 ### 1. Professional Background and Entities

@@ -1,5 +1,7 @@
 # Contributor Report: Robert J. Fisher
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 Robert Joseph ("Bob") Fisher is a prominent American businessman and philanthropist, best known for his long-term leadership roles at **Gap Inc.** (founded by his parents, Donald and Doris Fisher) and his involvement in environmental and Jewish communal causes. While the contributor is sometimes referred to as "Robert T. Fisher" in certain political donor databases, official corporate and biographical records identify him as **Robert J. Fisher**.
 
 ### 1. Relationship to Israel and Zionist Advocacy

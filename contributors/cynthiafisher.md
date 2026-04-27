@@ -1,5 +1,7 @@
 # Contributor Report: FISHER, CYNTHIA
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### **Identity and Identification Context**
 Cynthia Fisher is an American healthcare entrepreneur and political donor, often identified in critical databases as a "prominent Zionist donor" due to her extensive financial contributions to organizations and political entities that support Israel. In some activist lists, such as **The Mapping Project**, she has been inaccurately identified as a founder of **Gap Inc.** and **Pisces Inc.** (source (Note: having trouble producing a specific citation)). This identification likely stems from confusion with **Doris Fisher**, the actual co-founder of Gap Inc. and Pisces Inc., who is a major benefactor of Zionist organizations like the **Koret Foundation** and **Birthright Israel** (source (Note: having trouble producing a specific citation)).
 

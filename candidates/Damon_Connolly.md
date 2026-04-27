@@ -6,9 +6,11 @@
 
 Damon Connolly is a Democratic California State Assemblymember representing District 12, with offices in San Rafael, Petaluma, and Santa Rosa. He is currently seeking election to the California State Senate for District 2 in the June 2, 2026 primary election.
 
-Analyzed on: 2026-04-26 12:47:24
-**Total Zionist Contributions:** $500
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:47:24  
+**Total Zionist Contributions:** $500  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

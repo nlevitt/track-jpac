@@ -1,5 +1,7 @@
 # Contributor Report: Fisher Family (Gap Inc./Pisces Inc. Founders)
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 The political and philanthropic activities of the Fisher family, founders of **Gap Inc.** and the family office **Pisces Inc.**, are documented through substantial financial contributions to Zionist organizations and Israeli causes. While the name "Nathaniel Dalmar Fisher" appears in specific activist donor databases, the primary documented donors associated with these entities are **Donald Fisher** (deceased), **Doris Fisher**, and their sons **Robert**, **William**, and **John Fisher**.
 
 ### 1. Relationship to Gap Inc. and Pisces Inc.

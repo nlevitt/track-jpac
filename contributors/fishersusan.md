@@ -1,5 +1,7 @@
 # Contributor Report: FISHER, SUSAN
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 **Susan Fisher** (often associated with the San Francisco-based Fisher family) is a prominent California-based political and philanthropic donor. She is documented as a significant supporter of Israeli institutions and Zionist advocacy organizations, often identified in coordination with the broader Fisher family (founders of **Gap Inc.** and the family office **Pisces Inc.**), the **Koret Foundation**, and **Birthright Israel**.
 
 ### 1. Relationship to Gap Inc. and Pisces Inc.

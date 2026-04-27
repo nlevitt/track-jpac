@@ -6,9 +6,11 @@
 
 Matt Haney is currently a member of the California State Assembly, representing District 17, which encompasses the eastern side of San Francisco. He is seeking re-election to this position in the primary on June 2, 2026. Haney is from San Francisco, California.
 
-Analyzed on: 2026-04-26 12:35:08
-**Total Zionist Contributions:** $34,700
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:35:08  
+**Total Zionist Contributions:** $34,700  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

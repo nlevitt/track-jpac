@@ -1,5 +1,7 @@
 # Contributor Report: Elizabeth Fisher
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 Elizabeth S. Fisher (also known as Randi Fisher) is a prominent San Francisco-based political donor and philanthropist. She is primarily identified by her leadership in the Fisher family’s financial and charitable entities, which were established following the success of **Gap Inc.**, founded by her husband’s parents, Donald and Doris Fisher. Fisher serves as a Trustee of the **Pisces Foundation** and is a principal in **Pisces Inc.**, the family’s investment management firm and family office.
 
 ### Identification and Institutional Roles

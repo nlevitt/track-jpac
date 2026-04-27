@@ -6,9 +6,11 @@
 
 Rosilicie Ochoa Bogh is a California State Senator representing District 19, having been re-elected in November 2024 to a term that began in December 2024 and ends in December 2028. She resides in Yucaipa, California.
 
-Analyzed on: 2026-04-26 12:39:52
-**Total Zionist Contributions:** $4,500
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:39:52  
+**Total Zionist Contributions:** $4,500  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

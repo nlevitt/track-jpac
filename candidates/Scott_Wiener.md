@@ -6,9 +6,11 @@
 
 Scott Wiener is a California State Senator representing District 11, encompassing San Francisco and parts of San Mateo County. He is also a candidate for the U.S. House of Representatives in California's 11th Congressional District in the 2026 election, and he is originally from New Jersey.
 
-Analyzed on: 2026-04-26 12:34:45
-**Total Zionist Contributions:** $100,100
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:34:45  
+**Total Zionist Contributions:** $100,100  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

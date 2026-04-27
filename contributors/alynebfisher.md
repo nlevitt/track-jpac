@@ -1,5 +1,7 @@
 # Contributor Report: Fisher, Alyne B.
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 **Fisher, Alyne B.** (and the associated **Fisher family**) are prominent California-based political and philanthropic donors identified as the founders of **Gap Inc.** and the family investment firm **Pisces Inc.** Documentation of their relationship to Israel and Zionist advocacy centers on their multi-generational leadership and financial support for the **Koret Foundation**, **Birthright Israel**, and various San Francisco-based Zionist organizations.
 
 ### 1. Leadership and Governance: Koret Foundation

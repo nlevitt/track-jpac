@@ -6,9 +6,11 @@
 
 Monique Limón is the California Senate President pro Tempore and represents State Senate District 21. She was born and raised in Santa Barbara, California.
 
-Analyzed on: 2026-04-26 12:33:59
-**Total Zionist Contributions:** $14,285
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:33:59  
+**Total Zionist Contributions:** $14,285  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

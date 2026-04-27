@@ -4,6 +4,8 @@ This report provides an evidence-based overview of the political and philanthrop
 
 # Contributor Report: The Fisher Family (Gap Inc. / Pisces Inc.)
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### 1. Institutional Affiliations and Leadership Roles
 The Fisher family's relationship with Zionist advocacy is primarily channeled through long-standing leadership and board positions within major pro-Israel foundations.
 

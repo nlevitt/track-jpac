@@ -1,5 +1,7 @@
 # Contributor Report: Robert J. Fisher
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 Robert Joseph "Bob" Fisher is a prominent California-based businessman and philanthropist best known as the former chairman and interim CEO of **Gap Inc.** and the managing director of **Pisces Inc.**, the Fisher family's investment firm. He has been identified as a significant donor to organizations that advocate for Zionism and support Israeli institutions.
 
 ### 1. Relationship to Zionist Advocacy and Israel

@@ -2,6 +2,8 @@ This report examines the documented relationship of **Bonnie Fisher** (also iden
 
 # Contributor Report: Fisher, Bonnie
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### 1. Identity and Affiliations
 Bonnie Fisher, typically referred to in legal and professional contexts as **Elizabeth S. Fisher**, is the wife of **Robert J. (Bob) Fisher**, the former Chairman of Gap Inc. and a son of Gap founders Donald and Doris Fisher. She is a co-founder and trustee of the **Pisces Foundation**, which manages a significant portion of the family's philanthropic capital.
 

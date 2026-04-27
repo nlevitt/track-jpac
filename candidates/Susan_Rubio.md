@@ -6,9 +6,11 @@
 
 Susan Rubio is a Democratic member of the California State Senate, representing District 22, and lives in Baldwin Park. Her current term ends in December 2026, and she is seeking re-election to the same seat.
 
-Analyzed on: 2026-04-26 12:40:19
-**Total Zionist Contributions:** $17,400
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:40:19  
+**Total Zionist Contributions:** $17,400  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

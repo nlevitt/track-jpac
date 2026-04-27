@@ -6,9 +6,11 @@
 
 Steve Padilla is a State Senator for California's 18th District, serving since December 5, 2022. He is currently seeking re-election to the same office in the June 2, 2026 primary and is a resident of Chula Vista, California.
 
-Analyzed on: 2026-04-26 12:39:39
-**Total Zionist Contributions:** $0
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:39:39  
+**Total Zionist Contributions:** $0  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

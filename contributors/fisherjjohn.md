@@ -1,5 +1,7 @@
 # Contributor Report: Fisher, John J.
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 John J. Fisher is a prominent California-based businessman, managing director of the family office **Pisces Inc.**, and the principal owner of the **Oakland Athletics** (MLB) and **San Jose Earthquakes** (MLS). As the son of Gap Inc. founders Donald and Doris Fisher, he manages a significant portion of the family's multi-billion dollar fortune. Documentation identifies Fisher as a consistent donor and advocate for Zionist causes, both through individual political contributions and institutional philanthropy centered in the San Francisco Jewish community.
 
 ### 1. Philanthropic Ties to Israel and Zionist Advocacy

@@ -1,5 +1,7 @@
 # Contributor Report: Jenna Fisher
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 Jenna Fisher (also documented as Jennifer Fisher) is a prominent California-based political donor and corporate executive. She is a Senior Partner at the leadership advisory firm **Russell Reynolds Associates**, where she co-leads the Global Financial Officers Practice. Fisher is married to **Colin Fisher**, a Managing Director at **Pisces Inc.**, which serves as the private investment office and family office for the founders of **Gap Inc.** (the Fisher family).
 
 Fisher and her spouse are documented contributors to major Zionist philanthropic organizations and have publicly advocated for the State of Israel through formal declarations and financial support.

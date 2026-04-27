@@ -6,9 +6,11 @@
 
 Ben Allen is a current member of the California State Senate, representing District 24. He is from Santa Monica, California, and is a candidate in the 2026 California Insurance Commissioner election.
 
-Analyzed on: 2026-04-26 12:32:42
-**Total Zionist Contributions:** $88,600
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:32:42  
+**Total Zionist Contributions:** $88,600  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

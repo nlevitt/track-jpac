@@ -6,9 +6,11 @@
 
 Jesse Gabriel is a California State Assemblymember for District 46, a position he currently holds and is seeking re-election for in the upcoming 2026 elections. Born in Berkeley, California, and raised in Oak Park, California, he resides in the San Fernando Valley.
 
-Analyzed on: 2026-04-26 12:53:31
-**Total Zionist Contributions:** $82,650
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:53:31  
+**Total Zionist Contributions:** $82,650  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

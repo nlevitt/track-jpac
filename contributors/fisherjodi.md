@@ -4,6 +4,8 @@ Note: While the name "Jodi Fisher" appears in certain donor records and historic
 
 # Contributor Report: FISHER, JODI
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### 1. Corporate and Philanthropic Identity
 The subject is a member of the **Fisher family** of San Francisco, the founders of **Gap Inc.** and **Pisces Inc.** (the family’s investment firm and family office). The family’s philanthropic activity is primarily channeled through the **Donald and Doris Fisher Fund** and the **Pisces Foundation**, which maintain deep institutional ties to pro-Israel and Zionist organizations.
 

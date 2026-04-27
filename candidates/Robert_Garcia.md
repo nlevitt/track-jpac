@@ -6,9 +6,11 @@
 
 Robert Garcia is the U.S. Representative for California's 42nd Congressional District, representing Long Beach, California, and Southeast Los Angeles. He is seeking re-election to the U.S. House to represent California's 42nd Congressional District in the primary on June 2, 2026.
 
-Analyzed on: 2026-04-26 12:54:09
-**Total Zionist Contributions:** $2,500
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:54:09  
+**Total Zionist Contributions:** $2,500  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

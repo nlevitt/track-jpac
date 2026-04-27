@@ -1,5 +1,7 @@
 # Contributor Report: Orlanski, Leib
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### Overview
 Leib Orlanski is a prominent Los Angeles-based corporate attorney and political donor with a documented history of engagement in Zionist advocacy and pro-Israel policy initiatives. He is currently a partner at the international law firm **K&L Gates LLP**, where he specializes in mergers and acquisitions, venture capital, and securities law 1.1 (Note: having trouble producing a specific citation), 1.2 (Note: having trouble producing a specific citation). While some secondary sources have associated him with the University of California (UC) Board of Regents, official records do not list him as a former Chair or member of the Board; however, he has held numerous other leadership roles, including Chair of InterCounsel and the Southern California Marine and Intermodal Transportation System Advisory Council 1.3 (Note: having trouble producing a specific citation).
 

@@ -2,6 +2,8 @@ This report examines the documented relationship of the individual or entity ide
 
 # Contributor Report: Fisher, Barton (Fisher Family)
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### 1. Overview of Zionist Philanthropic Commitment
 The Fisher family is documented as a primary financial pillar of Zionist and pro-Israel causes in the United States. Their support is primarily channeled through the **Doris & Donald Fisher Fund** and the family’s investment office, **Pisces Inc.** The family is recognized for high-level contributions that "secure the future of Jewish identity" through the state of Israel.
 

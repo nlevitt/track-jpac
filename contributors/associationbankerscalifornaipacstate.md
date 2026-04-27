@@ -2,6 +2,8 @@ This research report examines the political activities and documented affiliatio
 
 # Contributor Report: California Bankers Association State PAC
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 The **California Bankers Association State PAC** is the political arm of the California Bankers Association (CBA), a trade organization representing the interests of the banking industry in California. While its primary mission is the promotion of the financial sector, the organization maintains documented ties to Zionist advocacy through leadership, coalition lobbying, and financial support for political candidates central to the pro-Israel lobby.
 
 ### 1. Entity Identification and Name Variants

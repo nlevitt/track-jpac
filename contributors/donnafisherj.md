@@ -2,6 +2,8 @@ The name **Donna J. Fisher** as a "founder" of Gap Inc. or Pisces Inc. appears t
 
 # Contributor Report: FISHER, DONNA J.
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 **Note:** Documentation suggests this entity refers to **Doris F. Fisher** (co-founder of Gap Inc. and Pisces Inc.) and the broader Fisher family philanthropic apparatus.
 
 ### 1. Overview of Identity and Corporate Affiliations

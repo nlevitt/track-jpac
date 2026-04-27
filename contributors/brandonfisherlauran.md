@@ -1,5 +1,7 @@
 # Contributor Report: FISHER, BRANDON N LAURA
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 This report documents the political and philanthropic activities of Brandon and Laura Fisher, members of the Fisher family—the billionaires behind **Gap Inc.** and the investment firm **Pisces Inc.** The family is among the most prominent political donors in California, with documented history of supporting Zionist causes and organizations that advocate for the State of Israel.
 
 ### Family and Institutional Affiliations

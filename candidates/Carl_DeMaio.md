@@ -6,9 +6,11 @@
 
 Carl DeMaio is a California State Assemblymember for District 75, having assumed office in December 2024. He is seeking re-election for the same district in the 2026 election and is from San Diego, California.
 
-Analyzed on: 2026-04-26 12:57:11
-**Total Zionist Contributions:** $0
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:57:11  
+**Total Zionist Contributions:** $0  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

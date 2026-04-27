@@ -2,6 +2,8 @@ This contributor report examines the documentation regarding the political donor
 
 # Contributor Report: Fisher, Kevin W.
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### Identity and Background
 The name **Kevin W. Fisher** is frequently associated in political and activist databases with the **Fisher family of San Francisco**, specifically the founders of **Gap Inc.** and the principals of the family office **Pisces Inc.** While the founders of Gap Inc. are **Donald Fisher** (d. 2009) and **Doris F. Fisher**, their three sons—**Robert J. Fisher**, **William S. Fisher**, and **John J. Fisher**—manage the family's commercial and philanthropic interests through **Pisces Inc.** and the **Pisces Foundation** ([Forbes](https://www.forbes.com/profile/robert-fisher/), [Gap Inc.](https://www.gapinc.com/en-us/about/history)). The family is based in California and is consistently identified as a major source of political and philanthropic funding for pro-Israel causes ([SFGate](https://www.sfgate.com/news/article/WEALTH-POWER-AND-VISION-Gap-founder-Don-Fisher-2509176.php)).
 

@@ -6,9 +6,11 @@
 
 Isaac Bryan is a Member of the California State Assembly, representing District 55. He is seeking re-election to the California State Assembly for District 55 in the primary election on June 2, 2026, and resides in Los Angeles, California.
 
-Analyzed on: 2026-04-26 12:54:43
-**Total Zionist Contributions:** $750
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:54:43  
+**Total Zionist Contributions:** $750  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

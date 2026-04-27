@@ -2,6 +2,8 @@ This report examines the political activities and advocacy of **Richard Leib** (
 
 # Contributor Report: Richard Leib
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### Profile Overview
 Richard Leib is a California-based businessman, political consultant, and the former Chair of the University of California Board of Regents. Appointed to the Board in 2018 by Governor Jerry Brown, Leib was elected Chair in 2022 and served through mid-2024. Professionally, he is the president and CEO of Dunleer Strategies and has a long history in Democratic politics, having served on the staff of prominent pro-Israel U.S. Representatives such as Henry Waxman and Mel Levine.
 

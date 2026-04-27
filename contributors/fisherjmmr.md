@@ -1,5 +1,7 @@
 # Contributor Report: FISHER, M J MR
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 **FISHER, M J MR** (identified in documentation primarily as the **Fisher family**, including **Donald G. Fisher**, **Doris F. Fisher**, **Robert J. Fisher**, **William S. Fisher**, and **John J. Fisher**) is a prominent California-based political donor and philanthropic group associated with the founding of **Gap Inc.** and the private investment firm **Pisces Inc.** The family is documented as a major financial supporter of Zionist institutions and pro-Israel advocacy organizations, specifically through the **Koret Foundation**, **Birthright Israel**, and the **Jewish Community Federation and Endowment Fund**.
 
 ### 1. Relationship to Israel and Zionist Advocacy

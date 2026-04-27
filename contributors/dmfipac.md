@@ -2,6 +2,8 @@ This report examines the Democratic Majority for Israel Political Action Committ
 
 # Contributor Report: DMFI PAC
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### 1. Organizational Overview and Mission
 Founded in early 2019 by Democratic strategist Mark Mellman, the **Democratic Majority for Israel (DMFI)** and its political arm, **DMFI PAC**, were established to counter declining support for Israel among younger and progressive segments of the Democratic Party (Wikipedia (Note: having trouble producing a specific citation)). The organization is currently led by President and CEO Brian Romick, a former senior advisor to Representative Steny Hoyer, and Board Chair Kathy Manning, a former U.S. Representative (DMFI Press Release (Note: having trouble producing a specific citation)).
 

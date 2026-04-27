@@ -2,6 +2,8 @@ This research report outlines the political activities and advocacy of the entit
 
 # Contributor Report: Jewish Public Affairs Committee of California (Jewish California)
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### 1. Organizational Overview and Rebranding
 The **Jewish Public Affairs Committee of California (JPAC)** is the largest single-state coalition of Jewish organizations in the United States, representing approximately 41 member groups, including various Jewish Federations, Jewish Community Relations Councils (JCRCs), and Zionist advocacy organizations such as the **Anti-Defamation League (ADL)** and **AJC**. 
 *   **Rebrand:** In February 2026, the organization rebranded itself as **Jewish California**, positioning itself as the "unified voice" for the state's 1.2 million Jewish residents in Sacramento.

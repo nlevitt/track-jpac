@@ -1,5 +1,7 @@
 # Contributor Report: FISHER, ANNE
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ## Overview
 **Anne B. Fisher** is a prominent California-based political donor and philanthropist, primarily recognized through her marriage to **Robert J. Fisher**, the son of **Gap Inc.** founders Donald and Doris Fisher. The Fisher family, through their family office **Pisces Inc.** and various charitable foundations, are significant contributors to San Francisco’s Jewish communal infrastructure and various Zionist advocacy organizations. Their philanthropic footprint includes substantial support for the **Koret Foundation**, **Birthright Israel**, and the **American Israel Public Affairs Committee (AIPAC)**.
 

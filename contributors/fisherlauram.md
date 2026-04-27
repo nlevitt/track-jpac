@@ -2,6 +2,8 @@ This report documents the philanthropic and political activities of Laura M. Fis
 
 # Contributor Report: Fisher, Laura M.
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### Overview and Identifiers
 Laura M. Fisher is a billionaire philanthropist based in San Francisco, California. She is the wife of **John J. Fisher**, who is the son of Gap Inc. founders Donald and Doris Fisher and the Executive Vice Chairman of **Pisces Inc.**, the Fisher family's private investment firm and family office. Laura M. Fisher is frequently identified as a key principal in the family’s wealth management and philanthropic distribution, often donating jointly with her husband or through entities associated with the Gap Inc. fortune.
 

@@ -1,5 +1,7 @@
 # Contributor Report: The Fisher Family (Donald, Doris, and John J. Fisher)
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 **Note on Identity:** While the name "Fisher, James" is provided in the request, documentation identifies the founders of **Gap Inc.** and **Pisces Inc.** (the family’s private investment firm) as **Donald G. Fisher** (1928–2009), **Doris F. Fisher**, and their son **John J. Fisher**. There is no prominent political donor or founder within this family named James Fisher; it is likely a misidentification of the family’s collective activity or its primary political figure, **John J. Fisher**.
 
 ### 1. Documentation of Zionist Advocacy & Support for Israel

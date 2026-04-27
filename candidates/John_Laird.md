@@ -6,9 +6,11 @@
 
 John Laird is the State Senator for District 17, having been re-elected on November 5, 2024, for his final term. He is a resident of Santa Cruz, California.
 
-Analyzed on: 2026-04-26 12:39:19
-**Total Zionist Contributions:** $8,400
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:39:19  
+**Total Zionist Contributions:** $8,400  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

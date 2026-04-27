@@ -6,9 +6,11 @@
 
 Jesse Arreguín is a member of the California State Senate, representing District 7. He was born in Fresno, California, and raised in San Francisco, California.
 
-Analyzed on: 2026-04-26 12:33:15
-**Total Zionist Contributions:** $1,500
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:33:15  
+**Total Zionist Contributions:** $1,500  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

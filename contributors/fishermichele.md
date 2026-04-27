@@ -2,6 +2,8 @@ The following report documents the political and philanthropic activities of the
 
 # Contributor Report: Fisher, Michele
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### Overview
 "Fisher, Michele" is a name frequently associated in donor databases with the **Fisher family** of San Francisco, the founders of **Gap Inc.** and the family office **Pisces Inc.** The primary principals of this family's philanthropy are **Doris Fisher** and her late husband **Donald Fisher**, along with their sons **Robert, William, and John Fisher**. The family is documented as a significant financial supporter of Zionist institutions, including the **Koret Foundation**, **Birthright Israel**, and the **Jewish Federation of the Bay Area**.
 

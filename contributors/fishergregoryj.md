@@ -4,6 +4,8 @@ While research indicates the name "Gregory J. Fisher" is occasionally used in ce
 
 # Contributor Report: Fisher, Gregory J.
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### 1. Affiliation with Gap Inc. and Pisces Inc.
 The contributor is identified through familial and corporate ties to the founders of **Gap Inc.** and their private investment vehicle, **Pisces Inc.** (alternatively Pisces Investment Advisory).
 *   **Founders & Governance:** Donald and Doris Fisher founded Gap Inc. in 1969 1.13 (Note: having trouble producing a specific citation). Their son, **John J. Fisher**, serves as the president and founder of **Pisces Inc.**, the family's investment and management office [1.4](https://chartergrowthfund.org/person/john-fisher/). 

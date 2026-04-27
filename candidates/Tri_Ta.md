@@ -6,9 +6,11 @@
 
 Tri Ta is currently a California State Assemblyman representing District 70. He is seeking re-election for the same district in the June 2, 2026 primary election and resides in Westminster, California.
 
-Analyzed on: 2026-04-26 12:56:37
-**Total Zionist Contributions:** $0
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:56:37  
+**Total Zionist Contributions:** $0  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

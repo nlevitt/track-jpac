@@ -2,6 +2,8 @@ The following contributor report details the documented philanthropic and politi
 
 # Contributor Report: Fisher, Timothy
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### Overview
 **Timothy Fisher** is associated with the **Fisher family** of San Francisco, the founders of **Gap Inc.** and the private investment firm **Pisces Inc.** The family is among the most prominent political and philanthropic donors in California, with a multi-generational history of supporting Zionist organizations and pro-Israel initiatives. Documentation identifies Timothy Fisher and the broader family office as key financial backers of the **Koret Foundation**, **Birthright Israel**, and various advocacy groups that support Israeli state interests.
 

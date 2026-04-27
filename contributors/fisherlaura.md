@@ -1,5 +1,7 @@
 # Contributor Report: Fisher, Laura
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 **Laura Meier Fisher** is a prominent California-based political donor and philanthropist, primarily known for her marriage to John J. Fisher, the son of Gap Inc. founders Donald and Doris Fisher and the majority owner of the Oakland Athletics. Fisher is documented as a major contributor to Zionist organizations and causes through both individual donations and family-managed entities, including **Pisces Inc.** and the **Koret Foundation**.
 
 ### 1. Relationship to Israel and Zionist Advocacy

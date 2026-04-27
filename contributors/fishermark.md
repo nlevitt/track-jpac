@@ -1,5 +1,7 @@
 # Contributor Report: Mark Fisher
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 **Mark Fisher** (often documented as **Isaac "Ike" Fisher** or conflated with the **Fisher family of San Francisco**) is identified as a significant political donor and philanthropist with ties to **Gap Inc.** and the investment firm **Pisces Inc.** His Zionist advocacy is characterized by substantial financial support for pro-Israel organizations, leadership roles in lobbying groups, and historical involvement with the **Koret Foundation** and **Birthright Israel**.
 
 ### 1. Affiliation with Gap Inc. and Pisces Inc.

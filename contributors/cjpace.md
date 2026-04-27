@@ -2,6 +2,8 @@ This report examines the political activities, policy frameworks, and institutio
 
 # Contributor Report: PACE, J.C. (Jewish Public Affairs Committee of California)
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### 1. Entity Identification and Mission
 The entity identified in political contribution and advocacy records as "PACE, J.C." or "J.C. PACE" is the **Jewish Public Affairs Committee of California (JPAC)**, which recently rebranded as **Jewish California** in early 2026. Founded in 1972, it serves as the largest statewide coalition of Jewish community organizations in the United States, representing over 41 member groups, including regional Jewish Federations, Jewish Community Relations Councils (JCRCs), and national organizations such as the Anti-Defamation League (ADL) and the American Jewish Committee (AJC).
 

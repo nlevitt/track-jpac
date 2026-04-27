@@ -1,5 +1,7 @@
 # Contributor Report: Julienne Fisher
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### Overview
 Julienne Fisher is a California-based political donor and member of the Fisher family, known for founding Gap Inc. She is married to Robert J. Fisher, who has served as the chairman of Gap Inc. and is a principal of Pisces Inc., the family’s investment management firm. The Fisher family is documented as a primary source of financial support for Zionist institutions and pro-Israel advocacy within the United States and internationally.
 

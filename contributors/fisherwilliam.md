@@ -2,6 +2,8 @@ This report examines the documentation and affiliations of **William Sydney Fish
 
 # Contributor Report: William Fisher
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### 1. Identity and Corporate Affiliation
 William Sydney Fisher is the son of **Donald and Doris Fisher**, the founders of **Gap Inc.** He is a principal member of the Fisher family, which manages its extensive wealth through the family office **Pisces, Inc.** (also known as Pisces Fund).
 

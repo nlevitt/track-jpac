@@ -1,5 +1,7 @@
 # Contributor Report: California Jewish Legislative Caucus Leadership PAC
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 This report provides an evidence-based overview of the **California Jewish Legislative Caucus Leadership PAC** (Committee ID: [1438782](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1438782)), its relationship to the California Legislative Jewish Caucus (CLJC), and its documented support for Israel and Zionist advocacy.
 
 ### 1. Organizational Structure and Affiliation

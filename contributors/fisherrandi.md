@@ -1,5 +1,7 @@
 # Contributor Report: Fisher, Randi
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 Randi Fisher is a prominent San Francisco-based philanthropist and a member of the Fisher family, the billionaire heirs to the **Gap Inc.** fortune. Alongside her husband, Robert (Bob) J. Fisher, she co-founded the **Pisces Foundation**, an environmental grantmaking organization, and is a principal of **Pisces Inc.**, the family's investment office. Fisher is documented as a significant contributor to a network of institutions that support the State of Israel and Zionist advocacy, often in partnership with the **Koret Foundation**.
 
 ### Documentation of Zionist Advocacy and Israel Support

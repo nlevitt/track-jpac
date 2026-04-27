@@ -6,9 +6,11 @@
 
 Catherine Blakespear is the State Senator for California's 38th District and is seeking re-election to that office in the June 2, 2026 primary. She is from Encinitas, California.
 
-Analyzed on: 2026-04-26 12:42:47
-**Total Zionist Contributions:** $3,500
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:42:47  
+**Total Zionist Contributions:** $3,500  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

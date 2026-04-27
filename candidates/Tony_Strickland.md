@@ -6,9 +6,11 @@
 
 Tony Strickland is a California State Senator for the 36th district, having assumed office in March 2025. He is seeking re-election in the primary for State Senate District 36 in June 2026, and is from Fort Ord, California.
 
-Analyzed on: 2026-04-26 12:42:34
-**Total Zionist Contributions:** $8,600
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:42:34  
+**Total Zionist Contributions:** $8,600  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

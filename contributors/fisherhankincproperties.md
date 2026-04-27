@@ -2,6 +2,8 @@ This report examines the California-based entity **Hank Fisher Properties, Inc.*
 
 # Contributor Report: HANK FISHER PROPERTIES, INC.
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### 1. Entity Overview and Identity
 **Hank Fisher Properties, Inc.** is a residential property development and management company based in Sacramento, California. It was established in 1979 by **Henry "Hank" Fisher** and **Nancy Fisher** and is primarily known for developing senior living communities in the Sacramento region (Hank Fisher Properties History (Note: having trouble producing a specific citation)).
 

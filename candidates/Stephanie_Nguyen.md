@@ -6,9 +6,11 @@
 
 Stephanie Nguyen is a California State Assemblymember for District 10, from Elk Grove, California. She is seeking re-election to the California State Assembly, District 10, in the primary on June 2, 2026.
 
-Analyzed on: 2026-04-26 12:47:02
-**Total Zionist Contributions:** $4,900
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:47:02  
+**Total Zionist Contributions:** $4,900  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

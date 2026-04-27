@@ -2,6 +2,8 @@ This contributor report examines the philanthropic and political activities of E
 
 # Contributor Report: Elizabeth S. Fisher
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### Overview and Professional Identity
 Elizabeth S. Fisher is a prominent San Francisco-based political donor and philanthropist. She is the spouse of **Robert J. Fisher**, the former chairman of **Gap Inc.** and son of company founders Donald and Doris Fisher. Elizabeth Fisher currently serves as a Managing Director of **Pisces Inc.**, the Fisher family's investment and management firm, and is a co-founder of the **Pisces Foundation**.
 * **Pisces Inc. Association:** Documented as Managing Director in SEC and political filing data (Source (Note: having trouble producing a specific citation)).

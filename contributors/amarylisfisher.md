@@ -1,5 +1,7 @@
 # Contributor Report: Fisher, Amarylis (Amaryllis)
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 The individual identified as **Amarylis Fisher** (also documented as **Amaryllis Fisher**) is a prominent political and philanthropic donor associated with the Fisher family, the founders of **Gap Inc.** and the family investment firm **Pisces Inc.** Documentation of their relationship to Israel and Zionist advocacy is centered on significant financial contributions to organizations that support the state of Israel and ideological alignment with Zionist institutions.
 
 ### 1. Affiliation with Gap Inc. and Pisces Inc.

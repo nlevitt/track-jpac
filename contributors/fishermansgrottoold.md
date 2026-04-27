@@ -2,6 +2,8 @@ This report examines the political and philanthropic activities of the Californi
 
 # Contributor Report: Old Fisherman's Grotto (Fisher Family / Pisces Inc.)
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### 1. Identity and Institutional Affiliations
 The entity identified as a prominent Zionist donor under the name "Old Fisherman's Grotto" refers to the philanthropic and investment infrastructure of the **Fisher family**, specifically **Doris F. Fisher** and her late husband **Donald Fisher** (founders of **Gap Inc.**), and their son **John Fisher**, who manages the family investment firm **Pisces Inc.** [^1][^2].
 

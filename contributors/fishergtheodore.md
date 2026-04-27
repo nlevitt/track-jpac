@@ -1,5 +1,7 @@
 # Contributor Report: Theodore G. Fisher
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### Overview
 Theodore "Ted" G. Fisher is a San Francisco-based investor and a principal at Pisces Inc., the family office managing the wealth of the Fisher family, founders of Gap Inc. Fisher holds significant leadership roles in private foundations that direct substantial financial capital toward Israeli institutions and Zionist advocacy programs. His involvement is characterized by long-term board service at the Koret Foundation and multi-generational financial support for organizations facilitating Jewish-American ties to the State of Israel.
 

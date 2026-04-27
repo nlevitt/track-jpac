@@ -2,6 +2,8 @@ This research report examines the donor profile of **Marc Fisher**, as identifie
 
 # Contributor Report: FISHER, MARC
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### 1. Summary Identification
 **Marc Fisher** is identified in political donor contexts as a member or representative of the **Fisher family**, the founders of **Gap Inc.** and **Pisces Inc.** (their family investment firm). The Fisher family is among the most prominent political and philanthropic donors in California, with a documented history of supporting Zionist causes through the **Koret Foundation**, **Birthright Israel**, and various family-led charitable funds.
 

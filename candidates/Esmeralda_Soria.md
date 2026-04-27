@@ -6,9 +6,11 @@
 
 Esmeralda Soria is a Democratic California State Assemblymember, representing District 27, and is serving in her second term. She is seeking election to the California State Senate for District 14 in the June 2026 primary election. Soria was born and raised in California's Central Valley and resides in Fresno.
 
-Analyzed on: 2026-04-26 12:50:55
-**Total Zionist Contributions:** $0
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:50:55  
+**Total Zionist Contributions:** $0  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

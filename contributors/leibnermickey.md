@@ -1,5 +1,7 @@
 # Contributor Report: Richard Leib (Identified as LEIBNER, MICKEY)
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 Research indicates that the individual identified as "LEIBNER, MICKEY" and described as the "Former Chair of UC Regents" is **Richard Leib** (commonly known as **Rich Leib**). Richard Leib served as the Chair of the University of California Board of Regents from 2022 to 2024 and is a documented advocate for Zionist causes and Israel-related initiatives. The name "Mickey Leibner" appears to be a conflation with **Michael "Mickey" Leibner**, a Washington D.C.-based attorney and pro-Israel advocate, but the institutional role and specific advocacy described are attributed to Richard Leib.
 
 ### 1. Identity and Institutional Role

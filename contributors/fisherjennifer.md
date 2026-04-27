@@ -1,5 +1,7 @@
 # Contributor Report: Jennifer Fisher
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 Jennifer Fisher is a San Francisco-based attorney and member of the Fisher family, which founded **Gap Inc.** and the family office **Pisces Inc.** She and her husband, Colin Fisher, are documented as significant donors to Jewish and Zionist organizations, particularly through the **Jewish Federation of the Bay Area**.
 
 ### 1. Documented Relationship to Zionist Advocacy

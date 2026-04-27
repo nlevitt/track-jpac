@@ -2,6 +2,8 @@ This report provides an evidence-based overview of the political and philanthrop
 
 # Contributor Report: FISHER, JAMES R.
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### 1. Identity and Institutional Affiliations
 James R. Fisher is the brother of the late **Donald G. Fisher**, who co-founded **Gap Inc.** in 1969 [1.16 (Note: having trouble producing a specific citation)]. He is a member of the Fisher family, which manages its wealth through **Pisces Inc.**, a San Francisco-based family office and investment firm [[1.4](https://www.gapinc.com/en-us/about/leadership/board-of-directors)]. Pisces Inc. and the Fisher family are identified as central pillars of San Francisco’s Jewish and pro-Israel philanthropic circles [[1.19](https://jweekly.com/2009/10/02/gap-founder-donald-fisher-leaves-stamp-on-community/)].
 

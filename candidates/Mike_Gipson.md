@@ -6,9 +6,11 @@
 
 Mike Gipson is a State Assemblymember representing California's 65th Assembly District. He is currently seeking election to the California State Board of Equalization, District 3. He is from Carson, California.
 
-Analyzed on: 2026-04-26 12:55:56
-**Total Zionist Contributions:** $5,000
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:55:56  
+**Total Zionist Contributions:** $5,000  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

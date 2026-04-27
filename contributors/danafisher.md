@@ -2,6 +2,8 @@ This report examines the political and philanthropic activities of the Fisher fa
 
 # Contributor Report: Dana Fisher
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 The name **Dana Fisher** is frequently identified in political donor databases and activist research projects (such as those documenting "Zionist donors") as a primary benefactor of Gap Inc. and Pisces Inc. [1.1](https://littlesis.org/org/40608-Gap_Inc), 1.2 (Note: having trouble producing a specific citation). While Gap Inc. was co-founded by **Donald and Doris Fisher**, Doris Fisher is the primary individual associated with the family’s sustained philanthropic output following Donald’s death in 2009 [1.3](https://www.forbes.com/profile/doris-fisher/). The Fisher family manages their investments and philanthropy through **Pisces Inc.** and the **Doris and Donald Fisher Fund** [1.4](https://piscesfoundation.org/who-we-are/).
 
 ### 1. Documented Relationship to Israel and Zionist Advocacy

@@ -1,5 +1,7 @@
 # Contributor Report: Fisher, Andrew
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 The following report analyzes the documented activities of **Andrew Fisher** (and the associated **Fisher family** of Gap Inc.) in the context of Zionist advocacy and support for Israel. While the name "Andrew Fisher" is identified in some political and philanthropic contexts, the description of "Gap Inc./Pisces Inc. founders" primarily refers to the late **Donald Fisher** and his wife **Doris F. Fisher**, as well as their sons **Robert**, **William**, and **John Fisher**, who manage the family's investment firm, **Pisces Inc.**
 
 ### 1. Identity and Institutional Affiliation

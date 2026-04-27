@@ -1,5 +1,7 @@
 # Contributor Report: FISHER, M J MRS
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 This report documents the documented relationship between the individual identified as **"FISHER, M J MRS"**—associated with the founders of **Gap Inc.** and the family office **Pisces Inc.**—and their support for Zionist advocacy and the State of Israel. Public records and philanthropic reports indicate that the Fisher family of San Francisco has maintained long-standing leadership and financial roles within organizations that advocate for and fund Israeli institutions.
 
 ### 1. Identity and Institutional Affiliation

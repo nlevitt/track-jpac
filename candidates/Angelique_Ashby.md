@@ -6,9 +6,11 @@
 
 Angelique Ashby is the State Senator for District 8 and Senate Majority Leader in California, representing Sacramento and Elk Grove. She is seeking re-election to the California State Senate for District 8 in the primary on June 2, 2026.
 
-Analyzed on: 2026-04-26 12:36:31
-**Total Zionist Contributions:** $8,500
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:36:31  
+**Total Zionist Contributions:** $8,500  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

@@ -2,6 +2,8 @@ This report examines the political and philanthropic activities of the **Fisher 
 
 # Contributor Report: FISHER, SUE
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 The name "Sue Fisher" (often recorded as Susan Fisher) is associated with the **Fisher family** of San Francisco, the founders of **Gap Inc.** and **Pisces Inc.** (the family’s investment firm and philanthropic foundation). Documentation identifies the family as prominent financial backers of Zionist organizations and pro-Israel initiatives, specifically through the **Koret Foundation**, **Birthright Israel**, and the **Jewish Community Federation of San Francisco**.
 
 ### 1. Philanthropic Support for Zionist Organizations

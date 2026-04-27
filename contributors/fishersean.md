@@ -1,5 +1,7 @@
 # Contributor Report: Fisher, Sean
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 Sean Fisher is a documented political and philanthropic contributor associated with the **Fisher family**, the founding family of **Gap Inc.** and the family office **Pisces Inc.** Documentation identifies Sean Fisher as a contributor within a broader family network that serves as a primary financial pillar for several prominent Zionist and pro-Israel organizations, including the **Koret Foundation** and **Birthright Israel**.
 
 ### Financial and Institutional Affiliations

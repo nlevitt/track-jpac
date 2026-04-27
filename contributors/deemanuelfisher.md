@@ -2,6 +2,8 @@ This report examines the political and philanthropic activities of **Doris F. Fi
 
 # Contributor Report: Doris and Donald Fisher (Fisher Family)
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 The Fisher family, through their family office **Pisces Inc.** and personal foundations, are among the most significant California-based donors to pro-Israel causes and Zionist organizations. Their support spans education, political advocacy, and direct institutional funding in Israel.
 
 ### 1. Institutional Support for Zionist Organizations

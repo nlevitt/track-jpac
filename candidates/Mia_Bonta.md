@@ -6,9 +6,11 @@
 
 Mia Bonta is a current member of the California State Assembly, representing the 18th Assembly District, which includes Oakland, Alameda, and Emeryville. She is seeking re-election in the primary for California State Assembly District 18 on June 2, 2026. Bonta was born in New York City and grew up in the Bronx, later making Alameda her home.
 
-Analyzed on: 2026-04-26 12:47:47
-**Total Zionist Contributions:** $0
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:47:47  
+**Total Zionist Contributions:** $0  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

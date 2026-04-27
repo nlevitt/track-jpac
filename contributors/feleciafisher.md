@@ -2,6 +2,8 @@ This report examines the political and philanthropic activities of the Fisher fa
 
 # Contributor Report: Fisher, Felecia (The Fisher Family)
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### 1. Overview of Political and Corporate Identity
 The Fisher family founded **Gap Inc.** in 1969 and manages their wealth through **Pisces Inc.**, a private investment firm. They are among the most prominent political donors in California, historically leveraging their fortune to support pro-Israel lobbying, conservative political causes, and Zionist educational initiatives.
 *   **Doris Fisher:** Co-founder of Gap Inc. and a billionaire philanthropist. [Source: Forbes](https://www.forbes.com/profile/doris-fisher/)

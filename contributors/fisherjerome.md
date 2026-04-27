@@ -1,5 +1,7 @@
 # Contributor Report: FISHER, JEROME
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 Jerome Fisher (1930–2016), the co-founder of Nine West Group, was a major philanthropist and political donor identified in various records for his substantial financial support of Israeli institutions and Zionist projects. While often conflated with the San Francisco-based Fisher family (founders of Gap Inc. and Pisces Inc.) due to shared surnames and overlapping philanthropic targets—including the Koret Foundation and Birthright Israel—Jerome Fisher maintained a distinct but collaborative financial relationship with these entities.
 
 ### 1. Documented Relationship to Israel and Zionist Advocacy

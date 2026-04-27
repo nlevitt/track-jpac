@@ -1,5 +1,7 @@
 # Contributor Report: Richard Leib
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 Richard Leib is a prominent California political figure, business executive, and member of the University of California (UC) Board of Regents. He served as the **Chair of the UC Board of Regents** from 2022 to 2024 and is recognized as a significant political donor and advocate for Zionist causes within the California educational system and the broader San Diego community.
 
 ### 1. Political and Institutional Role

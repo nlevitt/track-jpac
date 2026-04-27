@@ -1,5 +1,7 @@
 # Contributor Report: Fisher, Kelly
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ## Overview
 **Kelly Fisher** (documented in corporate and philanthropic filings as **Kelley M. Fisher**) is a prominent California-based political and charitable donor associated with the **Fisher family**, the founders of **Gap Inc.** and the investment firm **Pisces Inc.** Fisher serves as a **Managing Director** at Pisces Inc. and is a **Director** of the **Donald and Doris Fisher Fund**, the primary philanthropic vehicle for the Fisher family's multi-million dollar contributions to educational and pro-Israel causes. Fisher is identified as a "prominent Zionist donor" by advocacy groups and investigative projects due to the fund's extensive and long-term financial support for organizations that promote the State of Israel and Zionist ideology, including the **Birthright Israel Foundation** and the **Koret Foundation**.
 

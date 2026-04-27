@@ -2,6 +2,8 @@ To fulfill the tone and style requirements of this report, the following informa
 
 # Contributor Report: JEANNE D. FISHER
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### Overview and Identification
 Jeanne D. Fisher (Jeanne Donovan Fisher) is a prominent American philanthropist and political donor based in New York City. She is the widow of **Richard B. Fisher** (1936–2004), the former Chairman of Morgan Stanley. While the provided context associates the name "Jeanne D. Fisher" with the founders of **Gap Inc./Pisces Inc.**, public records indicate that the Gap founders are **Donald G. Fisher** and **Doris F. Fisher**. Jeanne Donovan Fisher is a distinct individual, though she frequently appears on high-level donor rolls alongside the San Francisco-based Fisher family in international arts and Jewish philanthropic contexts [1.7, 1.8].
 

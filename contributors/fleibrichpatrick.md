@@ -2,6 +2,8 @@ To provide a neutral, evidence-based research report, the following information 
 
 # Contributor Report: Leibrich, Patrick F.
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### **Overview**
 Patrick F. Leibrich is a California-based business executive and political donor, primarily active in the **Ventura County** and **Thousand Oaks** regions. He is the **Owner and President** of **International Battery Corp. (IBC)** and **Fullriver Battery Group**, a global manufacturer of lead-acid and lithium batteries with its U.S. headquarters in Camarillo, California.
 

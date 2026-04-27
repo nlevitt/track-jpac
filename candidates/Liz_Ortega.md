@@ -6,9 +6,11 @@
 
 Liz Ortega is the California State Assemblymember for District 20, having assumed office on December 5, 2022. She is seeking re-election to represent District 20 in the upcoming 2026 elections and lives in San Leandro, California.
 
-Analyzed on: 2026-04-26 12:33:29
-**Total Zionist Contributions:** $0
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:33:29  
+**Total Zionist Contributions:** $0  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

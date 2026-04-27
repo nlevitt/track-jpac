@@ -1,5 +1,7 @@
 # Contributor Report: Fisher, Sakurako
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 Sakurako Fisher (often referred to as "Sako" Fisher) is a prominent San Francisco-based philanthropist, corporate director, and political donor. She is the wife of William S. Fisher, whose family founded **Gap Inc.** and manages the multi-billion dollar family office **Pisces Inc.** Documentation indicates her support for Israel is channeled through high-level philanthropic institutions, family-led foundations, and major Zionist advocacy organizations.
 
 ### 1. Philanthropic Leadership and Zionist Advocacy

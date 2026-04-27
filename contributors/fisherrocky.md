@@ -1,5 +1,7 @@
 # Contributor Report: Robert "Rocky" Fisher
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 **Robert Joseph "Rocky" Fisher** (commonly known as Bob Fisher) is a prominent American businessman, heir to the Gap Inc. fortune, and managing director of the Fisher family’s investment firm, **Pisces Inc.** He is the son of Gap Inc. co-founders Donald and Doris Fisher. Fisher has been identified in various research contexts as a significant contributor to Zionist causes and pro-Israel organizations through both personal wealth and family-controlled philanthropic vehicles.
 
 ### 1. Organizational Affiliations & Zionist Support

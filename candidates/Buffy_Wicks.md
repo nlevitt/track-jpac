@@ -6,9 +6,11 @@
 
 Buffy Wicks is a Democratic California State Assemblymember representing District 14. She is running for re-election in the June 2, 2026 primary and is from Foresthill, California.
 
-Analyzed on: 2026-04-26 12:47:33
-**Total Zionist Contributions:** $52,350
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:47:33  
+**Total Zionist Contributions:** $52,350  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

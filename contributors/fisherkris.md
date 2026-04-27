@@ -2,6 +2,8 @@ This report examines the political and philanthropic activities of the **Fisher 
 
 # Contributor Report: Fisher Family (Gap Inc. / Pisces Inc.)
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### 1. Affiliation with Gap Inc. and Pisces Inc.
 The Fisher family’s wealth is rooted in **Gap Inc.**, founded by Donald and Doris Fisher in 1969 in San Francisco [1.1](https://californiamuseum.org/inductee/doris-donald-fisher/). The family manages its assets and philanthropic ventures through **Pisces Inc.**, their private family office, and the **Pisces Foundation**, which was co-founded by Robert and Randi Fisher [1.2](https://piscesfoundation.org/bio/bob-fisher/). The family collectively owns a significant portion of Gap Inc. stock, maintaining substantial influence over the multinational retailer 1.3 (Note: having trouble producing a specific citation).
 

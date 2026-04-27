@@ -6,9 +6,11 @@
 
 Avelino Valencia is a member of the California State Assembly, representing District 68, and is seeking election to the California State Senate, District 34. He is from Anaheim, California.
 
-Analyzed on: 2026-04-26 12:56:17
-**Total Zionist Contributions:** $1,500
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:56:17  
+**Total Zionist Contributions:** $1,500  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

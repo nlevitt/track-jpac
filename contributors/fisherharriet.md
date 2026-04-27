@@ -1,5 +1,7 @@
 # Contributor Report: Fisher, Harriet
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 **Note on Identification:** While the name provided is "Fisher, Harriet," the identifiers "(Gap Inc./Pisces Inc. founders)" and "(associated with Koret Foundation and Birthright Israel)" correspond to the **Doris and Donald Fisher** family, the co-founders of Gap Inc. No prominent donor or founder of Gap Inc. is named Harriet Fisher; however, the Fisher family's philanthropic activities through their investment vehicle, **Pisces, Inc.**, and the **Doris & Donald Fisher Fund**, are extensively documented in relation to the entities cited.
 
 ### Relationship to Israel and Zionist Advocacy

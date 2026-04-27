@@ -6,9 +6,11 @@
 
 Laura Richardson is a member of the California State Senate, representing District 35. She was born in Los Angeles, California, and lives in San Pedro.
 
-Analyzed on: 2026-04-26 12:42:03
-**Total Zionist Contributions:** $1,500
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:42:03  
+**Total Zionist Contributions:** $1,500  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

@@ -1,5 +1,7 @@
 # Contributor Report: FISHER, JILL
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ## Overview
 Jill Fisher (specifically identified in political and philanthropic records as Jill H. Fisher) is an executive and documented political donor based in San Francisco, California. She is a key associate and employee of the **Fisher family**, the founders of **Gap Inc.** and **Pisces Inc.** (the family’s investment office and family office). Fisher is documented as a participant and supporter of multiple Zionist organizations, including **Birthright Israel** and the **American-Israel Friendship League (AIFL)**, and is professionally integrated into the philanthropic infrastructure of the Fisher family, which is recognized for its extensive financial support of Israeli institutions and Zionist advocacy in the United States.
 

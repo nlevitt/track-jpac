@@ -2,6 +2,8 @@ The individual identified as **Heather Carroll-Fisher** in the context of San Fr
 
 # Contributor Report: Heather Carroll-Fisher
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### 1. Identity and Institutional Affiliations
 The name **Heather Carroll-Fisher** appears in California and Maryland public records as a Regional Executive Director for the **California Teachers Association (CTA)** and the Executive Director of the **Montgomery County Education Association (MCEA)**. 
 *   **Professional Role:** She has managed labor operations and political advocacy for major teachers' unions [[Prospeo Profile](https://prospeo.io/company/california-teachers-association); [MCEA Announcement](https://mocoshow.com/2025/02/20/teachers-union-announces-public-search-for-next-executive-director/)].

@@ -2,6 +2,8 @@ In response to your request, here is a neutral, evidence-based research report c
 
 # Contributor Report: Fisher, Barry
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### 1. Identity and Affiliations
 "Barry Fisher" is frequently identified in political and activist databases as a representative or key figure associated with the **Fisher Family** of California, the founders of **Gap Inc.** and **Pisces Inc.** (the family’s private investment firm and family office). While the primary founders of Gap Inc. were Donald and Doris Fisher, their sons—Robert, William, and John—and extended family members are cited as major contributors to Zionist causes.
 

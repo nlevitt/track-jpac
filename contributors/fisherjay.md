@@ -1,5 +1,7 @@
 # Contributor Report: John J. "Jay" Fisher
 
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
 ### Overview
 John J. "Jay" Fisher is a California-based businessman, son of Gap Inc. founders Donald and Doris Fisher, and the current chairman of the board of the Oakland Athletics. He manages the family’s wealth through **Pisces Inc.** (the Fisher family office) and serves as a primary director for the family’s philanthropic entities. His political and philanthropic activity is characterized by significant financial support for Zionist organizations and institutions that strengthen the diplomatic and cultural ties between the United States and Israel.
 

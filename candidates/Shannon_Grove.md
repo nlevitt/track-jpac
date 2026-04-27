@@ -6,9 +6,11 @@
 
 Shannon Grove is a California State Senator representing District 12 and is running for election to the California State Board of Equalization to represent District 1. She is from Bakersfield, California.
 
-Analyzed on: 2026-04-26 12:37:16
-**Total Zionist Contributions:** $0
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:37:16  
+**Total Zionist Contributions:** $0  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 

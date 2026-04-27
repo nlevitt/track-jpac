@@ -6,9 +6,11 @@
 
 Diane Papan is the State Assemblymember for California's 21st District and is seeking re-election for this office in the June 2, 2026 primary election. She is from San Mateo County, California.
 
-Analyzed on: 2026-04-26 12:49:32
-**Total Zionist Contributions:** $3,500
-**Total Zionist Behested Payments:** $0
+Analyzed on: 2026-04-26 12:49:32  
+**Total Zionist Contributions:** $3,500  
+**Total Zionist Behested Payments:** $0  
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
 ### Zionist Federal Contributions (FEC)
 
