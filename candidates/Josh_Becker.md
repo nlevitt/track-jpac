@@ -1,6 +1,6 @@
 # California Zionist Supporters: Josh Becker
 
-<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd13_becker_0.jpg" alt="Photo of Josh Becker" align="right" style="margin-left: 20px">
+<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd13_becker_0.jpg" alt="Photo of Josh Becker" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Senator, District 13
 

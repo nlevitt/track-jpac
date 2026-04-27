@@ -1,6 +1,6 @@
 # California Zionist Supporters: Lola Smallwood-Cuevas
 
-<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/smallwood-cuevas_lola_d-28.jpg" alt="Photo of Lola Smallwood-Cuevas" align="right" style="margin-left: 20px">
+<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/smallwood-cuevas_lola_d-28.jpg" alt="Photo of Lola Smallwood-Cuevas" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Senator, District 28
 

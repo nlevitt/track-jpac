@@ -1,6 +1,6 @@
 # California Zionist Supporters: James Gallagher
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/Gallagher_LDC_headshot.jpg" alt="Photo of James Gallagher" align="right" style="margin-left: 20px">
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/Gallagher_LDC_headshot.jpg" alt="Photo of James Gallagher" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 3
 

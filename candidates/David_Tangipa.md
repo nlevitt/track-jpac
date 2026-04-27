@@ -1,6 +1,6 @@
 # California Zionist Supporters: David Tangipa
 
-<img src="https://youngamericans.berkeley.edu/wp-content/uploads/2024/04/David-Tangipa-1024x1024.jpg" alt="Photo of David Tangipa" align="right" style="margin-left: 20px">
+<img src="https://youngamericans.berkeley.edu/wp-content/uploads/2024/04/David-Tangipa-1024x1024.jpg" alt="Photo of David Tangipa" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblyman, District 8
 

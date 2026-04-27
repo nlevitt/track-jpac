@@ -1,6 +1,6 @@
 # California Zionist Supporters: Tina McKinnor
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/mckinnon_portrait_web.jpg" alt="Photo of Tina McKinnor" align="right" style="margin-left: 20px">
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/mckinnon_portrait_web.jpg" alt="Photo of Tina McKinnor" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 61
 

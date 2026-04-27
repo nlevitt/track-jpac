@@ -1,6 +1,6 @@
 # California Zionist Supporters: Bob Archuleta
 
-<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/archuleta_bob.jpg" alt="Photo of Bob Archuleta" align="right" style="margin-left: 20px">
+<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/archuleta_bob.jpg" alt="Photo of Bob Archuleta" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Senator, District 30
 

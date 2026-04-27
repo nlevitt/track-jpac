@@ -1,6 +1,6 @@
 # California Zionist Supporters: John Harabedian
 
-<img src="https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/158662.jpg" alt="Photo of John Harabedian" align="right" style="margin-left: 20px">
+<img src="https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/158662.jpg" alt="Photo of John Harabedian" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 41
 

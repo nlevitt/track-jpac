@@ -1,6 +1,6 @@
 # California Zionist Supporters: Jesse Arreguín
 
-<img src="https://berkeleyca.gov/sites/default/files/elected-office-holder/portrait.jpg" alt="Photo of Jesse Arreguín" align="right" style="margin-left: 20px">
+<img src="https://berkeleyca.gov/sites/default/files/elected-office-holder/portrait.jpg" alt="Photo of Jesse Arreguín" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Senator, District 7
 

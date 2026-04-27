@@ -1,6 +1,6 @@
 # California Zionist Supporters: Greg Wallis
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/wallis_greg_0.jpg" alt="Photo of Greg Wallis" align="right" style="margin-left: 20px">
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/wallis_greg_0.jpg" alt="Photo of Greg Wallis" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 47
 

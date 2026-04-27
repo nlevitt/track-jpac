@@ -1,6 +1,6 @@
 # California Zionist Supporters: Joe Patterson
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/patterson_a25i1438_resized.png" alt="Photo of Joe Patterson" align="right" style="margin-left: 20px">
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/patterson_a25i1438_resized.png" alt="Photo of Joe Patterson" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 5
 

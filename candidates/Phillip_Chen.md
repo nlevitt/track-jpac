@@ -1,6 +1,6 @@
 # California Zionist Supporters: Phillip Chen
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/chen.jpg" alt="Photo of Phillip Chen" align="right" style="margin-left: 20px">
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/chen.jpg" alt="Photo of Phillip Chen" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 59
 

@@ -1,6 +1,6 @@
 # California Zionist Supporters: Jeff Gonzalez
 
-<img src="https://californiaglobe.com/wp-content/uploads/2024/10/Screenshot-2024-10-03-at-7.03.49%E2%80%AFAM-708x642.png" alt="Photo of Jeff Gonzalez" align="right" style="margin-left: 20px">
+<img src="https://californiaglobe.com/wp-content/uploads/2024/10/Screenshot-2024-10-03-at-7.03.49%E2%80%AFAM-708x642.png" alt="Photo of Jeff Gonzalez" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 36
 

@@ -1,6 +1,6 @@
 # California Zionist Supporters: Dave Cortese
 
-<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd15_cortese_0.jpg" alt="Photo of Dave Cortese" align="right" style="margin-left: 20px">
+<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd15_cortese_0.jpg" alt="Photo of Dave Cortese" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Senator, District 15
 

@@ -1,6 +1,6 @@
 # California Zionist Supporters: Steve Padilla
 
-<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/padilla_steve_d-18.jpg" alt="Photo of Steve Padilla" align="right" style="margin-left: 20px">
+<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/padilla_steve_d-18.jpg" alt="Photo of Steve Padilla" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Senator, District 18
 

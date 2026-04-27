@@ -1,6 +1,6 @@
 # California Zionist Supporters: Robert Garcia
 
-<img src="https://www.joincalifornia.com/candidate_pic.php?id=15124" alt="Photo of Robert Garcia" align="right" style="margin-left: 20px">
+<img src="https://www.joincalifornia.com/candidate_pic.php?id=15124" alt="Photo of Robert Garcia" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** U.S. Representative, California's 42nd Congressional District
 

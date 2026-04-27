@@ -1,6 +1,6 @@
 # California Zionist Supporters: Rosilicie Ochoa Bogh
 
-<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd23_ochoa_bogh.jpg" alt="Photo of Rosilicie Ochoa Bogh" align="right" style="margin-left: 20px">
+<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd23_ochoa_bogh.jpg" alt="Photo of Rosilicie Ochoa Bogh" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Senator, District 19
 

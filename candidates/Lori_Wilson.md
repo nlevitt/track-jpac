@@ -1,6 +1,6 @@
 # California Zionist Supporters: Lori Wilson
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad11-wilson_006_portraits_resized.jpg" alt="Photo of Lori Wilson" align="right" style="margin-left: 20px">
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad11-wilson_006_portraits_resized.jpg" alt="Photo of Lori Wilson" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 11
 

@@ -1,6 +1,6 @@
 # California Zionist Supporters: Kate Sanchez
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/sanchez_a25i1518_resized.png" alt="Photo of Kate Sanchez" align="right" style="margin-left: 20px">
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/sanchez_a25i1518_resized.png" alt="Photo of Kate Sanchez" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assembly Member, District 71
 

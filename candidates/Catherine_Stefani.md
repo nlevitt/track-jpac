@@ -1,6 +1,6 @@
 # California Zionist Supporters: Catherine Stefani
 
-<img src="https://sfbos.org/sites/default/files/Roster_frame_stefani_0.jpg" alt="Photo of Catherine Stefani" align="right" style="margin-left: 20px">
+<img src="https://sfbos.org/sites/default/files/Roster_frame_stefani_0.jpg" alt="Photo of Catherine Stefani" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 19
 

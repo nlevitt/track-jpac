@@ -1,6 +1,6 @@
 # California Zionist Supporters: Jessica Caloza
 
-<img src="https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/158655.jpg" alt="Photo of Jessica Caloza" align="right" style="margin-left: 20px">
+<img src="https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/158655.jpg" alt="Photo of Jessica Caloza" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 52
 

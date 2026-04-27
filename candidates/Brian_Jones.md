@@ -1,6 +1,6 @@
 # California Zionist Supporters: Brian Jones
 
-<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/brian_jones_headshot_blue.jpg" alt="Photo of Brian Jones" align="right" style="margin-left: 20px">
+<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/brian_jones_headshot_blue.jpg" alt="Photo of Brian Jones" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Senator, District 40, and Senate Minority Leader
 

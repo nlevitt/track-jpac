@@ -1,6 +1,6 @@
 # California Zionist Supporters: Kelly Seyarto
 
-<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/seyarto_kelly_r-32c.jpg" alt="Photo of Kelly Seyarto" align="right" style="margin-left: 20px">
+<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/seyarto_kelly_r-32c.jpg" alt="Photo of Kelly Seyarto" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Senator, District 32
 

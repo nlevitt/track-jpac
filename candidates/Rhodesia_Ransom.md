@@ -1,6 +1,6 @@
 # California Zionist Supporters: Rhodesia Ransom
 
-<img src="https://ca.emergeamerica.org/wp-content/uploads/sites/4/2023/01/Rhodesia-Ransom.jpg" alt="Photo of Rhodesia Ransom" align="right" style="margin-left: 20px">
+<img src="https://ca.emergeamerica.org/wp-content/uploads/sites/4/2023/01/Rhodesia-Ransom.jpg" alt="Photo of Rhodesia Ransom" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 13
 

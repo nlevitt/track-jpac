@@ -1,6 +1,6 @@
 # California Zionist Supporters: Laura Richardson
 
-<img src="https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/6409.jpg" alt="Photo of Laura Richardson" align="right" style="margin-left: 20px">
+<img src="https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/6409.jpg" alt="Photo of Laura Richardson" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Senator, District 35
 

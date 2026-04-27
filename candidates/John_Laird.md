@@ -1,6 +1,6 @@
 # California Zionist Supporters: John Laird
 
-<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd17_laird_0.jpg" alt="Photo of John Laird" align="right" style="margin-left: 20px">
+<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd17_laird_0.jpg" alt="Photo of John Laird" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Senator, District 17
 

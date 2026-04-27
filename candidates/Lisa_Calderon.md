@@ -1,6 +1,6 @@
 # California Zionist Supporters: Lisa Calderon
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/calderon-057.jpg" alt="Photo of Lisa Calderon" align="right" style="margin-left: 20px">
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/calderon-057.jpg" alt="Photo of Lisa Calderon" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 56
 

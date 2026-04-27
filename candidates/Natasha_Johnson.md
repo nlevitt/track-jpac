@@ -1,6 +1,6 @@
 # California Zionist Supporters: Natasha Johnson
 
-<img src="nan" alt="Photo of Natasha Johnson" align="right" style="margin-left: 20px">
+<img src="nan" alt="Photo of Natasha Johnson" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assembly Member, District 63
 

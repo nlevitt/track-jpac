@@ -1,6 +1,6 @@
 # California Zionist Supporters: Jasmeet Bains
 
-<img src="nan" alt="Photo of Jasmeet Bains" align="right" style="margin-left: 20px">
+<img src="nan" alt="Photo of Jasmeet Bains" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 35
 

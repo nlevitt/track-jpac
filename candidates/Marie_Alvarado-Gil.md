@@ -1,6 +1,6 @@
 # California Zionist Supporters: Marie Alvarado-Gil
 
-<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/alvarado-gill_marie_d-04.jpg" alt="Photo of Marie Alvarado-Gil" align="right" style="margin-left: 20px">
+<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/alvarado-gill_marie_d-04.jpg" alt="Photo of Marie Alvarado-Gil" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Senator, District 4
 

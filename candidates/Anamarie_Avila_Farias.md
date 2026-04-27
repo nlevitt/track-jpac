@@ -1,6 +1,6 @@
 # California Zionist Supporters: Anamarie Avila Farias
 
-<img src="https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Anamarie_Avila_Farias_20240905_034457.jpg" alt="Photo of Anamarie Avila Farias" align="right" style="margin-left: 20px">
+<img src="https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Anamarie_Avila_Farias_20240905_034457.jpg" alt="Photo of Anamarie Avila Farias" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 15
 

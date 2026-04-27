@@ -1,6 +1,6 @@
 # California Zionist Supporters: Diane Dixon
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/dixon_a25i1340_resized.png" alt="Photo of Diane Dixon" align="right" style="margin-left: 20px">
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/dixon_a25i1340_resized.png" alt="Photo of Diane Dixon" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 72
 

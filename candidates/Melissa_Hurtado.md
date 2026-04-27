@@ -1,6 +1,6 @@
 # California Zionist Supporters: Melissa Hurtado
 
-<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_hurtado_0.jpg" alt="Photo of Melissa Hurtado" align="right" style="margin-left: 20px">
+<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_hurtado_0.jpg" alt="Photo of Melissa Hurtado" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Senator, District 16
 

@@ -1,6 +1,6 @@
 # California Zionist Supporters: Rebecca Bauer-Kahan
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a16_r_b_kahan.jpg" alt="Photo of Rebecca Bauer-Kahan" align="right" style="margin-left: 20px">
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a16_r_b_kahan.jpg" alt="Photo of Rebecca Bauer-Kahan" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 16
 

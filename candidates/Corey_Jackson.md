@@ -1,6 +1,6 @@
 # California Zionist Supporters: Corey Jackson
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/jackson_027_11-30-22_resized.jpg" alt="Photo of Corey Jackson" align="right" style="margin-left: 20px">
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/jackson_027_11-30-22_resized.jpg" alt="Photo of Corey Jackson" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 60
 

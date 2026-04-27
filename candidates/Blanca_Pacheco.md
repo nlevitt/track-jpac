@@ -1,6 +1,6 @@
 # California Zionist Supporters: Blanca Pacheco
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/pachecho_007_11-30-22_resized.jpg" alt="Photo of Blanca Pacheco" align="right" style="margin-left: 20px">
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/pachecho_007_11-30-22_resized.jpg" alt="Photo of Blanca Pacheco" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assembly Member, District 64
 

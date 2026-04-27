@@ -1,6 +1,6 @@
 # California Zionist Supporters: Cecilia Aguiar-Curry
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad-04_aguiar-curry_c18_resized.jpg" alt="Photo of Cecilia Aguiar-Curry" align="right" style="margin-left: 20px">
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad-04_aguiar-curry_c18_resized.jpg" alt="Photo of Cecilia Aguiar-Curry" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** Assembly Majority Leader, California State Assembly, District 4
 

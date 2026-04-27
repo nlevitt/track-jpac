@@ -1,6 +1,6 @@
 # California Zionist Supporters: Avelino Valencia
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/valencia_518_11-30-22_resized.jpg" alt="Photo of Avelino Valencia" align="right" style="margin-left: 20px">
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/valencia_518_11-30-22_resized.jpg" alt="Photo of Avelino Valencia" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 68
 

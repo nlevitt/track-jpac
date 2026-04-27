@@ -1,6 +1,6 @@
 # California Zionist Supporters: Chris Rogers
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvc9FWYBOubY6iEQhH0tArBAvSS_ZMhoOGw&s" alt="Photo of Chris Rogers" align="right" style="margin-left: 20px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvc9FWYBOubY6iEQhH0tArBAvSS_ZMhoOGw&s" alt="Photo of Chris Rogers" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 2
 

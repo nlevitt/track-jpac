@@ -1,6 +1,6 @@
 # California Zionist Supporters: Pilar Schiavo
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/schiavo_030_11-29-22_resized.jpg" alt="Photo of Pilar Schiavo" align="right" style="margin-left: 20px">
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/schiavo_030_11-29-22_resized.jpg" alt="Photo of Pilar Schiavo" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 40
 

@@ -1,6 +1,6 @@
 # California Zionist Supporters: Sharon Quirk-Silva
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad65_quirk-silva_siteportrait.jpg" alt="Photo of Sharon Quirk-Silva" align="right" style="margin-left: 20px">
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad65_quirk-silva_siteportrait.jpg" alt="Photo of Sharon Quirk-Silva" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 67
 

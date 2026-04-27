@@ -1,6 +1,6 @@
 # California Zionist Supporters: Tony Strickland
 
-<img src="http://votesmart.org/canphoto/16765.jpg" alt="Photo of Tony Strickland" align="right" style="margin-left: 20px">
+<img src="http://votesmart.org/canphoto/16765.jpg" alt="Photo of Tony Strickland" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Senator, District 36
 

@@ -1,6 +1,6 @@
 # California Zionist Supporters: Maggy Krell
 
-<img src="https://lettersandscience.ucdavis.edu/sites/g/files/dgvnsk15706/files/styles/sf_profile/public/images/person/Maggy%20Krell.jpeg?h=a7e6d17b&itok=kwhSUK6x" alt="Photo of Maggy Krell" align="right" style="margin-left: 20px">
+<img src="https://lettersandscience.ucdavis.edu/sites/g/files/dgvnsk15706/files/styles/sf_profile/public/images/person/Maggy%20Krell.jpeg?h=a7e6d17b&itok=kwhSUK6x" alt="Photo of Maggy Krell" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 6
 

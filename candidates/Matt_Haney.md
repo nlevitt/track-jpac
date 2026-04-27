@@ -1,6 +1,6 @@
 # California Zionist Supporters: Matt Haney
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad17_haney.jpg" alt="Photo of Matt Haney" align="right" style="margin-left: 20px">
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad17_haney.jpg" alt="Photo of Matt Haney" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 17
 

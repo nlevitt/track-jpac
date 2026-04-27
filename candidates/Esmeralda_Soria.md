@@ -1,6 +1,6 @@
 # California Zionist Supporters: Esmeralda Soria
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/soria_025_edit_11-29-22_resized_0.jpg" alt="Photo of Esmeralda Soria" align="right" style="margin-left: 20px">
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/soria_025_edit_11-29-22_resized_0.jpg" alt="Photo of Esmeralda Soria" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 27
 

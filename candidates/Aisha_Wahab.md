@@ -1,6 +1,6 @@
 # California Zionist Supporters: Aisha Wahab
 
-<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/wahab_aisha_d-10_-_crop.jpg" alt="Photo of Aisha Wahab" align="right" style="margin-left: 20px">
+<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/wahab_aisha_d-10_-_crop.jpg" alt="Photo of Aisha Wahab" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Senator, District 10
 

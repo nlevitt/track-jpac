@@ -1,6 +1,6 @@
 # California Zionist Supporters: Patrick Ahrens
 
-<img src="http://www.fhda.edu/_images/PatrickAhrens2018.jpg" alt="Photo of Patrick Ahrens" align="right" style="margin-left: 20px">
+<img src="http://www.fhda.edu/_images/PatrickAhrens2018.jpg" alt="Photo of Patrick Ahrens" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** California State Assemblymember, District 26
 

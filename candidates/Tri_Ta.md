@@ -1,6 +1,6 @@
 # California Zionist Supporters: Tri Ta
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/tri_ta_a25i1353_resized.png" alt="Photo of Tri Ta" align="right" style="margin-left: 20px">
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/tri_ta_a25i1353_resized.png" alt="Photo of Tri Ta" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblyman, District 70
 

@@ -1,6 +1,6 @@
 # California Zionist Supporters: Stan Ellis
 
-<img src="nan" alt="Photo of Stan Ellis" align="right" style="margin-left: 20px">
+<img src="nan" alt="Photo of Stan Ellis" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assembly Member, District 32
 

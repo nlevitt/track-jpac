@@ -1,6 +1,6 @@
 # California Zionist Supporters: Christopher Cabaldon
 
-<img src="https://calearninglab.org/wp-content/uploads/2024/09/Emcee-Christopher-Cabaldon-488x559.png" alt="Photo of Christopher Cabaldon" align="right" style="margin-left: 20px">
+<img src="https://calearninglab.org/wp-content/uploads/2024/09/Emcee-Christopher-Cabaldon-488x559.png" alt="Photo of Christopher Cabaldon" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Senator, District 3
 

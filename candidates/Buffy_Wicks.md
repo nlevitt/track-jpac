@@ -1,6 +1,6 @@
 # California Zionist Supporters: Buffy Wicks
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a15_b_wicks.jpg" alt="Photo of Buffy Wicks" align="right" style="margin-left: 20px">
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a15_b_wicks.jpg" alt="Photo of Buffy Wicks" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 14
 

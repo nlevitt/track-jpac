@@ -1,6 +1,6 @@
 # California Zionist Supporters: Megan Dahle
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/mdahle-ad01.gif" alt="Photo of Megan Dahle" align="right" style="margin-left: 20px">
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/mdahle-ad01.gif" alt="Photo of Megan Dahle" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Senator, District 1
 

@@ -1,6 +1,6 @@
 # California Zionist Supporters: Carl DeMaio
 
-<img src="https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/159263.jpg" alt="Photo of Carl DeMaio" align="right" style="margin-left: 20px">
+<img src="https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/159263.jpg" alt="Photo of Carl DeMaio" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** California State Assemblymember, District 75
 

@@ -1,6 +1,6 @@
 # California Zionist Supporters: Gail Pellerin
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/pellerin_502_11-30-22_resized.jpg" alt="Photo of Gail Pellerin" align="right" style="margin-left: 20px">
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/pellerin_502_11-30-22_resized.jpg" alt="Photo of Gail Pellerin" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 28
 

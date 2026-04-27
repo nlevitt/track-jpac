@@ -1,6 +1,6 @@
 # California Zionist Supporters: Alex Lee
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/lee-025.jpg" alt="Photo of Alex Lee" align="right" style="margin-left: 20px">
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/lee-025.jpg" alt="Photo of Alex Lee" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 24
 

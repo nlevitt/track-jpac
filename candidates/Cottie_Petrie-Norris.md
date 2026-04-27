@@ -1,6 +1,6 @@
 # California Zionist Supporters: Cottie Petrie-Norris
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a74_c_p_norris.jpg" alt="Photo of Cottie Petrie-Norris" align="right" style="margin-left: 20px">
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a74_c_p_norris.jpg" alt="Photo of Cottie Petrie-Norris" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 73
 

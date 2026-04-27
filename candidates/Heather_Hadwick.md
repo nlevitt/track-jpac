@@ -1,6 +1,6 @@
 # California Zionist Supporters: Heather Hadwick
 
-<img src="https://theorion.com/wp-content/uploads/2024/09/Hadwick-MCOE-.jpg" alt="Photo of Heather Hadwick" align="right" style="margin-left: 20px">
+<img src="https://theorion.com/wp-content/uploads/2024/09/Hadwick-MCOE-.jpg" alt="Photo of Heather Hadwick" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 1; Deputy Republican Leader
 

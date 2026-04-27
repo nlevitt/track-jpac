@@ -1,6 +1,6 @@
 # California Zionist Supporters: Juan Carrillo
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/carrillo_001_11-30-29_resized.jpg" alt="Photo of Juan Carrillo" align="right" style="margin-left: 20px">
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/carrillo_001_11-30-29_resized.jpg" alt="Photo of Juan Carrillo" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 39
 

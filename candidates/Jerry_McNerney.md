@@ -1,6 +1,6 @@
 # California Zionist Supporters: Jerry McNerney
 
-<img src="https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/70583.jpg" alt="Photo of Jerry McNerney" align="right" style="margin-left: 20px">
+<img src="https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/70583.jpg" alt="Photo of Jerry McNerney" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Senator, District 5
 

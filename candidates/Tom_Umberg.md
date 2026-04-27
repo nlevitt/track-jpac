@@ -1,6 +1,6 @@
 # California Zionist Supporters: Tom Umberg
 
-<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_umberg.jpg" alt="Photo of Tom Umberg" align="right" style="margin-left: 20px">
+<img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_umberg.jpg" alt="Photo of Tom Umberg" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Senator, District 34
 

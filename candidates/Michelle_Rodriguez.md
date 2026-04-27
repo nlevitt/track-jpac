@@ -1,6 +1,6 @@
 # California Zionist Supporters: Michelle Rodriguez
 
-<img src="https://michelleforassembly.com/cms/wp-content/uploads/2023/08/new-safe-meeno-MICHELLE_RODRIGUEZ-2023.07_011.jpg" alt="Photo of Michelle Rodriguez" align="right" style="margin-left: 20px">
+<img src="https://michelleforassembly.com/cms/wp-content/uploads/2023/08/new-safe-meeno-MICHELLE_RODRIGUEZ-2023.07_011.jpg" alt="Photo of Michelle Rodriguez" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** Assemblymember, District 53
 

@@ -1,6 +1,6 @@
 # California Zionist Supporters: Isaac Bryan
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/isaacbryan.jpg" alt="Photo of Isaac Bryan" align="right" style="margin-left: 20px">
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/isaacbryan.jpg" alt="Photo of Isaac Bryan" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 55
 

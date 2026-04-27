@@ -1,6 +1,6 @@
 # California Zionist Supporters: Gregg Hart
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/hart_027_11-30-22_resized.jpg" alt="Photo of Gregg Hart" align="right" style="margin-left: 20px">
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/hart_027_11-30-22_resized.jpg" alt="Photo of Gregg Hart" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 37
 

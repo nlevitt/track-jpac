@@ -1,6 +1,6 @@
 # California Zionist Supporters: Robert Rivas
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad-29_rivas_r19_resized.jpg" alt="Photo of Robert Rivas" align="right" style="margin-left: 20px">
+<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad-29_rivas_r19_resized.jpg" alt="Photo of Robert Rivas" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** Speaker of the California State Assembly, District 29
 

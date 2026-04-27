@@ -1,6 +1,6 @@
 # California Zionist Supporters: Sade Elhawary
 
-<img src="https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/SadeElhawary2024.jpeg" alt="Photo of Sade Elhawary" align="right" style="margin-left: 20px">
+<img src="https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/SadeElhawary2024.jpeg" alt="Photo of Sade Elhawary" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 57
 
