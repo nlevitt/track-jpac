@@ -4,13 +4,19 @@
 
 **Role:** State Senator, District 11
 
-Scott Wiener is a California State Senator representing District 11, encompassing San Francisco and parts of San Mateo County. He is also a candidate for the U.S. House of Representatives in California's 11th Congressional District in the 2026 election, and he is originally from New Jersey.
+Scott Wiener is a California State Senator representing District 11, encompassing San Francisco and parts of San Mateo County. He is also a candidate for the U.S. House of Representatives in California's 11th Congressional District in the 2026 election, and was born in Philadelphia, Pennsylvania, raised in New Jersey, and resides in San Francisco.
 
-Analyzed on: 2026-04-26 12:34:45  
+Analyzed on: 2026-04-27 15:51:09  
 **Total Zionist Contributions:** $100,100  
-**Total Zionist Behested Payments:** $0  
+**Total Zionist Behested Payments:** $30,000  
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
+### Zionist Behested Payments
+
+| Contributor                                                                                                                            |   Years | Total Amount   | Relationship to Israel                                                                                        |
+|----------------------------------------------------------------------------------------------------------------------------------------|---------|----------------|---------------------------------------------------------------------------------------------------------------|
+| [California Jewish Legislative Caucus Leadership Foundation](../contributors/californiacaucusfoundationjewishleadershiplegislative.md) |    2025 | $30,000        | Political and foundation arm of the California Legislative Jewish Caucus; heavily involved in Zionist causes. |
 
 ### Zionist Federal Contributions (FEC)
 

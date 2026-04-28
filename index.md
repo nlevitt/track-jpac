@@ -1,5 +1,5 @@
 # Aggregate Summary: California Zionist Contributions
-Generated on: 2026-04-26 13:17:17  
+Generated on: 2026-04-27 16:32:03  
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
@@ -7,25 +7,28 @@ Generated on: 2026-04-26 13:17:17
 
 | Candidate                                                                | Role                                                                                                  | Zionist Contributions   | Zionist Behested Payments   |
 |--------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------|-----------------------------|
-| [Scott Wiener](candidates/Scott_Wiener.md)                               | State Senator, District 11                                                                            | $100,100                | $0                          |
+| [Scott Wiener](candidates/Scott_Wiener.md)                               | State Senator, District 11                                                                            | $100,100                | $30,000                     |
+| [Josh Becker](candidates/Josh_Becker.md)                                 | State Senator, District 13                                                                            | $73,400                 | $50,000                     |
 | [Ben Allen](candidates/Ben_Allen.md)                                     | State Senator, District 24                                                                            | $88,600                 | $0                          |
 | [Jesse Gabriel](candidates/Jesse_Gabriel.md)                             | State Assemblymember, District 46                                                                     | $82,650                 | $0                          |
 | [Marc Berman](candidates/Marc_Berman.md)                                 | State Assemblymember, District 23                                                                     | $77,550                 | $0                          |
 | [Anna Caballero](candidates/Anna_Caballero.md)                           | State Senator, District 14                                                                            | $76,900                 | $0                          |
 | [Henry Stern](candidates/Henry_Stern.md)                                 | State Senator, District 27                                                                            | $61,650                 | $0                          |
+| [Mike McGuire](candidates/Mike_McGuire.md)                               | State Senator, District 2                                                                             | $0                      | $53,500                     |
 | [Buffy Wicks](candidates/Buffy_Wicks.md)                                 | State Assemblymember, District 14                                                                     | $52,350                 | $0                          |
-| [Josh Becker](candidates/Josh_Becker.md)                                 | State Senator, District 13                                                                            | $51,000                 | $0                          |
 | [Robert Rivas](candidates/Robert_Rivas.md)                               | Speaker of the California State Assembly, District 29                                                 | $48,900                 | $0                          |
 | [Blanca Rubio](candidates/Blanca_Rubio.md)                               | State Assemblymember, District 48                                                                     | $47,075                 | $0                          |
 | [Tim Grayson](candidates/Tim_Grayson.md)                                 | State Senator, District 9                                                                             | $46,700                 | $0                          |
 | [Christopher Cabaldon](candidates/Christopher_Cabaldon.md)               | State Senator, District 3                                                                             | $39,500                 | $0                          |
+| [Roger Niello](candidates/Roger_Niello.md)                               | State Senator, District 6                                                                             | $0                      | $36,444                     |
 | [Matt Haney](candidates/Matt_Haney.md)                                   | State Assemblymember, District 17                                                                     | $34,700                 | $0                          |
 | [Rebecca Bauer-Kahan](candidates/Rebecca_Bauer-Kahan.md)                 | State Assemblymember, District 16                                                                     | $29,150                 | $0                          |
 | [Dawn Addis](candidates/Dawn_Addis.md)                                   | State Assemblymember, District 30                                                                     | $26,700                 | $0                          |
 | [Josh Lowenthal](candidates/Josh_Lowenthal.md)                           | Speaker pro Tempore of the California State Assembly, District 69                                     | $26,700                 | $0                          |
 | [Rick Zbur](candidates/Rick_Zbur.md)                                     | State Assemblymember, District 51                                                                     | $23,650                 | $0                          |
-| [Jacqui Irwin](candidates/Jacqui_Irwin.md)                               | State Assemblymember, District 42; Candidate for U.S. House, California's 26th Congressional District | $23,000                 | $0                          |
 | [Cottie Petrie-Norris](candidates/Cottie_Petrie-Norris.md)               | State Assemblymember, District 73                                                                     | $23,000                 | $0                          |
+| [Jacqui Irwin](candidates/Jacqui_Irwin.md)                               | State Assemblymember, District 42; Candidate for U.S. House, California's 26th Congressional District | $23,000                 | $0                          |
+| [Angelique Ashby](candidates/Angelique_Ashby.md)                         | Senate Majority Leader, State Senator, District 8                                                     | $8,500                  | $10,000                     |
 | [Susan Rubio](candidates/Susan_Rubio.md)                                 | State Senator, District 22                                                                            | $17,400                 | $0                          |
 | [Maggy Krell](candidates/Maggy_Krell.md)                                 | State Assemblymember, District 6                                                                      | $16,900                 | $0                          |
 | [Monique Limón](candidates/Monique_Limón.md)                             | State Senator, District 21, and Senate President pro Tempore                                          | $14,285                 | $0                          |
@@ -36,7 +39,6 @@ Generated on: 2026-04-26 13:17:17
 | [Catherine Stefani](candidates/Catherine_Stefani.md)                     | State Assemblymember, District 19                                                                     | $9,500                  | $0                          |
 | [Lori Wilson](candidates/Lori_Wilson.md)                                 | State Assemblymember, District 11                                                                     | $9,500                  | $0                          |
 | [Tony Strickland](candidates/Tony_Strickland.md)                         | State Senator, District 36                                                                            | $8,600                  | $0                          |
-| [Angelique Ashby](candidates/Angelique_Ashby.md)                         | State Senator, District 8, and Senate Majority Leader                                                 | $8,500                  | $0                          |
 | [John Laird](candidates/John_Laird.md)                                   | State Senator, District 17                                                                            | $8,400                  | $0                          |
 | [Blanca Pacheco](candidates/Blanca_Pacheco.md)                           | State Assembly Member, District 64                                                                    | $7,000                  | $0                          |
 | [Sabrina Cervantes](candidates/Sabrina_Cervantes.md)                     | State Senator, District 31                                                                            | $6,500                  | $0                          |
@@ -45,9 +47,9 @@ Generated on: 2026-04-26 13:17:17
 | [Heath Flora](candidates/Heath_Flora.md)                                 | State Assemblymember, District 9                                                                      | $5,500                  | $0                          |
 | [Mike Gipson](candidates/Mike_Gipson.md)                                 | State Assemblymember, District 65                                                                     | $5,000                  | $0                          |
 | [Stephanie Nguyen](candidates/Stephanie_Nguyen.md)                       | California State Assemblymember, District 10                                                          | $4,900                  | $0                          |
-| [Rosilicie Ochoa Bogh](candidates/Rosilicie_Ochoa_Bogh.md)               | State Senator, District 19                                                                            | $4,500                  | $0                          |
 | [Melissa Hurtado](candidates/Melissa_Hurtado.md)                         | State Senator, District 16                                                                            | $4,500                  | $0                          |
 | [Brian Jones](candidates/Brian_Jones.md)                                 | State Senator, District 40, and Senate Minority Leader                                                | $4,500                  | $0                          |
+| [Rosilicie Ochoa Bogh](candidates/Rosilicie_Ochoa_Bogh.md)               | State Senator, District 19                                                                            | $4,500                  | $0                          |
 | [Thomas Lackey](candidates/Thomas_Lackey.md)                             | State Assemblymember, District 34                                                                     | $4,200                  | $0                          |
 | [James Gallagher](candidates/James_Gallagher.md)                         | State Assemblymember, District 3                                                                      | $4,000                  | $0                          |
 | [Suzette Martinez Valladares](candidates/Suzette_Martinez_Valladares.md) | State Senator, District 23                                                                            | $4,000                  | $0                          |
@@ -114,7 +116,6 @@ Generated on: 2026-04-26 13:17:17
 | [Phillip Chen](candidates/Phillip_Chen.md)                   | State Assemblymember, District 59                          | $0                      | $0                          |
 | [Pilar Schiavo](candidates/Pilar_Schiavo.md)                 | State Assemblymember, District 40                          | $0                      | $0                          |
 | [Rhodesia Ransom](candidates/Rhodesia_Ransom.md)             | State Assemblymember, District 13                          | $0                      | $0                          |
-| [Roger Niello](candidates/Roger_Niello.md)                   | State Senator, District 6                                  | $0                      | $0                          |
 | [Sade Elhawary](candidates/Sade_Elhawary.md)                 | State Assemblymember, District 57                          | $0                      | $0                          |
 | [Shannon Grove](candidates/Shannon_Grove.md)                 | State Senator, District 12                                 | $0                      | $0                          |
 | [Stan Ellis](candidates/Stan_Ellis.md)                       | State Assembly Member, District 32                         | $0                      | $0                          |
@@ -131,7 +132,6 @@ Generated on: 2026-04-26 13:17:17
 | [Jerry McNerney](candidates/Jerry_McNerney.md) | State Senator, District 5          | $0                      | $0                          |
 | [Kate Sanchez](candidates/Kate_Sanchez.md)     | State Assembly Member, District 71 | $0                      | $0                          |
 | [Mike Fong](candidates/Mike_Fong.md)           | State Assemblymember, District 49  | $0                      | $0                          |
-| [Mike McGuire](candidates/Mike_McGuire.md)     | State Senator, District 2          | $0                      | $0                          |
 | [Tina McKinnor](candidates/Tina_McKinnor.md)   | State Assemblymember, District 61  | $0                      | $0                          |
 
 ## Methodology

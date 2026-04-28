@@ -4,13 +4,19 @@
 
 **Role:** State Senator, District 2
 
-Mike McGuire is a California State Senator for District 2. He is also running in a special election and the regularly scheduled election for the U.S. House of Representatives, California's 1st Congressional District, with primaries on June 2, 2026. He is from Healdsburg, California.
+Mike McGuire is a California State Senator representing District 2. He is currently seeking election to the U.S. House of Representatives for California's 1st Congressional District in both a special election and the regularly scheduled election, and is from Healdsburg, California.
 
-Analyzed on: 2026-04-26 13:17:03  
+Analyzed on: 2026-04-27 16:31:12  
 **Total Zionist Contributions:** $0  
-**Total Zionist Behested Payments:** $0  
+**Total Zionist Behested Payments:** $53,500  
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
+### Zionist Behested Payments
+
+| Contributor                                              | Years     | Total Amount   | Relationship to Israel   |
+|----------------------------------------------------------|-----------|----------------|--------------------------|
+| [Gordon Blumenfeld](../contributors/blumenfeldgordon.md) | 2021-2024 | $53,500        | Prominent Zionist donor. |
 
 
 Search returned no candidate results on SOS PowerSearch.

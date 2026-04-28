@@ -2,15 +2,21 @@
 
 <img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/ashby_angelique_d-08.jpg" alt="Photo of Angelique Ashby" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
-**Role:** State Senator, District 8, and Senate Majority Leader
+**Role:** Senate Majority Leader, State Senator, District 8
 
-Angelique Ashby is the State Senator for District 8 and Senate Majority Leader in California, representing Sacramento and Elk Grove. She is seeking re-election to the California State Senate for District 8 in the primary on June 2, 2026.
+Angelique Ashby is the Senate Majority Leader and a California State Senator representing District 8. She is from Sacramento and is seeking re-election to the State Senate for District 8.
 
-Analyzed on: 2026-04-26 12:36:31  
+Analyzed on: 2026-04-27 16:28:58  
 **Total Zionist Contributions:** $8,500  
-**Total Zionist Behested Payments:** $0  
+**Total Zionist Behested Payments:** $10,000  
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
+### Zionist Behested Payments
+
+| Contributor                                            |   Years | Total Amount   | Relationship to Israel                    |
+|--------------------------------------------------------|---------|----------------|-------------------------------------------|
+| [Koret Foundation](../contributors/foundationkoret.md) |    2024 | $10,000        | Major Zionist philanthropic organization. |
 
 ### Zionist Federal Contributions (FEC)
 
