@@ -1,7 +1,7 @@
 # California's Israel Lobby
-Generated on: 2026-04-30 14:37:20  
-
-*Let us know if you spot an inaccuracy: trackjpac@gmail.com* | [Methodology and disclaimers](#methodology-and-disclaimers)
+Generated on: 2026-04-30 14:43:36  
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*  
+[Methodology and disclaimers](#methodology-and-disclaimers)
 
 ## Elected officials and candidates supported by the California Israel lobby
 
