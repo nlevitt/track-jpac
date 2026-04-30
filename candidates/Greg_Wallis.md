@@ -1,6 +1,6 @@
 # Greg Wallis
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/wallis_greg_0.jpg" alt="Photo of Greg Wallis" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Greg_Wallis%2C_2023.jpg/500px-Greg_Wallis%2C_2023.jpg" alt="Photo of Greg Wallis" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 47
 

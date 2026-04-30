@@ -1,6 +1,6 @@
 # Damon Connolly
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/connolly_509_11-30-22_resized.jpg" alt="Photo of Damon Connolly" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Assemblyman_Damon_Connolly.jpg/500px-Assemblyman_Damon_Connolly.jpg" alt="Photo of Damon Connolly" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 12
 

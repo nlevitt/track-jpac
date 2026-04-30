@@ -1,6 +1,6 @@
 # Tri Ta
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/tri_ta_a25i1353_resized.png" alt="Photo of Tri Ta" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Tri_Ta%2C_2022_%28cropped%29.jpg/500px-Tri_Ta%2C_2022_%28cropped%29.jpg" alt="Photo of Tri Ta" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblyman, District 70
 

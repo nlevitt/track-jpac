@@ -1,7 +1,5 @@
 # Juan Alanis
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/alanis_a25i1397_resized.png" alt="Photo of Juan Alanis" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
-
 **Role:** State Assemblymember, District 22
 
 Juan Alanis is a member of the California State Assembly, representing District 22. He is seeking re-election for the same seat in the June 2, 2026, primary and is from Modesto, California.

@@ -1,6 +1,6 @@
 # Jasmeet Bains
 
-<img src="nan" alt="Photo of Jasmeet Bains" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Jasmeet_Bains.jpg" alt="Photo of Jasmeet Bains" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 35
 

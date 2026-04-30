@@ -1,6 +1,6 @@
 # Stan Ellis
 
-<img src="nan" alt="Photo of Stan Ellis" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/AD32_StanEllis_2-1536x1356_%28cropped%29.jpg/500px-AD32_StanEllis_2-1536x1356_%28cropped%29.jpg" alt="Photo of Stan Ellis" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assembly Member, District 32
 

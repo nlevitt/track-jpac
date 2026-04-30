@@ -1,6 +1,6 @@
 # Diane Papan
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/papan_002_11-30-22_resized.jpg" alt="Photo of Diane Papan" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Diane_Papan%2C_2022.jpg" alt="Photo of Diane Papan" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 21
 

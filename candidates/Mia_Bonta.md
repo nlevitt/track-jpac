@@ -1,6 +1,6 @@
 # Mia Bonta
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad-18_bonta_m._portraits_edit_155_11-5-21_resized.jpg" alt="Photo of Mia Bonta" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Mia_Bonta_official_portrait.jpg" alt="Photo of Mia Bonta" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 18
 

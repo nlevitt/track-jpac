@@ -1,6 +1,6 @@
 # Avelino Valencia
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/valencia_518_11-30-22_resized.jpg" alt="Photo of Avelino Valencia" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Avelino_Valencia%2C_2022.jpg/500px-Avelino_Valencia%2C_2022.jpg" alt="Photo of Avelino Valencia" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 68
 

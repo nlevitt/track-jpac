@@ -1,6 +1,6 @@
 # Mike Fong
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad-49_fong_m._037_2022_resized.jpg" alt="Photo of Mike Fong" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Mike_Fong_portait%2C_2022.jpg" alt="Photo of Mike Fong" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 49
 

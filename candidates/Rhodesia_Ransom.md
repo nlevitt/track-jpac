@@ -1,6 +1,6 @@
 # Rhodesia Ransom
 
-<img src="https://ca.emergeamerica.org/wp-content/uploads/sites/4/2023/01/Rhodesia-Ransom.jpg" alt="Photo of Rhodesia Ransom" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Rhodesia_Ransom%2C_2024.jpg/500px-Rhodesia_Ransom%2C_2024.jpg" alt="Photo of Rhodesia Ransom" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 13
 

@@ -1,6 +1,6 @@
 # Rick Zbur
 
-<img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/chavez-zbur_510_11-30-22_resized.jpg" alt="Photo of Rick Zbur" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Rick_Chavez_Zbur%2C_2022.jpg/500px-Rick_Chavez_Zbur%2C_2022.jpg" alt="Photo of Rick Zbur" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 51
 

@@ -1,6 +1,6 @@
 # Celeste Rodriguez
 
-<img src="https://ci.san-fernando.ca.us/wp-content/uploads/2021/07/Rodriguez-Celeste-2021-267x300.png" alt="Photo of Celeste Rodriguez" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Celeste_Rodriguez%2C_2024.jpg/500px-Celeste_Rodriguez%2C_2024.jpg" alt="Photo of Celeste Rodriguez" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
 **Role:** State Assemblymember, District 43
 
