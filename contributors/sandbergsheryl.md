@@ -31,4 +31,4 @@ Sandberg’s relationship to Zionist advocacy is rooted in long-standing family 
 
 | Candidate                                   |   Years | Direct Contributions   | Behested Payments   |
 |---------------------------------------------|---------|------------------------|---------------------|
-| [Josh Becker](../candidates/Josh_Becker.md) |    2025 | $68,500                | $0                  |
+| [Josh Becker](../candidates/Josh_Becker.md) |    2025 | $72,400                | $0                  |

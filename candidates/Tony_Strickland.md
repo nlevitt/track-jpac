@@ -16,11 +16,11 @@ Analyzed on: 2026-04-26 12:42:34
 
 | Contributor                                      |   Years | Total Amount   | Relationship to Israel                                                                               |
 |--------------------------------------------------|---------|----------------|------------------------------------------------------------------------------------------------------|
-| [FISHER, JOHN J](../contributors/fisherjjohn.md) |    2014 | $2,600         | A consistent donor and advocate for pro-Israel advocacy through significant philanthropic contributions to organizations like Birthright Israel and the Koret Foundation, and political funding to support candidates favoring strong U.S.-Israel ties. |
+| [FISHER, JOHN J](../contributors/fisherjohn.md) |    2014 | $2,600         | A consistent donor and advocate for pro-Israel advocacy through significant philanthropic contributions to organizations like Birthright Israel and the Koret Foundation, and political funding to support candidates favoring strong U.S.-Israel ties. |
 
 ### Israel lobby direct contributions
 
 | Contributor                                       |   Years | Total Amount   | Relationship to Israel                                                                               |
 |---------------------------------------------------|---------|----------------|------------------------------------------------------------------------------------------------------|
 | [Fisher, John](../contributors/fisherjohn.md)     |    2009 | $5,000         | A major donor to AIPAC and Birthright Israel Foundation, who also leverages family foundations to support Zionist identity programming and anti-BDS initiatives. |
-| [Fisher, John J.](../contributors/fisherjjohn.md) |    2005 | $1,000         | A consistent donor and advocate for pro-Israel advocacy through significant philanthropic contributions to organizations like Birthright Israel and the Koret Foundation, and political funding to support candidates favoring strong U.S.-Israel ties. |
+| [Fisher, John J.](../contributors/fisherjohn.md) |    2005 | $1,000         | A consistent donor and advocate for pro-Israel advocacy through significant philanthropic contributions to organizations like Birthright Israel and the Koret Foundation, and political funding to support candidates favoring strong U.S.-Israel ties. |

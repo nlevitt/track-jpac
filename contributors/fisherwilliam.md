@@ -45,11 +45,23 @@ The Fisher family's philanthropic network creates a "closed loop" of support for
 
 | Candidate                                                     | Years     | Direct Contributions   | Behested Payments   |
 |---------------------------------------------------------------|-----------|------------------------|---------------------|
+| [Anna Caballero](../candidates/Anna_Caballero.md)             | 2015-2017 | $17,200                | $0                  |
 | [Scott Wiener](../candidates/Scott_Wiener.md)                 | 2015-2021 | $16,300                | $0                  |
+| [Ben Allen](../candidates/Ben_Allen.md)                       | 2013-2017 | $13,600                | $0                  |
+| [Robert Rivas](../candidates/Robert_Rivas.md)                 | 2017-2021 | $13,300                | $0                  |
 | [Buffy Wicks](../candidates/Buffy_Wicks.md)                   | 2017-2019 | $10,800                | $0                  |
+| [Tim Grayson](../candidates/Tim_Grayson.md)                   | 2015-2021 | $10,600                | $0                  |
+| [Marc Berman](../candidates/Marc_Berman.md)                   | 2015-2017 | $9,600                 | $0                  |
+| [Henry Stern](../candidates/Henry_Stern.md)                   | 2015-2017 | $9,600                 | $0                  |
 | [Christopher Cabaldon](../candidates/Christopher_Cabaldon.md) | 2007      | $7,200                 | $0                  |
 | [Jesse Gabriel](../candidates/Jesse_Gabriel.md)               | 2017-2019 | $6,700                 | $0                  |
-| [Marc Berman](../candidates/Marc_Berman.md)                   | 2015-2017 | $5,200                 | $0                  |
 | [Josh Becker](../candidates/Josh_Becker.md)                   | 2019      | $2,500                 | $0                  |
+| [Cottie Petrie-Norris](../candidates/Cottie_Petrie-Norris.md) | 2019      | $2,000                 | $0                  |
 | [Catherine Stefani](../candidates/Catherine_Stefani.md)       | 2023      | $2,000                 | $0                  |
+| [Blanca Rubio](../candidates/Blanca_Rubio.md)                 | 2021      | $1,500                 | $0                  |
+| [Matt Haney](../candidates/Matt_Haney.md)                     | 2021      | $1,500                 | $0                  |
 | [Jacqui Irwin](../candidates/Jacqui_Irwin.md)                 | 2017-2021 | $1,500                 | $0                  |
+| [Rebecca Bauer-Kahan](../candidates/Rebecca_Bauer-Kahan.md)   | 2019      | $1,000                 | $0                  |
+| [Lori Wilson](../candidates/Lori_Wilson.md)                   | 2021      | $1,000                 | $0                  |
+| [Al Muratsuchi](../candidates/Al_Muratsuchi.md)               | 2021      | $1,000                 | $0                  |
+| [Cecilia Aguiar-Curry](../candidates/Cecilia_Aguiar-Curry.md) | 2021      | $1,000                 | $0                  |

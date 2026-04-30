@@ -29,32 +29,36 @@ Beyond Israel-specific organizations, Fisher is a prolific donor to the Republic
 
 | Candidate                                                                   | Years     | Direct Contributions   | Behested Payments   |
 |-----------------------------------------------------------------------------|-----------|------------------------|---------------------|
-| [Scott Wiener](../candidates/Scott_Wiener.md)                               | 2015-2021 | $10,150                | $0                  |
+| [Scott Wiener](../candidates/Scott_Wiener.md)                               | 2015-2021 | $18,950                | $0                  |
+| [Anna Caballero](../candidates/Anna_Caballero.md)                           | 2015-2017 | $16,000                | $0                  |
+| [Ben Allen](../candidates/Ben_Allen.md)                                     | 2013-2017 | $12,900                | $0                  |
+| [Tim Grayson](../candidates/Tim_Grayson.md)                                 | 2015-2023 | $12,600                | $0                  |
+| [Henry Stern](../candidates/Henry_Stern.md)                                 | 2015-2017 | $9,600                 | $0                  |
 | [Buffy Wicks](../candidates/Buffy_Wicks.md)                                 | 2017      | $8,800                 | $0                  |
-| [Anna Caballero](../candidates/Anna_Caballero.md)                           | 2017-2023 | $7,400                 | $0                  |
+| [Tony Strickland](../candidates/Tony_Strickland.md)                         | 2014      | $8,600                 | $0                  |
+| [Robert Rivas](../candidates/Robert_Rivas.md)                               | 2017-2023 | $7,900                 | $0                  |
 | [Christopher Cabaldon](../candidates/Christopher_Cabaldon.md)               | 2007      | $7,200                 | $0                  |
 | [Heath Flora](../candidates/Heath_Flora.md)                                 | 2021-2025 | $5,500                 | $0                  |
-| [Tony Strickland](../candidates/Tony_Strickland.md)                         | 2009      | $5,000                 | $0                  |
+| [Marc Berman](../candidates/Marc_Berman.md)                                 | 2017      | $5,400                 | $0                  |
 | [Brian Jones](../candidates/Brian_Jones.md)                                 | 2021-2023 | $4,500                 | $0                  |
-| [Ben Allen](../candidates/Ben_Allen.md)                                     | 2017      | $4,400                 | $0                  |
 | [Thomas Lackey](../candidates/Thomas_Lackey.md)                             | 2015      | $4,200                 | $0                  |
+| [James Gallagher](../candidates/James_Gallagher.md)                         | 2023      | $4,000                 | $0                  |
 | [Blanca Rubio](../candidates/Blanca_Rubio.md)                               | 2023      | $3,000                 | $0                  |
 | [Rosilicie Ochoa Bogh](../candidates/Rosilicie_Ochoa_Bogh.md)               | 2021-2023 | $3,000                 | $0                  |
-| [James Gallagher](../candidates/James_Gallagher.md)                         | 2023      | $3,000                 | $0                  |
+| [Blanca Pacheco](../candidates/Blanca_Pacheco.md)                           | 2023      | $3,000                 | $0                  |
 | [Megan Dahle](../candidates/Megan_Dahle.md)                                 | 2019      | $2,500                 | $0                  |
 | [Suzette Martinez Valladares](../candidates/Suzette_Martinez_Valladares.md) | 2021-2025 | $2,500                 | $0                  |
 | [Mike Gipson](../candidates/Mike_Gipson.md)                                 | 2021      | $2,000                 | $0                  |
+| [Cottie Petrie-Norris](../candidates/Cottie_Petrie-Norris.md)               | 2025      | $2,000                 | $0                  |
 | [Jesse Gabriel](../candidates/Jesse_Gabriel.md)                             | 2017      | $2,000                 | $0                  |
-| [Juan Alanis](../candidates/Juan_Alanis.md)                                 | 2023      | $1,500                 | $0                  |
-| [Monique Limón](../candidates/Monique_Limón.md)                             | 2021      | $1,500                 | $0                  |
 | [Rebecca Bauer-Kahan](../candidates/Rebecca_Bauer-Kahan.md)                 | 2021      | $1,500                 | $0                  |
-| [Avelino Valencia](../candidates/Avelino_Valencia.md)                       | 2023      | $1,500                 | $0                  |
 | [Diane Papan](../candidates/Diane_Papan.md)                                 | 2023      | $1,500                 | $0                  |
+| [Monique Limón](../candidates/Monique_Limón.md)                             | 2021      | $1,500                 | $0                  |
+| [Avelino Valencia](../candidates/Avelino_Valencia.md)                       | 2023      | $1,500                 | $0                  |
 | [Rick Zbur](../candidates/Rick_Zbur.md)                                     | 2023      | $1,500                 | $0                  |
-| [Akilah Weber](../candidates/Akilah_Weber.md)                               | 2021      | $1,500                 | $0                  |
 | [Josh Becker](../candidates/Josh_Becker.md)                                 | 2021      | $1,500                 | $0                  |
-| [Tim Grayson](../candidates/Tim_Grayson.md)                                 | 2021      | $1,500                 | $0                  |
+| [Akilah Weber](../candidates/Akilah_Weber.md)                               | 2021      | $1,500                 | $0                  |
+| [Juan Alanis](../candidates/Juan_Alanis.md)                                 | 2023      | $1,500                 | $0                  |
+| [Cecilia Aguiar-Curry](../candidates/Cecilia_Aguiar-Curry.md)               | 2023      | $1,500                 | $0                  |
 | [Alexandra Macedo](../candidates/Alexandra_Macedo.md)                       | 2025      | $1,000                 | $0                  |
-| [Marc Berman](../candidates/Marc_Berman.md)                                 | 2017      | $1,000                 | $0                  |
 | [Jacqui Irwin](../candidates/Jacqui_Irwin.md)                               | 2017      | $500                   | $0                  |
-| [Robert Rivas](../candidates/Robert_Rivas.md)                               | 2023      | $0                     | $0                  |

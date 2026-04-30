@@ -39,17 +39,36 @@ Fisher has leveraged his wealth to support political causes and candidates that 
 
 | Candidate                                                     | Years     | Direct Contributions   | Behested Payments   |
 |---------------------------------------------------------------|-----------|------------------------|---------------------|
+| [Anna Caballero](../candidates/Anna_Caballero.md)             | 2015-2025 | $26,700                | $0                  |
 | [Scott Wiener](../candidates/Scott_Wiener.md)                 | 2015-2023 | $24,500                | $0                  |
 | [Buffy Wicks](../candidates/Buffy_Wicks.md)                   | 2017-2025 | $18,800                | $0                  |
+| [Robert Rivas](../candidates/Robert_Rivas.md)                 | 2017-2025 | $16,800                | $0                  |
+| [Tim Grayson](../candidates/Tim_Grayson.md)                   | 2015-2025 | $16,600                | $0                  |
+| [Henry Stern](../candidates/Henry_Stern.md)                   | 2015-2021 | $15,300                | $0                  |
+| [Ben Allen](../candidates/Ben_Allen.md)                       | 2013-2025 | $14,100                | $0                  |
+| [Cottie Petrie-Norris](../candidates/Cottie_Petrie-Norris.md) | 2019-2025 | $13,500                | $0                  |
 | [Jacqui Irwin](../candidates/Jacqui_Irwin.md)                 | 2017-2025 | $11,000                | $0                  |
+| [Blanca Rubio](../candidates/Blanca_Rubio.md)                 | 2021-2025 | $11,000                | $0                  |
+| [Marc Berman](../candidates/Marc_Berman.md)                   | 2015-2017 | $9,600                 | $0                  |
+| [Christopher Cabaldon](../candidates/Christopher_Cabaldon.md) | 2007      | $9,200                 | $0                  |
+| [Lori Wilson](../candidates/Lori_Wilson.md)                   | 2021-2025 | $8,500                 | $0                  |
+| [Cecilia Aguiar-Curry](../candidates/Cecilia_Aguiar-Curry.md) | 2021-2025 | $8,500                 | $0                  |
+| [Angelique Ashby](../candidates/Angelique_Ashby.md)           | 2023-2025 | $8,500                 | $0                  |
 | [Jesse Gabriel](../candidates/Jesse_Gabriel.md)               | 2017-2019 | $8,400                 | $0                  |
-| [Christopher Cabaldon](../candidates/Christopher_Cabaldon.md) | 2007      | $7,200                 | $0                  |
-| [Catherine Stefani](../candidates/Catherine_Stefani.md)       | 2023-2025 | $5,500                 | $0                  |
-| [Marc Berman](../candidates/Marc_Berman.md)                   | 2015-2017 | $5,200                 | $0                  |
-| [Anna Caballero](../candidates/Anna_Caballero.md)             | 2017      | $4,400                 | $0                  |
-| [Josh Becker](../candidates/Josh_Becker.md)                   | 2019      | $2,500                 | $0                  |
-| [Juan Carrillo](../candidates/Juan_Carrillo.md)               | 2025      | $2,000                 | $0                  |
+| [Josh Becker](../candidates/Josh_Becker.md)                   | 2021-2023 | $8,000                 | $0                  |
+| [Rick Zbur](../candidates/Rick_Zbur.md)                       | 2021-2025 | $8,000                 | $0                  |
+| [Catherine Stefani](../candidates/Catherine_Stefani.md)       | 2023-2025 | $7,500                 | $0                  |
+| [Matt Haney](../candidates/Matt_Haney.md)                     | 2021-2025 | $7,500                 | $0                  |
+| [Juan Carrillo](../candidates/Juan_Carrillo.md)               | 2023      | $6,500                 | $0                  |
+| [Al Muratsuchi](../candidates/Al_Muratsuchi.md)               | 2023      | $4,000                 | $0                  |
+| [Blanca Pacheco](../candidates/Blanca_Pacheco.md)             | 2025      | $4,000                 | $0                  |
+| [Rebecca Bauer-Kahan](../candidates/Rebecca_Bauer-Kahan.md)   | 2019-2023 | $3,500                 | $0                  |
+| [John Laird](../candidates/John_Laird.md)                     | 2023      | $3,000                 | $0                  |
+| [Susan Rubio](../candidates/Susan_Rubio.md)                   | 2021-2023 | $3,000                 | $0                  |
+| [Catherine Blakespear](../candidates/Catherine_Blakespear.md) | 2025      | $2,500                 | $0                  |
+| [Monique Limón](../candidates/Monique_Limón.md)               | 2025      | $2,000                 | $0                  |
+| [John Harabedian](../candidates/John_Harabedian.md)           | 2025      | $2,000                 | $0                  |
+| [Sabrina Cervantes](../candidates/Sabrina_Cervantes.md)       | 2025      | $2,000                 | $0                  |
+| [Laura Richardson](../candidates/Laura_Richardson.md)         | 2025      | $1,500                 | $0                  |
 | [Lisa Calderon](../candidates/Lisa_Calderon.md)               | 2021      | $1,500                 | $0                  |
 | [Diane Papan](../candidates/Diane_Papan.md)                   | 2023      | $1,500                 | $0                  |
-| [Matt Haney](../candidates/Matt_Haney.md)                     | 2023      | $1,500                 | $0                  |
-| [Al Muratsuchi](../candidates/Al_Muratsuchi.md)               | 2021      | $1,000                 | $0                  |
