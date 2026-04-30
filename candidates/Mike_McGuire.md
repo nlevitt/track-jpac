@@ -16,7 +16,7 @@ Analyzed on: 2026-04-27 16:31:12
 
 | Contributor                                              | Years     | Total Amount   | Relationship to Israel   |
 |----------------------------------------------------------|-----------|----------------|--------------------------|
-| [Gordon Blumenfeld](../contributors/blumenfeldgordon.md) | 2021-2024 | $53,500        | Prominent Zionist donor. |
+| [Gordon Blumenfeld](../contributors/blumenfeldgordon.md) | 2021-2024 | $53,500        | Consistent donor to Zionist-affiliated institutions and the Jewish Community Federation, which advocates for and financially supports Israel. |
 
 
 Search returned no candidate results on SOS PowerSearch.

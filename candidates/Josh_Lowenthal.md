@@ -18,4 +18,4 @@ No Israel lobby federal contributions identified.
 
 | Contributor                                                     | Years     | Total Amount   | Relationship to Israel                                               |
 |-----------------------------------------------------------------|-----------|----------------|----------------------------------------------------------------------|
-| [California Jewish PAC](../contributors/californiajewishpac.md) | 2021-2025 | $26,700        | PAC (JPAC) dedicated to supporting Zionist candidates in California. |
+| [California Jewish PAC](../contributors/californiajewishpac.md) | 2021-2025 | $26,700        | This political action committee serves as a primary vehicle for pro-Israel and Zionist advocacy and political influence within California state government. |

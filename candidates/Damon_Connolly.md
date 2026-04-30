@@ -18,4 +18,4 @@ No Israel lobby federal contributions identified.
 
 | Contributor                                         |   Years | Total Amount   | Relationship to Israel                                          |
 |-----------------------------------------------------|---------|----------------|-----------------------------------------------------------------|
-| [Friedman, Anita](../contributors/anitafriedman.md) |    2023 | $500           | Executive Director of JFCS; prominent Zionist community leader. |
+| [Friedman, Anita](../contributors/anitafriedman.md) |    2023 | $500           | A primary leader in the pro-Israel lobby, holding high-level positions in major Zionist organizations, directing strategic political contributions, and leveraging philanthropic influence to fortify U.S.-Israel bonds. |

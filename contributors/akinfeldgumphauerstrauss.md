@@ -36,4 +36,4 @@ As a major political donor in California and federally, Akin Gump directs substa
 
 | Candidate                                     |   Years | Direct Contributions   | Behested Payments   |
 |-----------------------------------------------|---------|------------------------|---------------------|
-| [Roger Niello](../candidates/Roger_Niello.md) |    2011 | $0                     | $36,444             |
+| [Roger Niello](../candidates/Roger_Niello.md) |    2011 | $36,444                | $0                  |

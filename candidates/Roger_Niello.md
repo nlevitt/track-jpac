@@ -16,7 +16,7 @@ Analyzed on: 2026-04-27 16:32:03
 
 | Contributor                                                                   |   Years | Total Amount   | Relationship to Israel                                    |
 |-------------------------------------------------------------------------------|---------|----------------|-----------------------------------------------------------|
-| [Akin Gump Strauss Hauer & Feld](../contributors/akinfeldgumphauerstrauss.md) |    2011 | $36,444        | Lobbying firm with extensive ties to pro-Israel advocacy. |
+| [Akin Gump Strauss Hauer & Feld](../contributors/akinfeldgumphauerstrauss.md) |    2011 | $36,444        | Serves as a major advocate for pro-Israel interests, demonstrated by its extensive lobbying, strategic partnerships with prominent pro-Israel organizations, influential personnel, and political contributions. |
 
 No Israel lobby federal contributions identified.
 

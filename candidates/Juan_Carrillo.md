@@ -18,5 +18,5 @@ No Israel lobby federal contributions identified.
 
 | Contributor                                           |   Years | Total Amount   | Relationship to Israel                                                                               |
 |-------------------------------------------------------|---------|----------------|------------------------------------------------------------------------------------------------------|
-| [Fisher, Robert J.](../contributors/fisherjrobert.md) |    2023 | $4,500         | Prominent Zionist donor (Gap Inc. chairman); associated with Koret Foundation and Birthright Israel. |
-| [Fisher, Robert](../contributors/fisherrobert.md)     |    2025 | $2,000         | Prominent Zionist donor (Gap Inc. chairman); associated with Koret Foundation and Birthright Israel. |
+| [Fisher, Robert J.](../contributors/fisherjrobert.md) |    2023 | $4,500         | A prominent donor whose family network has documented ties to pro-Israel organizations and Zionist advocacy, including significant financial support to Birthright Israel, involvement with the Koret Foundation, and contributions to pro-Israel political candidates and anti-delegitimization efforts. |
+| [Fisher, Robert](../contributors/fisherrobert.md)     |    2025 | $2,000         | Prominent donor to Zionist and pro-Israel organizations and institutions, including Hebrew University of Jerusalem, Birthright Israel, and the Koret Foundation. |

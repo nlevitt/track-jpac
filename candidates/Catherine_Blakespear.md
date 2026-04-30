@@ -18,5 +18,5 @@ No Israel lobby federal contributions identified.
 
 | Contributor                                           | Years     | Total Amount   | Relationship to Israel                                                                               |
 |-------------------------------------------------------|-----------|----------------|------------------------------------------------------------------------------------------------------|
-| [Fisher, Robert J.](../contributors/fisherjrobert.md) | 2025      | $2,500         | Prominent Zionist donor (Gap Inc. chairman); associated with Koret Foundation and Birthright Israel. |
-| [Leib, Richard](../contributors/leibrichard.md)       | 2023-2025 | $1,000         | Former Chair of UC Regents; documented Zionist advocate and supporter of Israel causes.              |
+| [Fisher, Robert J.](../contributors/fisherjrobert.md) | 2025      | $2,500         | A prominent donor whose family network has documented ties to pro-Israel organizations and Zionist advocacy, including significant financial support to Birthright Israel, involvement with the Koret Foundation, and contributions to pro-Israel political candidates and anti-delegitimization efforts. |
+| [Leib, Richard](../contributors/leibrichard.md)       | 2023-2025 | $1,000         | A prominent advocate for Zionist causes, they actively used their position as a UC Regent to oppose anti-Zionist activities and maintain ties with pro-Israel organizations. |

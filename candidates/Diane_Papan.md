@@ -18,6 +18,6 @@ No Israel lobby federal contributions identified.
 
 | Contributor                                       |   Years | Total Amount   | Relationship to Israel                                                                               |
 |---------------------------------------------------|---------|----------------|------------------------------------------------------------------------------------------------------|
-| [Fisher, Robert](../contributors/fisherrobert.md) |    2023 | $1,500         | Prominent Zionist donor (Gap Inc. chairman); associated with Koret Foundation and Birthright Israel. |
-| [Fisher, John](../contributors/fisherjohn.md)     |    2023 | $1,500         | Prominent Zionist donor (Oakland A's owner); associated with Koret Foundation and Birthright Israel. |
-| [Leib, Richard](../contributors/leibrichard.md)   |    2021 | $500           | Former Chair of UC Regents; documented Zionist advocate and supporter of Israel causes.              |
+| [Fisher, Robert](../contributors/fisherrobert.md) |    2023 | $1,500         | Prominent donor to Zionist and pro-Israel organizations and institutions, including Hebrew University of Jerusalem, Birthright Israel, and the Koret Foundation. |
+| [Fisher, John](../contributors/fisherjohn.md)     |    2023 | $1,500         | A major donor to AIPAC and Birthright Israel Foundation, who also leverages family foundations to support Zionist identity programming and anti-BDS initiatives. |
+| [Leib, Richard](../contributors/leibrichard.md)   |    2021 | $500           | A prominent advocate for Zionist causes, they actively used their position as a UC Regent to oppose anti-Zionist activities and maintain ties with pro-Israel organizations. |

@@ -18,4 +18,4 @@ No Israel lobby federal contributions identified.
 
 | Contributor                                     |   Years | Total Amount   | Relationship to Israel                                                                                 |
 |-------------------------------------------------|---------|----------------|--------------------------------------------------------------------------------------------------------|
-| [Fisher, Doris](../contributors/dorisfisher.md) |    2017 | $2,000         | Prominent Zionist donor (Gap Inc. co-founder); associated with Koret Foundation and Birthright Israel. |
+| [Fisher, Doris](../contributors/dorisfisher.md) |    2017 | $2,000         | A prominent donor, through family entities and philanthropic funds, supports pro-Israel advocacy and Israeli institutions via partnerships with the Koret Foundation, contributions to Birthright Israel and AIPAC, and the funding of Israeli political figures. |

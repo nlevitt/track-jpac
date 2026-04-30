@@ -18,5 +18,5 @@ No Israel lobby federal contributions identified.
 
 | Contributor                                     | Years     | Total Amount   | Relationship to Israel                                                                                 |
 |-------------------------------------------------|-----------|----------------|--------------------------------------------------------------------------------------------------------|
-| [Fisher, Doris](../contributors/dorisfisher.md) | 2019-2021 | $3,000         | Prominent Zionist donor (Gap Inc. co-founder); associated with Koret Foundation and Birthright Israel. |
-| [Fisher, John](../contributors/fisherjohn.md)   | 2021      | $2,000         | Prominent Zionist donor (Oakland A's owner); associated with Koret Foundation and Birthright Israel.   |
+| [Fisher, Doris](../contributors/dorisfisher.md) | 2019-2021 | $3,000         | A prominent donor, through family entities and philanthropic funds, supports pro-Israel advocacy and Israeli institutions via partnerships with the Koret Foundation, contributions to Birthright Israel and AIPAC, and the funding of Israeli political figures. |
+| [Fisher, John](../contributors/fisherjohn.md)   | 2021      | $2,000         | A major donor to AIPAC and Birthright Israel Foundation, who also leverages family foundations to support Zionist identity programming and anti-BDS initiatives. |

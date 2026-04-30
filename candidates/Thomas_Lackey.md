@@ -16,4 +16,4 @@ No Israel lobby federal contributions identified.
 
 | Contributor                                   |   Years | Total Amount   | Relationship to Israel                                                                               |
 |-----------------------------------------------|---------|----------------|------------------------------------------------------------------------------------------------------|
-| [Fisher, John](../contributors/fisherjohn.md) |    2015 | $4,200         | Prominent Zionist donor (Oakland A's owner); associated with Koret Foundation and Birthright Israel. |
+| [Fisher, John](../contributors/fisherjohn.md) |    2015 | $4,200         | A major donor to AIPAC and Birthright Israel Foundation, who also leverages family foundations to support Zionist identity programming and anti-BDS initiatives. |

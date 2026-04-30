@@ -36,4 +36,4 @@ As a 501(c)(3) entity, the Foundation collects contributions to fund the politic
 
 | Candidate                                     |   Years | Direct Contributions   | Behested Payments   |
 |-----------------------------------------------|---------|------------------------|---------------------|
-| [Scott Wiener](../candidates/Scott_Wiener.md) |    2025 | $0                     | $30,000             |
+| [Scott Wiener](../candidates/Scott_Wiener.md) |    2025 | $30,000                | $0                  |

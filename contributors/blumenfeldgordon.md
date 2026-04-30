@@ -34,4 +34,4 @@ While his Zionist-affiliated giving is a core component of his public profile, B
 
 | Candidate                                     | Years     | Direct Contributions   | Behested Payments   |
 |-----------------------------------------------|-----------|------------------------|---------------------|
-| [Mike McGuire](../candidates/Mike_McGuire.md) | 2021-2024 | $0                     | $53,500             |
+| [Mike McGuire](../candidates/Mike_McGuire.md) | 2021-2024 | $53,500                | $0                  |

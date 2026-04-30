@@ -50,4 +50,4 @@ The foundation's focus on global Jewish causes and Israel was a central point of
 
 | Candidate                                           |   Years | Direct Contributions   | Behested Payments   |
 |-----------------------------------------------------|---------|------------------------|---------------------|
-| [Angelique Ashby](../candidates/Angelique_Ashby.md) |    2024 | $0                     | $10,000             |
+| [Angelique Ashby](../candidates/Angelique_Ashby.md) |    2024 | $10,000                | $0                  |

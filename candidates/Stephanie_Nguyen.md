@@ -18,4 +18,4 @@ No Israel lobby federal contributions identified.
 
 | Contributor                                                                                         |   Years | Total Amount   | Relationship to Israel                                               |
 |-----------------------------------------------------------------------------------------------------|---------|----------------|----------------------------------------------------------------------|
-| [Californai Bankers Association State PAC](../contributors/associationbankerscalifornaipacstate.md) |    2021 | $4,900         | American Israel Public Affairs Committee; pro-Israel lobbying group. |
+| [Californai Bankers Association State PAC](../contributors/associationbankerscalifornaipacstate.md) |    2021 | $4,900         | It has documented ties to Zionist advocacy through its leadership, coalition lobbying with pro-Israel groups, and financial support for pro-Israel candidates. |
