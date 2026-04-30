@@ -1,4 +1,4 @@
-# California Zionist Supporters: Christopher Cabaldon
+# Christopher Cabaldon
 
 <img src="https://calearninglab.org/wp-content/uploads/2024/09/Emcee-Christopher-Cabaldon-488x559.png" alt="Photo of Christopher Cabaldon" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
@@ -7,16 +7,14 @@
 Christopher Cabaldon is a member of the California State Senate, representing District 3. He assumed office on December 2, 2024, and his current term concludes on December 4, 2028. He is from West Sacramento, California.
 
 Analyzed on: 2026-04-26 12:35:36  
-**Total Zionist Contributions:** $39,500  
-**Total Zionist Behested Payments:** $0  
+**Total Israel lobby contributions:** $39,500  
+**Total Israel lobby indirect contributions:** $0  
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
-### Zionist Federal Contributions (FEC)
+No Israel lobby federal contributions identified.
 
-No Zionist federal contributions identified.
-
-### Zionist Direct Contributions
+### Israel lobby direct contributions
 
 | Contributor                                           | Years     | Total Amount   | Relationship to Israel                                                                                 |
 |-------------------------------------------------------|-----------|----------------|--------------------------------------------------------------------------------------------------------|

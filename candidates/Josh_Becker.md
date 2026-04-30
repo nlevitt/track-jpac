@@ -1,4 +1,4 @@
-# California Zionist Supporters: Josh Becker
+# Josh Becker
 
 <img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd13_becker_0.jpg" alt="Photo of Josh Becker" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
@@ -7,22 +7,20 @@
 Josh Becker is currently a California State Senator representing District 13, which includes most of San Mateo County and the northern part of Santa Clara County. He was re-elected in November 2024 and his current term ends in December 2028. He resides in Menlo Park.
 
 Analyzed on: 2026-04-27 16:30:21  
-**Total Zionist Contributions:** $73,400  
-**Total Zionist Behested Payments:** $50,000  
+**Total Israel lobby contributions:** $73,400  
+**Total Israel lobby indirect contributions:** $50,000  
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
-### Zionist Behested Payments
+### Israel lobby indirect contributions
 
 | Contributor                                          |   Years | Total Amount   | Relationship to Israel   |
 |------------------------------------------------------|---------|----------------|--------------------------|
 | [Sheryl Sandberg](../contributors/sandbergsheryl.md) |    2025 | $50,000        | Prominent Zionist donor. |
 
-### Zionist Federal Contributions (FEC)
+No Israel lobby federal contributions identified.
 
-No Zionist federal contributions identified.
-
-### Zionist Direct Contributions
+### Israel lobby direct contributions
 
 | Contributor                                                     | Years     | Total Amount   | Relationship to Israel                                                                                 |
 |-----------------------------------------------------------------|-----------|----------------|--------------------------------------------------------------------------------------------------------|

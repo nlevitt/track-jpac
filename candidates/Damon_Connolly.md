@@ -1,4 +1,4 @@
-# California Zionist Supporters: Damon Connolly
+# Damon Connolly
 
 <img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/connolly_509_11-30-22_resized.jpg" alt="Photo of Damon Connolly" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
@@ -7,16 +7,14 @@
 Damon Connolly is a Democratic California State Assemblymember representing District 12, with offices in San Rafael, Petaluma, and Santa Rosa. He is currently seeking election to the California State Senate for District 2 in the June 2, 2026 primary election.
 
 Analyzed on: 2026-04-26 12:47:24  
-**Total Zionist Contributions:** $500  
-**Total Zionist Behested Payments:** $0  
+**Total Israel lobby contributions:** $500  
+**Total Israel lobby indirect contributions:** $0  
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
-### Zionist Federal Contributions (FEC)
+No Israel lobby federal contributions identified.
 
-No Zionist federal contributions identified.
-
-### Zionist Direct Contributions
+### Israel lobby direct contributions
 
 | Contributor                                         |   Years | Total Amount   | Relationship to Israel                                          |
 |-----------------------------------------------------|---------|----------------|-----------------------------------------------------------------|

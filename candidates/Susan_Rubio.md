@@ -1,4 +1,4 @@
-# California Zionist Supporters: Susan Rubio
+# Susan Rubio
 
 <img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator_rubio.jpg" alt="Photo of Susan Rubio" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
@@ -7,16 +7,14 @@
 Susan Rubio is a Democratic member of the California State Senate, representing District 22, and lives in Baldwin Park. Her current term ends in December 2026, and she is seeking re-election to the same seat.
 
 Analyzed on: 2026-04-26 12:40:19  
-**Total Zionist Contributions:** $17,400  
-**Total Zionist Behested Payments:** $0  
+**Total Israel lobby contributions:** $17,400  
+**Total Israel lobby indirect contributions:** $0  
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
-### Zionist Federal Contributions (FEC)
+No Israel lobby federal contributions identified.
 
-No Zionist federal contributions identified.
-
-### Zionist Direct Contributions
+### Israel lobby direct contributions
 
 | Contributor                                                     | Years     | Total Amount   | Relationship to Israel                                                                                 |
 |-----------------------------------------------------------------|-----------|----------------|--------------------------------------------------------------------------------------------------------|

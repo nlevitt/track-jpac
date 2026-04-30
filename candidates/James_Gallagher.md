@@ -1,4 +1,4 @@
-# California Zionist Supporters: James Gallagher
+# James Gallagher
 
 <img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/Gallagher_LDC_headshot.jpg" alt="Photo of James Gallagher" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
@@ -7,16 +7,14 @@
 James Gallagher is a Republican who represents California's 3rd Assembly District. He is currently seeking election to the U.S. House to represent California's 1st Congressional District. He is from Yuba City, California and lives in Sutter County.
 
 Analyzed on: 2026-04-26 12:45:28  
-**Total Zionist Contributions:** $4,000  
-**Total Zionist Behested Payments:** $0  
+**Total Israel lobby contributions:** $4,000  
+**Total Israel lobby indirect contributions:** $0  
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
-### Zionist Federal Contributions (FEC)
+No Israel lobby federal contributions identified.
 
-No Zionist federal contributions identified.
-
-### Zionist Direct Contributions
+### Israel lobby direct contributions
 
 | Contributor                                       |   Years | Total Amount   | Relationship to Israel                                                                               |
 |---------------------------------------------------|---------|----------------|------------------------------------------------------------------------------------------------------|

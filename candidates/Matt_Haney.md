@@ -1,4 +1,4 @@
-# California Zionist Supporters: Matt Haney
+# Matt Haney
 
 <img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad17_haney.jpg" alt="Photo of Matt Haney" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
@@ -7,16 +7,14 @@
 Matt Haney is currently a member of the California State Assembly, representing District 17, which encompasses the eastern side of San Francisco. He is seeking re-election to this position in the primary on June 2, 2026. Haney is from San Francisco, California.
 
 Analyzed on: 2026-04-26 12:35:08  
-**Total Zionist Contributions:** $34,700  
-**Total Zionist Behested Payments:** $0  
+**Total Israel lobby contributions:** $34,700  
+**Total Israel lobby indirect contributions:** $0  
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
-### Zionist Federal Contributions (FEC)
+No Israel lobby federal contributions identified.
 
-No Zionist federal contributions identified.
-
-### Zionist Direct Contributions
+### Israel lobby direct contributions
 
 | Contributor                                                     | Years     | Total Amount   | Relationship to Israel                                                                               |
 |-----------------------------------------------------------------|-----------|----------------|------------------------------------------------------------------------------------------------------|

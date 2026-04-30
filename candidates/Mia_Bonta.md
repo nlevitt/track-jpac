@@ -1,4 +1,4 @@
-# California Zionist Supporters: Mia Bonta
+# Mia Bonta
 
 <img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad-18_bonta_m._portraits_edit_155_11-5-21_resized.jpg" alt="Photo of Mia Bonta" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
@@ -7,16 +7,14 @@
 Mia Bonta is a current member of the California State Assembly, representing the 18th Assembly District, which includes Oakland, Alameda, and Emeryville. She is seeking re-election in the primary for California State Assembly District 18 on June 2, 2026. Bonta was born in New York City and grew up in the Bronx, later making Alameda her home.
 
 Analyzed on: 2026-04-26 12:47:47  
-**Total Zionist Contributions:** $0  
-**Total Zionist Behested Payments:** $0  
+**Total Israel lobby contributions:** $0  
+**Total Israel lobby indirect contributions:** $0  
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
-### Zionist Federal Contributions (FEC)
+No Israel lobby federal contributions identified.
 
-No Zionist federal contributions identified.
+### Israel lobby direct contributions
 
-### Zionist Direct Contributions
-
-No Zionist supporters identified among contributors.
+No Israel lobby supporters identified among contributors.
 

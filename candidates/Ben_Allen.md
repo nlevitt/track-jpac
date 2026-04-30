@@ -1,4 +1,4 @@
-# California Zionist Supporters: Ben Allen
+# Ben Allen
 
 <img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/allen_ben_d-26.jpg" alt="Photo of Ben Allen" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
@@ -7,16 +7,14 @@
 Ben Allen is a current member of the California State Senate, representing District 24. He is from Santa Monica, California, and is a candidate in the 2026 California Insurance Commissioner election.
 
 Analyzed on: 2026-04-26 12:32:42  
-**Total Zionist Contributions:** $88,600  
-**Total Zionist Behested Payments:** $0  
+**Total Israel lobby contributions:** $88,600  
+**Total Israel lobby indirect contributions:** $0  
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
-### Zionist Federal Contributions (FEC)
+No Israel lobby federal contributions identified.
 
-No Zionist federal contributions identified.
-
-### Zionist Direct Contributions
+### Israel lobby direct contributions
 
 | Contributor                                                                                                              | Years     | Total Amount   | Relationship to Israel                                                                                 |
 |--------------------------------------------------------------------------------------------------------------------------|-----------|----------------|--------------------------------------------------------------------------------------------------------|

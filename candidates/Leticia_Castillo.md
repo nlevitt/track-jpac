@@ -1,4 +1,4 @@
-# California Zionist Supporters: Leticia Castillo
+# Leticia Castillo
 
 <img src="https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/May162022532PM_104500298_0304E3268B78420096DFCD3FA3DB99B7-min.jpeg" alt="Photo of Leticia Castillo" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
@@ -7,16 +7,14 @@
 Leticia Castillo is the State Assemblywoman for California's 58th Assembly District, a position she was elected to in November 2024 and assumed on December 2, 2024. She is seeking re-election to the same office in the June 2026 primary and November 2026 general election. Castillo is from Home Gardens in Riverside County.
 
 Analyzed on: 2026-04-26 12:55:01  
-**Total Zionist Contributions:** $0  
-**Total Zionist Behested Payments:** $0  
+**Total Israel lobby contributions:** $0  
+**Total Israel lobby indirect contributions:** $0  
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
-### Zionist Federal Contributions (FEC)
+No Israel lobby federal contributions identified.
 
-No Zionist federal contributions identified.
+### Israel lobby direct contributions
 
-### Zionist Direct Contributions
-
-No Zionist supporters identified among contributors.
+No Israel lobby supporters identified among contributors.
 

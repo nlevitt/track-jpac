@@ -1,4 +1,4 @@
-# California Zionist Supporters: Diane Papan
+# Diane Papan
 
 <img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/papan_002_11-30-22_resized.jpg" alt="Photo of Diane Papan" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
@@ -7,16 +7,14 @@
 Diane Papan is the State Assemblymember for California's 21st District and is seeking re-election for this office in the June 2, 2026 primary election. She is from San Mateo County, California.
 
 Analyzed on: 2026-04-26 12:49:32  
-**Total Zionist Contributions:** $3,500  
-**Total Zionist Behested Payments:** $0  
+**Total Israel lobby contributions:** $3,500  
+**Total Israel lobby indirect contributions:** $0  
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
-### Zionist Federal Contributions (FEC)
+No Israel lobby federal contributions identified.
 
-No Zionist federal contributions identified.
-
-### Zionist Direct Contributions
+### Israel lobby direct contributions
 
 | Contributor                                       |   Years | Total Amount   | Relationship to Israel                                                                               |
 |---------------------------------------------------|---------|----------------|------------------------------------------------------------------------------------------------------|

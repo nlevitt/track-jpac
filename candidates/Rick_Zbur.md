@@ -1,4 +1,4 @@
-# California Zionist Supporters: Rick Zbur
+# Rick Zbur
 
 <img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/chavez-zbur_510_11-30-22_resized.jpg" alt="Photo of Rick Zbur" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
@@ -7,16 +7,14 @@
 Rick Zbur is currently serving as a California State Assemblymember for District 51. He is seeking re-election for the same office in the June 2, 2026 primary and is from Peralta, New Mexico, residing in Los Angeles, California.
 
 Analyzed on: 2026-04-26 12:54:15  
-**Total Zionist Contributions:** $23,650  
-**Total Zionist Behested Payments:** $0  
+**Total Israel lobby contributions:** $23,650  
+**Total Israel lobby indirect contributions:** $0  
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
-### Zionist Federal Contributions (FEC)
+No Israel lobby federal contributions identified.
 
-No Zionist federal contributions identified.
-
-### Zionist Direct Contributions
+### Israel lobby direct contributions
 
 | Contributor                                                     | Years     | Total Amount   | Relationship to Israel                                                                               |
 |-----------------------------------------------------------------|-----------|----------------|------------------------------------------------------------------------------------------------------|

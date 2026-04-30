@@ -1,4 +1,4 @@
-# California Zionist Supporters: Monique Limón
+# Monique Limón
 
 <img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/limon_monique_d-19_2.jpg" alt="Photo of Monique Limón" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
@@ -7,16 +7,14 @@
 Monique Limón is the California Senate President pro Tempore and represents State Senate District 21. She was born and raised in Santa Barbara, California.
 
 Analyzed on: 2026-04-26 12:33:59  
-**Total Zionist Contributions:** $14,285  
-**Total Zionist Behested Payments:** $0  
+**Total Israel lobby contributions:** $14,285  
+**Total Israel lobby indirect contributions:** $0  
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
-### Zionist Federal Contributions (FEC)
+No Israel lobby federal contributions identified.
 
-No Zionist federal contributions identified.
-
-### Zionist Direct Contributions
+### Israel lobby direct contributions
 
 | Contributor                                           | Years     | Total Amount   | Relationship to Israel                                                                                 |
 |-------------------------------------------------------|-----------|----------------|--------------------------------------------------------------------------------------------------------|

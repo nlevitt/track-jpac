@@ -1,4 +1,4 @@
-# California Zionist Supporters: Tim Grayson
+# Tim Grayson
 
 <img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad14_header.jpg" alt="Photo of Tim Grayson" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
@@ -7,16 +7,14 @@
 Tim Grayson is a member of the California State Senate, representing District 9, a position he assumed on December 2, 2024. He is a longtime resident of Concord, California.
 
 Analyzed on: 2026-04-26 12:36:46  
-**Total Zionist Contributions:** $46,700  
-**Total Zionist Behested Payments:** $0  
+**Total Israel lobby contributions:** $46,700  
+**Total Israel lobby indirect contributions:** $0  
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
-### Zionist Federal Contributions (FEC)
+No Israel lobby federal contributions identified.
 
-No Zionist federal contributions identified.
-
-### Zionist Direct Contributions
+### Israel lobby direct contributions
 
 | Contributor                                             | Years     | Total Amount   | Relationship to Israel                                                                                 |
 |---------------------------------------------------------|-----------|----------------|--------------------------------------------------------------------------------------------------------|

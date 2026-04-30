@@ -1,4 +1,4 @@
-# California Zionist Supporters: Henry Stern
+# Henry Stern
 
 <img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/stern.jpg" alt="Photo of Henry Stern" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
@@ -7,16 +7,14 @@
 Henry Stern is a member of the California State Senate, representing District 27. He is from Malibu, California, and resides in Los Angeles, California.
 
 Analyzed on: 2026-04-26 12:40:52  
-**Total Zionist Contributions:** $61,650  
-**Total Zionist Behested Payments:** $0  
+**Total Israel lobby contributions:** $61,650  
+**Total Israel lobby indirect contributions:** $0  
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
-### Zionist Federal Contributions (FEC)
+No Israel lobby federal contributions identified.
 
-No Zionist federal contributions identified.
-
-### Zionist Direct Contributions
+### Israel lobby direct contributions
 
 | Contributor                                                                                                              | Years     | Total Amount   | Relationship to Israel                                                                                 |
 |--------------------------------------------------------------------------------------------------------------------------|-----------|----------------|--------------------------------------------------------------------------------------------------------|

@@ -1,4 +1,4 @@
-# California Zionist Supporters: Mike Gipson
+# Mike Gipson
 
 <img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD64_Gipson_Portrait150_20141201.jpg" alt="Photo of Mike Gipson" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
@@ -7,16 +7,14 @@
 Mike Gipson is a State Assemblymember representing California's 65th Assembly District. He is currently seeking election to the California State Board of Equalization, District 3. He is from Carson, California.
 
 Analyzed on: 2026-04-26 12:55:56  
-**Total Zionist Contributions:** $5,000  
-**Total Zionist Behested Payments:** $0  
+**Total Israel lobby contributions:** $5,000  
+**Total Israel lobby indirect contributions:** $0  
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
-### Zionist Federal Contributions (FEC)
+No Israel lobby federal contributions identified.
 
-No Zionist federal contributions identified.
-
-### Zionist Direct Contributions
+### Israel lobby direct contributions
 
 | Contributor                                     | Years     | Total Amount   | Relationship to Israel                                                                                 |
 |-------------------------------------------------|-----------|----------------|--------------------------------------------------------------------------------------------------------|

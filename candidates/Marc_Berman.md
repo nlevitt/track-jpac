@@ -1,4 +1,4 @@
-# California Zionist Supporters: Marc Berman
+# Marc Berman
 
 <img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad24_berman_roster150_20161205.jpg" alt="Photo of Marc Berman" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
@@ -7,18 +7,18 @@
 Marc Berman is a Democratic member of the California State Assembly, representing District 23. He is seeking re-election to the State Assembly for District 23 and was raised in Palo Alto, California.
 
 Analyzed on: 2026-04-26 12:50:06  
-**Total Zionist Contributions:** $77,550  
-**Total Zionist Behested Payments:** $0  
+**Total Israel lobby contributions:** $77,550  
+**Total Israel lobby indirect contributions:** $0  
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
-### Zionist Federal Contributions (FEC)
+### Israel lobby federal contributions (FEC)
 
 | Contributor                                     |   Years | Total Amount   | Relationship to Israel                                                                  |
 |-------------------------------------------------|---------|----------------|-----------------------------------------------------------------------------------------|
 | [LEIB, RICHARD](../contributors/leibrichard.md) |    2012 | $1,000         | Former Chair of UC Regents; documented Zionist advocate and supporter of Israel causes. |
 
-### Zionist Direct Contributions
+### Israel lobby direct contributions
 
 | Contributor                                                                                                              | Years     | Total Amount   | Relationship to Israel                                                                                 |
 |--------------------------------------------------------------------------------------------------------------------------|-----------|----------------|--------------------------------------------------------------------------------------------------------|
