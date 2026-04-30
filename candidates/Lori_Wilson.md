@@ -18,5 +18,5 @@ No Israel lobby federal contributions identified.
 
 | Contributor                                             | Years     | Total Amount   | Relationship to Israel                                                                               |
 |---------------------------------------------------------|-----------|----------------|------------------------------------------------------------------------------------------------------|
-| [Fisher, Robert J.](../contributors/fisherrobert.md)   | 2021-2025 | $8,500         | A prominent donor whose family network has documented ties to pro-Israel organizations and Zionist advocacy, including significant financial support to Birthright Israel, involvement with the Koret Foundation, and contributions to pro-Israel political candidates and anti-delegitimization efforts. |
-| [Fisher, William S.](../contributors/fisherwilliam.md) | 2021      | $1,000         | A prominent Zionist donor with significant financial commitments to pro-Israel advocacy. |
+| [Fisher, Robert J.](../contributors/fisherrobert.md) | 2021-2025 | $8,500 | A prominent donor whose family network has documented ties to pro-Israel organizations and Zionist advocacy, including significant financial support to Birthright Israel, involvement with the Koret Foundation, and contributions to pro-Israel political candidates and anti-delegitimization efforts. |
+| [Fisher, William S.](../contributors/fisherwilliam.md) | 2021 | $1,000 | A prominent Zionist donor with significant financial commitments to pro-Israel advocacy. |

@@ -16,5 +16,5 @@ No Israel lobby federal contributions identified.
 
 | Contributor                                     | Years     | Total Amount   | Relationship to Israel                                                                                 |
 |-------------------------------------------------|-----------|----------------|--------------------------------------------------------------------------------------------------------|
-| [Fisher, John](../contributors/fisherjohn.md)   | 2021-2025 | $2,500         | A major donor to AIPAC and Birthright Israel Foundation, who also leverages family foundations to support Zionist identity programming and anti-BDS initiatives. |
-| [Fisher, Doris](../contributors/dorisfisher.md) | 2021      | $1,500         | A prominent donor, through family entities and philanthropic funds, supports pro-Israel advocacy and Israeli institutions via partnerships with the Koret Foundation, contributions to Birthright Israel and AIPAC, and the funding of Israeli political figures. |
+| [Fisher, John](../contributors/fisherjohn.md) | 2021-2025 | $2,500 | A major donor to AIPAC and Birthright Israel Foundation, who also leverages family foundations to support Zionist identity programming and anti-BDS initiatives. |
+| [Fisher, Doris](../contributors/dorisfisher.md) | 2021 | $1,500 | A prominent donor, through family entities and philanthropic funds, supports pro-Israel advocacy and Israeli institutions via partnerships with the Koret Foundation, contributions to Birthright Israel and AIPAC, and the funding of Israeli political figures. |

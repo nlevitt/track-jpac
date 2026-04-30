@@ -16,4 +16,4 @@ No Israel lobby federal contributions identified.
 
 | Contributor                                     |   Years | Total Amount   | Relationship to Israel                                                                  |
 |-------------------------------------------------|---------|----------------|-----------------------------------------------------------------------------------------|
-| [Leib, Richard](../contributors/leibrichard.md) |    2023 | $250           | A prominent advocate for Zionist causes, they actively used their position as a UC Regent to oppose anti-Zionist activities and maintain ties with pro-Israel organizations. |
+| [Leib, Richard](../contributors/leibrichard.md) | 2023 | $250 | A prominent advocate for Zionist causes, they actively used their position as a UC Regent to oppose anti-Zionist activities and maintain ties with pro-Israel organizations. |

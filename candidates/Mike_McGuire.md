@@ -7,7 +7,7 @@
 Mike McGuire is a California State Senator representing District 2. He is currently seeking election to the U.S. House of Representatives for California's 1st Congressional District in both a special election and the regularly scheduled election, and is from Healdsburg, California.
 
 Analyzed on: 2026-04-27 16:31:12  
-**Total Israel lobby contributions:** $0  
+**Total Israel lobby contributions:** $53,500  
 **Total Israel lobby indirect contributions:** $53,500  
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
@@ -16,7 +16,7 @@ Analyzed on: 2026-04-27 16:31:12
 
 | Contributor                                              | Years     | Total Amount   | Relationship to Israel   |
 |----------------------------------------------------------|-----------|----------------|--------------------------|
-| [Gordon Blumenfeld](../contributors/blumenfeldgordon.md) | 2021-2024 | $53,500        | Consistent donor to Zionist-affiliated institutions and the Jewish Community Federation, which advocates for and financially supports Israel. |
+| [Gordon Blumenfeld](../contributors/blumenfeldgordon.md) | 2021-2024 | $53,500 | Consistent donor to Zionist-affiliated institutions and the Jewish Community Federation, which advocates for and financially supports Israel. |
 
 
 Search returned no candidate results on SOS PowerSearch.

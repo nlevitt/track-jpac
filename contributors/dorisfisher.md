@@ -44,18 +44,18 @@ Doris Fisher and the Doris & Donald Fisher Fund have a long history of supportin
 | Candidate                                                                   | Years     | Direct Contributions   | Behested Payments   |
 |-----------------------------------------------------------------------------|-----------|------------------------|---------------------|
 | [Scott Wiener](../candidates/Scott_Wiener.md)                               | 2015-2019 | $17,800                | $0                  |
-| [Anna Caballero](../candidates/Anna_Caballero.md)                           | 2015-2017 | $16,500                | $0                  |
+| [Anna Caballero](../candidates/Anna_Caballero.md)                           | 2015-2021 | $16,500                | $0                  |
 | [Ben Allen](../candidates/Ben_Allen.md)                                     | 2017-2019 | $15,000                | $0                  |
 | [Blanca Rubio](../candidates/Blanca_Rubio.md)                               | 2017-2021 | $12,100                | $0                  |
 | [Marc Berman](../candidates/Marc_Berman.md)                                 | 2017-2021 | $9,900                 | $0                  |
 | [Monique Limón](../candidates/Monique_Limón.md)                             | 2017-2021 | $9,700                 | $0                  |
 | [Henry Stern](../candidates/Henry_Stern.md)                                 | 2015-2017 | $9,600                 | $0                  |
-| [Robert Rivas](../candidates/Robert_Rivas.md)                               | 2017      | $9,400                 | $0                  |
+| [Robert Rivas](../candidates/Robert_Rivas.md)                               | 2017-2021 | $9,400                 | $0                  |
 | [Buffy Wicks](../candidates/Buffy_Wicks.md)                                 | 2017      | $8,800                 | $0                  |
 | [Josh Becker](../candidates/Josh_Becker.md)                                 | 2021      | $7,700                 | $0                  |
 | [Megan Dahle](../candidates/Megan_Dahle.md)                                 | 2019      | $7,200                 | $0                  |
 | [Christopher Cabaldon](../candidates/Christopher_Cabaldon.md)               | 2007      | $7,200                 | $0                  |
-| [Tim Grayson](../candidates/Tim_Grayson.md)                                 | 2017      | $6,900                 | $0                  |
+| [Tim Grayson](../candidates/Tim_Grayson.md)                                 | 2017-2021 | $6,900                 | $0                  |
 | [Susan Rubio](../candidates/Susan_Rubio.md)                                 | 2019-2021 | $6,000                 | $0                  |
 | [Jesse Gabriel](../candidates/Jesse_Gabriel.md)                             | 2017-2021 | $5,500                 | $0                  |
 | [Cottie Petrie-Norris](../candidates/Cottie_Petrie-Norris.md)               | 2019-2021 | $5,500                 | $0                  |

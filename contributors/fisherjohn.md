@@ -30,7 +30,7 @@ Beyond Israel-specific organizations, Fisher is a prolific donor to the Republic
 | Candidate                                                                   | Years     | Direct Contributions   | Behested Payments   |
 |-----------------------------------------------------------------------------|-----------|------------------------|---------------------|
 | [Scott Wiener](../candidates/Scott_Wiener.md)                               | 2015-2021 | $18,950                | $0                  |
-| [Anna Caballero](../candidates/Anna_Caballero.md)                           | 2015-2017 | $16,000                | $0                  |
+| [Anna Caballero](../candidates/Anna_Caballero.md)                           | 2015-2023 | $16,000                | $0                  |
 | [Ben Allen](../candidates/Ben_Allen.md)                                     | 2013-2017 | $12,900                | $0                  |
 | [Tim Grayson](../candidates/Tim_Grayson.md)                                 | 2015-2023 | $12,600                | $0                  |
 | [Henry Stern](../candidates/Henry_Stern.md)                                 | 2015-2017 | $9,600                 | $0                  |
@@ -42,7 +42,7 @@ Beyond Israel-specific organizations, Fisher is a prolific donor to the Republic
 | [Marc Berman](../candidates/Marc_Berman.md)                                 | 2017      | $5,400                 | $0                  |
 | [Brian Jones](../candidates/Brian_Jones.md)                                 | 2021-2023 | $4,500                 | $0                  |
 | [Thomas Lackey](../candidates/Thomas_Lackey.md)                             | 2015      | $4,200                 | $0                  |
-| [James Gallagher](../candidates/James_Gallagher.md)                         | 2023      | $4,000                 | $0                  |
+| [James Gallagher](../candidates/James_Gallagher.md)                         | 2023-2025 | $4,000                 | $0                  |
 | [Blanca Rubio](../candidates/Blanca_Rubio.md)                               | 2023      | $3,000                 | $0                  |
 | [Rosilicie Ochoa Bogh](../candidates/Rosilicie_Ochoa_Bogh.md)               | 2021-2023 | $3,000                 | $0                  |
 | [Blanca Pacheco](../candidates/Blanca_Pacheco.md)                           | 2023      | $3,000                 | $0                  |

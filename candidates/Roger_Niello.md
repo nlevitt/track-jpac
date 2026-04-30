@@ -7,7 +7,7 @@
 Roger Niello is the incumbent State Senator for California's 6th District, representing portions of Sacramento and Placer counties, and is seeking re-election to that office in the June 2, 2026 primary. He resides in Fair Oaks, California.
 
 Analyzed on: 2026-04-27 16:32:03  
-**Total Israel lobby contributions:** $0  
+**Total Israel lobby contributions:** $36,444  
 **Total Israel lobby indirect contributions:** $36,444  
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
@@ -16,7 +16,7 @@ Analyzed on: 2026-04-27 16:32:03
 
 | Contributor                                                                   |   Years | Total Amount   | Relationship to Israel                                    |
 |-------------------------------------------------------------------------------|---------|----------------|-----------------------------------------------------------|
-| [Akin Gump Strauss Hauer & Feld](../contributors/akinfeldgumphauerstrauss.md) |    2011 | $36,444        | Serves as a major advocate for pro-Israel interests, demonstrated by its extensive lobbying, strategic partnerships with prominent pro-Israel organizations, influential personnel, and political contributions. |
+| [Akin Gump Strauss Hauer & Feld](../contributors/akinfeldgumphauerstrauss.md) | 2011 | $36,444 | Serves as a major advocate for pro-Israel interests, demonstrated by its extensive lobbying, strategic partnerships with prominent pro-Israel organizations, influential personnel, and political contributions. |
 
 No Israel lobby federal contributions identified.
 

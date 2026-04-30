@@ -7,7 +7,7 @@
 Angelique Ashby is the Senate Majority Leader and a California State Senator representing District 8. She is from Sacramento and is seeking re-election to the State Senate for District 8.
 
 Analyzed on: 2026-04-27 16:28:58  
-**Total Israel lobby contributions:** $8,500  
+**Total Israel lobby contributions:** $18,500  
 **Total Israel lobby indirect contributions:** $10,000  
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
@@ -16,7 +16,7 @@ Analyzed on: 2026-04-27 16:28:58
 
 | Contributor                                            |   Years | Total Amount   | Relationship to Israel                    |
 |--------------------------------------------------------|---------|----------------|-------------------------------------------|
-| [Koret Foundation](../contributors/foundationkoret.md) |    2024 | $10,000        | The foundation identifies support for Israel as a core pillar of its grantmaking, funding numerous pro-Israel advocacy groups and Israeli institutions, and is led by individuals with strong Zionist advocacy backgrounds. |
+| [Koret Foundation](../contributors/foundationkoret.md) | 2024 | $10,000 | The foundation identifies support for Israel as a core pillar of its grantmaking, funding numerous pro-Israel advocacy groups and Israeli institutions, and is led by individuals with strong Zionist advocacy backgrounds. |
 
 No Israel lobby federal contributions identified.
 
@@ -24,4 +24,4 @@ No Israel lobby federal contributions identified.
 
 | Contributor                                           | Years     | Total Amount   | Relationship to Israel                                                                               |
 |-------------------------------------------------------|-----------|----------------|------------------------------------------------------------------------------------------------------|
-| [Fisher, Robert J.](../contributors/fisherrobert.md) | 2023-2025 | $8,500         | A prominent donor whose family network has documented ties to pro-Israel organizations and Zionist advocacy, including significant financial support to Birthright Israel, involvement with the Koret Foundation, and contributions to pro-Israel political candidates and anti-delegitimization efforts. |
+| [Fisher, Robert J.](../contributors/fisherrobert.md) | 2023-2025 | $8,500 | A prominent donor whose family network has documented ties to pro-Israel organizations and Zionist advocacy, including significant financial support to Birthright Israel, involvement with the Koret Foundation, and contributions to pro-Israel political candidates and anti-delegitimization efforts. |
