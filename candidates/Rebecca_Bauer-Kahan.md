@@ -7,8 +7,8 @@
 Rebecca Bauer-Kahan is a member of the California State Assembly, representing District 16. She is running for re-election to the same office in the primary on June 2, 2026, and is from Orinda, California.
 
 Analyzed on: 2026-04-26 12:47:42  
-**Total Israel lobby contributions:** $29,150  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $29,150
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

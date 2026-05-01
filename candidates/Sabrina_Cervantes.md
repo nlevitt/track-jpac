@@ -7,8 +7,8 @@
 Sabrina Cervantes is a Democratic member of the California State Senate, representing District 31. She assumed office on December 2, 2024, and her current term concludes on December 4, 2028. Cervantes resides in Riverside County, California, where she was also born and raised.
 
 Analyzed on: 2026-04-26 12:41:09  
-**Total Israel lobby contributions:** $6,500  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $6,500
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

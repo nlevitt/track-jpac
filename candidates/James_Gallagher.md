@@ -7,8 +7,8 @@
 James Gallagher is a Republican who represents California's 3rd Assembly District. He is currently seeking election to the U.S. House to represent California's 1st Congressional District. He is from Yuba City, California and lives in Sutter County.
 
 Analyzed on: 2026-04-26 12:45:28  
-**Total Israel lobby contributions:** $4,000  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $4,000
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

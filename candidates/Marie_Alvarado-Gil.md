@@ -7,8 +7,8 @@
 Marie Alvarado-Gil is the current State Senator for California's 4th District, having assumed office on December 5, 2022. She is a native Californian from Amador County and is currently seeking re-election to the same seat in the June 2, 2026, primary election.
 
 Analyzed on: 2026-04-26 12:35:49  
-**Total Israel lobby contributions:** $0  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $0
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

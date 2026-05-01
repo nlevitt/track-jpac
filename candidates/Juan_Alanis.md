@@ -5,8 +5,8 @@
 Juan Alanis is a member of the California State Assembly, representing District 22. He is seeking re-election for the same seat in the June 2, 2026, primary and is from Modesto, California.
 
 Analyzed on: 2026-04-26 12:49:36  
-**Total Israel lobby contributions:** $1,500  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $1,500
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

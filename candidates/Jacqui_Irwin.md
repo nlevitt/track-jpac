@@ -7,8 +7,8 @@
 Jacqui Irwin is a current California State Assemblymember for District 42, with her term concluding in December 2026. She is campaigning for election to the U.S. House to represent California's 26th Congressional District in the June 2, 2026 primary. Irwin is from Los Angeles, California, and previously served as Mayor of Thousand Oaks.
 
 Analyzed on: 2026-04-26 12:52:55  
-**Total Israel lobby contributions:** $23,000  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $23,000
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

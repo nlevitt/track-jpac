@@ -7,8 +7,8 @@
 Cottie Petrie-Norris is a Democratic member of the California State Assembly, representing District 73. She is from San Diego, California, and resides in Irvine. She is seeking re-election for the same office in the June 2, 2026 primary election.
 
 Analyzed on: 2026-04-26 12:57:01  
-**Total Israel lobby contributions:** $23,000  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $23,000
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

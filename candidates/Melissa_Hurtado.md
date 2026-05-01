@@ -7,8 +7,8 @@
 Melissa Hurtado is a Democratic member of the California State Senate, representing District 16. She is seeking re-election to the same seat in the June 2, 2026 primary election and is from Sanger, California, in the Central Valley.
 
 Analyzed on: 2026-04-26 12:39:04  
-**Total Israel lobby contributions:** $4,500  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $4,500
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

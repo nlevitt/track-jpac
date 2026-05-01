@@ -7,8 +7,8 @@
 Dave Cortese is a California State Senator representing District 15, which encompasses much of Santa Clara County, and is from San Jose, California. He is currently seeking the office of California Attorney General in 2026.
 
 Analyzed on: 2026-04-26 12:38:45  
-**Total Israel lobby contributions:** $3,000  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $3,000
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

@@ -7,8 +7,8 @@
 Tom Umberg currently serves as a California State Senator for District 34. He is also a candidate for the California State Board of Equalization, District 4, and is from Orange County, California.
 
 Analyzed on: 2026-04-26 12:41:40  
-**Total Israel lobby contributions:** $0  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $0
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

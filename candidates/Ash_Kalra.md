@@ -7,8 +7,8 @@
 Ash Kalra is a California State Assemblymember representing District 25 and is seeking re-election for the same office in the June 2, 2026 primary election. He resides in San Jose, California.
 
 Analyzed on: 2026-04-26 12:50:45  
-**Total Israel lobby contributions:** $0  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $0
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

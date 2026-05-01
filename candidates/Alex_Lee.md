@@ -7,8 +7,8 @@
 Alex Lee is a member of the California State Assembly, representing District 24. He is seeking re-election to the California State Assembly for District 24 in the 2026 election, with the primary on June 2, 2026. Lee is from San Jose, California.
 
 Analyzed on: 2026-04-26 12:50:39  
-**Total Israel lobby contributions:** $0  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $0
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

@@ -7,8 +7,8 @@
 Joe Patterson is currently a Republican State Assemblymember for District 5. He was born and raised in Napa, California, and is seeking re-election to represent District 5 in the primary on June 2, 2026.
 
 Analyzed on: 2026-04-26 12:46:12  
-**Total Israel lobby contributions:** $0  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $0
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

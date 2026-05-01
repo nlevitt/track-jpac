@@ -7,8 +7,8 @@
 Dawn Addis is a member of the California State Assembly, representing District 30. She is seeking re-election to the same office in the June 2, 2026, primary election and is from Morro Bay.
 
 Analyzed on: 2026-04-26 12:51:24  
-**Total Israel lobby contributions:** $26,700  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $26,700
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

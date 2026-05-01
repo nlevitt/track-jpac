@@ -7,8 +7,8 @@
 Kelly Seyarto is a member of the California State Senate, representing District 32. She is currently running for re-election to the California State Senate, District 32, in the primary on June 2, 2026. Seyarto is from Murrieta, California.
 
 Analyzed on: 2026-04-26 12:41:14  
-**Total Israel lobby contributions:** $0  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $0
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

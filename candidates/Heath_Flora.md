@@ -7,8 +7,8 @@
 Heath Flora is the current State Assemblymember for California's 9th District and serves as the Assembly Republican Leader. He is seeking re-election to the same office in 2026 and is from Ripon, California.
 
 Analyzed on: 2026-04-26 12:46:51  
-**Total Israel lobby contributions:** $5,500  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $5,500
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

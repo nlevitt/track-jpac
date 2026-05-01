@@ -7,8 +7,8 @@
 Kate Sanchez is the State Assembly Member for California's 71st District, having assumed office in December 2022. She is seeking re-election to the same office in the June 2026 primary and November 2026 general election, and her family has resided in the 71st Assembly District for over 30 years.
 
 Analyzed on: 2026-04-26 12:56:49  
-**Total Israel lobby contributions:** $0  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $0
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

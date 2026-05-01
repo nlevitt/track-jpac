@@ -7,8 +7,8 @@
 Anamarie Avila Farias is a member of the California State Assembly, representing District 15, and is seeking re-election to the same office in 2026. She represents communities in Contra Costa County and the East Bay.
 
 Analyzed on: 2026-04-26 12:47:38  
-**Total Israel lobby contributions:** $0  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $0
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

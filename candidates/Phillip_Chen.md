@@ -7,8 +7,8 @@
 Phillip Chen is currently a Republican State Assemblymember for District 59, which encompasses parts of Orange and San Bernardino counties. He is from El Monte, California, and is seeking re-election for the same district in the primary election on June 2, 2026.
 
 Analyzed on: 2026-04-26 12:55:18  
-**Total Israel lobby contributions:** $0  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $0
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

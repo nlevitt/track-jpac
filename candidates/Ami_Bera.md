@@ -7,8 +7,8 @@
 Ami Bera is a U.S. Representative for California's 6th Congressional District from Sacramento County. He is seeking re-election in California's newly redrawn 3rd Congressional District in the 2026 election.
 
 Analyzed on: 2026-04-30 15:50:30  
-**Total Israel lobby contributions:** $0  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $0
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

@@ -7,8 +7,8 @@
 Megan Dahle is a member of the California State Senate, representing District 1, having assumed office in December 2024. She is from Fall River Mills, California, and resides in Bieber, California.
 
 Analyzed on: 2026-04-26 12:35:17  
-**Total Israel lobby contributions:** $9,700  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $9,700
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

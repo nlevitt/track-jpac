@@ -5,8 +5,8 @@
 Nicholas Schultz is a member of the California State Assembly representing District 44, a position he assumed in December 2024. He is also the Chair of the Assembly Public Safety Committee. Schultz is from Burbank and is seeking re-election to the State Assembly for District 44 in the June 2026 primary.
 
 Analyzed on: 2026-04-26 12:34:04  
-**Total Israel lobby contributions:** $0  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $0
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

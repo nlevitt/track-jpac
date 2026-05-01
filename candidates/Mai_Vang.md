@@ -7,8 +7,8 @@
 Mai Vang is a Sacramento City Councilmember for District 8, a position she has held since 2020. She is also a candidate for the U.S. House of Representatives for California's 7th Congressional District in the 2026 election, and she is a Sacramento native.
 
 Analyzed on: 2026-04-30 15:51:50  
-**Total Israel lobby contributions:** $0  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $0
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

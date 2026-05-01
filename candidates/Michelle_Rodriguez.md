@@ -7,8 +7,8 @@
 Michelle Rodriguez is the Assemblymember for California's 53rd District, a position she assumed on December 2, 2024. She is from Ontario, California, and is seeking re-election for the 53rd District in the primary on June 2, 2026.
 
 Analyzed on: 2026-04-26 12:54:30  
-**Total Israel lobby contributions:** $0  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $0
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

@@ -5,8 +5,8 @@
 Suzette Martinez Valladares is a member of the California State Senate, representing District 23. She assumed office on December 2, 2024, and her current term ends on December 4, 2028. She is from Santa Clarita, CA.
 
 Analyzed on: 2026-04-26 12:40:31  
-**Total Israel lobby contributions:** $4,000  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $4,000
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

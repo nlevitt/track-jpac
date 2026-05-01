@@ -7,8 +7,8 @@
 Pilar Schiavo is a member of the California State Assembly, representing District 40. She is seeking re-election to the California State Assembly for District 40 in the upcoming 2026 election and lives in Chatsworth.
 
 Analyzed on: 2026-04-26 12:52:33  
-**Total Israel lobby contributions:** $0  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $0
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

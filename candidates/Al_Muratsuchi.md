@@ -7,8 +7,8 @@
 Al Muratsuchi is currently a California State Assemblymember representing District 66. He is also seeking election for California Superintendent of Public Instruction in the June 2026 primary. Muratsuchi represents and resides in the Los Angeles South Bay area, including Torrance.
 
 Analyzed on: 2026-04-26 12:56:02  
-**Total Israel lobby contributions:** $6,500  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $6,500
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

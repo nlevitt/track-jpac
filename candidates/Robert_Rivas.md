@@ -7,8 +7,8 @@
 Robert Rivas is the current Speaker of the California State Assembly, representing District 29. He is seeking re-election for his Assembly seat in the June 2026 primary and lives in Hollister, California.
 
 Analyzed on: 2026-04-26 12:51:18  
-**Total Israel lobby contributions:** $48,900  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $48,900
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

@@ -7,8 +7,8 @@
 Cecilia Aguiar-Curry is the Assembly Majority Leader for California's 4th Assembly District and is seeking re-election for the same seat. She is from Winters, California.
 
 Analyzed on: 2026-04-26 12:45:47  
-**Total Israel lobby contributions:** $14,000  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $14,000
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

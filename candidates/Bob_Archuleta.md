@@ -7,8 +7,8 @@
 Bob Archuleta is the State Senator for California's 30th District and is seeking re-election to the same office in 2026. He is a former mayor of Pico Rivera.
 
 Analyzed on: 2026-04-26 12:41:03  
-**Total Israel lobby contributions:** $0  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $0
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

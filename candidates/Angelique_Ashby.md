@@ -7,8 +7,8 @@
 Angelique Ashby is the Senate Majority Leader and a California State Senator representing District 8. She is from Sacramento and is seeking re-election to the State Senate for District 8.
 
 Analyzed on: 2026-04-27 16:28:58  
-**Total Israel lobby contributions:** $18,500  
-**Total Israel lobby indirect contributions:** $10,000  
+**Total Israel lobby contributions:** $8,500
+**Total Israel lobby indirect contributions:** $10,000
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

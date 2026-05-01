@@ -5,8 +5,8 @@
 Eduardo Martinez is the Mayor of Richmond, California, and is seeking re-election as Mayor in the June 2, 2026, primary election. He is from Dumas, Texas.
 
 Analyzed on: 2026-04-30 23:39:17  
-**Total Israel lobby contributions:** $3,000  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $3,000
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

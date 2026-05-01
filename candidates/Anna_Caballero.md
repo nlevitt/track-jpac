@@ -7,8 +7,8 @@
 Anna Caballero is a member of the California State Senate, representing District 14. She is a candidate for California State Treasurer in the June 2, 2026 primary election and lives in Salinas, California.
 
 Analyzed on: 2026-04-26 12:38:10  
-**Total Israel lobby contributions:** $76,900  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $76,900
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

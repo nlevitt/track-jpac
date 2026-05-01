@@ -5,8 +5,8 @@
 Ahmad Anderson is a candidate for Mayor of Richmond, California, in the June 2, 2026 primary election. He is a lifelong resident of Richmond, California.
 
 Analyzed on: 2026-04-30 23:26:30  
-**Total Israel lobby contributions:** $650  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $650
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

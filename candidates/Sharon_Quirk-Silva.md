@@ -7,8 +7,8 @@
 Sharon Quirk-Silva is a member of the California State Assembly, representing District 67. She is from Fullerton and is term-limited from the Assembly in 2026.
 
 Analyzed on: 2026-04-26 12:56:11  
-**Total Israel lobby contributions:** $1,500  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $1,500
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

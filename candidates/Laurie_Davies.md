@@ -7,8 +7,8 @@
 Laurie Davies is the incumbent State Assemblymember for California's 74th District. She is seeking re-election in the primary on June 2, 2026, and is from Laguna Niguel, California.
 
 Analyzed on: 2026-04-26 12:57:06  
-**Total Israel lobby contributions:** $1,500  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $1,500
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

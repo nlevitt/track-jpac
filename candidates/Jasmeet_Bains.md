@@ -7,8 +7,8 @@
 Jasmeet Bains is a member of the California State Assembly for the 35th district, serving since 2022. She is currently running for election to the U.S. House to represent California's 22nd Congressional District and is from Delano, California.
 
 Analyzed on: 2026-04-26 12:51:57  
-**Total Israel lobby contributions:** $0  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $0
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

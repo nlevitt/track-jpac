@@ -7,8 +7,8 @@
 Josh Becker is currently a California State Senator representing District 13, which includes most of San Mateo County and the northern part of Santa Clara County. He was re-elected in November 2024 and his current term ends in December 2028. He resides in Menlo Park.
 
 Analyzed on: 2026-04-27 16:30:21  
-**Total Israel lobby contributions:** $123,400  
-**Total Israel lobby indirect contributions:** $50,000  
+**Total Israel lobby contributions:** $73,400
+**Total Israel lobby indirect contributions:** $50,000
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

@@ -7,8 +7,8 @@
 Monique Limón is the California Senate President pro Tempore and represents State Senate District 21. She was born and raised in Santa Barbara, California.
 
 Analyzed on: 2026-04-26 12:33:59  
-**Total Israel lobby contributions:** $14,285  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $14,285
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

@@ -7,8 +7,8 @@
 Lena Gonzalez is a member of the California State Senate, representing District 33. She resides in Long Beach, California.
 
 Analyzed on: 2026-04-26 12:41:35  
-**Total Israel lobby contributions:** $3,000  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $3,000
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

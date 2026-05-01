@@ -7,8 +7,8 @@
 Natasha Johnson is a member of the California State Assembly, representing the 63rd district, having assumed office in September 2025. She previously served on the Lake Elsinore City Council, including three terms as mayor. Johnson is seeking re-election to the California State Assembly for District 63 in the June 2, 2026 primary.
 
 Analyzed on: 2026-04-26 12:55:46  
-**Total Israel lobby contributions:** $0  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $0
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

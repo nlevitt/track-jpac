@@ -7,8 +7,8 @@
 Maggy Krell is a Democratic Assemblymember for California's 6th District, representing Sacramento and surrounding communities. She is seeking re-election to this office in the June 2026 primary.
 
 Analyzed on: 2026-04-26 12:46:29  
-**Total Israel lobby contributions:** $16,900  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $16,900
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

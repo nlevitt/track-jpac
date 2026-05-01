@@ -7,8 +7,8 @@
 Rhodesia Ransom is a member of the California State Assembly for the 13th district. She is seeking re-election for this office in the June 2, 2026 primary, and she grew up in San Francisco.
 
 Analyzed on: 2026-04-26 12:47:29  
-**Total Israel lobby contributions:** $0  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $0
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

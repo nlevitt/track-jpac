@@ -7,8 +7,8 @@
 Roger Niello is the incumbent State Senator for California's 6th District, representing portions of Sacramento and Placer counties, and is seeking re-election to that office in the June 2, 2026 primary. He resides in Fair Oaks, California.
 
 Analyzed on: 2026-04-27 16:32:03  
-**Total Israel lobby contributions:** $36,444  
-**Total Israel lobby indirect contributions:** $36,444  
+**Total Israel lobby contributions:** $0
+**Total Israel lobby indirect contributions:** $36,444
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

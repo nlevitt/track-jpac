@@ -7,8 +7,8 @@
 Lola Smallwood-Cuevas is a California State Senator representing District 28, which includes communities in Los Angeles. She is currently seeking re-election to her seat in the California State Senate in the June 2, 2026 primary election.
 
 Analyzed on: 2026-04-26 12:40:57  
-**Total Israel lobby contributions:** $0  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $0
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

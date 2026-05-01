@@ -7,8 +7,8 @@
 Christopher Cabaldon is a member of the California State Senate, representing District 3. He assumed office on December 2, 2024, and his current term concludes on December 4, 2028. He is from West Sacramento, California.
 
 Analyzed on: 2026-04-26 12:35:36  
-**Total Israel lobby contributions:** $39,500  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $39,500
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

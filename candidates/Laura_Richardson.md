@@ -7,8 +7,8 @@
 Laura Richardson is a member of the California State Senate, representing District 35. She was born in Los Angeles, California, and lives in San Pedro.
 
 Analyzed on: 2026-04-26 12:42:03  
-**Total Israel lobby contributions:** $1,500  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $1,500
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

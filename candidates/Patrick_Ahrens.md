@@ -7,8 +7,8 @@
 Patrick Ahrens is a California State Assemblymember representing District 26, having assumed office on December 2, 2024. He is currently seeking re-election to represent District 26 and is from Sunnyvale, California.
 
 Analyzed on: 2026-04-26 12:50:50  
-**Total Israel lobby contributions:** $11,400  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $11,400
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

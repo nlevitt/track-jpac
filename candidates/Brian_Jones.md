@@ -7,8 +7,8 @@
 Brian Jones is a member of the California State Senate, representing District 40, and serves as the Senate Minority Leader. He is from Santee, California, and will not appear on the ballot for Lieutenant Governor in the June 2, 2026 primary election.
 
 Analyzed on: 2026-04-26 12:43:51  
-**Total Israel lobby contributions:** $4,500  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $4,500
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 

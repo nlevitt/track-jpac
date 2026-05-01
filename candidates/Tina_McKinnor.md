@@ -7,8 +7,8 @@
 Tina McKinnor is currently a California State Assemblymember for District 61 and is seeking re-election to the same office in the June 2, 2026 primary election. She is from Los Angeles County.
 
 Analyzed on: 2026-04-26 13:17:17  
-**Total Israel lobby contributions:** $0  
-**Total Israel lobby indirect contributions:** $0  
+**Total Israel lobby contributions:** $0
+**Total Israel lobby indirect contributions:** $0
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
