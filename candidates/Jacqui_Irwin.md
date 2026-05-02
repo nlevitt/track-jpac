@@ -2,25 +2,34 @@
 
 <img src="https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD44_Irwin_Portrait150_20141201.jpg" alt="Photo of Jacqui Irwin" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
+
 **Role:** State Assemblymember, District 42; Candidate for U.S. House, California's 26th Congressional District
 
 Jacqui Irwin is a current California State Assemblymember for District 42, with her term concluding in December 2026. She is campaigning for election to the U.S. House to represent California's 26th Congressional District in the June 2, 2026 primary. Irwin is from Los Angeles, California, and previously served as Mayor of Thousand Oaks.
 
-Analyzed on: 2026-04-26 12:52:55  
-**Total Israel lobby contributions:** $23,000
-**Total Israel lobby indirect contributions:** $0
+Analyzed on: 2026-05-02 00:47:40  
+**Total Israel lobby contributions:** $27,399  
+**Total Israel lobby indirect contributions:** $0  
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
-No Israel lobby federal contributions identified.
-
 ### Israel lobby direct contributions
 
-| Contributor                                                     | Years     | Total Amount   | Relationship to Israel                                                                                 |
-|-----------------------------------------------------------------|-----------|----------------|--------------------------------------------------------------------------------------------------------|
-| [Fisher, Robert](../contributors/fisherrobert.md) | 2017-2025 | $11,000 | Prominent donor to Zionist and pro-Israel organizations and institutions, including Hebrew University of Jerusalem, Birthright Israel, and the Koret Foundation. |
-| [California Jewish PAC](../contributors/californiajewishpac.md) | 2023-2025 | $5,500 | This political action committee serves as a primary vehicle for pro-Israel and Zionist advocacy and political influence within California state government. |
-| [Fisher, Doris](../contributors/dorisfisher.md) | 2017-2021 | $3,500 | A prominent donor, through family entities and philanthropic funds, supports pro-Israel advocacy and Israeli institutions via partnerships with the Koret Foundation, contributions to Birthright Israel and AIPAC, and the funding of Israeli political figures. |
-| [Fisher, William](../contributors/fisherwilliam.md) | 2017-2021 | $1,500 | A major donor to Birthright Israel and the Jerusalem Foundation, closely associated with the Koret Foundation, a large funder of pro-Israel causes, and a donor to pro-Israel political candidates. |
-| [Leib, Richard](../contributors/leibrichard.md) | 2023-2025 | $1,000 | A prominent advocate for Zionist causes, they actively used their position as a UC Regent to oppose anti-Zionist activities and maintain ties with pro-Israel organizations. |
-| [Fisher, John](../contributors/fisherjohn.md) | 2017 | $500 | A major donor to AIPAC and Birthright Israel Foundation, who also leverages family foundations to support Zionist identity programming and anti-BDS initiatives. |
+| Contributor                                                     | Years     | Total Amount   | Relationship to Israel                                                                                                                                                                                                                                            |
+|-----------------------------------------------------------------|-----------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [California Jewish PAC](../contributors/californiajewishpac.md) | 2023-2025 | $5,500         | This political action committee serves as a primary vehicle for pro-Israel and Zionist advocacy and political influence within California state government.                                                                                                       |
+| Smidt, Susan                                                    | 2021      | $4,900         | Documented significant philanthropist and donor to pro-Israel advocacy organizations like the American Jewish Committee (AJC).                                                                                                                                    |
+| Evan Low for Assembly 2016                                      | 2015      | $4,200         | Member of the CA Legislative Jewish Caucus, he actively promotes California-Israel economic partnerships and has publicly supported Israel.                                                                                                                       |
+| [Fisher, Doris](../contributors/dorisfisher.md)                 | 2017-2021 | $3,500         | A prominent donor, through family entities and philanthropic funds, supports pro-Israel advocacy and Israeli institutions via partnerships with the Koret Foundation, contributions to Birthright Israel and AIPAC, and the funding of Israeli political figures. |
+| [Oracle America Inc.](../contributors/americaincoracle.md)      | 2019-2021 | $3,000         | Maintains significant R&D, operations, and investments in Israel; founder supports pro-Israel causes.                                                                                                                                                             |
+| [Fisher, William](../contributors/fisherwilliam.md)             | 2017-2021 | $1,500         | A major donor to Birthright Israel and the Jerusalem Foundation, closely associated with the Koret Foundation, a large funder of pro-Israel causes, and a donor to pro-Israel political candidates.                                                               |
+| [Leib, Richard](../contributors/leibrichard.md)                 | 2023-2025 | $1,000         | A prominent advocate for Zionist causes, they actively used their position as a UC Regent to oppose anti-Zionist activities and maintain ties with pro-Israel organizations.                                                                                      |
+| [Fisher, Diane](../contributors/dianefisher.md)                 | 2013-2019 | $849           | A major donor to Zionist organizations like the Koret Foundation and Birthright Israel, this individual also held leadership roles in pro-Israel advocacy organizations such as JCRC of Silicon Valley and participated in the Unxeptable movement.               |
+| [Fisher, Sakurako](../contributors/fishersakurako.md)           | 2017      | $500           | A prominent philanthropic leader and political donor who channels support for Israel through family foundations, major Jewish federations, and Zionist advocacy organizations, also contributing to groups supporting a pro-Israel foreign policy.                |
+| [Fisher, Laura](../contributors/fisherlaura.md)                 | 2017      | $500           | A prominent donor to Zionist organizations and pro-Israel causes, including Birthright Israel Foundation, the Koret Foundation, and the Jewish Community Federation, also funds pro-Israel politicians.                                                           |
+| [Fisher, John](../contributors/fisherjohn.md)                   | 2017      | $500           | A major donor to AIPAC and Birthright Israel Foundation, who also leverages family foundations to support Zionist identity programming and anti-BDS initiatives.                                                                                                  |
+| [Oberndorf, William](../contributors/oberndorfwilliam.md)       | 2017      | $500           | Major donor to pro-Israel organizations, including AIPAC.                                                                                                                                                                                                         |
+| [Fisher, Elizabeth](../contributors/elizabethfisherstroud.md)   | 2017      | $500           | A prominent donor to Zionist organizations, including Birthright Israel Foundation, and a key supporter of Jewish communal funds for Israel and domestic pro-Israel advocacy, with ties to the Koret Foundation and influence on a pro-Israel political climate.  |
+| Spieker, Warren                                                 | 2015      | $250           | Significant donor to numerous pro-Israel causes, including AIPAC.                                                                                                                                                                                                 |
+| [Fisher, Barry](../contributors/barryfisher.md)                 | 2013-2021 | $200           | Served as legal counsel for the State of Israel and far-right Zionist groups, with their family being major funders of prominent pro-Israel organizations including AIPAC and Birthright Israel.                                                                  |
+

@@ -2,25 +2,31 @@
 
 <img src="https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/stern.jpg" alt="Photo of Henry Stern" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
+
 **Role:** State Senator, District 27
 
 Henry Stern is a member of the California State Senate, representing District 27. He is from Malibu, California, and resides in Los Angeles, California.
 
-Analyzed on: 2026-04-26 12:40:52  
-**Total Israel lobby contributions:** $61,650
-**Total Israel lobby indirect contributions:** $0
+Analyzed on: 2026-05-02 00:15:08  
+**Total Israel lobby contributions:** $79,550  
+**Total Israel lobby indirect contributions:** $0  
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
-No Israel lobby federal contributions identified.
-
 ### Israel lobby direct contributions
 
-| Contributor                                                                                                              | Years     | Total Amount   | Relationship to Israel                                                                                 |
-|--------------------------------------------------------------------------------------------------------------------------|-----------|----------------|--------------------------------------------------------------------------------------------------------|
-| [Fisher, Robert J.](../contributors/fisherrobert.md) | 2015-2021 | $15,300 | A prominent donor whose family network has documented ties to pro-Israel organizations and Zionist advocacy, including significant financial support to Birthright Israel, involvement with the Koret Foundation, and contributions to pro-Israel political candidates and anti-delegitimization efforts. |
-| [California Jewish PAC](../contributors/californiajewishpac.md) | 2019-2023 | $13,350 | This political action committee serves as a primary vehicle for pro-Israel and Zionist advocacy and political influence within California state government. |
-| [Fisher, Doris F.](../contributors/dorisfisher.md) | 2015-2017 | $9,600 | Major donor to Zionist causes and an early supporter of Birthright Israel, with strong ties to the Koret Foundation and Jewish Community Federation which fund pro-Israel advocacy. |
-| [Fisher, John J.](../contributors/fisherjohn.md) | 2015-2017 | $9,600 | A consistent donor and advocate for pro-Israel advocacy through significant philanthropic contributions to organizations like Birthright Israel and the Koret Foundation, and political funding to support candidates favoring strong U.S.-Israel ties. |
-| [Fisher, William S.](../contributors/fisherwilliam.md) | 2015-2017 | $9,600 | A prominent Zionist donor with significant financial commitments to pro-Israel advocacy. |
-| [California Jewish Legislative Caucus Leadership PAC](../contributors/californiacaucusjewishleadershiplegislativepac.md) | 2015 | $4,200 | The political financing arm of a legislative caucus dedicated to promoting pro-Israel legislation, strengthening California-Israel ties, and countering anti-Zionism. |
+| Contributor                                                                                                              | Years     | Total Amount   | Relationship to Israel                                                                                                                                                                                                                                            |
+|--------------------------------------------------------------------------------------------------------------------------|-----------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Fisher, Elizabeth Stroud](../contributors/elizabethfisherstroud.md)                                                     | 2015-2017 | $13,800        | A prominent donor to Zionist organizations, including Birthright Israel Foundation, and a key supporter of Jewish communal funds for Israel and domestic pro-Israel advocacy, with ties to the Koret Foundation and influence on a pro-Israel political climate.  |
+| [California Jewish PAC](../contributors/californiajewishpac.md)                                                          | 2019-2023 | $13,350        | This political action committee serves as a primary vehicle for pro-Israel and Zionist advocacy and political influence within California state government.                                                                                                       |
+| [Fisher, Laura M.](../contributors/fisherlaura.md)                                                                       | 2015-2017 | $9,600         | A prominent donor to Zionist organizations and pro-Israel causes, including Birthright Israel Foundation, the Koret Foundation, and the Jewish Community Federation, also funds pro-Israel politicians.                                                           |
+| [Fisher, Doris F.](../contributors/dorisfisher.md)                                                                       | 2015-2017 | $9,600         | A prominent donor, through family entities and philanthropic funds, supports pro-Israel advocacy and Israeli institutions via partnerships with the Koret Foundation, contributions to Birthright Israel and AIPAC, and the funding of Israeli political figures. |
+| [Fisher, William S.](../contributors/fisherwilliam.md)                                                                   | 2015-2017 | $9,600         | A major donor to Birthright Israel and the Jerusalem Foundation, closely associated with the Koret Foundation, a large funder of pro-Israel causes, and a donor to pro-Israel political candidates.                                                               |
+| [Fisher, John J.](../contributors/fisherjohn.md)                                                                         | 2015-2017 | $9,600         | A major donor to AIPAC and Birthright Israel Foundation, who also leverages family foundations to support Zionist identity programming and anti-BDS initiatives.                                                                                                  |
+| [Fisher, Sakurako D.](../contributors/fishersakurako.md)                                                                 | 2015-2017 | $5,200         | A prominent philanthropic leader and political donor who channels support for Israel through family foundations, major Jewish federations, and Zionist advocacy organizations, also contributing to groups supporting a pro-Israel foreign policy.                |
+| [California Jewish Legislative Caucus Leadership PAC](../contributors/californiacaucusjewishleadershiplegislativepac.md) | 2015      | $4,200         | The political financing arm of a legislative caucus dedicated to promoting pro-Israel legislation, strengthening California-Israel ties, and countering anti-Zionism.                                                                                             |
+| [Allen, Ben](../contributors/allenben.md)                                                                                | 2013      | $2,000         | California State Senator with a documented record of pro-Israel advocacy, including participating in advocacy trips and serving on the advisory board of the California Israel Chamber of Commerce.                                                               |
+| [Platt, Julie](../contributors/julieplatt.md)                                                                            | 2015      | $1,500         | Leader of The Jewish Federations of North America, an organization with a documented record of active support for Israel and Zionist advocacy.                                                                                                                    |
+| [Oberndorf, William](../contributors/oberndorfwilliam.md)                                                                | 2017      | $1,000         | Major donor to pro-Israel organizations, including AIPAC.                                                                                                                                                                                                         |
+| [Leibman, Abby](../contributors/abbyleibman.md)                                                                          | 2015      | $100           | Leads MAZON, an organization with advocacy programs in Israel, and has a history of involvement with the JCRC, a primary vehicle for Zionist advocacy.                                                                                                            |
+

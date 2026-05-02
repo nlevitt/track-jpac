@@ -1,0 +1,13 @@
+# Contributor Report: Jacob Helberg
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
+Jacob Helberg is an American and French writer, technology advisor, and political donor who has publicly articulated a strong pro-Israel stance as a significant factor in his political activities and donations. Helberg's engagement with pro-Israel advocacy is evident through his stated reasons for shifting political alignment, his financial contributions, and his involvement in international initiatives that include Israel.
+
+Helberg, who identifies as Jewish and whose grandparents were Holocaust survivors, previously donated extensively to Democratic candidates, including President Joe Biden's 2020 campaign. However, he became a top donor to Donald Trump's 2024 reelection campaign, contributing $2 million. Helberg explicitly cited "anti-Israel views among Democrats" and the perceived "growing influence of the anti-Israel left" as primary motivators for his political shift. He has stated that "an organizing principle on the left increasingly became based on a divvying up of the world between oppressors and oppressed," a principle he fundamentally opposes.
+
+He has publicly supported Donald Trump, asserting that "if you support Israel, there's only one choice in this election." Helberg has also criticized American Jews who continue to support Biden, suggesting they "should have their heads examined." He has lauded Trump as "by far the most pro-Israel President in history," highlighting actions such as moving the U.S. embassy to Jerusalem, recognizing the Golan Heights, and facilitating the Abraham Accords as strengthening the U.S.-Israel alliance.
+
+In his professional capacity, Helberg has emphasized the importance of technological collaboration with allies, including Israel. He views the artificial intelligence (AI) capabilities of companies like Palantir as critical for governments in conflict zones, stating that they "can mean the difference between winning and losing on the battlefield." He advocates for a "technological patriotism" within Silicon Valley that benefits allies such as Israel.
+
+As the Under Secretary of State for Economic Growth, Energy, and the Environment in the second Trump administration, Helberg led the launch of the Pax Silica initiative in December 2025. This initiative focuses on building a secure and resilient technology ecosystem. Israel was among the nine countries that signed the Pax Silica Declaration in March 2026. Helberg has also noted observed technological cooperation between Israel and the United Arab Emirates, indicating a pragmatic approach to business collaboration that can compartmentalize political differences.
