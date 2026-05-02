@@ -1,0 +1,10 @@
+# Use the latest version of Minima that supports skins
+remote_theme: jekyll/minima
+
+# Enable the plugin that allows remote themes
+plugins:
+  - jekyll-remote-theme
+
+# Set the skin to "auto" to honor system settings
+minima:
+  skin: auto
