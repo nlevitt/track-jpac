@@ -1,5 +1,5 @@
 # California's Israel Lobby
-Generated on: 2026-05-01 13:04:04  
+Generated on: 2026-05-01 21:11:30  
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*  
 [Methodology and disclaimers](#methodology-and-disclaimers)
 
@@ -46,7 +46,6 @@ Generated on: 2026-05-01 13:04:04
 | [Heath Flora](candidates/Heath_Flora.md)                                 | State Assemblymember, District 9                                                                      | $5,500                       | $0                                    |
 | [Mike Gipson](candidates/Mike_Gipson.md)                                 | State Assemblymember, District 65                                                                     | $5,000                       | $0                                    |
 | [Stephanie Nguyen](candidates/Stephanie_Nguyen.md)                       | California State Assemblymember, District 10                                                          | $4,900                       | $0                                    |
-| [Brandon Evans](candidates/Brandon_Evans.md)                             | Candidate for Richmond City Council, District 3                                                       | $4,885                       | $0                                    |
 | [Rosilicie Ochoa Bogh](candidates/Rosilicie_Ochoa_Bogh.md)               | State Senator, District 19                                                                            | $4,500                       | $0                                    |
 | [Melissa Hurtado](candidates/Melissa_Hurtado.md)                         | State Senator, District 16                                                                            | $4,500                       | $0                                    |
 | [Brian Jones](candidates/Brian_Jones.md)                                 | State Senator, District 40, and Senate Minority Leader                                                | $4,500                       | $0                                    |
@@ -57,7 +56,6 @@ Generated on: 2026-05-01 13:04:04
 | [Catherine Blakespear](candidates/Catherine_Blakespear.md)               | State Senator, District 38                                                                            | $3,500                       | $0                                    |
 | [Lena Gonzalez](candidates/Lena_Gonzalez.md)                             | State Senator, District 33                                                                            | $3,000                       | $0                                    |
 | [Dave Cortese](candidates/Dave_Cortese.md)                               | State Senator, District 15                                                                            | $3,000                       | $0                                    |
-| [Eduardo Martinez](candidates/Eduardo_Martinez.md)                       | Mayor of Richmond                                                                                     | $3,000                       | $0                                    |
 | [Joaquin Arambula](candidates/Joaquin_Arambula.md)                       | State Assemblymember, District 31                                                                     | $2,000                       | $0                                    |
 | [John Harabedian](candidates/John_Harabedian.md)                         | State Assemblymember, District 41                                                                     | $2,000                       | $0                                    |
 | [Lisa Calderon](candidates/Lisa_Calderon.md)                             | State Assemblymember, District 56                                                                     | $1,500                       | $0                                    |
@@ -130,7 +128,7 @@ Generated on: 2026-05-01 13:04:04
 | [Tom Umberg](candidates/Tom_Umberg.md)                       | State Senator, District 34                                    | $0                           | $0                                    |
 | [Tri Ta](candidates/Tri_Ta.md)                               | State Assemblyman, District 70                                | $0                           | $0                                    |
 
-*Unable to find data on the following names: Ami Bera, Demnlus Johnson, Jamin Purcell, Jerry McNerney, Kate Sanchez, Mai Vang, Mike Fong, Tina McKinnor*
+*Unable to find data on the following names: Ami Bera, Brandon Evans, Demnlus Johnson, Eduardo Martinez, Jamin Purcell, Jerry McNerney, Kate Sanchez, Mai Vang, Mike Fong, Tina McKinnor*
 
 ## Methodology and disclaimers
 
