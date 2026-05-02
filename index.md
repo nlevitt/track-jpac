@@ -1,5 +1,5 @@
 # California's Israel Lobby
-Generated on: 2026-04-30 23:51:08  
+Generated on: 2026-05-01 13:04:04  
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*  
 [Methodology and disclaimers](#methodology-and-disclaimers)
 
@@ -46,6 +46,7 @@ Generated on: 2026-04-30 23:51:08
 | [Heath Flora](candidates/Heath_Flora.md)                                 | State Assemblymember, District 9                                                                      | $5,500                       | $0                                    |
 | [Mike Gipson](candidates/Mike_Gipson.md)                                 | State Assemblymember, District 65                                                                     | $5,000                       | $0                                    |
 | [Stephanie Nguyen](candidates/Stephanie_Nguyen.md)                       | California State Assemblymember, District 10                                                          | $4,900                       | $0                                    |
+| [Brandon Evans](candidates/Brandon_Evans.md)                             | Candidate for Richmond City Council, District 3                                                       | $4,885                       | $0                                    |
 | [Rosilicie Ochoa Bogh](candidates/Rosilicie_Ochoa_Bogh.md)               | State Senator, District 19                                                                            | $4,500                       | $0                                    |
 | [Melissa Hurtado](candidates/Melissa_Hurtado.md)                         | State Senator, District 16                                                                            | $4,500                       | $0                                    |
 | [Brian Jones](candidates/Brian_Jones.md)                                 | State Senator, District 40, and Senate Minority Leader                                                | $4,500                       | $0                                    |
@@ -129,7 +130,7 @@ Generated on: 2026-04-30 23:51:08
 | [Tom Umberg](candidates/Tom_Umberg.md)                       | State Senator, District 34                                    | $0                           | $0                                    |
 | [Tri Ta](candidates/Tri_Ta.md)                               | State Assemblyman, District 70                                | $0                           | $0                                    |
 
-*Unable to find data on the following names: Ami Bera, Demnlus Johnson, Jerry McNerney, Kate Sanchez, Mai Vang, Mike Fong, Tina McKinnor*
+*Unable to find data on the following names: Ami Bera, Demnlus Johnson, Jamin Purcell, Jerry McNerney, Kate Sanchez, Mai Vang, Mike Fong, Tina McKinnor*
 
 ## Methodology and disclaimers
 
