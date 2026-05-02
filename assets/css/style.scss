@@ -32,7 +32,7 @@
   }
 
   /* Fix for Broken Images / Alt Text */
-  img {
+  img, .markdown-body img {
     background-color: #0d1117; /* Matches your background */
     color: #c9d1d9;            /* Matches your text color */
   }
