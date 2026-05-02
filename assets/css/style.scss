@@ -1,0 +1,14 @@
+/* This imports the standard GitHub "Primer" style */
+@import "{{ site.theme }}";
+
+/* This adds the Auto Dark Mode logic */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #0d1117; /* GitHub Dark background */
+    color: #c9d1d9;            /* GitHub Dark text */
+  }
+  a { color: #58a6ff; }       /* GitHub Dark links */
+  
+  /* Optional: make code blocks look right in dark mode */
+  pre, code { background-color: #161b22; color: #e6edf3; }
+}
