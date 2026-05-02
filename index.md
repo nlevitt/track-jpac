@@ -1,5 +1,5 @@
 # California's Israel Lobby
-Generated on: 2026-05-01 21:11:30  
+Generated on: 2026-05-01 23:44:02  
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*  
 [Methodology and disclaimers](#methodology-and-disclaimers)
 
@@ -7,6 +7,7 @@ Generated on: 2026-05-01 21:11:30
 
 | Candidate                                                                | Role                                                                                                  | Israel lobby contributions   | Israel lobby indirect contributions   |
 |--------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|------------------------------|---------------------------------------|
+| [Robert Rivas](candidates/Robert_Rivas.md)                               | Speaker of the California State Assembly, District 29                                                 | $115,277                     | $0                                    |
 | [Scott Wiener](candidates/Scott_Wiener.md)                               | State Senator, District 11                                                                            | $100,100                     | $30,000                               |
 | [Ben Allen](candidates/Ben_Allen.md)                                     | State Senator, District 24                                                                            | $88,600                      | $0                                    |
 | [Jesse Gabriel](candidates/Jesse_Gabriel.md)                             | State Assemblymember, District 46                                                                     | $82,650                      | $0                                    |
@@ -15,7 +16,6 @@ Generated on: 2026-05-01 21:11:30
 | [Josh Becker](candidates/Josh_Becker.md)                                 | State Senator, District 13                                                                            | $73,400                      | $50,000                               |
 | [Henry Stern](candidates/Henry_Stern.md)                                 | State Senator, District 27                                                                            | $61,650                      | $0                                    |
 | [Buffy Wicks](candidates/Buffy_Wicks.md)                                 | State Assemblymember, District 14                                                                     | $52,350                      | $0                                    |
-| [Robert Rivas](candidates/Robert_Rivas.md)                               | Speaker of the California State Assembly, District 29                                                 | $48,900                      | $0                                    |
 | [Blanca Rubio](candidates/Blanca_Rubio.md)                               | State Assemblymember, District 48                                                                     | $47,075                      | $0                                    |
 | [Tim Grayson](candidates/Tim_Grayson.md)                                 | State Senator, District 9                                                                             | $46,700                      | $0                                    |
 | [Christopher Cabaldon](candidates/Christopher_Cabaldon.md)               | State Senator, District 3                                                                             | $39,500                      | $0                                    |

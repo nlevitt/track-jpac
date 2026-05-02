@@ -34,6 +34,4 @@ Sakurako Fisher and her husband are prolific donors to the **Republican Party** 
 
 | Candidate                                     | Years     | Direct Contributions   | Behested Payments   |
 |-----------------------------------------------|-----------|------------------------|---------------------|
-| [Marc Berman](../candidates/Marc_Berman.md)   | 2015-2017 | $5,200                 | $0                  |
-| [Robert Rivas](../candidates/Robert_Rivas.md) | 2017      | $2,000                 | $0                  |
-| [Jacqui Irwin](../candidates/Jacqui_Irwin.md) | 2017      | $500                   | $0                  |
+| [Robert Rivas](../candidates/Robert_Rivas.md) | 2017-2019 | $4,000                 | $0                  |

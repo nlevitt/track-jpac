@@ -41,5 +41,4 @@ Fisher’s political influence is channeled through individual donations and the
 
 | Candidate                                     |   Years | Direct Contributions   | Behested Payments   |
 |-----------------------------------------------|---------|------------------------|---------------------|
-| [Marc Berman](../candidates/Marc_Berman.md)   |    2017 | $5,400                 | $0                  |
-| [Jacqui Irwin](../candidates/Jacqui_Irwin.md) |    2017 | $500                   | $0                  |
+| [Robert Rivas](../candidates/Robert_Rivas.md) |    2017 | $6,400                 | $0                  |

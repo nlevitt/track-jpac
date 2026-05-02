@@ -36,6 +36,7 @@ Leib’s relationship with Zionist and pro-Israel causes extends to his philanth
 | Candidate                                                     | Years     | Direct Contributions   | Behested Payments   |
 |---------------------------------------------------------------|-----------|------------------------|---------------------|
 | [John Laird](../candidates/John_Laird.md)                     | 2003-2019 | $2,400                 | $0                  |
+| [Robert Rivas](../candidates/Robert_Rivas.md)                 | 2021-2023 | $2,395                 | $0                  |
 | [Jesse Gabriel](../candidates/Jesse_Gabriel.md)               | 2023-2025 | $1,500                 | $0                  |
 | [Christopher Cabaldon](../candidates/Christopher_Cabaldon.md) | 2001-2023 | $1,500                 | $0                  |
 | [Catherine Blakespear](../candidates/Catherine_Blakespear.md) | 2023-2025 | $1,000                 | $0                  |

@@ -34,6 +34,6 @@ Watchdog groups and labor organizations in California have categorized donors li
 
 ## Supported Candidates
 
-| Candidate                                             |   Years | Direct Contributions   | Behested Payments   |
-|-------------------------------------------------------|---------|------------------------|---------------------|
-| [Stephanie Nguyen](../candidates/Stephanie_Nguyen.md) |    2021 | $4,900                 | $0                  |
+| Candidate                                     | Years     | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------|-----------|------------------------|---------------------|
+| [Robert Rivas](../candidates/Robert_Rivas.md) | 2017-2025 | $34,900                | $0                  |
