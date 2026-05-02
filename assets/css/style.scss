@@ -13,4 +13,21 @@
   
   /* Optional: make code blocks look right in dark mode */
   pre, code { background-color: #161b22; color: #e6edf3; }
+
+  /* Fix for Tables */
+  table th, table td {
+    background-color: #0d1117; /* Matches your body background */
+    border: 1px solid #30363d;  /* Darker border color */
+  }
+
+  /* Fix for striped rows (the "zebra" effect) */
+  table tr:nth-child(2n) td {
+    background-color: #161b22; /* Slightly lighter gray for stripes */
+  }
+
+  /* Header specific styling */
+  table th {
+    background-color: #161b22;
+    font-weight: 600;
+  }
 }
