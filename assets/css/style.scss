@@ -30,4 +30,10 @@
     background-color: #161b22;
     font-weight: 600;
   }
+
+  /* Fix for Broken Images / Alt Text */
+  img {
+    background-color: #0d1117; /* Matches your background */
+    color: #c9d1d9;            /* Matches your text color */
+  }
 }
