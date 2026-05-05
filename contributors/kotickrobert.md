@@ -12,3 +12,13 @@ Robert Kotick's political donations have been made to both Republican and Democr
 
 **Internal Company Narrative:**
 At a company level, an Infinity Ward Co-Founder reportedly claimed that Activision, under Kotick's leadership, had pressured Call of Duty developers to create a game with a narrative involving "Iran invading Israel". This suggestion was met with disgust by the majority of developers according to the co-founder. This indicates a potential pro-Israel thematic interest within the company during his tenure, though it is not a direct personal advocacy action by Kotick as a political donor or lobbyist.
+
+
+## Supported Candidates
+
+| Candidate                                       |   Years | Direct Contributions   | Behested Payments   |
+|-------------------------------------------------|---------|------------------------|---------------------|
+| [Rick Zbur](../candidates/Rick_Zbur.md)         |    2023 | $5,000                 | $0                  |
+| [Josh Becker](../candidates/Josh_Becker.md)     |    2023 | $1,500                 | $0                  |
+| [Mike McGuire](../candidates/Mike_McGuire.md)   |    2023 | $1,500                 | $0                  |
+| [Monique Limón](../candidates/Monique_Limón.md) |    2023 | $1,500                 | $0                  |

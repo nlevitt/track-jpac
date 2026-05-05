@@ -23,6 +23,6 @@ Fisher is frequently documented alongside the **Koret Foundation** in philanthro
 
 ## Supported Candidates
 
-| Candidate    |   Years | Direct Contributions   | Behested Payments   |
-|--------------|---------|------------------------|---------------------|
-| Scott Wiener |    2015 | $249                   | $0                  |
+| Candidate                                     |   Years | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------|---------|------------------------|---------------------|
+| [Scott Wiener](../candidates/Scott_Wiener.md) |    2015 | $249                   | $0                  |

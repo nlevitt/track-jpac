@@ -15,3 +15,13 @@ Oracle executives have also engaged in activities aimed at shaping public opinio
 Internally, Oracle has faced criticism regarding its stance on the Israeli-Palestinian conflict. Reports indicate that Oracle allegedly suppressed pro-Palestinian voices within the company, removed Palestinian aid organizations from its employee charity donation platform, and disciplined or terminated employees for expressing solidarity with Palestinians. Oracle's leadership has communicated that employees not aligned with the company's commitment to Israel may not be a good fit.
 
 Beyond corporate actions, Larry Ellison has also engaged in political influence related to Israel. He was involved in vetting U.S. Secretary of State Marco Rubio for his allegiance to Israel during Rubio's 2016 presidential campaign.
+
+
+## Supported Candidates
+
+| Candidate                                     | Years     | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------|-----------|------------------------|---------------------|
+| [Josh Becker](../candidates/Josh_Becker.md)   | 2021-2025 | $4,000                 | $0                  |
+| [Jacqui Irwin](../candidates/Jacqui_Irwin.md) | 2019-2021 | $3,000                 | $0                  |
+| [Marc Berman](../candidates/Marc_Berman.md)   | 2017      | $2,000                 | $0                  |
+| [Buffy Wicks](../candidates/Buffy_Wicks.md)   | 2025      | $1,500                 | $0                  |

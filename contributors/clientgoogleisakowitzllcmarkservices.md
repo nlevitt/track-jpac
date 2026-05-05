@@ -16,3 +16,11 @@ Specifically:
 *   A Google co-founder reportedly characterized the UN as "transparently antisemitic" in an internal company forum after a UN Special Rapporteur criticized Google for profiting from alleged "genocide in Gaza" through Project Nimbus.
 
 While Google Client Services LLC's lobbying disclosure forms signed by Mark Isakowitz do not explicitly list "Israel" or "pro-Israel advocacy" as lobbying issues, they primarily focus on areas like "Regulation of online advertising" and "Privacy and competition issues in online advertising". However, given Isakowitz's role as Google's VP of Government Affairs and the documented activities of Google (the parent company) directly supporting the Israeli government's messaging and military operations, a relationship to pro-Israel advocacy is evident through these various documented actions.
+
+
+## Supported Candidates
+
+| Candidate                                         | Years     | Direct Contributions   | Behested Payments   |
+|---------------------------------------------------|-----------|------------------------|---------------------|
+| [Anna Caballero](../candidates/Anna_Caballero.md) | 2021-2025 | $17,000                | $0                  |
+| [Jesse Gabriel](../candidates/Jesse_Gabriel.md)   | 2019-2023 | $16,100                | $0                  |

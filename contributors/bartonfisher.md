@@ -47,6 +47,6 @@ The Fisher family (specifically **John**, **Robert**, and **William Fisher**) ar
 
 ## Supported Candidates
 
-| Candidate   |   Years | Direct Contributions   | Behested Payments   |
-|-------------|---------|------------------------|---------------------|
-| John Laird  |    2005 | $200                   | $0                  |
+| Candidate                                 |   Years | Direct Contributions   | Behested Payments   |
+|-------------------------------------------|---------|------------------------|---------------------|
+| [John Laird](../candidates/John_Laird.md) |    2005 | $200                   | $0                  |

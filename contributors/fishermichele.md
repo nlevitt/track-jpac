@@ -44,6 +44,6 @@ The following organizations have been identified as primary recipients of fundin
 
 ## Supported Candidates
 
-| Candidate    |   Years | Direct Contributions   | Behested Payments   |
-|--------------|---------|------------------------|---------------------|
-| Scott Wiener |    2015 | $250                   | $0                  |
+| Candidate                                     |   Years | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------|---------|------------------------|---------------------|
+| [Scott Wiener](../candidates/Scott_Wiener.md) |    2015 | $250                   | $0                  |

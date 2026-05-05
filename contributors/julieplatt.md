@@ -35,6 +35,13 @@ Julie Platt operates at the highest levels of the U.S.-based Israel lobby, combi
 
 ## Supported Candidates
 
-| Candidate                                     |   Years | Direct Contributions   | Behested Payments   |
-|-----------------------------------------------|---------|------------------------|---------------------|
-| [Robert Rivas](../candidates/Robert_Rivas.md) |    2023 | $1,315                 | $0                  |
+| Candidate                                       | Years     | Direct Contributions   | Behested Payments   |
+|-------------------------------------------------|-----------|------------------------|---------------------|
+| [Jesse Gabriel](../candidates/Jesse_Gabriel.md) | 2017-2025 | $41,800                | $0                  |
+| [Rick Zbur](../candidates/Rick_Zbur.md)         | 2025      | $11,800                | $0                  |
+| [Mike McGuire](../candidates/Mike_McGuire.md)   | 2023      | $1,735                 | $0                  |
+| [Henry Stern](../candidates/Henry_Stern.md)     | 2015      | $1,500                 | $0                  |
+| [Robert Rivas](../candidates/Robert_Rivas.md)   | 2023      | $1,315                 | $0                  |
+| [Monique Limón](../candidates/Monique_Limón.md) | 2023      | $550                   | $0                  |
+| [Al Muratsuchi](../candidates/Al_Muratsuchi.md) | 2023      | $500                   | $0                  |
+| [Lori Wilson](../candidates/Lori_Wilson.md)     | 2023      | $500                   | $0                  |

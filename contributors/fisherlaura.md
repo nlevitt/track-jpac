@@ -39,6 +39,15 @@ Fisher’s political influence is channeled through individual donations and the
 
 ## Supported Candidates
 
-| Candidate                                     |   Years | Direct Contributions   | Behested Payments   |
-|-----------------------------------------------|---------|------------------------|---------------------|
-| [Robert Rivas](../candidates/Robert_Rivas.md) |    2017 | $6,400                 | $0                  |
+| Candidate                                         | Years     | Direct Contributions   | Behested Payments   |
+|---------------------------------------------------|-----------|------------------------|---------------------|
+| [Scott Wiener](../candidates/Scott_Wiener.md)     | 2015-2017 | $17,200                | $0                  |
+| [Anna Caballero](../candidates/Anna_Caballero.md) | 2015-2017 | $13,000                | $0                  |
+| [Ben Allen](../candidates/Ben_Allen.md)           | 2013-2017 | $12,900                | $0                  |
+| [Henry Stern](../candidates/Henry_Stern.md)       | 2015-2017 | $9,600                 | $0                  |
+| [Buffy Wicks](../candidates/Buffy_Wicks.md)       | 2017      | $8,800                 | $0                  |
+| [Robert Rivas](../candidates/Robert_Rivas.md)     | 2017      | $6,400                 | $0                  |
+| [Tim Grayson](../candidates/Tim_Grayson.md)       | 2017      | $5,400                 | $0                  |
+| [Marc Berman](../candidates/Marc_Berman.md)       | 2017      | $5,400                 | $0                  |
+| [Jesse Gabriel](../candidates/Jesse_Gabriel.md)   | 2017      | $2,000                 | $0                  |
+| [Jacqui Irwin](../candidates/Jacqui_Irwin.md)     | 2017      | $500                   | $0                  |

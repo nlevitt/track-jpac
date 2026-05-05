@@ -48,6 +48,7 @@ The foundation's focus on global Jewish causes and Israel was a central point of
 
 ## Supported Candidates
 
-| Candidate                                           |   Years | Direct Contributions   | Behested Payments   |
-|-----------------------------------------------------|---------|------------------------|---------------------|
-| [Angelique Ashby](../candidates/Angelique_Ashby.md) |    2024 | $10,000                | $0                  |
+| Candidate                                           | Years     | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------------|-----------|------------------------|---------------------|
+| [Jesse Gabriel](../candidates/Jesse_Gabriel.md)     | 2019-2020 | $125,000               | $0                  |
+| [Angelique Ashby](../candidates/Angelique_Ashby.md) | 2024      | $10,000                | $0                  |

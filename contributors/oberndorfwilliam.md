@@ -29,6 +29,13 @@ Oberndorf’s political expenditures often align with organizations that priorit
 
 ## Supported Candidates
 
-| Candidate                                     |   Years | Direct Contributions   | Behested Payments   |
-|-----------------------------------------------|---------|------------------------|---------------------|
-| [Robert Rivas](../candidates/Robert_Rivas.md) |    2017 | $4,400                 | $0                  |
+| Candidate                                         | Years     | Direct Contributions   | Behested Payments   |
+|---------------------------------------------------|-----------|------------------------|---------------------|
+| [Anna Caballero](../candidates/Anna_Caballero.md) | 2017      | $8,800                 | $0                  |
+| [Ben Allen](../candidates/Ben_Allen.md)           | 2013-2017 | $5,100                 | $0                  |
+| [Robert Rivas](../candidates/Robert_Rivas.md)     | 2017      | $4,400                 | $0                  |
+| [Henry Stern](../candidates/Henry_Stern.md)       | 2017      | $1,000                 | $0                  |
+| [Tim Grayson](../candidates/Tim_Grayson.md)       | 2017      | $1,000                 | $0                  |
+| [Marc Berman](../candidates/Marc_Berman.md)       | 2017      | $1,000                 | $0                  |
+| [Scott Wiener](../candidates/Scott_Wiener.md)     | 2017      | $1,000                 | $0                  |
+| [Jacqui Irwin](../candidates/Jacqui_Irwin.md)     | 2017      | $500                   | $0                  |

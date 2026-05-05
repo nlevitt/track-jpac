@@ -2,18 +2,24 @@
 
 <img src="https://www.joincalifornia.com/candidate_pic.php?id=15124" alt="Photo of Robert Garcia" align="right" style="margin-left: 20px; max-width: 250px; max-height: 250px;">
 
-**Role:** U.S. Representative, California's 42nd Congressional District
 
-Robert Garcia is the U.S. Representative for California's 42nd Congressional District, representing Long Beach, California, and Southeast Los Angeles. He is seeking re-election to the U.S. House to represent California's 42nd Congressional District in the primary on June 2, 2026.
+**Role:** State Assemblymember, District 50
 
-Analyzed on: 2026-04-26 12:54:09  
-**Total Israel lobby contributions:** $0
-**Total Israel lobby indirect contributions:** $0
+**Context:** California state assemblymember
+
+Robert Garcia is a California State Assemblymember for District 50, a position he has held since December 2, 2024. He is seeking re-election to the same office in the June 2, 2026, primary election and resides in Rancho Cucamonga.
+
+Analyzed on: 2026-05-05 16:08:04  
+**Total Israel lobby contributions:** $7,000  
+**Total Israel lobby indirect contributions:** $0  
 
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*
 
-No Israel lobby federal or indirect contributions were identified for this candidate.
-
 ### Israel lobby direct contributions
 
-No Israel lobby supporters identified among contributors.
+| Contributor                                                                   |   Years | Total Amount   | Relationship to Israel                                                                                                                                                                                                                              |
+|-------------------------------------------------------------------------------|---------|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Lowenthal, Josh](../contributors/joshlowenthal.md)                           |    2021 | $2,500         | Josh Lowenthal has documented relationships with the Israel lobby and pro-Israel advocacy through political contributions, participation in official delegations to Israel, and legislative initiatives supported by Jewish advocacy organizations. |
+| [Lori Wilson for Assembly 2026](../contributors/2026assemblyforloriwilson.md) |    2025 | $2,500         | Lori Wilson's campaign has received $2,000 from sources identified with the Israel lobby and pro-Israel advocacy, and she has supported legislative measures related to Israeli Americans.                                                          |
+| [Limon, Monique](../contributors/limonmonique.md)                             |    2023 | $2,000         | Monique Limón has received $14,285 in political contributions from individuals identified as having ties to the Israel lobby and pro-Israel advocacy.                                                                                               |
+

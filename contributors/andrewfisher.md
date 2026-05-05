@@ -25,6 +25,6 @@ The Fisher family's influence is characterized by "Checkbook Zionism"—the use 
 
 ## Supported Candidates
 
-| Candidate   |   Years | Direct Contributions   | Behested Payments   |
-|-------------|---------|------------------------|---------------------|
-| John Laird  |    2019 | $125                   | $0                  |
+| Candidate                                 |   Years | Direct Contributions   | Behested Payments   |
+|-------------------------------------------|---------|------------------------|---------------------|
+| [John Laird](../candidates/John_Laird.md) |    2019 | $125                   | $0                  |

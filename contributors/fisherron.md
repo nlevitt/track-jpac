@@ -42,6 +42,6 @@ Fisher is often associated with the **Koret Foundation**, another major San Fran
 
 ## Supported Candidates
 
-| Candidate   |   Years | Direct Contributions   | Behested Payments   |
-|-------------|---------|------------------------|---------------------|
-| Matt Haney  |    2021 | $2,000                 | $0                  |
+| Candidate                                 |   Years | Direct Contributions   | Behested Payments   |
+|-------------------------------------------|---------|------------------------|---------------------|
+| [Matt Haney](../candidates/Matt_Haney.md) |    2021 | $2,000                 | $0                  |

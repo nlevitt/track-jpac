@@ -41,6 +41,6 @@ Jerome Fisher’s legacy is defined by the "translation" of private wealth into 
 
 ## Supported Candidates
 
-| Candidate    |   Years | Direct Contributions   | Behested Payments   |
-|--------------|---------|------------------------|---------------------|
-| Scott Wiener |    1994 | $2,250                 | $0                  |
+| Candidate                                     |   Years | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------|---------|------------------------|---------------------|
+| [Scott Wiener](../candidates/Scott_Wiener.md) |    2015 | $250                   | $0                  |

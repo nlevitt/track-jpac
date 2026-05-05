@@ -66,6 +66,6 @@ The family’s philanthropic vehicle, **Pisces Inc.**, provides ongoing support 
 
 ## Supported Candidates
 
-| Candidate       | Years     | Direct Contributions   | Behested Payments   |
-|-----------------|-----------|------------------------|---------------------|
-| John Harabedian | 2023-2025 | $550                   | $0                  |
+| Candidate                                           | Years     | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------------|-----------|------------------------|---------------------|
+| [John Harabedian](../candidates/John_Harabedian.md) | 2023-2025 | $550                   | $0                  |

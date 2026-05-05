@@ -11,3 +11,10 @@ He has publicly supported Donald Trump, asserting that "if you support Israel, t
 In his professional capacity, Helberg has emphasized the importance of technological collaboration with allies, including Israel. He views the artificial intelligence (AI) capabilities of companies like Palantir as critical for governments in conflict zones, stating that they "can mean the difference between winning and losing on the battlefield." He advocates for a "technological patriotism" within Silicon Valley that benefits allies such as Israel.
 
 As the Under Secretary of State for Economic Growth, Energy, and the Environment in the second Trump administration, Helberg led the launch of the Pax Silica initiative in December 2025. This initiative focuses on building a secure and resilient technology ecosystem. Israel was among the nine countries that signed the Pax Silica Declaration in March 2026. Helberg has also noted observed technological cooperation between Israel and the United Arab Emirates, indicating a pragmatic approach to business collaboration that can compartmentalize political differences.
+
+
+## Supported Candidates
+
+| Candidate                                   |   Years | Direct Contributions   | Behested Payments   |
+|---------------------------------------------|---------|------------------------|---------------------|
+| [Josh Becker](../candidates/Josh_Becker.md) |    2019 | $7,200                 | $0                  |

@@ -54,6 +54,7 @@ While some activist databases (such as the Mapping Project) associate "Alan Fish
 
 ## Supported Candidates
 
-| Candidate   |   Years | Direct Contributions   | Behested Payments   |
-|-------------|---------|------------------------|---------------------|
-| Dawn Addis  |    2025 | $200                   | $0                  |
+| Candidate                                               |   Years | Direct Contributions   | Behested Payments   |
+|---------------------------------------------------------|---------|------------------------|---------------------|
+| [Rick Zbur](../candidates/Rick_Zbur.md)                 |    2025 | $500                   | $0                  |
+| [Catherine Stefani](../candidates/Catherine_Stefani.md) |    2025 | $200                   | $0                  |

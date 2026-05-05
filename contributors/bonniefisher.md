@@ -40,6 +40,6 @@ Fisher's documented relationship to Israel is characterized by:
 
 ## Supported Candidates
 
-| Candidate    | Years     | Direct Contributions   | Behested Payments   |
-|--------------|-----------|------------------------|---------------------|
-| Scott Wiener | 2015-2019 | $750                   | $0                  |
+| Candidate                                     | Years     | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------|-----------|------------------------|---------------------|
+| [Scott Wiener](../candidates/Scott_Wiener.md) | 2015-2019 | $750                   | $0                  |

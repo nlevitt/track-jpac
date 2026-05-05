@@ -26,6 +26,6 @@ The Fishers are among California’s most prolific political donors, frequently 
 
 ## Supported Candidates
 
-| Candidate   |   Years | Direct Contributions   | Behested Payments   |
-|-------------|---------|------------------------|---------------------|
-| John Laird  |    2007 | $125                   | $0                  |
+| Candidate                                 |   Years | Direct Contributions   | Behested Payments   |
+|-------------------------------------------|---------|------------------------|---------------------|
+| [John Laird](../candidates/John_Laird.md) |    2007 | $125                   | $0                  |

@@ -26,6 +26,8 @@ Kastelman is a documented donor to organizations that facilitate pro-Israel advo
 
 ## Supported Candidates
 
-| Candidate                                     | Years     | Direct Contributions   | Behested Payments   |
-|-----------------------------------------------|-----------|------------------------|---------------------|
-| [Robert Rivas](../candidates/Robert_Rivas.md) | 2023-2025 | $767                   | $0                  |
+| Candidate                                                     | Years     | Direct Contributions   | Behested Payments   |
+|---------------------------------------------------------------|-----------|------------------------|---------------------|
+| [Robert Rivas](../candidates/Robert_Rivas.md)                 | 2023-2025 | $767                   | $0                  |
+| [Josh Becker](../candidates/Josh_Becker.md)                   | 2025      | $360                   | $0                  |
+| [Catherine Blakespear](../candidates/Catherine_Blakespear.md) | 2025      | $250                   | $0                  |

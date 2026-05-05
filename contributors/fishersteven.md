@@ -44,6 +44,6 @@ Steven Fisher and the broader Fisher family utilize their financial influence to
 
 ## Supported Candidates
 
-| Candidate    |   Years | Direct Contributions   | Behested Payments   |
-|--------------|---------|------------------------|---------------------|
-| Scott Wiener |    2023 | $100                   | $0                  |
+| Candidate                                     |   Years | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------|---------|------------------------|---------------------|
+| [Scott Wiener](../candidates/Scott_Wiener.md) |    2023 | $100                   | $0                  |

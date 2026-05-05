@@ -32,6 +32,6 @@ Fisher and her family office, **Pisces Inc.**, have been specifically targeted b
 
 ## Supported Candidates
 
-| Candidate    |   Years | Direct Contributions   | Behested Payments   |
-|--------------|---------|------------------------|---------------------|
-| Scott Wiener |    2015 | $4,200                 | $0                  |
+| Candidate                                     |   Years | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------|---------|------------------------|---------------------|
+| [Scott Wiener](../candidates/Scott_Wiener.md) |    2015 | $4,200                 | $0                  |

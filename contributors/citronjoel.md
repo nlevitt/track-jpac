@@ -9,3 +9,10 @@ Citron's connection to Holocaust remembrance and the fight against antisemitism 
 As Chair of the USC Shoah Foundation's Countering Antisemitism Through Testimony advisory committee, Citron has been involved in initiatives aimed at addressing the resurgence of antisemitism. Following the October 7, 2023, attacks in Israel, the USC Shoah Foundation, under his leadership, initiated efforts to record testimonies from survivors. In March 2024, Citron led a delegation to Israel, visiting sites of the attacks and meeting with wounded soldiers, government officials, survivors, and families of hostages. During this visit, the Institute announced a new partnership with the National Library of Israel.
 
 In October 2023, Citron issued a statement in response to the attacks in Israel, characterizing them as "an act of antisemitism in its most depraved form" and asserting, "There can be no moral equivalence. 'From the river to the sea' has only one meaning–the elimination of Israel." He concluded by stating, "I stand in support with them, with Israel, and with Jewish communities and decent people all over the world." Furthermore, Citron has publicly stated his commitment to "defend Israel's right to exist" and has argued that "anti-Zionism is antisemitism."
+
+
+## Supported Candidates
+
+| Candidate                                         |   Years | Direct Contributions   | Behested Payments   |
+|---------------------------------------------------|---------|------------------------|---------------------|
+| [Jerry McNerney](../candidates/Jerry_McNerney.md) |    2011 | $15,000                | $0                  |

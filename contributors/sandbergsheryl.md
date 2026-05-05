@@ -29,6 +29,10 @@ Sandberg’s relationship to Zionist advocacy is rooted in long-standing family 
 
 ## Supported Candidates
 
-| Candidate                                   |   Years | Direct Contributions   | Behested Payments   |
-|---------------------------------------------|---------|------------------------|---------------------|
-| [Josh Becker](../candidates/Josh_Becker.md) |    2025 | $72,400                | $0                  |
+| Candidate                                               |   Years | Direct Contributions   | Behested Payments   |
+|---------------------------------------------------------|---------|------------------------|---------------------|
+| [Josh Becker](../candidates/Josh_Becker.md)             |    2025 | $72,400                | $0                  |
+| [Jesse Gabriel](../candidates/Jesse_Gabriel.md)         |    2025 | $19,600                | $0                  |
+| [Marc Berman](../candidates/Marc_Berman.md)             |    2017 | $4,400                 | $0                  |
+| [Blanca Rubio](../candidates/Blanca_Rubio.md)           |    2017 | $4,400                 | $0                  |
+| [Sabrina Cervantes](../candidates/Sabrina_Cervantes.md) |    2017 | $4,400                 | $0                  |

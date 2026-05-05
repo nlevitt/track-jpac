@@ -1,5 +1,5 @@
 # California's Israel Lobby
-Generated on: 2026-05-02 00:49:55  
+Generated on: 2026-05-05 16:08:04  
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*  
 [Methodology and disclaimers](#methodology-and-disclaimers)
 
@@ -41,6 +41,7 @@ Generated on: 2026-05-02 00:49:55
 | [Tony Strickland](candidates/Tony_Strickland.md)                         | State Senator, District 36                                                                            | $8,600                       | $0                                    |
 | [Stephanie Nguyen](candidates/Stephanie_Nguyen.md)                       | California State Assemblymember, District 10                                                          | $7,900                       | $0                                    |
 | [Doris Matsui](candidates/Doris_Matsui.md)                               | U.S. Representative, California's 7th Congressional District                                          | $7,500                       | $0                                    |
+| [Robert Garcia](candidates/Robert_Garcia.md)                             | State Assemblymember, District 50                                                                     | $7,000                       | $0                                    |
 | [John Laird](candidates/John_Laird.md)                                   | State Senator, District 17                                                                            | $6,475                       | $0                                    |
 | [Cecilia Aguiar-Curry](candidates/Cecilia_Aguiar-Curry.md)               | Assembly Majority Leader, California State Assembly, District 4                                       | $5,500                       | $0                                    |
 | [Heath Flora](candidates/Heath_Flora.md)                                 | State Assemblymember, District 9                                                                      | $5,500                       | $0                                    |
@@ -78,56 +79,55 @@ Generated on: 2026-05-02 00:49:55
 
 ## Elected officials and candidates with no identified support
 
-| Candidate                                                    | Role                                                          | Israel lobby contributions   | Israel lobby indirect contributions   |
-|--------------------------------------------------------------|---------------------------------------------------------------|------------------------------|---------------------------------------|
-| [Aisha Wahab](candidates/Aisha_Wahab.md)                     | State Senator, District 10                                    | $0                           | $0                                    |
-| [Alex Lee](candidates/Alex_Lee.md)                           | State Assemblymember, District 24                             | $0                           | $0                                    |
-| [Anamarie Avila Farias](candidates/Anamarie_Avila_Farias.md) | State Assemblymember, District 15                             | $0                           | $0                                    |
-| [Ash Kalra](candidates/Ash_Kalra.md)                         | State Assemblymember, District 25                             | $0                           | $0                                    |
-| [Bob Archuleta](candidates/Bob_Archuleta.md)                 | State Senator, District 30                                    | $0                           | $0                                    |
-| [Carl DeMaio](candidates/Carl_DeMaio.md)                     | California State Assemblymember, District 75                  | $0                           | $0                                    |
-| [Caroline Menjivar](candidates/Caroline_Menjivar.md)         | State Senator, District 20                                    | $0                           | $0                                    |
-| [Celeste Rodriguez](candidates/Celeste_Rodriguez.md)         | State Assemblymember, District 43                             | $0                           | $0                                    |
-| [Chris Rogers](candidates/Chris_Rogers.md)                   | State Assemblymember, District 2                              | $0                           | $0                                    |
-| [Corey Jackson](candidates/Corey_Jackson.md)                 | State Assemblymember, District 60                             | $0                           | $0                                    |
-| [Darshana Patel](candidates/Darshana_Patel.md)               | State Assemblymember, District 76                             | $0                           | $0                                    |
-| [David Tangipa](candidates/David_Tangipa.md)                 | State Assemblyman, District 8                                 | $0                           | $0                                    |
-| [Diane Dixon](candidates/Diane_Dixon.md)                     | State Assemblymember, District 72                             | $0                           | $0                                    |
-| [Eloise Gómez Reyes](candidates/Eloise_Gómez_Reyes.md)       | State Senator, District 29                                    | $0                           | $0                                    |
-| [Esmeralda Soria](candidates/Esmeralda_Soria.md)             | State Assemblymember, District 27                             | $0                           | $0                                    |
-| [Greg Wallis](candidates/Greg_Wallis.md)                     | State Assemblymember, District 47                             | $0                           | $0                                    |
-| [Gregg Hart](candidates/Gregg_Hart.md)                       | State Assemblymember, District 37                             | $0                           | $0                                    |
-| [Heather Hadwick](candidates/Heather_Hadwick.md)             | State Assemblymember, District 1; Deputy Republican Leader    | $0                           | $0                                    |
-| [Jasmeet Bains](candidates/Jasmeet_Bains.md)                 | State Assemblymember, District 35                             | $0                           | $0                                    |
-| [Jeff Gonzalez](candidates/Jeff_Gonzalez.md)                 | State Assemblymember, District 36                             | $0                           | $0                                    |
-| [Joe Patterson](candidates/Joe_Patterson.md)                 | State Assemblymember, District 5                              | $0                           | $0                                    |
-| [Jose Solache](candidates/Jose_Solache.md)                   | State Assemblymember, District 62                             | $0                           | $0                                    |
-| [Josh Hoover](candidates/Josh_Hoover.md)                     | State Assemblymember, District 7                              | $0                           | $0                                    |
-| [Kelly Seyarto](candidates/Kelly_Seyarto.md)                 | State Senator, District 32                                    | $0                           | $0                                    |
-| [Laura Richardson](candidates/Laura_Richardson.md)           | State Senator, District 35                                    | $0                           | $0                                    |
-| [Leticia Castillo](candidates/Leticia_Castillo.md)           | State Assemblywoman, District 58                              | $0                           | $0                                    |
-| [Lisa Calderon](candidates/Lisa_Calderon.md)                 | State Assemblymember, District 56                             | $0                           | $0                                    |
-| [Liz Ortega](candidates/Liz_Ortega.md)                       | State Assemblymember, District 20                             | $0                           | $0                                    |
-| [Lola Smallwood-Cuevas](candidates/Lola_Smallwood-Cuevas.md) | State Senator, District 28                                    | $0                           | $0                                    |
-| [Marie Alvarado-Gil](candidates/Marie_Alvarado-Gil.md)       | State Senator, District 4                                     | $0                           | $0                                    |
-| [Mark Gonzalez](candidates/Mark_Gonzalez.md)                 | State Assemblymember, District 54                             | $0                           | $0                                    |
-| [María Elena Durazo](candidates/María_Elena_Durazo.md)       | State Senator, District 26                                    | $0                           | $0                                    |
-| [Mia Bonta](candidates/Mia_Bonta.md)                         | State Assemblymember, District 18                             | $0                           | $0                                    |
-| [Michelle Rodriguez](candidates/Michelle_Rodriguez.md)       | Assemblymember, District 53                                   | $0                           | $0                                    |
-| [Natasha Johnson](candidates/Natasha_Johnson.md)             | State Assembly Member, District 63                            | $0                           | $0                                    |
-| [Nicholas Schultz](candidates/Nicholas_Schultz.md)           | State Assemblymember, District 44                             | $0                           | $0                                    |
-| [Phillip Chen](candidates/Phillip_Chen.md)                   | State Assemblymember, District 59                             | $0                           | $0                                    |
-| [Pilar Schiavo](candidates/Pilar_Schiavo.md)                 | State Assemblymember, District 40                             | $0                           | $0                                    |
-| [Rhodesia Ransom](candidates/Rhodesia_Ransom.md)             | State Assemblymember, District 13                             | $0                           | $0                                    |
-| [Robert Garcia](candidates/Robert_Garcia.md)                 | U.S. Representative, California's 42nd Congressional District | $0                           | $0                                    |
-| [Sade Elhawary](candidates/Sade_Elhawary.md)                 | State Assemblymember, District 57                             | $0                           | $0                                    |
-| [Shannon Grove](candidates/Shannon_Grove.md)                 | State Senator, District 12                                    | $0                           | $0                                    |
-| [Stan Ellis](candidates/Stan_Ellis.md)                       | State Assembly Member, District 32                            | $0                           | $0                                    |
-| [Stephen Bennett](candidates/Stephen_Bennett.md)             | State Assemblymember, District 38                             | $0                           | $0                                    |
-| [Steve Padilla](candidates/Steve_Padilla.md)                 | State Senator, District 18                                    | $0                           | $0                                    |
-| [Steven Choi](candidates/Steven_Choi.md)                     | State Senator, District 37                                    | $0                           | $0                                    |
-| [Tom Umberg](candidates/Tom_Umberg.md)                       | State Senator, District 34                                    | $0                           | $0                                    |
-| [Tri Ta](candidates/Tri_Ta.md)                               | State Assemblyman, District 70                                | $0                           | $0                                    |
+| Candidate                                                    | Role                                                       | Israel lobby contributions   | Israel lobby indirect contributions   |
+|--------------------------------------------------------------|------------------------------------------------------------|------------------------------|---------------------------------------|
+| [Aisha Wahab](candidates/Aisha_Wahab.md)                     | State Senator, District 10                                 | $0                           | $0                                    |
+| [Alex Lee](candidates/Alex_Lee.md)                           | State Assemblymember, District 24                          | $0                           | $0                                    |
+| [Anamarie Avila Farias](candidates/Anamarie_Avila_Farias.md) | State Assemblymember, District 15                          | $0                           | $0                                    |
+| [Ash Kalra](candidates/Ash_Kalra.md)                         | State Assemblymember, District 25                          | $0                           | $0                                    |
+| [Bob Archuleta](candidates/Bob_Archuleta.md)                 | State Senator, District 30                                 | $0                           | $0                                    |
+| [Carl DeMaio](candidates/Carl_DeMaio.md)                     | California State Assemblymember, District 75               | $0                           | $0                                    |
+| [Caroline Menjivar](candidates/Caroline_Menjivar.md)         | State Senator, District 20                                 | $0                           | $0                                    |
+| [Celeste Rodriguez](candidates/Celeste_Rodriguez.md)         | State Assemblymember, District 43                          | $0                           | $0                                    |
+| [Chris Rogers](candidates/Chris_Rogers.md)                   | State Assemblymember, District 2                           | $0                           | $0                                    |
+| [Corey Jackson](candidates/Corey_Jackson.md)                 | State Assemblymember, District 60                          | $0                           | $0                                    |
+| [Darshana Patel](candidates/Darshana_Patel.md)               | State Assemblymember, District 76                          | $0                           | $0                                    |
+| [David Tangipa](candidates/David_Tangipa.md)                 | State Assemblyman, District 8                              | $0                           | $0                                    |
+| [Diane Dixon](candidates/Diane_Dixon.md)                     | State Assemblymember, District 72                          | $0                           | $0                                    |
+| [Eloise Gómez Reyes](candidates/Eloise_Gómez_Reyes.md)       | State Senator, District 29                                 | $0                           | $0                                    |
+| [Esmeralda Soria](candidates/Esmeralda_Soria.md)             | State Assemblymember, District 27                          | $0                           | $0                                    |
+| [Greg Wallis](candidates/Greg_Wallis.md)                     | State Assemblymember, District 47                          | $0                           | $0                                    |
+| [Gregg Hart](candidates/Gregg_Hart.md)                       | State Assemblymember, District 37                          | $0                           | $0                                    |
+| [Heather Hadwick](candidates/Heather_Hadwick.md)             | State Assemblymember, District 1; Deputy Republican Leader | $0                           | $0                                    |
+| [Jasmeet Bains](candidates/Jasmeet_Bains.md)                 | State Assemblymember, District 35                          | $0                           | $0                                    |
+| [Jeff Gonzalez](candidates/Jeff_Gonzalez.md)                 | State Assemblymember, District 36                          | $0                           | $0                                    |
+| [Joe Patterson](candidates/Joe_Patterson.md)                 | State Assemblymember, District 5                           | $0                           | $0                                    |
+| [Jose Solache](candidates/Jose_Solache.md)                   | State Assemblymember, District 62                          | $0                           | $0                                    |
+| [Josh Hoover](candidates/Josh_Hoover.md)                     | State Assemblymember, District 7                           | $0                           | $0                                    |
+| [Kelly Seyarto](candidates/Kelly_Seyarto.md)                 | State Senator, District 32                                 | $0                           | $0                                    |
+| [Laura Richardson](candidates/Laura_Richardson.md)           | State Senator, District 35                                 | $0                           | $0                                    |
+| [Leticia Castillo](candidates/Leticia_Castillo.md)           | State Assemblywoman, District 58                           | $0                           | $0                                    |
+| [Lisa Calderon](candidates/Lisa_Calderon.md)                 | State Assemblymember, District 56                          | $0                           | $0                                    |
+| [Liz Ortega](candidates/Liz_Ortega.md)                       | State Assemblymember, District 20                          | $0                           | $0                                    |
+| [Lola Smallwood-Cuevas](candidates/Lola_Smallwood-Cuevas.md) | State Senator, District 28                                 | $0                           | $0                                    |
+| [Marie Alvarado-Gil](candidates/Marie_Alvarado-Gil.md)       | State Senator, District 4                                  | $0                           | $0                                    |
+| [Mark Gonzalez](candidates/Mark_Gonzalez.md)                 | State Assemblymember, District 54                          | $0                           | $0                                    |
+| [María Elena Durazo](candidates/María_Elena_Durazo.md)       | State Senator, District 26                                 | $0                           | $0                                    |
+| [Mia Bonta](candidates/Mia_Bonta.md)                         | State Assemblymember, District 18                          | $0                           | $0                                    |
+| [Michelle Rodriguez](candidates/Michelle_Rodriguez.md)       | Assemblymember, District 53                                | $0                           | $0                                    |
+| [Natasha Johnson](candidates/Natasha_Johnson.md)             | State Assembly Member, District 63                         | $0                           | $0                                    |
+| [Nicholas Schultz](candidates/Nicholas_Schultz.md)           | State Assemblymember, District 44                          | $0                           | $0                                    |
+| [Phillip Chen](candidates/Phillip_Chen.md)                   | State Assemblymember, District 59                          | $0                           | $0                                    |
+| [Pilar Schiavo](candidates/Pilar_Schiavo.md)                 | State Assemblymember, District 40                          | $0                           | $0                                    |
+| [Rhodesia Ransom](candidates/Rhodesia_Ransom.md)             | State Assemblymember, District 13                          | $0                           | $0                                    |
+| [Sade Elhawary](candidates/Sade_Elhawary.md)                 | State Assemblymember, District 57                          | $0                           | $0                                    |
+| [Shannon Grove](candidates/Shannon_Grove.md)                 | State Senator, District 12                                 | $0                           | $0                                    |
+| [Stan Ellis](candidates/Stan_Ellis.md)                       | State Assembly Member, District 32                         | $0                           | $0                                    |
+| [Stephen Bennett](candidates/Stephen_Bennett.md)             | State Assemblymember, District 38                          | $0                           | $0                                    |
+| [Steve Padilla](candidates/Steve_Padilla.md)                 | State Senator, District 18                                 | $0                           | $0                                    |
+| [Steven Choi](candidates/Steven_Choi.md)                     | State Senator, District 37                                 | $0                           | $0                                    |
+| [Tom Umberg](candidates/Tom_Umberg.md)                       | State Senator, District 34                                 | $0                           | $0                                    |
+| [Tri Ta](candidates/Tri_Ta.md)                               | State Assemblyman, District 70                             | $0                           | $0                                    |
 
 *Unable to find data on the following names: Ami Bera, Brandon Evans, Demnlus Johnson, Eduardo Martinez, Jamin Purcell, Kate Sanchez, Mai Vang, Mike Fong, Tina McKinnor*
 
