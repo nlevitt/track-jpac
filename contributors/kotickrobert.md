@@ -18,7 +18,6 @@ At a company level, an Infinity Ward Co-Founder reportedly claimed that Activisi
 
 | Candidate                                       |   Years | Direct Contributions   | Behested Payments   |
 |-------------------------------------------------|---------|------------------------|---------------------|
-| [Rick Zbur](../candidates/Rick_Zbur.md)         |    2023 | $5,000                 | $0                  |
 | [Josh Becker](../candidates/Josh_Becker.md)     |    2023 | $1,500                 | $0                  |
 | [Mike McGuire](../candidates/Mike_McGuire.md)   |    2023 | $1,500                 | $0                  |
 | [Monique Limón](../candidates/Monique_Limón.md) |    2023 | $1,500                 | $0                  |

@@ -42,5 +42,4 @@ While Leibman is a distinguished alumna of the University of California, San Die
 | Candidate                                       | Years     | Direct Contributions   | Behested Payments   |
 |-------------------------------------------------|-----------|------------------------|---------------------|
 | [Jesse Gabriel](../candidates/Jesse_Gabriel.md) | 2017-2019 | $300                   | $0                  |
-| [Rick Zbur](../candidates/Rick_Zbur.md)         | 2021      | $180                   | $0                  |
 | [Henry Stern](../candidates/Henry_Stern.md)     | 2015      | $100                   | $0                  |

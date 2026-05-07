@@ -18,3 +18,4 @@ Lowenthal's connection to pro-Israel sentiment extends to his family background;
 | Candidate                                       |   Years | Direct Contributions   | Behested Payments   |
 |-------------------------------------------------|---------|------------------------|---------------------|
 | [Robert Garcia](../candidates/Robert_Garcia.md) |    2021 | $2,500                 | $0                  |
+| [Rick Zbur](../candidates/Rick_Zbur.md)         |    2021 | $500                   | $0                  |
