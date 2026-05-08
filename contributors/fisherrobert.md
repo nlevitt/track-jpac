@@ -19,6 +19,7 @@ These contributions and affiliations demonstrate Robert J. Fisher's documented i
 
 | Candidate                                                     | Years     | Direct Contributions   | Behested Payments   |
 |---------------------------------------------------------------|-----------|------------------------|---------------------|
+| [Scott Wiener](../candidates/Scott_Wiener.md)                 | 2015-2023 | $24,500                | $0                  |
 | [Buffy Wicks](../candidates/Buffy_Wicks.md)                   | 2017-2025 | $18,800                | $0                  |
 | [Ben Allen](../candidates/Ben_Allen.md)                       | 2013-2025 | $14,100                | $0                  |
 | [Blanca Rubio](../candidates/Blanca_Rubio.md)                 | 2021-2025 | $11,000                | $0                  |

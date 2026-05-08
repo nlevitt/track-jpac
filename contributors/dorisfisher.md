@@ -43,7 +43,6 @@ Doris Fisher and the Doris & Donald Fisher Fund have a long history of supportin
 
 | Candidate                                                                   | Years     | Direct Contributions   | Behested Payments   |
 |-----------------------------------------------------------------------------|-----------|------------------------|---------------------|
-| [Scott Wiener](../candidates/Scott_Wiener.md)                               | 2015-2019 | $17,800                | $0                  |
 | [Anna Caballero](../candidates/Anna_Caballero.md)                           | 2015-2021 | $16,500                | $0                  |
 | [Henry Stern](../candidates/Henry_Stern.md)                                 | 2015-2017 | $9,600                 | $0                  |
 | [Robert Rivas](../candidates/Robert_Rivas.md)                               | 2017-2021 | $9,400                 | $0                  |
@@ -56,14 +55,14 @@ Doris Fisher and the Doris & Donald Fisher Fund have a long history of supportin
 | [Melissa Hurtado](../candidates/Melissa_Hurtado.md)                         | 2019-2021 | $4,500                 | $0                  |
 | [John Laird](../candidates/John_Laird.md)                                   | 2021      | $3,000                 | $0                  |
 | [Lena Gonzalez](../candidates/Lena_Gonzalez.md)                             | 2021      | $3,000                 | $0                  |
-| [Dave Cortese](../candidates/Dave_Cortese.md)                               | 2021      | $3,000                 | $0                  |
 | [Cecilia Aguiar-Curry](../candidates/Cecilia_Aguiar-Curry.md)               | 2021      | $3,000                 | $0                  |
 | [Mike Gipson](../candidates/Mike_Gipson.md)                                 | 2019-2021 | $3,000                 | $0                  |
+| [Dave Cortese](../candidates/Dave_Cortese.md)                               | 2021      | $3,000                 | $0                  |
 | [Joaquin Arambula](../candidates/Joaquin_Arambula.md)                       | 2017      | $2,000                 | $0                  |
+| [James Ramos](../candidates/James_Ramos.md)                                 | 2019      | $1,500                 | $0                  |
 | [Rosilicie Ochoa Bogh](../candidates/Rosilicie_Ochoa_Bogh.md)               | 2021      | $1,500                 | $0                  |
 | [Al Muratsuchi](../candidates/Al_Muratsuchi.md)                             | 2021      | $1,500                 | $0                  |
 | [Suzette Martinez Valladares](../candidates/Suzette_Martinez_Valladares.md) | 2021      | $1,500                 | $0                  |
 | [Laurie Davies](../candidates/Laurie_Davies.md)                             | 2021      | $1,500                 | $0                  |
 | [Sharon Quirk-Silva](../candidates/Sharon_Quirk-Silva.md)                   | 2021      | $1,500                 | $0                  |
-| [James Ramos](../candidates/James_Ramos.md)                                 | 2019      | $1,500                 | $0                  |
 | [Mike McGuire](../candidates/Mike_McGuire.md)                               | 2017      | $1,000                 | $0                  |

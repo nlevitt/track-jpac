@@ -16,5 +16,4 @@ One source also broadly categorizes Steve Silberstein as a "supporter of liberal
 | Candidate                                         | Years     | Direct Contributions   | Behested Payments   |
 |---------------------------------------------------|-----------|------------------------|---------------------|
 | [Jerry McNerney](../candidates/Jerry_McNerney.md) | 2023-2025 | $8,000                 | $0                  |
-| [Scott Wiener](../candidates/Scott_Wiener.md)     | 2019      | $2,000                 | $0                  |
 | [Mike McGuire](../candidates/Mike_McGuire.md)     | 2019      | $1,500                 | $0                  |

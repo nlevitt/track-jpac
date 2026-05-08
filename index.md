@@ -1,5 +1,5 @@
 # California's Israel Lobby
-Generated on: 2026-05-07 23:47:25  
+Generated on: 2026-05-08 00:13:44  
 *Let us know if you spot an inaccuracy: trackjpac@gmail.com*  
 [Methodology and disclaimers](#methodology-and-disclaimers)
 
@@ -7,11 +7,11 @@ Generated on: 2026-05-07 23:47:25
 
 | Candidate                                                                | Role                                                                             | Israel lobby contributions   | Israel lobby indirect contributions   |
 |--------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------------------------|---------------------------------------|
-| [Scott Wiener](candidates/Scott_Wiener.md)                               | State Senator, District 11                                                       | $181,899                     | $30,000                               |
 | [Jesse Gabriel](candidates/Jesse_Gabriel.md)                             | State Assemblymember, District 46                                                | $167,150                     | $212,135                              |
 | [Anna Caballero](candidates/Anna_Caballero.md)                           | State Senator, District 14                                                       | $123,400                     | $0                                    |
 | [Rick Zbur](candidates/Rick_Zbur.md)                                     | State Assemblymember, District 51                                                | $97,490                      | $0                                    |
 | [Josh Becker](candidates/Josh_Becker.md)                                 | State Senator, District 13                                                       | $94,160                      | $50,000                               |
+| [Scott Wiener](candidates/Scott_Wiener.md)                               | State Senator, District 11                                                       | $89,050                      | $0                                    |
 | [Henry Stern](candidates/Henry_Stern.md)                                 | State Senator, District 27                                                       | $79,550                      | $0                                    |
 | [Ben Allen](candidates/Ben_Allen.md)                                     | State Senator, District 24                                                       | $78,275                      | $0                                    |
 | [Marc Berman](candidates/Marc_Berman.md)                                 | State Assemblymember, District 23                                                | $74,280                      | $0                                    |

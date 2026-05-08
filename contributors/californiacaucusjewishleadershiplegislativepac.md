@@ -44,4 +44,3 @@ External observers and advocacy groups have documented the PAC's specific dedica
 |-------------------------------------------------|---------|------------------------|---------------------|
 | [Jesse Gabriel](../candidates/Jesse_Gabriel.md) |    2017 | $8,800                 | $0                  |
 | [Henry Stern](../candidates/Henry_Stern.md)     |    2015 | $4,200                 | $0                  |
-| [Scott Wiener](../candidates/Scott_Wiener.md)   |    2015 | $4,200                 | $0                  |

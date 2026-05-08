@@ -15,7 +15,8 @@ Based on the available evidence, there is no documented concrete proof of pro-Is
 
 ## Supported Candidates
 
-| Candidate                                               |   Years | Direct Contributions   | Behested Payments   |
-|---------------------------------------------------------|---------|------------------------|---------------------|
-| [Rick Zbur](../candidates/Rick_Zbur.md)                 |    2021 | $2,900                 | $0                  |
-| [Sabrina Cervantes](../candidates/Sabrina_Cervantes.md) |    2017 | $500                   | $0                  |
+| Candidate                                               | Years     | Direct Contributions   | Behested Payments   |
+|---------------------------------------------------------|-----------|------------------------|---------------------|
+| [Rick Zbur](../candidates/Rick_Zbur.md)                 | 2021      | $2,900                 | $0                  |
+| [Sabrina Cervantes](../candidates/Sabrina_Cervantes.md) | 2017      | $500                   | $0                  |
+| [Scott Wiener](../candidates/Scott_Wiener.md)           | 2019-2021 | $200                   | $0                  |

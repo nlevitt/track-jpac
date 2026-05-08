@@ -19,4 +19,5 @@ Gary Lauder is the nephew of Ronald Lauder, the president of the World Jewish Co
 |-----------------------------------------------|-----------|------------------------|---------------------|
 | [Marc Berman](../candidates/Marc_Berman.md)   | 2017-2023 | $8,000                 | $0                  |
 | [Buffy Wicks](../candidates/Buffy_Wicks.md)   | 2017      | $4,400                 | $0                  |
+| [Scott Wiener](../candidates/Scott_Wiener.md) | 2017      | $500                   | $0                  |
 | [Jacqui Irwin](../candidates/Jacqui_Irwin.md) | 2017      | $250                   | $0                  |

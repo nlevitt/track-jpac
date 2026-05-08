@@ -15,3 +15,4 @@ While these roles demonstrate a documented relationship to organizations engaged
 |-------------------------------------------------|---------|------------------------|---------------------|
 | [Buffy Wicks](../candidates/Buffy_Wicks.md)     |    2021 | $250                   | $0                  |
 | [Monique Limón](../candidates/Monique_Limón.md) |    2021 | $250                   | $0                  |
+| [Scott Wiener](../candidates/Scott_Wiener.md)   |    2023 | $250                   | $0                  |

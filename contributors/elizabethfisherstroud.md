@@ -35,7 +35,6 @@ Fisher’s support for Israel is largely channeled through the **Jewish Communit
 | Candidate                                         | Years     | Direct Contributions   | Behested Payments   |
 |---------------------------------------------------|-----------|------------------------|---------------------|
 | [Anna Caballero](../candidates/Anna_Caballero.md) | 2015-2017 | $17,200                | $0                  |
-| [Scott Wiener](../candidates/Scott_Wiener.md)     | 2015-2023 | $14,300                | $0                  |
 | [Henry Stern](../candidates/Henry_Stern.md)       | 2015-2017 | $13,800                | $0                  |
 | [Tim Grayson](../candidates/Tim_Grayson.md)       | 2015-2017 | $9,600                 | $0                  |
 | [Robert Rivas](../candidates/Robert_Rivas.md)     | 2017      | $6,400                 | $0                  |

@@ -41,7 +41,6 @@ Fisher’s political influence is channeled through individual donations and the
 
 | Candidate                                         | Years     | Direct Contributions   | Behested Payments   |
 |---------------------------------------------------|-----------|------------------------|---------------------|
-| [Scott Wiener](../candidates/Scott_Wiener.md)     | 2015-2017 | $17,200                | $0                  |
 | [Anna Caballero](../candidates/Anna_Caballero.md) | 2015-2017 | $13,000                | $0                  |
 | [Henry Stern](../candidates/Henry_Stern.md)       | 2015-2017 | $9,600                 | $0                  |
 | [Robert Rivas](../candidates/Robert_Rivas.md)     | 2017      | $6,400                 | $0                  |

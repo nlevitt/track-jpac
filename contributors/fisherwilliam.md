@@ -46,7 +46,6 @@ The Fisher family's philanthropic network creates a "closed loop" of support for
 | Candidate                                                     | Years     | Direct Contributions   | Behested Payments   |
 |---------------------------------------------------------------|-----------|------------------------|---------------------|
 | [Anna Caballero](../candidates/Anna_Caballero.md)             | 2015-2017 | $17,200                | $0                  |
-| [Scott Wiener](../candidates/Scott_Wiener.md)                 | 2015-2021 | $16,300                | $0                  |
 | [Robert Rivas](../candidates/Robert_Rivas.md)                 | 2017-2021 | $13,300                | $0                  |
 | [Tim Grayson](../candidates/Tim_Grayson.md)                   | 2015-2021 | $10,600                | $0                  |
 | [Henry Stern](../candidates/Henry_Stern.md)                   | 2015-2017 | $9,600                 | $0                  |

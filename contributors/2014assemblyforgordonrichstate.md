@@ -16,5 +16,6 @@ Additionally, Gordon has been noted for his criticism of *Ms.* magazine's refusa
 | Candidate                                               |   Years | Direct Contributions   | Behested Payments   |
 |---------------------------------------------------------|---------|------------------------|---------------------|
 | [Marc Berman](../candidates/Marc_Berman.md)             |    2015 | $8,400                 | $0                  |
+| [Scott Wiener](../candidates/Scott_Wiener.md)           |    2015 | $6,200                 | $0                  |
 | [Sabrina Cervantes](../candidates/Sabrina_Cervantes.md) |    2015 | $4,200                 | $0                  |
 | [Jacqui Irwin](../candidates/Jacqui_Irwin.md)           |    2013 | $4,100                 | $0                  |

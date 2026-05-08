@@ -37,4 +37,3 @@ As a 501(c)(3) entity, the Foundation collects contributions to fund the politic
 | Candidate                                       | Years     | Direct Contributions   | Behested Payments   |
 |-------------------------------------------------|-----------|------------------------|---------------------|
 | [Jesse Gabriel](../candidates/Jesse_Gabriel.md) | 2019-2025 | $87,135                | $0                  |
-| [Scott Wiener](../candidates/Scott_Wiener.md)   | 2025      | $30,000                | $0                  |

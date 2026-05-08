@@ -15,6 +15,7 @@ In 2004, Jeff and Barbara Farber co-chaired "Israel in the Ballpark," an event h
 
 | Candidate                                       | Years     | Direct Contributions   | Behested Payments   |
 |-------------------------------------------------|-----------|------------------------|---------------------|
+| [Scott Wiener](../candidates/Scott_Wiener.md)   | 2019-2023 | $4,250                 | $0                  |
 | [Rick Zbur](../candidates/Rick_Zbur.md)         | 2021-2023 | $3,800                 | $0                  |
 | [Matt Haney](../candidates/Matt_Haney.md)       | 2021      | $2,500                 | $0                  |
 | [Dawn Addis](../candidates/Dawn_Addis.md)       | 2025      | $500                   | $0                  |

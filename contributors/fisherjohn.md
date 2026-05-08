@@ -29,7 +29,6 @@ Beyond Israel-specific organizations, Fisher is a prolific donor to the Republic
 
 | Candidate                                                                   | Years     | Direct Contributions   | Behested Payments   |
 |-----------------------------------------------------------------------------|-----------|------------------------|---------------------|
-| [Scott Wiener](../candidates/Scott_Wiener.md)                               | 2015-2021 | $18,950                | $0                  |
 | [Anna Caballero](../candidates/Anna_Caballero.md)                           | 2015-2023 | $16,000                | $0                  |
 | [Tim Grayson](../candidates/Tim_Grayson.md)                                 | 2015-2023 | $12,600                | $0                  |
 | [Henry Stern](../candidates/Henry_Stern.md)                                 | 2015-2017 | $9,600                 | $0                  |
@@ -39,19 +38,19 @@ Beyond Israel-specific organizations, Fisher is a prolific donor to the Republic
 | [Brian Jones](../candidates/Brian_Jones.md)                                 | 2021-2023 | $4,500                 | $0                  |
 | [Thomas Lackey](../candidates/Thomas_Lackey.md)                             | 2015      | $4,200                 | $0                  |
 | [James Gallagher](../candidates/James_Gallagher.md)                         | 2023-2025 | $4,000                 | $0                  |
-| [Rosilicie Ochoa Bogh](../candidates/Rosilicie_Ochoa_Bogh.md)               | 2021-2023 | $3,000                 | $0                  |
 | [Blanca Pacheco](../candidates/Blanca_Pacheco.md)                           | 2023      | $3,000                 | $0                  |
-| [Suzette Martinez Valladares](../candidates/Suzette_Martinez_Valladares.md) | 2021-2025 | $2,500                 | $0                  |
+| [Rosilicie Ochoa Bogh](../candidates/Rosilicie_Ochoa_Bogh.md)               | 2021-2023 | $3,000                 | $0                  |
 | [Megan Dahle](../candidates/Megan_Dahle.md)                                 | 2019      | $2,500                 | $0                  |
-| [Cottie Petrie-Norris](../candidates/Cottie_Petrie-Norris.md)               | 2025      | $2,000                 | $0                  |
-| [Mike Gipson](../candidates/Mike_Gipson.md)                                 | 2021      | $2,000                 | $0                  |
+| [Suzette Martinez Valladares](../candidates/Suzette_Martinez_Valladares.md) | 2021-2025 | $2,500                 | $0                  |
 | [Jesse Gabriel](../candidates/Jesse_Gabriel.md)                             | 2017      | $2,000                 | $0                  |
-| [Rebecca Bauer-Kahan](../candidates/Rebecca_Bauer-Kahan.md)                 | 2021      | $1,500                 | $0                  |
+| [Mike Gipson](../candidates/Mike_Gipson.md)                                 | 2021      | $2,000                 | $0                  |
+| [Cottie Petrie-Norris](../candidates/Cottie_Petrie-Norris.md)               | 2025      | $2,000                 | $0                  |
 | [Josh Becker](../candidates/Josh_Becker.md)                                 | 2021      | $1,500                 | $0                  |
-| [Akilah Weber](../candidates/Akilah_Weber.md)                               | 2021      | $1,500                 | $0                  |
-| [Cecilia Aguiar-Curry](../candidates/Cecilia_Aguiar-Curry.md)               | 2023      | $1,500                 | $0                  |
 | [Juan Alanis](../candidates/Juan_Alanis.md)                                 | 2023      | $1,500                 | $0                  |
+| [Diane Papan](../candidates/Diane_Papan.md)                                 | 2023      | $1,500                 | $0                  |
+| [Cecilia Aguiar-Curry](../candidates/Cecilia_Aguiar-Curry.md)               | 2023      | $1,500                 | $0                  |
+| [Rebecca Bauer-Kahan](../candidates/Rebecca_Bauer-Kahan.md)                 | 2021      | $1,500                 | $0                  |
+| [Akilah Weber](../candidates/Akilah_Weber.md)                               | 2021      | $1,500                 | $0                  |
 | [Mike McGuire](../candidates/Mike_McGuire.md)                               | 2023      | $1,500                 | $0                  |
 | [Avelino Valencia](../candidates/Avelino_Valencia.md)                       | 2023      | $1,500                 | $0                  |
-| [Diane Papan](../candidates/Diane_Papan.md)                                 | 2023      | $1,500                 | $0                  |
 | [Alexandra Macedo](../candidates/Alexandra_Macedo.md)                       | 2025      | $1,000                 | $0                  |

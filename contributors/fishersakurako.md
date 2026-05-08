@@ -35,7 +35,6 @@ Sakurako Fisher and her husband are prolific donors to the **Republican Party** 
 | Candidate                                                     | Years     | Direct Contributions   | Behested Payments   |
 |---------------------------------------------------------------|-----------|------------------------|---------------------|
 | [Anna Caballero](../candidates/Anna_Caballero.md)             | 2015-2017 | $12,800                | $0                  |
-| [Scott Wiener](../candidates/Scott_Wiener.md)                 | 2015-2017 | $9,400                 | $0                  |
 | [Jesse Gabriel](../candidates/Jesse_Gabriel.md)               | 2017-2019 | $6,700                 | $0                  |
 | [Henry Stern](../candidates/Henry_Stern.md)                   | 2015-2017 | $5,200                 | $0                  |
 | [Tim Grayson](../candidates/Tim_Grayson.md)                   | 2015-2017 | $5,200                 | $0                  |

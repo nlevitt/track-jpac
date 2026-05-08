@@ -13,6 +13,7 @@ Becker is also listed as a co-sponsor of Assembly Bill (AB) 1468. This bill has 
 
 ## Supported Candidates
 
-| Candidate                                 |   Years | Direct Contributions   | Behested Payments   |
-|-------------------------------------------|---------|------------------------|---------------------|
-| [Matt Haney](../candidates/Matt_Haney.md) |    2021 | $2,000                 | $0                  |
+| Candidate                                     |   Years | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------|---------|------------------------|---------------------|
+| [Matt Haney](../candidates/Matt_Haney.md)     |    2021 | $2,000                 | $0                  |
+| [Scott Wiener](../candidates/Scott_Wiener.md) |    2025 | $500                   | $0                  |
