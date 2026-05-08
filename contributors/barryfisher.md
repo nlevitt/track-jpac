@@ -42,8 +42,6 @@ Fisher and the broader family are cited in activist research (such as the **Mapp
 
 ## Supported Candidates
 
-| Candidate                                       | Years     | Direct Contributions   | Behested Payments   |
-|-------------------------------------------------|-----------|------------------------|---------------------|
-| [Ben Allen](../candidates/Ben_Allen.md)         | 2013-2025 | $2,800                 | $0                  |
-| [Al Muratsuchi](../candidates/Al_Muratsuchi.md) | 2011      | $350                   | $0                  |
-| [Jacqui Irwin](../candidates/Jacqui_Irwin.md)   | 2013-2021 | $200                   | $0                  |
+| Candidate                                       |   Years | Direct Contributions   | Behested Payments   |
+|-------------------------------------------------|---------|------------------------|---------------------|
+| [Al Muratsuchi](../candidates/Al_Muratsuchi.md) |    2011 | $350                   | $0                  |

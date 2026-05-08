@@ -19,9 +19,6 @@ Beyond corporate actions, Larry Ellison has also engaged in political influence 
 
 ## Supported Candidates
 
-| Candidate                                     | Years     | Direct Contributions   | Behested Payments   |
-|-----------------------------------------------|-----------|------------------------|---------------------|
-| [Josh Becker](../candidates/Josh_Becker.md)   | 2021-2025 | $4,000                 | $0                  |
-| [Jacqui Irwin](../candidates/Jacqui_Irwin.md) | 2019-2021 | $3,000                 | $0                  |
-| [Marc Berman](../candidates/Marc_Berman.md)   | 2017      | $2,000                 | $0                  |
-| [Buffy Wicks](../candidates/Buffy_Wicks.md)   | 2025      | $1,500                 | $0                  |
+| Candidate                                   | Years     | Direct Contributions   | Behested Payments   |
+|---------------------------------------------|-----------|------------------------|---------------------|
+| [Josh Becker](../candidates/Josh_Becker.md) | 2021-2025 | $4,000                 | $0                  |

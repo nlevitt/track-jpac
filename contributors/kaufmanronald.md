@@ -14,5 +14,4 @@ Beyond AIPAC, Kaufman has held leadership positions in various Jewish organizati
 | Candidate                                     | Years     | Direct Contributions   | Behested Payments   |
 |-----------------------------------------------|-----------|------------------------|---------------------|
 | [Scott Wiener](../candidates/Scott_Wiener.md) | 2019-2023 | $4,000                 | $0                  |
-| [Matt Haney](../candidates/Matt_Haney.md)     | 2021      | $3,000                 | $0                  |
 | [Josh Becker](../candidates/Josh_Becker.md)   | 2009-2019 | $1,300                 | $0                  |

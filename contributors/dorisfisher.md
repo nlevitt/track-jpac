@@ -45,33 +45,25 @@ Doris Fisher and the Doris & Donald Fisher Fund have a long history of supportin
 |-----------------------------------------------------------------------------|-----------|------------------------|---------------------|
 | [Scott Wiener](../candidates/Scott_Wiener.md)                               | 2015-2019 | $17,800                | $0                  |
 | [Anna Caballero](../candidates/Anna_Caballero.md)                           | 2015-2021 | $16,500                | $0                  |
-| [Ben Allen](../candidates/Ben_Allen.md)                                     | 2017-2019 | $15,000                | $0                  |
-| [Blanca Rubio](../candidates/Blanca_Rubio.md)                               | 2017-2021 | $12,100                | $0                  |
-| [Marc Berman](../candidates/Marc_Berman.md)                                 | 2017-2021 | $9,900                 | $0                  |
-| [Monique Limón](../candidates/Monique_Limón.md)                             | 2017-2021 | $9,700                 | $0                  |
 | [Henry Stern](../candidates/Henry_Stern.md)                                 | 2015-2017 | $9,600                 | $0                  |
 | [Robert Rivas](../candidates/Robert_Rivas.md)                               | 2017-2021 | $9,400                 | $0                  |
-| [Buffy Wicks](../candidates/Buffy_Wicks.md)                                 | 2017      | $8,800                 | $0                  |
 | [Josh Becker](../candidates/Josh_Becker.md)                                 | 2021      | $7,700                 | $0                  |
-| [Christopher Cabaldon](../candidates/Christopher_Cabaldon.md)               | 2007      | $7,200                 | $0                  |
 | [Megan Dahle](../candidates/Megan_Dahle.md)                                 | 2019      | $7,200                 | $0                  |
 | [Tim Grayson](../candidates/Tim_Grayson.md)                                 | 2017-2021 | $6,900                 | $0                  |
 | [Susan Rubio](../candidates/Susan_Rubio.md)                                 | 2019-2021 | $6,000                 | $0                  |
-| [Cottie Petrie-Norris](../candidates/Cottie_Petrie-Norris.md)               | 2019-2021 | $5,500                 | $0                  |
 | [Jesse Gabriel](../candidates/Jesse_Gabriel.md)                             | 2017-2021 | $5,500                 | $0                  |
-| [Sabrina Cervantes](../candidates/Sabrina_Cervantes.md)                     | 2019-2021 | $4,500                 | $0                  |
+| [Cottie Petrie-Norris](../candidates/Cottie_Petrie-Norris.md)               | 2019-2021 | $5,500                 | $0                  |
 | [Melissa Hurtado](../candidates/Melissa_Hurtado.md)                         | 2019-2021 | $4,500                 | $0                  |
-| [Jacqui Irwin](../candidates/Jacqui_Irwin.md)                               | 2017-2021 | $3,500                 | $0                  |
+| [John Laird](../candidates/John_Laird.md)                                   | 2021      | $3,000                 | $0                  |
 | [Lena Gonzalez](../candidates/Lena_Gonzalez.md)                             | 2021      | $3,000                 | $0                  |
 | [Dave Cortese](../candidates/Dave_Cortese.md)                               | 2021      | $3,000                 | $0                  |
 | [Cecilia Aguiar-Curry](../candidates/Cecilia_Aguiar-Curry.md)               | 2021      | $3,000                 | $0                  |
 | [Mike Gipson](../candidates/Mike_Gipson.md)                                 | 2019-2021 | $3,000                 | $0                  |
-| [John Laird](../candidates/John_Laird.md)                                   | 2021      | $3,000                 | $0                  |
 | [Joaquin Arambula](../candidates/Joaquin_Arambula.md)                       | 2017      | $2,000                 | $0                  |
-| [Laurie Davies](../candidates/Laurie_Davies.md)                             | 2021      | $1,500                 | $0                  |
-| [Suzette Martinez Valladares](../candidates/Suzette_Martinez_Valladares.md) | 2021      | $1,500                 | $0                  |
 | [Rosilicie Ochoa Bogh](../candidates/Rosilicie_Ochoa_Bogh.md)               | 2021      | $1,500                 | $0                  |
 | [Al Muratsuchi](../candidates/Al_Muratsuchi.md)                             | 2021      | $1,500                 | $0                  |
+| [Suzette Martinez Valladares](../candidates/Suzette_Martinez_Valladares.md) | 2021      | $1,500                 | $0                  |
+| [Laurie Davies](../candidates/Laurie_Davies.md)                             | 2021      | $1,500                 | $0                  |
 | [Sharon Quirk-Silva](../candidates/Sharon_Quirk-Silva.md)                   | 2021      | $1,500                 | $0                  |
 | [James Ramos](../candidates/James_Ramos.md)                                 | 2019      | $1,500                 | $0                  |
 | [Mike McGuire](../candidates/Mike_McGuire.md)                               | 2017      | $1,000                 | $0                  |

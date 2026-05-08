@@ -36,14 +36,10 @@ Sakurako Fisher and her husband are prolific donors to the **Republican Party** 
 |---------------------------------------------------------------|-----------|------------------------|---------------------|
 | [Anna Caballero](../candidates/Anna_Caballero.md)             | 2015-2017 | $12,800                | $0                  |
 | [Scott Wiener](../candidates/Scott_Wiener.md)                 | 2015-2017 | $9,400                 | $0                  |
-| [Ben Allen](../candidates/Ben_Allen.md)                       | 2013-2017 | $9,200                 | $0                  |
 | [Jesse Gabriel](../candidates/Jesse_Gabriel.md)               | 2017-2019 | $6,700                 | $0                  |
-| [Buffy Wicks](../candidates/Buffy_Wicks.md)                   | 2017-2019 | $6,400                 | $0                  |
 | [Henry Stern](../candidates/Henry_Stern.md)                   | 2015-2017 | $5,200                 | $0                  |
 | [Tim Grayson](../candidates/Tim_Grayson.md)                   | 2015-2017 | $5,200                 | $0                  |
-| [Marc Berman](../candidates/Marc_Berman.md)                   | 2015-2017 | $5,200                 | $0                  |
 | [Robert Rivas](../candidates/Robert_Rivas.md)                 | 2017-2019 | $4,000                 | $0                  |
 | [Josh Becker](../candidates/Josh_Becker.md)                   | 2019      | $2,500                 | $0                  |
 | [Cottie Petrie-Norris](../candidates/Cottie_Petrie-Norris.md) | 2019      | $2,000                 | $0                  |
 | [Rebecca Bauer-Kahan](../candidates/Rebecca_Bauer-Kahan.md)   | 2019      | $1,000                 | $0                  |
-| [Jacqui Irwin](../candidates/Jacqui_Irwin.md)                 | 2017      | $500                   | $0                  |

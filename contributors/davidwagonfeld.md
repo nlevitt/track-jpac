@@ -18,4 +18,3 @@ His past and present affiliations with Jewish Federations also demonstrate a con
 | Candidate                                   | Years     | Direct Contributions   | Behested Payments   |
 |---------------------------------------------|-----------|------------------------|---------------------|
 | [Josh Becker](../candidates/Josh_Becker.md) | 2019-2025 | $5,500                 | $0                  |
-| [Buffy Wicks](../candidates/Buffy_Wicks.md) | 2017      | $300                   | $0                  |

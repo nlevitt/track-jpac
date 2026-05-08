@@ -21,5 +21,6 @@ Allen's personal background also indicates connections to Jewish community organ
 | [Jerry McNerney](../candidates/Jerry_McNerney.md)             |    2023 | $4,000                 | $0                  |
 | [Matt Haney](../candidates/Matt_Haney.md)                     |    2021 | $3,500                 | $0                  |
 | [Henry Stern](../candidates/Henry_Stern.md)                   |    2013 | $2,000                 | $0                  |
+| [Dawn Addis](../candidates/Dawn_Addis.md)                     |    2021 | $2,000                 | $0                  |
 | [John Harabedian](../candidates/John_Harabedian.md)           |    2023 | $2,000                 | $0                  |
 | [Marc Berman](../candidates/Marc_Berman.md)                   |    2015 | $500                   | $0                  |

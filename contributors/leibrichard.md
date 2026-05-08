@@ -40,16 +40,12 @@ Leib’s relationship with Zionist and pro-Israel causes extends to his philanth
 | [Robert Rivas](../candidates/Robert_Rivas.md)                 | 2021-2023 | $2,395                 | $0                  |
 | [Mike McGuire](../candidates/Mike_McGuire.md)                 | 2021-2023 | $1,900                 | $0                  |
 | [Jesse Gabriel](../candidates/Jesse_Gabriel.md)               | 2023-2025 | $1,500                 | $0                  |
-| [Christopher Cabaldon](../candidates/Christopher_Cabaldon.md) | 2001-2023 | $1,500                 | $0                  |
-| [Buffy Wicks](../candidates/Buffy_Wicks.md)                   | 2021-2023 | $1,000                 | $0                  |
-| [Jacqui Irwin](../candidates/Jacqui_Irwin.md)                 | 2023-2025 | $1,000                 | $0                  |
 | [Jesse Arreguín](../candidates/Jesse_Arreguín.md)             | 2023      | $1,000                 | $0                  |
-| [Monique Limón](../candidates/Monique_Limón.md)               | 2021      | $835                   | $0                  |
 | [Al Muratsuchi](../candidates/Al_Muratsuchi.md)               | 2023      | $550                   | $0                  |
 | [Anna Caballero](../candidates/Anna_Caballero.md)             | 2023      | $500                   | $0                  |
+| [Diane Papan](../candidates/Diane_Papan.md)                   | 2021      | $500                   | $0                  |
 | [Isaac Bryan](../candidates/Isaac_Bryan.md)                   | 2023      | $500                   | $0                  |
 | [Lori Wilson](../candidates/Lori_Wilson.md)                   | 2023      | $500                   | $0                  |
-| [Diane Papan](../candidates/Diane_Papan.md)                   | 2021      | $500                   | $0                  |
 | [Jessica Caloza](../candidates/Jessica_Caloza.md)             | 2023      | $250                   | $0                  |
 | [Sasha Renée Pérez](../candidates/Sasha_Renée_Pérez.md)       | 2023      | $250                   | $0                  |
 | [Bob Archuleta](../candidates/Bob_Archuleta.md)               | 2017      | $0                     | $0                  |

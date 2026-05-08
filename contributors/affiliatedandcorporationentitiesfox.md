@@ -1,0 +1,22 @@
+# Contributor Report: Fox Corporation and Affiliated Entities
+
+*Let us know if you spot an inaccuracy: trackjpac@gmail.com*
+
+Fox Corporation and its affiliated entities, a prominent media conglomerate, have a documented history of engagement in pro-Israel advocacy and connections to organizations within the broader pro-Israel lobby. This involvement manifests through the personal stances and actions of its leadership, financial contributions, and the editorial direction of its news outlets. Fox Corporation also engages in political activity and lobbying in California.
+
+Rupert Murdoch, the influential media baron who previously led News Corp (the predecessor to Fox Corporation), has publicly articulated strong pro-Israel views. He has opposed the Boycott, Divestment, and Sanctions (BDS) movement, characterizing it as an "ongoing war against the Jews" aimed at "delegitimizing" Israel. Murdoch's media empire has been described as a "reflection of his thinking, his character, and his values," and he has been recognized by organizations such as the Anti-Defamation League (ADL) with their International Leadership Award for his support of Israel. In 2007, his News Corp business donated to the Jerusalem Foundation, an organization involved in building Israeli settlements in the West Bank. He was also on the executive committee of Britain's largest Israel lobby group, BICOM, and has funded Labour Friends of Israel.
+
+Fox Corporation itself has made financial contributions in support of Israel. Following the October 7th, 2023, Hamas attack on Israel, Fox Corporation announced a $1 million donation to the UJA-Federation of New York's Israel Emergency Fund, which provides support for medical care and other resources for Israeli soldiers and civilians. Fox News also facilitated fundraising for this fund across its platforms. Additionally, Fox has provided free airtime for public service announcements from the Foundation to Combat Anti-Semitism, a non-profit run by Robert Kraft, who is a known donor to the American Israel Public Affairs Committee (AIPAC).
+
+The editorial stance and coverage of Fox News Channel, a subsidiary of Fox Corporation, have been noted for their strong pro-Israel bias. Commentators and reports have described Fox's coverage as "wrapped in the Israeli flag" and a "refuge" for some Jewish Americans who perceive bias against Israel in other media outlets. Investigations have also highlighted the presence of individuals with previous ties to pro-Israel lobbying groups, such as the Committee for Accuracy in Middle East Reporting (CAMERA) and AIPAC, in key positions within Fox News newsrooms. For instance, Rachel Wolf, before becoming a journalist, worked for CAMERA, a group focused on minimizing criticism of Israel. Nicole Cooper, who previously worked for AIPAC, later became an executive assistant to the Fox News network President.
+
+As a political donor, Fox Corporation engages in lobbying activities at federal, state, and local levels, including in California. Fox Corporation's Political Action Committee (FOXPAC) solicits funds from employees (excluding those in news-gathering functions) to make political contributions to candidates aligned with the company's policy priorities. While the publicly available political activities reports for 2021-2025 detail federal and state lobbying expenditures, including in California, they do not specifically itemize direct lobbying efforts or donations *within California* aimed explicitly at pro-Israel advocacy. However, the company's broader corporate actions and the documented pro-Israel advocacy of its leadership and news division contribute to an understanding of its overall political leanings and influence. The 2024 political activities report mentions in-kind support through public service announcements and editorial coverage for non-profit organizations, including "Stand Up to Jewish Hate".
+
+
+## Supported Candidates
+
+| Candidate                                     |   Years | Direct Contributions   | Behested Payments   |
+|-----------------------------------------------|---------|------------------------|---------------------|
+| [Blanca Rubio](../candidates/Blanca_Rubio.md) |    2023 | $5,000                 | $0                  |
+| [Rick Zbur](../candidates/Rick_Zbur.md)       |    2021 | $4,500                 | $0                  |
+| [Ben Allen](../candidates/Ben_Allen.md)       |    2023 | $2,000                 | $0                  |
